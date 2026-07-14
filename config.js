@@ -22,11 +22,11 @@ window.CATALYST_CONFIG = {
   },
 
   // ---- Socials (icons appear in the nav & footer). Delete any you don't use. -
+  // Only entries with a non-empty URL are shown.
   socials: {
     x: '', // e.g. 'https://x.com/yourhandle'
     telegram: '', // e.g. 'https://t.me/yourgroup'
     dexscreener: '', // e.g. 'https://dexscreener.com/solana/...'
-    github: 'https://github.com/cryko98/catalyst',
   },
 
   // ---- Live feed source -----------------------------------------------------
