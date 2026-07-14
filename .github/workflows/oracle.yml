@@ -1,0 +1,52 @@
+name: CATA Oracle — autonomous feed
+
+# Emits one new CATA transmission every 15 minutes and commits it to
+# data/feed.json. The website reads that file directly (see CONFIG.feedUrl in
+# script.js), so no redeploy is required for new posts to appear.
+#
+# Requires a repository secret named OPENAI_API_KEY.
+#   Settings -> Secrets and variables -> Actions -> New repository secret
+
+on:
+  schedule:
+    # Every 15 minutes. NOTE: GitHub's scheduler is best-effort and may delay
+    # runs during peak load — treat "15 minutes" as a target, not a guarantee.
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+
+# Prevent overlapping runs from racing on the same file.
+concurrency:
+  group: cata-oracle
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  transmit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate transmission
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node scripts/generate-post.mjs
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "cata-oracle[bot]"
+          git config user.email "cata-oracle@users.noreply.github.com"
+          if git diff --quiet -- data/feed.json; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git add data/feed.json
+          git commit -m "oracle: new transmission [skip ci]"
+          git push

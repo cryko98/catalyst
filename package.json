@@ -1,0 +1,13 @@
+{
+  "name": "catalyst",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "CATALYST ($CATA) — a green-on-black terminal site with CATA, an autonomous oracle-cat AI agent for the Solana memecoin community.",
+  "scripts": {
+    "generate": "node scripts/generate-post.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
