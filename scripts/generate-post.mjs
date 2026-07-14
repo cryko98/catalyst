@@ -17,6 +17,13 @@ const MODEL = 'gpt-4o-mini';
 const MAX_ENTRIES = 200; // keep the feed file from growing without bound
 const MAX_OUTPUT_TOKENS = 160;
 
+// Self-regulating cadence: the workflow is scheduled to *attempt* a run often
+// (every 5 min) so GitHub's unreliable scheduler still lands something inside
+// any ~30-min window. This cooldown makes sure we only actually post about once
+// every ~15 min, so bursts of runs don't spam the feed. A manual run
+// (FORCE_POST=true) bypasses the cooldown.
+const MIN_INTERVAL_MINUTES = 13;
+
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const FEED_PATH = join(__dirname, '..', 'data', 'feed.json');
 
@@ -53,6 +60,23 @@ async function main() {
   }
 
   const feed = await loadFeed();
+
+  // Cooldown gate — skip (cheaply, before calling OpenAI) if the last
+  // transmission is too recent, unless this is a forced/manual run.
+  const force = /^(true|1|yes)$/i.test(process.env.FORCE_POST || '');
+  const lastTs = feed[0]?.ts ? Date.parse(feed[0].ts) : NaN;
+  if (!force && !Number.isNaN(lastTs)) {
+    const minsSinceLast = (Date.now() - lastTs) / 60000;
+    if (minsSinceLast < MIN_INTERVAL_MINUTES) {
+      console.log(
+        `Cooldown: last transmission ${minsSinceLast.toFixed(
+          1
+        )} min ago (< ${MIN_INTERVAL_MINUTES}). Skipping.`
+      );
+      return;
+    }
+  }
+
   const seed = pickSeed(feed);
 
   const res = await fetch('https://api.openai.com/v1/chat/completions', {

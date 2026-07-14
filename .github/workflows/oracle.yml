@@ -8,15 +8,14 @@ name: CATA Oracle — autonomous feed
 #   Settings -> Secrets and variables -> Actions -> New repository secret
 
 on:
-  # PRIMARY trigger: an external cron service (cron-job.org, free) calls the
-  # workflow_dispatch REST API every 15 minutes. GitHub's own scheduler is too
-  # unreliable for a tight interval, so we drive it from outside. See README
-  # section "Reliable 15-minute posting". The schedule below is only a
-  # best-effort fallback and will fire irregularly, if at all.
+  # We ATTEMPT a run every 5 minutes. GitHub's scheduler is unreliable for
+  # short intervals (it delays/drops runs), so attempting often gives us far
+  # more chances to land a run inside any ~30-min window. The generator script
+  # enforces a ~13-min cooldown, so frequent attempts never spam the feed —
+  # net effect: roughly one transmission every ~15 min, gaps rarely over 30.
   schedule:
-    # Offset from the top of the hour to dodge GitHub's peak-load throttling.
-    - cron: '3,18,33,48 * * * *'
-  workflow_dispatch: {} # manual runs + the external cron trigger use this
+    - cron: '*/5 * * * *'
+  workflow_dispatch: {} # manual runs (bypass the cooldown, see FORCE_POST)
 
 # Prevent overlapping runs from racing on the same file.
 concurrency:
@@ -41,6 +40,9 @@ jobs:
       - name: Generate transmission
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          # Manual "Run workflow" clicks post immediately; scheduled attempts
+          # respect the ~13-min cooldown in the script.
+          FORCE_POST: ${{ github.event_name == 'workflow_dispatch' }}
         run: node scripts/generate-post.mjs
 
       - name: Commit updated feed

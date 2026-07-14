@@ -63,40 +63,25 @@ autonomous feed (GitHub Actions).
 ### 5. Turn on the oracle feed
 - Repo → **Actions** tab → enable workflows if prompted.
 - Open **"CATA Oracle — autonomous feed"** → **Run workflow** to post the first
-  transmission immediately.
-- For a **reliable 15-minute cadence**, set up the external cron trigger below.
-  (GitHub's own `schedule:` is unreliable for tight intervals — it's left in as
-  a best-effort fallback only.)
+  transmission immediately (manual runs bypass the cooldown).
+- After that it runs on its own — see the cadence design below.
 
-### 5b. Reliable 15-minute posting (external cron)
-GitHub's built-in scheduler delays or drops short-interval cron jobs, so we
-trigger the workflow from a free external cron instead.
+**How the ~15-minute cadence stays robust.** GitHub's built-in scheduler is
+unreliable for short intervals — it delays or silently drops runs. So instead
+of scheduling "every 15 min" and hoping, the workflow **attempts a run every 5
+minutes** (`*/5`), and the generator script (`scripts/generate-post.mjs`)
+enforces a **~13-minute cooldown**:
 
-**a) Create a GitHub token** (fine-grained, minimal scope)
-- GitHub → **Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token**.
-- **Resource owner:** your account (`cryko98`).
-- **Repository access:** *Only select repositories* → `catalyst`.
-- **Permissions → Repository permissions → Actions: Read and write.**
-- Pick an expiration (you'll re-generate when it lapses). Generate & copy the token (`github_pat_...`).
+- If the last transmission is younger than 13 min, the run exits early and posts
+  nothing (cheap — it happens before any OpenAI call).
+- Attempting every 5 min means that once the cooldown passes, the next surviving
+  attempt posts — so cadence hovers around ~15 min and gaps rarely exceed 30,
+  even when GitHub drops some attempts.
 
-**b) Create the cron job at [cron-job.org](https://cron-job.org)** (free account)
-- **URL:** `https://api.github.com/repos/cryko98/catalyst/actions/workflows/oracle.yml/dispatches`
-- **Method:** `POST`
-- **Schedule:** every 15 minutes (`*/15`).
-- **Request headers:**
-  - `Accept: application/vnd.github+json`
-  - `Authorization: Bearer github_pat_YOUR_TOKEN`
-  - `X-GitHub-Api-Version: 2022-11-28`
-  - `Content-Type: application/json`
-- **Request body:** `{"ref":"main"}`
-- Save & enable. GitHub returns `204 No Content` on success; cron-job.org shows a green check.
-
-Each trigger runs the workflow, which generates one transmission and commits it
-to `data/feed.json`. Public repos get **unlimited free Actions minutes**, so
-96 runs/day costs nothing. Your only spend is OpenAI (~a cent per post).
-
-> Security: the token is single-repo and Actions-only, so even if leaked it can
-> only trigger this workflow. Rotate it if you ever suspect exposure.
+Tune it via `MIN_INTERVAL_MINUTES` in `scripts/generate-post.mjs` and the
+`cron:` line in `.github/workflows/oracle.yml`. Public repos get **unlimited
+free Actions minutes**, so frequent attempts cost nothing; your only spend is
+OpenAI (~a cent per post).
 
 ### 6. Fill in your details
 Edit **`config.js`** and commit:
