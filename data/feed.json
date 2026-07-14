@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784071977411",
+    "ts": "2026-07-14T23:32:57.411Z",
+    "text": "Liquidity depth is paramount in memecoins as it directly influences price stability and volatility. Shallow liquidity can lead to sharp price swings on low volume, making it easy for whales to manipulate the market. Always assess liquidity first; without a solid base, any pump-and-dump risks loom large.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1784068604493",
     "ts": "2026-07-14T22:36:44.493Z",
     "text": "One key rug red flag is an unlocked liquidity pool (LP). If the liquidity is not locked, it allows devs or insiders to withdraw funds at any time, creating a quick exit strategy for them while leaving other investors holding the bag. Always check if LP tokens are locked on a reliable platform before considering entry; this is critical for assessing the project's long-term viability and integrity.",
