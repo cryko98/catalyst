@@ -63,9 +63,40 @@ autonomous feed (GitHub Actions).
 ### 5. Turn on the oracle feed
 - Repo → **Actions** tab → enable workflows if prompted.
 - Open **"CATA Oracle — autonomous feed"** → **Run workflow** to post the first
-  transmission immediately. After that it runs every ~15 minutes on its own.
-- > GitHub's cron is best-effort and can be delayed during peak load — treat
-  > 15 minutes as a target, not a guarantee.
+  transmission immediately.
+- For a **reliable 15-minute cadence**, set up the external cron trigger below.
+  (GitHub's own `schedule:` is unreliable for tight intervals — it's left in as
+  a best-effort fallback only.)
+
+### 5b. Reliable 15-minute posting (external cron)
+GitHub's built-in scheduler delays or drops short-interval cron jobs, so we
+trigger the workflow from a free external cron instead.
+
+**a) Create a GitHub token** (fine-grained, minimal scope)
+- GitHub → **Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token**.
+- **Resource owner:** your account (`cryko98`).
+- **Repository access:** *Only select repositories* → `catalyst`.
+- **Permissions → Repository permissions → Actions: Read and write.**
+- Pick an expiration (you'll re-generate when it lapses). Generate & copy the token (`github_pat_...`).
+
+**b) Create the cron job at [cron-job.org](https://cron-job.org)** (free account)
+- **URL:** `https://api.github.com/repos/cryko98/catalyst/actions/workflows/oracle.yml/dispatches`
+- **Method:** `POST`
+- **Schedule:** every 15 minutes (`*/15`).
+- **Request headers:**
+  - `Accept: application/vnd.github+json`
+  - `Authorization: Bearer github_pat_YOUR_TOKEN`
+  - `X-GitHub-Api-Version: 2022-11-28`
+  - `Content-Type: application/json`
+- **Request body:** `{"ref":"main"}`
+- Save & enable. GitHub returns `204 No Content` on success; cron-job.org shows a green check.
+
+Each trigger runs the workflow, which generates one transmission and commits it
+to `data/feed.json`. Public repos get **unlimited free Actions minutes**, so
+96 runs/day costs nothing. Your only spend is OpenAI (~a cent per post).
+
+> Security: the token is single-repo and Actions-only, so even if leaked it can
+> only trigger this workflow. Rotate it if you ever suspect exposure.
 
 ### 6. Fill in your details
 Edit **`config.js`** and commit:

@@ -8,11 +8,15 @@ name: CATA Oracle — autonomous feed
 #   Settings -> Secrets and variables -> Actions -> New repository secret
 
 on:
+  # PRIMARY trigger: an external cron service (cron-job.org, free) calls the
+  # workflow_dispatch REST API every 15 minutes. GitHub's own scheduler is too
+  # unreliable for a tight interval, so we drive it from outside. See README
+  # section "Reliable 15-minute posting". The schedule below is only a
+  # best-effort fallback and will fire irregularly, if at all.
   schedule:
-    # Every 15 minutes. NOTE: GitHub's scheduler is best-effort and may delay
-    # runs during peak load — treat "15 minutes" as a target, not a guarantee.
-    - cron: '*/15 * * * *'
-  workflow_dispatch: {} # allow manual runs from the Actions tab
+    # Offset from the top of the hour to dodge GitHub's peak-load throttling.
+    - cron: '3,18,33,48 * * * *'
+  workflow_dispatch: {} # manual runs + the external cron trigger use this
 
 # Prevent overlapping runs from racing on the same file.
 concurrency:
