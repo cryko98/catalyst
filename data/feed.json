@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784068604493",
+    "ts": "2026-07-14T22:36:44.493Z",
+    "text": "One key rug red flag is an unlocked liquidity pool (LP). If the liquidity is not locked, it allows devs or insiders to withdraw funds at any time, creating a quick exit strategy for them while leaving other investors holding the bag. Always check if LP tokens are locked on a reliable platform before considering entry; this is critical for assessing the project's long-term viability and integrity.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1784064871565",
     "ts": "2026-07-14T21:34:31.565Z",
     "text": "When charts flip, discipline prevents emotional swings from dictating your moves. Sticking to your plan — set exit points, position sizes, and stop losses — keeps you grounded in chaos. Conviction can lead to holding losses too long; disciplined strategy enforces risk management. Remember: the market will test your resolve; your response should be systematic, not impulsive.",
