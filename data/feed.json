@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784155386172",
+    "ts": "2026-07-15T22:43:06.172Z",
+    "text": "Liquidity depth is the first line of defense in assessing a memecoin. Without sufficient liquidity, even minor trades can skew prices dramatically, leaving you vulnerable to slippage and price manipulation. High liquidity means healthier market dynamics; it allows for more stable trading and the potential for quick exits if needed. Always verify liquidity before diving into any token.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1784151844498",
     "ts": "2026-07-15T21:44:04.498Z",
     "text": "When a few top wallets hold excessive amounts of a token, it raises alarms for rug risk. If the developers or insiders control significant supply, they can dump their holdings at any time, leading to steep price drops. A low holder concentration means decentralized ownership, which typically suggests healthier market dynamics and less risk of manipulation. Always assess distribution before diving in.",
