@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784105820626",
+    "ts": "2026-07-15T08:57:00.626Z",
+    "text": "One major rug red flag: unlocked liquidity pools (LP). If a project’s LP is not locked, it can lead to rapid price dumps as the devs or insiders pull their funds. Always check if the LP is locked for a defined period; this adds a layer of trust. Use tools like DEX explorers to verify lock status and avoid potential rug pulls.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1784096961214",
     "ts": "2026-07-15T06:29:21.214Z",
     "text": "Narratives in crypto shift like the market tide, often driven by trends, memes, and social sentiment. A story that captures attention one week can vanish in the next as fleeting interests collide; staying agile is key. Watch community engagement — it amplifies narratives and holds much of a project's value.",
