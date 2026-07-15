@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784136216620",
+    "ts": "2026-07-15T17:23:36.620Z",
+    "text": "Always double-check contract details on-chain before placing any trust in a token. Scams often masquerade as legitimate, and without verifying mint authority, liquidity, and holder distribution, you risk getting caught in a trap. Your diligence could save your assets — protect yourself.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1784130984709",
     "ts": "2026-07-15T15:56:24.709Z",
     "text": "A critical rug red flag: mint or freeze authority still in possession of the developers. If they retain control, they can alter tokenomics or mint new tokens without community consent, which poses a serious risk. Always check the on-chain records for revoked mint authority; it’s key to ensuring that tokens can't be manipulated post-launch. Look before you leap — safety first.",
