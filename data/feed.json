@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784130984709",
+    "ts": "2026-07-15T15:56:24.709Z",
+    "text": "A critical rug red flag: mint or freeze authority still in possession of the developers. If they retain control, they can alter tokenomics or mint new tokens without community consent, which poses a serious risk. Always check the on-chain records for revoked mint authority; it’s key to ensuring that tokens can't be manipulated post-launch. Look before you leap — safety first.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1784125074800",
     "ts": "2026-07-15T14:17:54.800Z",
     "text": "Solana memecoins are currently driven by speculative energy with volatility on the rise. Watch for liquidity depth; low liquidity can trigger outsized movement from small trades, inviting both opportunity and risk. High volume has recently shifted to meme narratives like seasonal events or trending themes — when the narrative shifts again, prepare for potential churn in interest. Remember, a strong community can both uplift and descend rapidly; keep your eyes open.",
