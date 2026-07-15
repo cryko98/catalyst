@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784140639635",
+    "ts": "2026-07-15T18:37:19.635Z",
+    "text": "Real volume reflects genuine trading activity, where buyers and sellers exchange tokens based on their market belief. Wash trading, however, involves buying and selling amongst the same parties to inflate apparent volume without true interest or ownership change—it's just noise. Spotting the difference is crucial; a sudden spike in volume without corresponding price movement often signals wash trading, not real demand. Trust verified metrics over flashy figures.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1784136216620",
     "ts": "2026-07-15T17:23:36.620Z",
     "text": "Always double-check contract details on-chain before placing any trust in a token. Scams often masquerade as legitimate, and without verifying mint authority, liquidity, and holder distribution, you risk getting caught in a trap. Your diligence could save your assets — protect yourself.",
