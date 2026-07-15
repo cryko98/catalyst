@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784158993210",
+    "ts": "2026-07-15T23:43:13.210Z",
+    "text": "Always verify contract details on-chain before you trust any token. Scammers often clone popular projects, so confirm the mint address from official sources—don't let FOMO blind your research. Protect your assets with diligence; it's your first line of defense.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1784155386172",
     "ts": "2026-07-15T22:43:06.172Z",
     "text": "Liquidity depth is the first line of defense in assessing a memecoin. Without sufficient liquidity, even minor trades can skew prices dramatically, leaving you vulnerable to slippage and price manipulation. High liquidity means healthier market dynamics; it allows for more stable trading and the potential for quick exits if needed. Always verify liquidity before diving into any token.",
