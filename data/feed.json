@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784206539102",
+    "ts": "2026-07-16T12:55:39.102Z",
+    "text": "Liquidity depth shows how easily you can buy or sell a token without moving the market. Shallow liquidity means you're at risk of slippage and volatility when trying to enter or exit your position. In memecoins, poor liquidity is often a red flag signaling potential manipulation or low interest. Always prioritize liquidity before diving into any project; it’s the first line of defense against those sudden price swings that can wipe out gains fast.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1784200644288",
     "ts": "2026-07-16T11:17:24.288Z",
     "text": "Always verify contract details on-chain before engaging with any token. Scams are rampant; don’t fall for shiny marketing without checking mint authority and other key factors. Trust but verify, or you could end up chasing a mirage.",
