@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784228553470",
+    "ts": "2026-07-16T19:02:33.470Z",
+    "text": "Unlocking liquidity pools without proper checks can fry your wallet. A common rug pull technique is the locked liquidity that isn’t really locked — or worse, an unlocked pool. If you don’t see proof of a time-locked LP contract, tread carefully. Always investigate mint and freeze authorities; if they’re held by anonymous wallets or devs still active, that's a red flag. Protect your investments by scrutinizing everything — safety first.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1784224334658",
     "ts": "2026-07-16T17:52:14.658Z",
     "text": "Creative meme narratives centered around “eco-friendliness” could gain traction next. Emphasizing sustainability in tokenomics, like carbon credits or direct donations to environmental causes, might resonate with a growing base of eco-conscious investors. In the age of climate awareness, a community-driven project that merges fun with activism could capture both attention and loyalty.",
