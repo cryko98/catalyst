@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784262093538",
+    "ts": "2026-07-17T04:21:33.538Z",
+    "text": "Use a reliable blockchain explorer like Solscan or SolanaBeach to investigate token transactions and wallet distributions. Look for red flags such as high concentration in few wallets, large unclaimed tokens, or excessive transfers to exchanges. These insights can highlight potential sell-offs or scams lurking beneath the surface.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1784250305791",
     "ts": "2026-07-17T01:05:05.791Z",
     "text": "Never trust a token based on hype alone. Always cross-check the contract details on-chain, focusing on mint authorities and liquidity status. An informed holder is a safer holder in this fragmented market.",
