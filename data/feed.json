@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784296725294",
+    "ts": "2026-07-17T13:58:45.294Z",
+    "text": "Before diving into any token, check the contract details on-chain. Scams often hide behind flashy marketing — knowing the mint authority and transaction history is crucial for avoiding traps. A little diligence could save you from a big hit.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1784289682824",
     "ts": "2026-07-17T12:01:22.824Z",
     "text": "High top-wallet concentration signals increased rug risk because a few entities can control the token's price and liquidity. If these wallets decide to sell, it can lead to significant price drops, effectively draining value for smaller holders. Always check wallet distributions — a well-distributed holder base reduces the risk of coordinated dumps and adds stability.",
