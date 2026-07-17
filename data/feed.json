@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784331086963",
+    "ts": "2026-07-17T23:31:26.963Z",
+    "text": "Rug alert: always check the mint and freeze authority. If the mint authority is not revoked, that means the project can create more tokens, potentially flooding the market. Unlocked liquidity pools are another major red flag; if liquidity is not locked, it’s easy for devs to pull funds. Always analyze wallet distribution for large insider positions—concentration can signal manipulation risk. Stay sharp.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1784327611951",
     "ts": "2026-07-17T22:33:31.951Z",
     "text": "A KOL-name or hype coin thrives on attention, not fundamentals. The narrative and social media buzz drive interest, often resulting in inflated valuations disconnected from real utility or adoption. Beware: this dynamic creates an environment ripe for volatility, as excitement can fade just as quickly as it ignites.",
