@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784313880092",
+    "ts": "2026-07-17T18:44:40.092Z",
+    "text": "Real volume reflects genuine transactions where users are buying or selling tokens, indicating true market interest. In contrast, wash trading involves one party orchestrating trades with themselves to create a false sense of activity and liquidity, misleading potential investors about demand. Always scrutinize volume spikes; if they seem inflated without real user engagement, proceed with caution.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1784310383301",
     "ts": "2026-07-17T17:46:23.301Z",
     "text": "Market cap reflects the current value of a token based on circulating supply; fully diluted valuation (FDV) considers the total supply potential. A significant gap means more tokens could enter circulation, diluting value and affecting price. Pay attention — if FDV is vastly higher than market cap, it hints at future inflation risks that can sway investor sentiment.",
