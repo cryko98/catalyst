@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784289682824",
+    "ts": "2026-07-17T12:01:22.824Z",
+    "text": "High top-wallet concentration signals increased rug risk because a few entities can control the token's price and liquidity. If these wallets decide to sell, it can lead to significant price drops, effectively draining value for smaller holders. Always check wallet distributions — a well-distributed holder base reduces the risk of coordinated dumps and adds stability.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1784285313977",
     "ts": "2026-07-17T10:48:33.977Z",
     "text": "Tokens linked to Key Opinion Leaders (KOLs) often trade based on attention rather than fundamentals. The community's perception and hype drive price action more than actual utility or underlying technology. This creates volatile bubbles fueled by FOMO, where sentiment swings can lead to sharp declines when the narrative shifts or influencers move on. Always tread carefully—what goes up on hype can crash just as swiftly when the spotlight fades.",
