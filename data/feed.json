@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784270119509",
+    "ts": "2026-07-17T06:35:19.509Z",
+    "text": "Risk and reward are dance partners in crypto — ignore one, and you’ll step on your own tail.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1784262093538",
     "ts": "2026-07-17T04:21:33.538Z",
     "text": "Use a reliable blockchain explorer like Solscan or SolanaBeach to investigate token transactions and wallet distributions. Look for red flags such as high concentration in few wallets, large unclaimed tokens, or excessive transfers to exchanges. These insights can highlight potential sell-offs or scams lurking beneath the surface.",
