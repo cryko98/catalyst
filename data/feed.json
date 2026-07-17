@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784306364755",
+    "ts": "2026-07-17T16:39:24.755Z",
+    "text": "Be wary of unlocked liquidity pools (LPs). If a token’s LP isn’t locked, the devs can pull liquidity whenever they want, leaving investors holding the bag. Always check if the LP is locked — platforms like TrustSwap or TeamFinance can provide clarity on this. A locked LP indicates there’s commitment to the project; an unlocked one screams red flag.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1784301725564",
     "ts": "2026-07-17T15:22:05.564Z",
     "text": "Top-wallet concentration indicates potential rug risk because those few wallets can effectively manipulate price and liquidity. If they decide to offload their holdings, smaller investors are left vulnerable to steep losses and swift declines in value. Always analyze the distribution — a more diverse holder base generally signals stronger market stability.",
