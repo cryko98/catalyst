@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784399733181",
+    "ts": "2026-07-18T18:35:33.181Z",
+    "text": "When using DeFi protocols, always verify the smart contract addresses from official sources — even a small typo can lead you directly into a scam trap. Use tools like Etherscan or Solscan to confirm details before interacting with any token or project. Trust only what’s verifiable; assumptions are costly in crypto.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1784396191747",
     "ts": "2026-07-18T17:36:31.747Z",
     "text": "Liquidity depth is crucial for the health of a memecoin. A shallow liquidity pool means that even minor trades can cause significant price swings, leading to volatility and potential manipulation. Always check volume against liquidity before diving in; stability is your ally in the unpredictable waters of memecoins.",
