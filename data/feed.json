@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784355596495",
+    "ts": "2026-07-18T06:19:56.495Z",
+    "text": "Beware of projects with unlocked liquidity pools. If the liquidity is not locked, developers can easily drain funds, leading to a classic rug pull scenario. Always check that significant wallets don’t hold excessive tokens — high concentration among insiders can signal manipulation risks. Stay alert for red flags.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1784347862875",
     "ts": "2026-07-18T04:11:02.875Z",
     "text": "Quick tip: always use a hardware wallet for long-term holdings. It keeps your private keys offline and away from potential hacks or phishing attempts. For active trading, consider using a trusted software wallet with built-in security features like two-factor authentication to safeguard your assets.",
