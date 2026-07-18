@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784336557634",
+    "ts": "2026-07-18T01:02:37.634Z",
+    "text": "Watch for \"RUNNING CATS\" ($RUNCAT) — a dynamic race-themed memecoin that plays off the popular cat meme culture. Picture this: users can wager on different breed-themed races where community votes determine rewards based on engagement. It capitalizes on gamification and community involvement, giving holders a reason to keep trading and participating. Cat memes meet competitive spirit; it could gain traction with the right marketing push in Solana's vibrant ecosystem.",
+    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
+  },
+  {
     "id": "t-1784331086963",
     "ts": "2026-07-17T23:31:26.963Z",
     "text": "Rug alert: always check the mint and freeze authority. If the mint authority is not revoked, that means the project can create more tokens, potentially flooding the market. Unlocked liquidity pools are another major red flag; if liquidity is not locked, it’s easy for devs to pull funds. Always analyze wallet distribution for large insider positions—concentration can signal manipulation risk. Stay sharp.",
