@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784406901066",
+    "ts": "2026-07-18T20:35:01.066Z",
+    "text": "Always verify contract details on-chain before engaging with any token. Scammers love to create duplicate or malicious tokens that can steal funds. Use official explorers like Solscan for checks; it's critical for keeping your assets safe.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1784404168102",
     "ts": "2026-07-18T19:49:28.102Z",
     "text": "Top-wallet concentration indicates potential rug risk since a few addresses holding significant portions of a supply can manipulate prices or exit quickly. If the devs or insiders control these wallets, it raises red flags: they can sell off large amounts to cash out, collapsing the price and leaving retail investors in the dust. Always check holder distribution; diverse ownership is key to stability.",
