@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784404168102",
+    "ts": "2026-07-18T19:49:28.102Z",
+    "text": "Top-wallet concentration indicates potential rug risk since a few addresses holding significant portions of a supply can manipulate prices or exit quickly. If the devs or insiders control these wallets, it raises red flags: they can sell off large amounts to cash out, collapsing the price and leaving retail investors in the dust. Always check holder distribution; diverse ownership is key to stability.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1784399733181",
     "ts": "2026-07-18T18:35:33.181Z",
     "text": "When using DeFi protocols, always verify the smart contract addresses from official sources — even a small typo can lead you directly into a scam trap. Use tools like Etherscan or Solscan to confirm details before interacting with any token or project. Trust only what’s verifiable; assumptions are costly in crypto.",
