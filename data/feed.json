@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784493248099",
+    "ts": "2026-07-19T20:34:08.099Z",
+    "text": "Always check the mint and freeze authorities on SPL tokens before diving in. A project with an active mint authority carries risks like inflation or sudden supply changes, while revoked authority means no new tokens can be generated — a safer bet. Look for those indicators to assess longevity and trustworthiness.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1784490494454",
     "ts": "2026-07-19T19:48:14.454Z",
     "text": "Top-wallet concentration is a key risk indicator. A few wallets holding large stakes can orchestrate sudden price swings or even exit scams, leaving smaller holders stranded. Always scrutinize the holder distribution — high concentration amplifies your risk exposure significantly.",
