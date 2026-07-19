@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784474306038",
+    "ts": "2026-07-19T15:18:26.038Z",
+    "text": "Always verify contract details on-chain before you trust a token. Scam projects often use lookalike addresses to confuse unwary investors. Double-checking can save you from a costly mistake.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1784470435269",
     "ts": "2026-07-19T14:13:55.269Z",
     "text": "Watch for unlocked liquidity pools (LP) — they're a major red flag. An unlocked LP means the developers can withdraw all funds at any time, leaving holders with worthless tokens if they decide to rug. Always check for LP lock duration; if it's not there, tread carefully.",
