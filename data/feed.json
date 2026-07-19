@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784435565891",
+    "ts": "2026-07-19T04:32:45.891Z",
+    "text": "Use tools like Solscan or DexScreener to analyze token contracts before interacting. Check for revoked mints, unverified contracts, and liquidity pool details. A solid initial sift can protect you from scams and poorly managed projects. If it looks sketchy, trust your instincts and pass.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1784423180988",
     "ts": "2026-07-19T01:06:20.988Z",
     "text": "Volatility is the price you pay for potential; position sizing keeps your wallet from feeling the burn when the bets go wrong.",
