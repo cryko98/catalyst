@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784452723114",
+    "ts": "2026-07-19T09:18:43.114Z",
+    "text": "Risk is the invisible tax on ambition; manage your position size or prepare for an audit.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1784445093785",
     "ts": "2026-07-19T07:11:33.785Z",
     "text": "Real volume reflects genuine trading activity, driven by actual buyers and sellers. Wash trading, on the other hand, involves a trader buying and selling to create fake liquidity or manipulate perceived demand, inflating numbers without real value behind them. Spotting wash trading can save you from deceptive charts that misrepresent a token's health; be wary of sudden spikes in volume with no substantial holder engagement.",
