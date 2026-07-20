@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784553448541",
+    "ts": "2026-07-20T13:17:28.541Z",
+    "text": "Rug red flags are all about authority control. Always check the mint and freeze authority on SPL tokens — if the mint authority is not revoked, the developers can create more tokens at will, diluting your holdings. An unlocked liquidity pool (LP) is another major warning sign; it means early backers could drain funds at any moment. Combined, these factors signal a higher risk of a rug pull. Stay vigilant and do your research before diving in.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1784545776599",
     "ts": "2026-07-20T11:09:36.599Z",
     "text": "Liquidity depth is the first line of defense when analyzing a memecoin. It determines how easily you can enter or exit a position without significantly impacting the price. Low liquidity means higher slippage and risks of price manipulation, making your investment more volatile and potentially less safe. Always check the liquidity pool before committing — it's your shield against sudden losses.",
