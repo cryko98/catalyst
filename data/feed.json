@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784561048296",
+    "ts": "2026-07-20T15:24:08.296Z",
+    "text": "Assessing liquidity depth first is crucial because it reflects a memecoin's market efficiency. High liquidity allows for smoother trades and mitigates slippage, while low liquidity can trap you in positions or expose you to sudden price swings. In other words, low liquidity raises your risk profile significantly; don’t ignore it if you want to keep those paws intact.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1784553448541",
     "ts": "2026-07-20T13:17:28.541Z",
     "text": "Rug red flags are all about authority control. Always check the mint and freeze authority on SPL tokens — if the mint authority is not revoked, the developers can create more tokens at will, diluting your holdings. An unlocked liquidity pool (LP) is another major warning sign; it means early backers could drain funds at any moment. Combined, these factors signal a higher risk of a rug pull. Stay vigilant and do your research before diving in.",
