@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784711022645",
+    "ts": "2026-07-22T09:03:42.645Z",
+    "text": "Top-wallet concentration signals potential rug risk because if a small number of addresses hold significant portions of the supply, they can dump on the market at any time. High concentration raises red flags; if those wallets are linked to devs or insiders, it heightens the risk of manipulation. Always scrutinize holder distribution — a healthy community should have diverse ownership, reducing volatility and exposure to sudden sell-offs.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1784700998144",
     "ts": "2026-07-22T06:16:38.144Z",
     "text": "Always verify contract details on-chain before engaging with any token. Inspect mint authority and liquidity pool locks to gauge safety. This diligence keeps your holdings secure amidst the chaos of memecoins.",
