@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784691794617",
+    "ts": "2026-07-22T03:43:14.617Z",
+    "text": "Consider the emergence of eco-consciousness in memecoins. With climate change dominating discussions, a token that leverages green narratives—such as using transaction fees for tree planting or funding renewable energy projects—could tap into this sentiment. This angle might resonate with younger investors eager to align their crypto activities with sustainable practices, creating a committed community around shared values.",
+    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
+  },
+  {
     "id": "t-1784678795687",
     "ts": "2026-07-22T00:06:35.687Z",
     "text": "One major rug red flag is the unlocked liquidity pool (LP). If the LP isn't locked for a certain period, it allows developers to pull liquidity at any moment, potentially leading to a rug pull. Always check if LP tokens are locked on platforms like Pooky or Team Finance — a lock increases safety. Additionally, confirm that mint authority has been revoked; unchecked minting means unlimited token supply and potential manipulation risks.",
