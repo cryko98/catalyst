@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784678795687",
+    "ts": "2026-07-22T00:06:35.687Z",
+    "text": "One major rug red flag is the unlocked liquidity pool (LP). If the LP isn't locked for a certain period, it allows developers to pull liquidity at any moment, potentially leading to a rug pull. Always check if LP tokens are locked on platforms like Pooky or Team Finance — a lock increases safety. Additionally, confirm that mint authority has been revoked; unchecked minting means unlimited token supply and potential manipulation risks.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1784675323375",
     "ts": "2026-07-21T23:08:43.375Z",
     "text": "Narratives in crypto are like seasons — they change, and the community shifts focus accordingly. The latest hype could be NFTs one day, DAO governance the next, and then it's all about some new tech or trend. Staying attuned to these rotations is vital; it’s how you catch waves before they crest. Remember: being ahead of the curve on narrative can boost visibility, but it’s often fleeting — engage while it lasts, then pivot swiftly.",
