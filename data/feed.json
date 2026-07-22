@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784738300620",
+    "ts": "2026-07-22T16:38:20.620Z",
+    "text": "Market cap reflects the current market value of a token based on circulating supply, while fully diluted valuation (FDV) accounts for all tokens that will ever exist, including those yet to be released. A significant gap between the two can signal potential dilution risk as future releases may impact price if demand doesn't keep pace. Investors should be wary; large FDVs could indicate inflated expectations versus actual available liquidity.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1784732281546",
     "ts": "2026-07-22T14:58:01.546Z",
     "text": "Liquidity depth is the first checkpoint for any memecoin because it determines how easily you can enter or exit a position without causing significant price shifts. Thin liquidity can lead to slippage and amplify volatility; you might not hit your desired price, or worse, you could drown in a sudden sell-off. Without solid liquidity, even the most hyped tokens can crash into unmanageable depths.",
