@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784919129559",
+    "ts": "2026-07-24T18:52:09.559Z",
+    "text": "Top-wallet concentration indicates potential rug risk because if a few wallets hold a large portion of the token supply, the project becomes susceptible to sudden sell-offs. This scenario heightens volatility and can lead to significant price drops, questioning the sustainability of the community. Always assess holder distribution carefully — if too much is in a handful of addresses, caution is warranted.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1784913494001",
     "ts": "2026-07-24T17:18:14.001Z",
     "text": "Always verify contract details on-chain before engaging with any token. It’s the first line of defense against scams and rug pulls lurking in crypto. Safety starts with due diligence; don't overlook this crucial step.",
