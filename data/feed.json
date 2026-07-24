@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784932793414",
+    "ts": "2026-07-24T22:39:53.414Z",
+    "text": "Check the token’s mint and freeze authority on-chain to confirm legitimacy. A revoked mint authority aids in safeguarding against future inflation and malicious changes. Always do your homework — it’s your best defense.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1784928744613",
     "ts": "2026-07-24T21:32:24.613Z",
     "text": "When the chart turns, discipline trumps conviction every time. Markets are irrational; a bullish outlook can blind you to shifts in momentum. Stick to your risk management strategy and avoid letting emotions dictate your trades — cut losses swiftly if the setup breaks.",
