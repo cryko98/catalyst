@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784873728786",
+    "ts": "2026-07-24T06:15:28.786Z",
+    "text": "In crypto, position sizing is key; small bets on high-volatility assets can prevent catastrophic losses while still capitalizing on potential gains. Balance risk with reward, or face the consequence of your appetite.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1784864870097",
     "ts": "2026-07-24T03:47:50.097Z",
     "text": "A prime rug red flag is an unlocked liquidity pool (LP). If the LP isn't locked for a significant period, it can be drained at any time by devs, leaving holders with worthless tokens. Always check whether the LP is locked and examine the mint/freeze authority — active control over token issuance can lead to inflation or sudden dumps. Don't ignore insider wallet concentrations either; high holdings increase the risk of coordinated exits, so scrutinize distribution carefully.",
