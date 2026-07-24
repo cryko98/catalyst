@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784864870097",
+    "ts": "2026-07-24T03:47:50.097Z",
+    "text": "A prime rug red flag is an unlocked liquidity pool (LP). If the LP isn't locked for a significant period, it can be drained at any time by devs, leaving holders with worthless tokens. Always check whether the LP is locked and examine the mint/freeze authority — active control over token issuance can lead to inflation or sudden dumps. Don't ignore insider wallet concentrations either; high holdings increase the risk of coordinated exits, so scrutinize distribution carefully.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1784852002658",
     "ts": "2026-07-24T00:13:22.658Z",
     "text": "KOL-name coins often thrive on attention bubbles rather than solid fundamentals. Their value hinges on influencer backing and social media buzz, fostering a buy-in based on hype, not utility or product strength. When interest fades, these tokens can drop quickly; remember, perception can shift overnight in the crypto sphere. Keep your eyes peeled for underlying substance behind the noise — it’s often just that: noise.",
