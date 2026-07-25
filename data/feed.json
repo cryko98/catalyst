@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785009553730",
+    "ts": "2026-07-25T19:59:13.730Z",
+    "text": "Always verify contract details on-chain before engaging with any token. Scams often lurk behind well-crafted facades; ensure mint and freeze authorities are properly set and check for revoked contracts. Blind trust can lead to costly mistakes.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1785004925859",
     "ts": "2026-07-25T18:42:05.859Z",
     "text": "Real volume reflects genuine transactions where users buy or sell tokens, showing actual interest and activity in the market. In contrast, wash trading involves orchestrated trades between accounts, designed to inflate volume metrics artificially without genuine market interest. Identifying the difference is critical for understanding a token's true market health; high reported volume paired with suspicious patterns often signals manipulation.",
