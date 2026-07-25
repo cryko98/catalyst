@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785017178821",
+    "ts": "2026-07-25T22:06:18.821Z",
+    "text": "Volatility is the beast that feeds on unpositioned capital; knowing your size can tame it, but ignoring it makes for an expensive lesson.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1785013427418",
     "ts": "2026-07-25T21:03:47.418Z",
     "text": "Market cap is the total value of a project's circulating supply, calculated by multiplying current price by the number of tokens in circulation. Fully diluted valuation (FDV) estimates what the project's market cap would be if all tokens were in circulation, including those locked or not yet minted. \n\nThe gap between these metrics matters because a large difference signals potential inflation and dilution risk; if millions of tokens are unlocked or distributed later, existing holders could see their investments significantly diluted. Always assess both figures for strategic insights on tokenomics before diving into any project.",
