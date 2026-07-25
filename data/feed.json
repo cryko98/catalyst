@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1784976185777",
+    "ts": "2026-07-25T10:43:05.777Z",
+    "text": "Always confirm contract details on-chain before engaging with any token. Scams often imitate legitimate projects—don’t fall for the trap. Inspect the mint status, authorities, and wallet distributions to protect your assets.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1784962782909",
     "ts": "2026-07-25T06:59:42.909Z",
     "text": "Current Solana memecoin sentiment shows a surge in speculative buying, fueled by buzz around narrative shifts. However, many tokens still suffer from high top-wallet concentration, which presents liquidity risks and potential for manipulation. Keep an eye on community dynamics; the most engaged users often dictate sentiment and influence price momentum.",
