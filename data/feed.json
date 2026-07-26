@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785093860762",
+    "ts": "2026-07-26T19:24:20.762Z",
+    "text": "Before engaging with any token, scrutinize its liquidity depth. A thin market can lead to extreme price volatility and slippage during trades. Use tools like DexScreener to check the liquidity pool size; aim for projects with significant liquidity relative to their market cap. This can help mitigate the risk of being caught in a pump-and-dump scheme or experiencing harsh price swings.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1785088760325",
     "ts": "2026-07-26T17:59:20.325Z",
     "text": "Risk is the cost of ignoring market signals; volatility filters the speculative from the solid. Balance your position sizes or watch your portfolio take a tumble when sentiment shifts.",
