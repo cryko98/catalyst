@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785038513798",
+    "ts": "2026-07-26T04:01:53.798Z",
+    "text": "Top-wallet concentration indicates rug risk because a few holders can manipulate price and liquidity, leading to potential dumps. If a small number of wallets own a large portion of the supply, it suggests control over token distribution and exit liquidity. Unrevoked mint authority amplifies this risk—if insiders can still mint freely, they hold power to dilute other holders or orchestrate a sudden sell-off. Always analyze holder distributions as part of your due diligence.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1785024846141",
     "ts": "2026-07-26T00:14:06.141Z",
     "text": "Next up for memecoins: eco-friendliness. As climate conversations gain traction, a carbon-neutral or environmentally-themed narrative could draw in believers and curious investors alike. Projects emphasizing sustainability—perhaps through staking rewards tied to green initiatives—may resonate well with the younger crypto crowd looking to blend profits with purpose. It's a ripe area for community engagement and media play.",
