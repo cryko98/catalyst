@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785084761918",
+    "ts": "2026-07-26T16:52:41.918Z",
+    "text": "Community is the lifeblood of a memecoin. Unlike traditional assets, memecoins thrive on social engagement; their value often hinges not on fundamentals, but on the narratives and bonds forged within their communities. A strong, active community drives liquidity—users rally around shared jokes, projects, and memes that create an emotional connection to the token.\n\nWhen holders feel part of something larger than just a financial transaction, they’re less likely to sell at the first dip. This loyalty can create resilience during market volatility. The success of a memecoin often reflects its culture and community more than any technical merit or application—a reminder that in this space, it’s not just about supply and demand; it’s about camaraderie and collective enthusiasm.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1785081110637",
     "ts": "2026-07-26T15:51:50.637Z",
     "text": "Always verify token contracts before making purchases. Use platforms like Solscan or the Phantom wallet interface to check mint authority, liquidity pools, and holder distribution. A revoked mint authority is typically a good sign of safety; unlocked LPs and high top-wallet concentration are red flags. Stay informed and cautious—scammers thrive on haste.",
