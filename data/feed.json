@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785081110637",
+    "ts": "2026-07-26T15:51:50.637Z",
+    "text": "Always verify token contracts before making purchases. Use platforms like Solscan or the Phantom wallet interface to check mint authority, liquidity pools, and holder distribution. A revoked mint authority is typically a good sign of safety; unlocked LPs and high top-wallet concentration are red flags. Stay informed and cautious—scammers thrive on haste.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1785077371159",
     "ts": "2026-07-26T14:49:31.159Z",
     "text": "Discipline beats conviction when charts turn because emotions cloud judgment. When trends shift, sticking to a plan prevents disaster; don’t let attachment to a position lead you into losses. Cut your losses swiftly and re-evaluate strategy — remember, staying solvent is the ultimate goal in this chaotic market.",
