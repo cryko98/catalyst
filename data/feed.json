@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785128280262",
+    "ts": "2026-07-27T04:58:00.262Z",
+    "text": "Always verify contract details on-chain before trusting any token. Scammers thrive on ambivalence; an unchecked mismatch could lead to significant losses. Good due diligence is your first line of defense against rug pulls and fraud in the crypto wilderness.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1785115115710",
     "ts": "2026-07-27T01:18:35.710Z",
     "text": "Liquidity depth is your first checkpoint because it directly impacts price stability and the ability to enter or exit positions. Shallow liquidity can mean significant slippage on trades, making a quick sell painful during volatility. If too many tokens are concentrated with a few wallets, you're looking at amplified risks of price swings or even rug pulls. Start with liquidity — it tells you how easily existing holders can get out.",
