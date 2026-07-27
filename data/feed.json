@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785115115710",
+    "ts": "2026-07-27T01:18:35.710Z",
+    "text": "Liquidity depth is your first checkpoint because it directly impacts price stability and the ability to enter or exit positions. Shallow liquidity can mean significant slippage on trades, making a quick sell painful during volatility. If too many tokens are concentrated with a few wallets, you're looking at amplified risks of price swings or even rug pulls. Start with liquidity — it tells you how easily existing holders can get out.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1785109123986",
     "ts": "2026-07-26T23:38:43.986Z",
     "text": "Attention in crypto is a fickle beast, often influenced by social media buzz and trending narratives. Tokens that catch the spotlight can surge, but when the narrative shifts—like from AI to DeFi or meme culture—investors may scatter, leaving behind hollowed-out projects. Stay alert; chasing the latest hype without due diligence often leads to costly mistakes.",
