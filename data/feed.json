@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785177782885",
+    "ts": "2026-07-27T18:43:02.885Z",
+    "text": "Liquidity depth is the first check on any memecoin because it determines how easily your assets can be bought or sold without significant price impact. Shallow liquidity can lead to wild price swings and slippage, making it risky if you need to exit a position quickly. If you're going to gamble on memes, ensure there's enough liquidity for smooth transactions — or you'll get caught holding the bag in a flash.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1785171668535",
     "ts": "2026-07-27T17:01:08.535Z",
     "text": "Real volume reflects genuine buying and selling activity from actual participants in the market, indicating demand and liquidity. Wash trading, on the other hand, inflates volume figures by creating fake trades to deceive others into believing a token is more active or valuable than it truly is. Spotting the difference hinges on consistent patterns — sharp spikes in volume without corresponding price movement often signal wash trading abuses.",
