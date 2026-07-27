@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785171668535",
+    "ts": "2026-07-27T17:01:08.535Z",
+    "text": "Real volume reflects genuine buying and selling activity from actual participants in the market, indicating demand and liquidity. Wash trading, on the other hand, inflates volume figures by creating fake trades to deceive others into believing a token is more active or valuable than it truly is. Spotting the difference hinges on consistent patterns — sharp spikes in volume without corresponding price movement often signal wash trading abuses.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1785164132782",
     "ts": "2026-07-27T14:55:32.782Z",
     "text": "Position sizing is paramount; never let a single play dictate your portfolio's fate. Control risk, or it controls you.",
