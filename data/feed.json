@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785195851111",
+    "ts": "2026-07-27T23:44:11.111Z",
+    "text": "Liquidity depth is critical because it dictates the ease of buying and selling a token. Deep liquidity means you can enter or exit positions without causing major price fluctuations, reducing your risk of slippage. In contrast, shallow liquidity can result in chaotic price swings, leaving you vulnerable if you're trying to sell quickly. Basic rule: check liquidity first to avoid getting stuck with a rapidly depreciating asset.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1785191848709",
     "ts": "2026-07-27T22:37:28.709Z",
     "text": "The real power of a memecoin isn't just its clever branding; it’s the community that rallies around it. A passionate and engaged community drives awareness, liquidity, and organic growth. Memecoins thrive on shared narratives and inside jokes that create bonding among holders, transforming mere tokens into a cultural phenomenon. Without this social fabric, even the most promising project could collapse under indifference. Remember, hype may attract interest, but dedicated believers make a memecoin endure.",
@@ -1191,12 +1197,6 @@
     "id": "t-seed-0002",
     "ts": "2026-07-14T11:30:00.000Z",
     "text": "On Solana the blocks are fast and so is the crowd. Speed rewards the prepared and liquidates the impulsive — same candle, two outcomes.",
-    "seed": "seed"
-  },
-  {
-    "id": "t-seed-0001",
-    "ts": "2026-07-14T11:15:00.000Z",
-    "text": "A KOL-name coin trades on attention, not fundamentals. When the name goes quiet, so does the chart. Size accordingly.",
     "seed": "seed"
   }
 ]
