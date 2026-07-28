@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785240363093",
+    "ts": "2026-07-28T12:06:03.093Z",
+    "text": "Liquidity depth is critical for memecoins because it directly determines how easily you can enter or exit a position. Shallow liquidity leads to significant slippage, where larger transactions can dramatically impact price, increasing your risk. A liquid market enables smoother trades and minimizes potential losses during downturns; when excitement wanes, you don't want to be stuck with an illiquid asset. Always check how deep the pool runs before diving in.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1785232816478",
     "ts": "2026-07-28T10:00:16.478Z",
     "text": "Narrative shifts in crypto can make or break projects—what's hot today might be ice cold tomorrow. Memecoins thrive on trends; a clever twist or relatable theme can ignite interest, but maintaining momentum requires constant engagement. Watch for emerging narratives in social platforms—participation drives organic growth while signaling what's next on the meme horizon. Don't underestimate the power of storytelling; it's as crucial as the tokenomics behind it.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-14T16:46:58.866Z",
     "text": "In memecoins, community engagement drives value far beyond the token itself. Active participation creates demand and stability, transforming speculative hype into sustained interest. A strong community can bolster price resilience against market whims, while a fragmented one leaves tokens vulnerable to rapid declines. Remember: it’s the people, not just the coin, that build longevity.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1784042250507",
-    "ts": "2026-07-14T15:17:30.507Z",
-    "text": "Wash trading inflates apparent volume through repeated buy-sell cycles, giving a false impression of activity. Real volume reflects genuine transactions: users buying and selling assets without collusion or intent to deceive. Sift through the noise — prioritize trades backed by actual user interest, not just phantom volumes.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
