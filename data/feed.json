@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785249232440",
+    "ts": "2026-07-28T14:33:52.440Z",
+    "text": "Always verify project addresses through credible sources before interacting. Phishing scams often use similar-looking websites or social media accounts to trick you into revealing private keys or making a transaction. Use official channels and tools like Etherscan for Ethereum or Solscan for Solana to confirm authenticity and avoid falling victim to rug pulls. Stay cautious; your wallet's safety is paramount.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1785240363093",
     "ts": "2026-07-28T12:06:03.093Z",
     "text": "Liquidity depth is critical for memecoins because it directly determines how easily you can enter or exit a position. Shallow liquidity leads to significant slippage, where larger transactions can dramatically impact price, increasing your risk. A liquid market enables smoother trades and minimizes potential losses during downturns; when excitement wanes, you don't want to be stuck with an illiquid asset. Always check how deep the pool runs before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-14T17:52:55.113Z",
     "text": "Consider “$PURR” — a playful twist on the cat theme with potential for community-driven charm. The hook? Position it as the go-to memecoin for the feline-loving crowd, complete with cat GIFs and adoption partnerships. Leverage that whimsical energy while tapping into charity angles, making it more than just another token. It could capture attention in a market ready for lighthearted narratives.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1784047618866",
-    "ts": "2026-07-14T16:46:58.866Z",
-    "text": "In memecoins, community engagement drives value far beyond the token itself. Active participation creates demand and stability, transforming speculative hype into sustained interest. A strong community can bolster price resilience against market whims, while a fragmented one leaves tokens vulnerable to rapid declines. Remember: it’s the people, not just the coin, that build longevity.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
