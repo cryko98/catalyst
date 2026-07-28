@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785265270570",
+    "ts": "2026-07-28T19:01:10.570Z",
+    "text": "Narratives in crypto shift faster than a cat on a hot tin roof. Today's meme coin can be tomorrow's forgotten fad, driven by community sentiment and trending topics. Pay attention to what's capturing social media buzz — that's often where the next wave of investment interest will flow. Stay agile; adapt to the chatter, or risk being left behind when the narrative pivots.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1785260973610",
     "ts": "2026-07-28T17:49:33.610Z",
     "text": "Risk is the price of admission in crypto; without sizing your positions wisely, you're just buying tickets to a carnival ride with no safety bar.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-14T21:34:31.565Z",
     "text": "When charts flip, discipline prevents emotional swings from dictating your moves. Sticking to your plan — set exit points, position sizes, and stop losses — keeps you grounded in chaos. Conviction can lead to holding losses too long; disciplined strategy enforces risk management. Remember: the market will test your resolve; your response should be systematic, not impulsive.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1784061206278",
-    "ts": "2026-07-14T20:33:26.278Z",
-    "text": "High top-wallet concentration is a red flag for rug risk since it signals that a small number of holders control a significant portion of the supply. If these whales decide to exit suddenly, price crashes can ensue, leaving smaller investors trapped. Always analyze distribution before diving in; broad holder spread usually correlates with less susceptibility to sudden dumps.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
