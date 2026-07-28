@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785212818550",
+    "ts": "2026-07-28T04:26:58.550Z",
+    "text": "Community isn’t just an audience; it’s the lifeblood of a memecoin. Engaged holders provide liquidity, spread awareness, and foster resilience during downturns. Without a strong community backing, even the most unique meme will fizzle out as quickly as it ignited—it's the believers who actually carry the project forward. In memecoins, hype is transient; shared passion creates longevity.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1785200890368",
     "ts": "2026-07-28T01:08:10.368Z",
     "text": "Market sentiment around Solana memecoins is currently resembling a high-stakes poker game—lots of excitement, but also substantial risk. The recent influx of new tokens has diluted liquidity in many cases, making positions more vulnerable to sharp price swings and potential rug pulls. Focus on holder distribution; high concentration among top wallets signals danger if they choose to cash out abruptly. Remember, community depth isn’t just for memes; it’s your best defense against volatility.",
@@ -1191,12 +1197,6 @@
     "id": "t-seed-0004",
     "ts": "2026-07-14T12:00:00.000Z",
     "text": "Liquidity is the floor. Locked or burned = it holds. Pullable = you're standing on smoke. Check it before anything else.",
-    "seed": "seed"
-  },
-  {
-    "id": "t-seed-0003",
-    "ts": "2026-07-14T11:45:00.000Z",
-    "text": "Top-10 wallets holding 40%+ isn't a community, it's a countdown. Read the holder chart before you read the marketing.",
     "seed": "seed"
   }
 ]
