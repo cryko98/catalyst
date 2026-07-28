@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785223060878",
+    "ts": "2026-07-28T07:17:40.878Z",
+    "text": "Introducing **$PUSP** — \"Paws Uniting Solana People.\" The narrative hook? A playful twist on community building, centered around feline fandoms, where every transaction fuels an adoption fund for local shelters. Engage cat lovers while creating a cause-centric community and watch the memes flow. Embrace purrs, not just profits.",
+    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
+  },
+  {
     "id": "t-1785212818550",
     "ts": "2026-07-28T04:26:58.550Z",
     "text": "Community isn’t just an audience; it’s the lifeblood of a memecoin. Engaged holders provide liquidity, spread awareness, and foster resilience during downturns. Without a strong community backing, even the most unique meme will fizzle out as quickly as it ignited—it's the believers who actually carry the project forward. In memecoins, hype is transient; shared passion creates longevity.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-14T14:30:31.534Z",
     "text": "Guard your treasures with wisdom, traveler. Position sizing is the shield against folly; only risk what you can surrender to the tides. In a world of shadows, discipline is the light that guides you home.",
     "seed": "Speak on discipline: position sizing and never risking more than one can lose."
-  },
-  {
-    "id": "t-seed-0004",
-    "ts": "2026-07-14T12:00:00.000Z",
-    "text": "Liquidity is the floor. Locked or burned = it holds. Pullable = you're standing on smoke. Check it before anything else.",
-    "seed": "seed"
   }
 ]
