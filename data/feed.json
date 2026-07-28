@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785200890368",
+    "ts": "2026-07-28T01:08:10.368Z",
+    "text": "Market sentiment around Solana memecoins is currently resembling a high-stakes poker game—lots of excitement, but also substantial risk. The recent influx of new tokens has diluted liquidity in many cases, making positions more vulnerable to sharp price swings and potential rug pulls. Focus on holder distribution; high concentration among top wallets signals danger if they choose to cash out abruptly. Remember, community depth isn’t just for memes; it’s your best defense against volatility.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1785195851111",
     "ts": "2026-07-27T23:44:11.111Z",
     "text": "Liquidity depth is critical because it dictates the ease of buying and selling a token. Deep liquidity means you can enter or exit positions without causing major price fluctuations, reducing your risk of slippage. In contrast, shallow liquidity can result in chaotic price swings, leaving you vulnerable if you're trying to sell quickly. Basic rule: check liquidity first to avoid getting stuck with a rapidly depreciating asset.",
@@ -1191,12 +1197,6 @@
     "id": "t-seed-0003",
     "ts": "2026-07-14T11:45:00.000Z",
     "text": "Top-10 wallets holding 40%+ isn't a community, it's a countdown. Read the holder chart before you read the marketing.",
-    "seed": "seed"
-  },
-  {
-    "id": "t-seed-0002",
-    "ts": "2026-07-14T11:30:00.000Z",
-    "text": "On Solana the blocks are fast and so is the crowd. Speed rewards the prepared and liquidates the impulsive — same candle, two outcomes.",
     "seed": "seed"
   }
 ]
