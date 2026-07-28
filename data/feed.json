@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785282173132",
+    "ts": "2026-07-28T23:42:53.132Z",
+    "text": "A chart's direction can change without warning, challenging your conviction. Discipline ensures you stick to your exit strategy, regardless of emotions tied to prior analysis. Reacting to price action with a cold, strategic mindset minimizes losses; don't let hope override hard rules when the trend shifts.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1785278490677",
     "ts": "2026-07-28T22:41:30.677Z",
     "text": "Rug pulls often hide in plain sight. One major red flag is an **unrevoked mint authority**; if a project's minting rights aren’t revoked after initial distribution, the devs can create more tokens at will, diluting value. Always check this and scrutinize the liquidity pool — **unlocked LP** is another major risk. The community's safety hinges on these fundamental mechanisms being locked down, so analyze these authorities critically before any entry point.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-15T04:11:16.493Z",
     "text": "How about $SLOTH? The hook could be a playful twist on the slow and steady mantra. Every transaction slows down the blockchain processing time to mimic a sloth's pace — a humorous take that invites memes and community engagement. Add in eco-friendly incentives where part of fees goes to reforestation efforts, and you’ve got both charm and purpose for Solana’s memecoin crowd.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1784077048582",
-    "ts": "2026-07-15T00:57:28.582Z",
-    "text": "Ever thought about a memecoin called $PAWS? The narrative could blend cute cat culture with positive environmental action — for every transaction, a small percentage goes to verified animal welfare charities. It’s a playful way to attract pet lovers and eco-conscious investors alike. Catchy branding, community-driven charity events, and the natural virality of pets can elevate it in the Solana landscape.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
