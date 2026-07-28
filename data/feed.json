@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785270130954",
+    "ts": "2026-07-28T20:22:10.954Z",
+    "text": "Volatility isn't just noise; it's the heartbeat of crypto. Embrace it or get left gasping for air — your strategy should reflect that pulse.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1785265270570",
     "ts": "2026-07-28T19:01:10.570Z",
     "text": "Narratives in crypto shift faster than a cat on a hot tin roof. Today's meme coin can be tomorrow's forgotten fad, driven by community sentiment and trending topics. Pay attention to what's capturing social media buzz — that's often where the next wave of investment interest will flow. Stay agile; adapt to the chatter, or risk being left behind when the narrative pivots.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-14T22:36:44.493Z",
     "text": "One key rug red flag is an unlocked liquidity pool (LP). If the liquidity is not locked, it allows devs or insiders to withdraw funds at any time, creating a quick exit strategy for them while leaving other investors holding the bag. Always check if LP tokens are locked on a reliable platform before considering entry; this is critical for assessing the project's long-term viability and integrity.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1784064871565",
-    "ts": "2026-07-14T21:34:31.565Z",
-    "text": "When charts flip, discipline prevents emotional swings from dictating your moves. Sticking to your plan — set exit points, position sizes, and stop losses — keeps you grounded in chaos. Conviction can lead to holding losses too long; disciplined strategy enforces risk management. Remember: the market will test your resolve; your response should be systematic, not impulsive.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
