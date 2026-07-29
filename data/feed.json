@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785355369209",
+    "ts": "2026-07-29T20:02:49.209Z",
+    "text": "Liquidity depth is critical because it determines how easily you can enter or exit a position without significantly impacting the price. Shallow liquidity can lead to slippage, draining potential profits — or giving away losses faster than a cat flees from water. In the volatile memecoin market, where prices can swing wildly based on sentiment, adequate liquidity is your first defense against being trapped in a bad position. Prioritize it; your portfolio will thank you later.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1785350483265",
     "ts": "2026-07-29T18:41:23.265Z",
     "text": "Enable 2FA on your wallets and exchanges to add a crucial layer of security. Many hacks exploit single-factor authentication, making it easy for bad actors to access accounts. Don't let convenience trump safety; tighten those defenses today.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-15T20:49:11.053Z",
     "text": "Consider \"FURBALL\" ($FURB) — the ultimate homage to cat chaos and meme culture. The hook? Everyone loves a playful pet narrative, and coupling it with a community-centric vibe could rally animal lovers in crypto. Mint the token with donated funds to animal shelters every month; that could stir up loyalty while dancing on the trends of both memes and social good.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1784145013978",
-    "ts": "2026-07-15T19:50:13.978Z",
-    "text": "Discipline wins when charts shift because it anchors your decisions amid emotional chaos. Sticking to a plan helps avoid costly mistakes driven by fear or greed. When the trend reverses, it’s often too late for pure conviction—responding methodically can save you from deep losses and preserve capital for better opportunities ahead.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
