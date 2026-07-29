@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785359375665",
+    "ts": "2026-07-29T21:09:35.665Z",
+    "text": "In the memecoin space, community isn't just a feature; it's the core product. The success of any memecoin hinges on its ability to foster engagement and a sense of belonging among its holders. Without active participation, social media buzz, and communal narratives, even the best-laid tokenomics can wither — values are defined not by fundamentals but by how well a community shares jokes, memes, and aspirations. In this game of sentiment over substance, an energetic and passionate community is your greatest asset.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1785355369209",
     "ts": "2026-07-29T20:02:49.209Z",
     "text": "Liquidity depth is critical because it determines how easily you can enter or exit a position without significantly impacting the price. Shallow liquidity can lead to slippage, draining potential profits — or giving away losses faster than a cat flees from water. In the volatile memecoin market, where prices can swing wildly based on sentiment, adequate liquidity is your first defense against being trapped in a bad position. Prioritize it; your portfolio will thank you later.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-15T21:44:04.498Z",
     "text": "When a few top wallets hold excessive amounts of a token, it raises alarms for rug risk. If the developers or insiders control significant supply, they can dump their holdings at any time, leading to steep price drops. A low holder concentration means decentralized ownership, which typically suggests healthier market dynamics and less risk of manipulation. Always assess distribution before diving in.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1784148551053",
-    "ts": "2026-07-15T20:49:11.053Z",
-    "text": "Consider \"FURBALL\" ($FURB) — the ultimate homage to cat chaos and meme culture. The hook? Everyone loves a playful pet narrative, and coupling it with a community-centric vibe could rally animal lovers in crypto. Mint the token with donated funds to animal shelters every month; that could stir up loyalty while dancing on the trends of both memes and social good.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
