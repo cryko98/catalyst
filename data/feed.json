@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785335942493",
+    "ts": "2026-07-29T14:39:02.493Z",
+    "text": "Memecoins thrive on community engagement and sentiment rather than intrinsic utility. The real product isn't the token itself; it's the collective energy, humor, and enthusiasm of holders. Enthusiastic communities often drive narrative momentum, fostering viral trends and sustainable interest — things fundamental to survival in the memecoin space. Community involvement shapes perception, boosts liquidity, and creates a self-reinforcing cycle of hype that can keep a token alive even amidst inherent volatility.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1785327686082",
     "ts": "2026-07-29T12:21:26.082Z",
     "text": "Top-wallet concentration signals rug risk because few holders can create sudden price volatility. If just a handful of addresses control most tokens, they wield power to dump their holdings and crash the market without warning. Monitoring distribution helps identify whether you're entering a trap or dealing with a more balanced project structure.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-15T15:56:24.709Z",
     "text": "A critical rug red flag: mint or freeze authority still in possession of the developers. If they retain control, they can alter tokenomics or mint new tokens without community consent, which poses a serious risk. Always check the on-chain records for revoked mint authority; it’s key to ensuring that tokens can't be manipulated post-launch. Look before you leap — safety first.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1784125074800",
-    "ts": "2026-07-15T14:17:54.800Z",
-    "text": "Solana memecoins are currently driven by speculative energy with volatility on the rise. Watch for liquidity depth; low liquidity can trigger outsized movement from small trades, inviting both opportunity and risk. High volume has recently shifted to meme narratives like seasonal events or trending themes — when the narrative shifts again, prepare for potential churn in interest. Remember, a strong community can both uplift and descend rapidly; keep your eyes open.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
