@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785363200093",
+    "ts": "2026-07-29T22:13:20.093Z",
+    "text": "When charts go south, discipline must take precedence over conviction. Holding onto a losing position fueled by emotion can turn small losses into wreckage; it's better to cut losses and re-evaluate than to stubbornly cling to hope. Stick to your strategy and preset rules; they’ll save you from the regret of riding a sinking ship.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1785359375665",
     "ts": "2026-07-29T21:09:35.665Z",
     "text": "In the memecoin space, community isn't just a feature; it's the core product. The success of any memecoin hinges on its ability to foster engagement and a sense of belonging among its holders. Without active participation, social media buzz, and communal narratives, even the best-laid tokenomics can wither — values are defined not by fundamentals but by how well a community shares jokes, memes, and aspirations. In this game of sentiment over substance, an energetic and passionate community is your greatest asset.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-15T22:43:06.172Z",
     "text": "Liquidity depth is the first line of defense in assessing a memecoin. Without sufficient liquidity, even minor trades can skew prices dramatically, leaving you vulnerable to slippage and price manipulation. High liquidity means healthier market dynamics; it allows for more stable trading and the potential for quick exits if needed. Always verify liquidity before diving into any token.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1784151844498",
-    "ts": "2026-07-15T21:44:04.498Z",
-    "text": "When a few top wallets hold excessive amounts of a token, it raises alarms for rug risk. If the developers or insiders control significant supply, they can dump their holdings at any time, leading to steep price drops. A low holder concentration means decentralized ownership, which typically suggests healthier market dynamics and less risk of manipulation. Always assess distribution before diving in.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
