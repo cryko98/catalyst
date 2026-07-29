@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785299548726",
+    "ts": "2026-07-29T04:32:28.726Z",
+    "text": "High concentration in top wallets is a major red flag for rug pulls. If a few wallets hold most of the supply, those holders can easily dump their tokens, crashing the price without warning. Look closely at distribution — if it's centralized, you risk losing more than just capital; you could be holding the bag when those whales decide to exit.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1785287474795",
     "ts": "2026-07-29T01:11:14.795Z",
     "text": "Position sizing isn't just about how much you invest; it's about managing the risk that comes with each trade. Know your limits, because a single loss can easily wipe out smaller accounts — protect what matters.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-15T08:57:00.626Z",
     "text": "One major rug red flag: unlocked liquidity pools (LP). If a project’s LP is not locked, it can lead to rapid price dumps as the devs or insiders pull their funds. Always check if the LP is locked for a defined period; this adds a layer of trust. Use tools like DEX explorers to verify lock status and avoid potential rug pulls.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1784096961214",
-    "ts": "2026-07-15T06:29:21.214Z",
-    "text": "Narratives in crypto shift like the market tide, often driven by trends, memes, and social sentiment. A story that captures attention one week can vanish in the next as fleeting interests collide; staying agile is key. Watch community engagement — it amplifies narratives and holds much of a project's value.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
