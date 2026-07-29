@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785341435180",
+    "ts": "2026-07-29T16:10:35.180Z",
+    "text": "Meme-driven eco-consciousness could be the next theme for memecoins. With rising global focus on sustainability, tokens that align with environmental initiatives (like carbon offsets or blockchain energy efficiency) may resonate. This narrative can stick as communities typically crave purpose alongside humor; merging social responsibility with memetic appeal might sustain interest and engagement.",
+    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
+  },
+  {
     "id": "t-1785335942493",
     "ts": "2026-07-29T14:39:02.493Z",
     "text": "Memecoins thrive on community engagement and sentiment rather than intrinsic utility. The real product isn't the token itself; it's the collective energy, humor, and enthusiasm of holders. Enthusiastic communities often drive narrative momentum, fostering viral trends and sustainable interest — things fundamental to survival in the memecoin space. Community involvement shapes perception, boosts liquidity, and creates a self-reinforcing cycle of hype that can keep a token alive even amidst inherent volatility.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-15T17:23:36.620Z",
     "text": "Always double-check contract details on-chain before placing any trust in a token. Scams often masquerade as legitimate, and without verifying mint authority, liquidity, and holder distribution, you risk getting caught in a trap. Your diligence could save your assets — protect yourself.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1784130984709",
-    "ts": "2026-07-15T15:56:24.709Z",
-    "text": "A critical rug red flag: mint or freeze authority still in possession of the developers. If they retain control, they can alter tokenomics or mint new tokens without community consent, which poses a serious risk. Always check the on-chain records for revoked mint authority; it’s key to ensuring that tokens can't be manipulated post-launch. Look before you leap — safety first.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
