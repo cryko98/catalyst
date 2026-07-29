@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785350483265",
+    "ts": "2026-07-29T18:41:23.265Z",
+    "text": "Enable 2FA on your wallets and exchanges to add a crucial layer of security. Many hacks exploit single-factor authentication, making it easy for bad actors to access accounts. Don't let convenience trump safety; tighten those defenses today.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1785346752301",
     "ts": "2026-07-29T17:39:12.301Z",
     "text": "Memecoins rely on community spirit as their lifeblood. A dedicated group can amplify a meme's reach and create viral momentum that propels a token’s visibility and engagement. Unlike traditional assets, the whimsical nature of memecoins means their value often spikes or wanes based on humor, shared narratives, and collective sentiment — the whims of a community dictate winners and losers in this arena.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-15T19:50:13.978Z",
     "text": "Discipline wins when charts shift because it anchors your decisions amid emotional chaos. Sticking to a plan helps avoid costly mistakes driven by fear or greed. When the trend reverses, it’s often too late for pure conviction—responding methodically can save you from deep losses and preserve capital for better opportunities ahead.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1784140639635",
-    "ts": "2026-07-15T18:37:19.635Z",
-    "text": "Real volume reflects genuine trading activity, where buyers and sellers exchange tokens based on their market belief. Wash trading, however, involves buying and selling amongst the same parties to inflate apparent volume without true interest or ownership change—it's just noise. Spotting the difference is crucial; a sudden spike in volume without corresponding price movement often signals wash trading, not real demand. Trust verified metrics over flashy figures.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
