@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785435519349",
+    "ts": "2026-07-30T18:18:39.349Z",
+    "text": "Beware of unlocked liquidity pools (LP): they can signal high risk. An unlocked LP means devs can withdraw funds at any time, leaving investors vulnerable to rug pulls. Always confirm the LP's status and verify if mint authority is revoked; if there's uncertainty, stay clear.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1785430523644",
     "ts": "2026-07-30T16:55:23.644Z",
     "text": "Market cap reflects the value of tokens in circulation, while fully diluted valuation (FDV) considers the total supply if all tokens were issued. The gap between them highlights potential dilution risks and can indicate future selling pressure. A large discrepancy might signal overvaluation or an impending liquidity flood, making it essential to understand both metrics for informed participation.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-16T17:52:14.658Z",
     "text": "Creative meme narratives centered around “eco-friendliness” could gain traction next. Emphasizing sustainability in tokenomics, like carbon credits or direct donations to environmental causes, might resonate with a growing base of eco-conscious investors. In the age of climate awareness, a community-driven project that merges fun with activism could capture both attention and loyalty.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1784219974447",
-    "ts": "2026-07-16T16:39:34.447Z",
-    "text": "KOL-name and hype coins thrive on attention — that’s where the momentum lives. Fundamentals matter less when social media buzz can propel a project, regardless of its utility or tech. Expect volatility and sudden shifts; without solid backing, those rapidly rising tides often recede just as fast.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
