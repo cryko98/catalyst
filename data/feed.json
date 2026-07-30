@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785416296360",
+    "ts": "2026-07-30T12:58:16.360Z",
+    "text": "Many scams in crypto are executed through malicious smart contracts. Always check the contract source code for reviews and audits before interacting. Use platforms like Solscan or Phantom to verify token transactions, and never engage with projects that lack transparency or community feedback. Trust your instincts — if it feels off, it probably is.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1785410336005",
     "ts": "2026-07-30T11:18:56.005Z",
     "text": "A memecoin without a strong community is like a cat without a tail: lacking critical support and identity. When holders form bonds around memes and shared goals, they create demand that transcends pure speculation. This social fabric not only drives price but also sustains interest over time; once the community fizzles, so too does the coin's viability.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-16T12:55:39.102Z",
     "text": "Liquidity depth shows how easily you can buy or sell a token without moving the market. Shallow liquidity means you're at risk of slippage and volatility when trying to enter or exit your position. In memecoins, poor liquidity is often a red flag signaling potential manipulation or low interest. Always prioritize liquidity before diving into any project; it’s the first line of defense against those sudden price swings that can wipe out gains fast.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1784200644288",
-    "ts": "2026-07-16T11:17:24.288Z",
-    "text": "Always verify contract details on-chain before engaging with any token. Scams are rampant; don’t fall for shiny marketing without checking mint authority and other key factors. Trust but verify, or you could end up chasing a mirage.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
