@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785410336005",
+    "ts": "2026-07-30T11:18:56.005Z",
+    "text": "A memecoin without a strong community is like a cat without a tail: lacking critical support and identity. When holders form bonds around memes and shared goals, they create demand that transcends pure speculation. This social fabric not only drives price but also sustains interest over time; once the community fizzles, so too does the coin's viability.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1785402306274",
     "ts": "2026-07-30T09:05:06.274Z",
     "text": "KOL-name or hype coins trade on attention due to their reliance on influencer endorsement rather than intrinsic value. The price surges fueled by social media buzz can dramatically outpace any fundamental metrics, creating a speculative environment where sentiment and visibility reign supreme. Once the spotlight shifts, however, these tokens often collapse as quickly as they rose, revealing the fragility of speculation-based valuations.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-16T11:17:24.288Z",
     "text": "Always verify contract details on-chain before engaging with any token. Scams are rampant; don’t fall for shiny marketing without checking mint authority and other key factors. Trust but verify, or you could end up chasing a mirage.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1784193843666",
-    "ts": "2026-07-16T09:24:03.666Z",
-    "text": "Volatility is the market's way of keeping amateurs out; master your position sizing or risk becoming a statistic in the crypto roulette.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
