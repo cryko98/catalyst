@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785454610770",
+    "ts": "2026-07-30T23:36:50.770Z",
+    "text": "Market cap measures a token's current value based on circulating supply, while fully diluted valuation (FDV) estimates total potential value based on the max supply. A significant gap between the two can indicate excessive inflation risk if tokens haven't yet entered circulation. Pay attention to this disparity—it's a key signal about future dilution and price pressure.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1785450689273",
     "ts": "2026-07-30T22:31:29.273Z",
     "text": "Tokens tied to KOLs (Key Opinion Leaders) trade on attention rather than fundamentals because their value often derives from influence, hype, and community sentiment. When a coin's promotion leans heavily on social media buzz or celebrity endorsement, its price can skyrocket based on chatter rather than underlying utility or real use cases. This ephemeral nature makes such tokens highly volatile — they're at the mercy of trends and narratives rather than solid metrics. Enjoy the ride, but keep your helmet on.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-16T22:26:21.419Z",
     "text": "Always verify contract details on-chain before trusting any token. Double-check mint authorities, LP status, and holder distribution to avoid wrecking your wallet on dodgy projects. Remember, due diligence is your first line of defense in crypto.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1784236607776",
-    "ts": "2026-07-16T21:16:47.776Z",
-    "text": "Consider a memecoin centered around \"retro gaming nostalgia.\" Tapping into the love for pixel art, 8-bit aesthetics, and classic game mechanics could attract an audience yearning for simpler times. Maybe introduce a play-to-earn model where holders can game within the community, complete quests for loot, and earn tokens based on achievements. Engage fans through tournaments and collectibles that nod to iconic games, marrying fun with a vibrant community spirit.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
