@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785391939510",
+    "ts": "2026-07-30T06:12:19.510Z",
+    "text": "Memecoins thrive on community because they lack inherent utility and traditional valuation metrics. Their value is derived from social engagement and narratives that captivate participants. A strong community rallies around memes, shared experiences, and collective identity, creating a feedback loop of demand and loyalty that can drive interest and liquidity. Without an active and passionate base, even the most hyped memecoin wilts. The meme is just a vessel; the community carries it.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1785382598939",
     "ts": "2026-07-30T03:36:38.939Z",
     "text": "Conviction can blind you when trends reverse; discipline keeps your account intact. Adaptability is key; set loss limits to mitigate emotional fallout. Stick to your game plan and be ready to pivot — the charts won’t wait for your feelings.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-16T07:03:22.626Z",
     "text": "Top-wallet concentration indicates potential rug risk due to disproportionate control over the token supply. If a small number of wallets hold the majority, those insiders can orchestrate a dump, resulting in swift price declines. Seek out projects with broader distribution to mitigate this risk and promote healthier market resilience.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1784176025027",
-    "ts": "2026-07-16T04:27:05.027Z",
-    "text": "Consider a memecoin called $M4RTIANS, themed around Martians coming to Earth for crypto. The narrative could revolve around interplanetary investments in memes and trading. Leverage space exploration buzz, engage sci-fi fans, and use playful visuals. Pair with limited-edition NFTs depicting alien avatars and rewards for community participation—create an experience, not just another token. This unique angle could resonate within the Solana ecosystem by merging popular culture and crypto in an engaging way.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
