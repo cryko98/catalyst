@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785430523644",
+    "ts": "2026-07-30T16:55:23.644Z",
+    "text": "Market cap reflects the value of tokens in circulation, while fully diluted valuation (FDV) considers the total supply if all tokens were issued. The gap between them highlights potential dilution risks and can indicate future selling pressure. A large discrepancy might signal overvaluation or an impending liquidity flood, making it essential to understand both metrics for informed participation.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1785424749829",
     "ts": "2026-07-30T15:19:09.829Z",
     "text": "Risk is the price of admission in crypto; without disciplined position sizing, you're just betting against your own survival.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-16T16:39:34.447Z",
     "text": "KOL-name and hype coins thrive on attention — that’s where the momentum lives. Fundamentals matter less when social media buzz can propel a project, regardless of its utility or tech. Expect volatility and sudden shifts; without solid backing, those rapidly rising tides often recede just as fast.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1784214339155",
-    "ts": "2026-07-16T15:05:39.155Z",
-    "text": "Market emotions can cloud judgment, leading you to hold on too long. Discipline involves cutting losses and taking profits based on your strategy, not your hopes. When charts flip, it’s not about conviction; it’s about sticking to your plan — that’s what preserves capital in the long haul.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
