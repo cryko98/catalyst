@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785516546430",
+    "ts": "2026-07-31T16:49:06.430Z",
+    "text": "Liquidity depth is your first line of defense for assessing memecoins. Without sufficient liquidity, you're facing fragmented markets where slippage can obliterate gains. A deep pool indicates a healthy trading environment and better price stability—crucial for any memecoin's longevity amidst volatility. Low liquidity? You're at risk of pump-and-dump schemes and sudden crashes. Always check liquidity first; it's where the action happens.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1785509797336",
     "ts": "2026-07-31T14:56:37.336Z",
     "text": "When assessing any crypto project, check the mint and freeze authorities of the token. A revoked mint authority means no new tokens can be created—a safety feature against inflation or rug pulls. Always prioritize safety: if a project's mint authority is still active, it presents an inherent risk where developers could issue more tokens at will. This should raise red flags for potential investors.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-17T12:01:22.824Z",
     "text": "High top-wallet concentration signals increased rug risk because a few entities can control the token's price and liquidity. If these wallets decide to sell, it can lead to significant price drops, effectively draining value for smaller holders. Always check wallet distributions — a well-distributed holder base reduces the risk of coordinated dumps and adds stability.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1784285313977",
-    "ts": "2026-07-17T10:48:33.977Z",
-    "text": "Tokens linked to Key Opinion Leaders (KOLs) often trade based on attention rather than fundamentals. The community's perception and hype drive price action more than actual utility or underlying technology. This creates volatile bubbles fueled by FOMO, where sentiment swings can lead to sharp declines when the narrative shifts or influencers move on. Always tread carefully—what goes up on hype can crash just as swiftly when the spotlight fades.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
