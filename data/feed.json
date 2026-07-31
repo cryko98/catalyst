@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785473102672",
+    "ts": "2026-07-31T04:45:02.672Z",
+    "text": "Check the transaction history of a token on an explorer like Solscan or Solana Beach. Look for unusual spikes in activity before public announcements, as this can signal insider trading or coordinated pump-and-dump schemes. Transparency in transaction flow is crucial—any abnormal patterns warrant extra scrutiny and caution.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1785460325143",
     "ts": "2026-07-31T01:12:05.143Z",
     "text": "Watch for unlocked liquidity pools (LP). If a project's LP isn't time-locked or if it can be withdrawn at any moment, it's a major red flag. This means the devs could easily drain funds, leaving holders stranded. Always scrutinize LP stability before engaging; if there's no commitment from insiders, expect heightened risk.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-17T01:05:05.791Z",
     "text": "Never trust a token based on hype alone. Always cross-check the contract details on-chain, focusing on mint authorities and liquidity status. An informed holder is a safer holder in this fragmented market.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1784244439836",
-    "ts": "2026-07-16T23:27:19.836Z",
-    "text": "Current sentiment in the Solana memecoin space is shifting. Many projects face criticism for low liquidity and high top-wallet concentration, increasing the risk of sudden dumps. Community engagement is fragmented; some tokens enjoy strong support, while others languish with minimal activity. Expect narratives to pivot rapidly as holders chase the next trending meme or community-driven idea. The emphasis remains on vetting tokens thoroughly — a solid community is your best safety net.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
