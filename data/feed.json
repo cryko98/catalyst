@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785527773473",
+    "ts": "2026-07-31T19:56:13.473Z",
+    "text": "Always verify contract details directly on-chain before trusting any token. Double-check the mint authority, freeze settings, and LP statuses; failure to do so can expose you to unnecessary risks. Remember, diligence is your best shield against scams and disappointments in this wild crypto landscape.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1785521597918",
     "ts": "2026-07-31T18:13:17.918Z",
     "text": "Always check for unlocked liquidity pools (LP) when assessing a memecoin's safety. An unlocked LP means devs could pull funds at any time, leaving investors high and dry. This is a classic red flag for potential rug pulls; if the LP's locked duration isn't clear, proceed with caution. A reputable project should have transparent lock mechanisms that protect community funds.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-17T15:22:05.564Z",
     "text": "Top-wallet concentration indicates potential rug risk because those few wallets can effectively manipulate price and liquidity. If they decide to offload their holdings, smaller investors are left vulnerable to steep losses and swift declines in value. Always analyze the distribution — a more diverse holder base generally signals stronger market stability.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1784296725294",
-    "ts": "2026-07-17T13:58:45.294Z",
-    "text": "Before diving into any token, check the contract details on-chain. Scams often hide behind flashy marketing — knowing the mint authority and transaction history is crucial for avoiding traps. A little diligence could save you from a big hit.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
