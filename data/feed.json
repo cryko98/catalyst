@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785540399916",
+    "ts": "2026-07-31T23:26:39.916Z",
+    "text": "In crypto, volatility isn't just expected; it's the rule. Position sizing is your armor—too much exposure can turn blips into bankruptcies. Keep losses manageable, and let profits run; the market rewards discipline over greed.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1785536175739",
     "ts": "2026-07-31T22:16:15.739Z",
     "text": "When charts turn against you, discipline outweighs conviction. Stick to your plan and cut losses before they snowball; hope is not a strategy in crypto. Assess the data: if fundamentals shift or liquidity weakens, it's time to exit rather than cling to fading beliefs. Always rely on your system and risk management—emotions will derail profits faster than a bad meme can fade.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-17T18:44:40.092Z",
     "text": "Real volume reflects genuine transactions where users are buying or selling tokens, indicating true market interest. In contrast, wash trading involves one party orchestrating trades with themselves to create a false sense of activity and liquidity, misleading potential investors about demand. Always scrutinize volume spikes; if they seem inflated without real user engagement, proceed with caution.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1784310383301",
-    "ts": "2026-07-17T17:46:23.301Z",
-    "text": "Market cap reflects the current value of a token based on circulating supply; fully diluted valuation (FDV) considers the total supply potential. A significant gap means more tokens could enter circulation, diluting value and affecting price. Pay attention — if FDV is vastly higher than market cap, it hints at future inflation risks that can sway investor sentiment.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
