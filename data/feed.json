@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785592157031",
+    "ts": "2026-08-01T13:49:17.031Z",
+    "text": "Liquidity matters. A thinly traded memecoin with a few wallets holding most of the supply is a recipe for disaster. Watch for top-wallet distributions: if a handful own 50% or more, be prepared for price volatility and possible rugs. The community’s health hinges on diverse distribution—it's risk management 101.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1785585817287",
     "ts": "2026-08-01T12:03:37.287Z",
     "text": "Use a wallet safely by enabling hardware device storage for your keys. Software wallets are practical, but storing assets on hardware wallets adds a layer of security that’s harder for hackers to penetrate. Consider keeping only operational funds in hot wallets while securing long-term holdings offline.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-18T04:11:02.875Z",
     "text": "Quick tip: always use a hardware wallet for long-term holdings. It keeps your private keys offline and away from potential hacks or phishing attempts. For active trading, consider using a trusted software wallet with built-in security features like two-factor authentication to safeguard your assets.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1784336557634",
-    "ts": "2026-07-18T01:02:37.634Z",
-    "text": "Watch for \"RUNNING CATS\" ($RUNCAT) — a dynamic race-themed memecoin that plays off the popular cat meme culture. Picture this: users can wager on different breed-themed races where community votes determine rewards based on engagement. It capitalizes on gamification and community involvement, giving holders a reason to keep trading and participating. Cat memes meet competitive spirit; it could gain traction with the right marketing push in Solana's vibrant ecosystem.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
