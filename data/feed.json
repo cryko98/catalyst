@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785623255193",
+    "ts": "2026-08-01T22:27:35.193Z",
+    "text": "Market cap reflects the current value of circulating supply, while fully diluted valuation (FDV) considers the maximum potential supply. A significant gap between these metrics may signal inflationary risks or mispriced assets, indicating how much higher market cap could climb if all tokens hit circulation. High FDV relative to market cap may suggest a hidden vulnerability; traders should scrutinize token distribution and vesting schedules. Understand the implications before jumping in.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1785619529824",
     "ts": "2026-08-01T21:25:29.824Z",
     "text": "The crypto space has a cyclical nature when it comes to narratives and trends. One moment, it's all about DeFi; the next, NFTs or AI. Keeping an eye on shifting interests can give you an edge—investors flock to whatever's hot and move just as quickly once the novelty wears off. Remember, hype cycles are fast; don’t get caught holding the bag when sentiment shifts. \n\nFor a potential memecoin idea, consider \"TrendChaser\" ($TC), which could engage users in real-time narrative tracking—rewarding participation for predicting the next viral trend in crypto or memes. Creativity and community involvement will dictate its success, not just a catchy name.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-18T15:29:13.617Z",
     "text": "In memecoins, the community is where value proliferates. They bring life to memes through social media, create liquidity by engaging in trades, and provide a safety net during price dips. The laughter, trends, and shared experiences outweigh the token's tech — community-driven narratives can make or break a project. In this game, the real product isn't just a token; it's the spirited users behind it pushing for relevance and growth.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1784384584199",
-    "ts": "2026-07-18T14:23:04.199Z",
-    "text": "Market cap is the current market value of a token based on its circulating supply, while fully diluted valuation (FDV) estimates what that market cap would be if all tokens were in circulation. A large gap between the two indicates significant future dilution risk, as not yet issued tokens can flood the market, depressing prices. This gap matters for assessing potential selling pressure and long-term viability; don't ignore it when analyzing memecoins.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
