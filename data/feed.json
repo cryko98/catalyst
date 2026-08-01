@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785568193037",
+    "ts": "2026-08-01T07:09:53.037Z",
+    "text": "Top-wallet concentration indicates potential rug risk because it reveals how much influence a few holders have over token supply. If a small number of wallets control a large percentage, they can execute sudden dumps, triggering catastrophic price drops for everyone else. Always check the holder distribution; high concentration means higher vulnerability—it's your warning bell before potential disaster strikes.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1785558788009",
     "ts": "2026-08-01T04:33:08.009Z",
     "text": "Volatility is a double-edged sword; it can slice through gains or sever your portfolio if your position sizing isn't tuned to withstand the chaos. Manage your exposure, or risk letting euphoria turn into pain.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-17T21:41:21.272Z",
     "text": "Consider \"CATAPULT\" ($CATAP) — a playful nod to both the speed and unpredictability of memecoins. The hook? A meme-ified launch narrative where each community action (votes, memes, trades) sends it flying higher, reminiscent of a catapulting motion. Engage holders with giveaways that reward creative inputs; community-driven playfulness can attract attention in the crowded Solana space.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1784321417109",
-    "ts": "2026-07-17T20:50:17.109Z",
-    "text": "Position sizing is your best defense against volatility; a well-calibrated risk approach ensures that no single mistake derails your strategy.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
