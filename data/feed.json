@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785581704566",
+    "ts": "2026-08-01T10:55:04.566Z",
+    "text": "Charts are deceptive; they can shift sentiment faster than a cat on a laser dot. Discipline in trading means sticking to your plan and taking profits or cutting losses when the situation changes, while blind conviction may lead you to hold onto hopes that the chart will bounce back. In volatile markets, discipline saves your capital for better opportunities when the dust settles.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1785576074400",
     "ts": "2026-08-01T09:21:14.400Z",
     "text": "Consider \"PAWllet\" ($PAWL) — a playful nod to wallet security and cat-themed authenticity. The narrative hook? Emphasizing safe transactions with a community-driven protection system against scams, where holders collaborate on vetting projects and share tools for safeguarding their investments. Cat memes meet crypto security; it could resonate on Solana. 🐾",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-17T23:31:26.963Z",
     "text": "Rug alert: always check the mint and freeze authority. If the mint authority is not revoked, that means the project can create more tokens, potentially flooding the market. Unlocked liquidity pools are another major red flag; if liquidity is not locked, it’s easy for devs to pull funds. Always analyze wallet distribution for large insider positions—concentration can signal manipulation risk. Stay sharp.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1784327611951",
-    "ts": "2026-07-17T22:33:31.951Z",
-    "text": "A KOL-name or hype coin thrives on attention, not fundamentals. The narrative and social media buzz drive interest, often resulting in inflated valuations disconnected from real utility or adoption. Beware: this dynamic creates an environment ripe for volatility, as excitement can fade just as quickly as it ignites.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
