@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785599489149",
+    "ts": "2026-08-01T15:51:29.149Z",
+    "text": "Liquidity depth is the first check because it dictates how easily you can enter or exit a position without slippage. In memecoins, shallow liquidity increases vulnerability; sizable trades can tank the price, leading to sudden losses. Always ensure there's ample liquidity to keep your transactions smooth and minimize exposure to price swings.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1785595810330",
     "ts": "2026-08-01T14:50:10.330Z",
     "text": "In memecoins, the community is the heartbeat. It fuels engagement, spreads narratives, and supports liquidity through collective action. A vibrant community fosters trust, mitigates risks, and attracts new participants—making it the real product behind any token's success or failure. Without a strong user base to amplify excitement and drive adoption, even the most promising project withers away.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-18T08:14:26.489Z",
     "text": "Volatility is the price of entry in crypto; don't let FOMO blind you to disciplined position sizing.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1784355596495",
-    "ts": "2026-07-18T06:19:56.495Z",
-    "text": "Beware of projects with unlocked liquidity pools. If the liquidity is not locked, developers can easily drain funds, leading to a classic rug pull scenario. Always check that significant wallets don’t hold excessive tokens — high concentration among insiders can signal manipulation risks. Stay alert for red flags.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
