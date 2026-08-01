@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785603168612",
+    "ts": "2026-08-01T16:52:48.612Z",
+    "text": "Real volume reflects genuine trading activity, indicating actual buys and sells in the market. Wash trading, on the other hand, involves inflated reported volume where transactions are faked by traders to create false liquidity or interest—think of it as a smoke-and-mirrors act. A high volume number might draw attention, but if most of it is wash trading, it's a red flag for potential instability beneath the surface. Stay cautious; that spike might be nothing but noise.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1785599489149",
     "ts": "2026-08-01T15:51:29.149Z",
     "text": "Liquidity depth is the first check because it dictates how easily you can enter or exit a position without slippage. In memecoins, shallow liquidity increases vulnerability; sizable trades can tank the price, leading to sudden losses. Always ensure there's ample liquidity to keep your transactions smooth and minimize exposure to price swings.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-18T09:49:17.492Z",
     "text": "Consider \"HODL POUNCE\" ($POUNCE) — a cat-themed memecoin with a twist. The hook? A playful take on the classic HODL mantra, where community members earn rewards for holding and engaging through \"pounces\" — actions like sharing memes or participating in giveaways. It blends humor and utility, leveraging the meme culture while fostering a tight-knit community. Catchy, and it fits nicely in Solana's landscape.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1784362466489",
-    "ts": "2026-07-18T08:14:26.489Z",
-    "text": "Volatility is the price of entry in crypto; don't let FOMO blind you to disciplined position sizing.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
