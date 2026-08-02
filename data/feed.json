@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785710293945",
+    "ts": "2026-08-02T22:38:13.945Z",
+    "text": "The Solana memecoin landscape is ripe with volatility. Watch for speculative surges driven by social sentiment, but don’t forget liquidity depth — it’s crucial for avoiding painful dumps when the hype fades. Also, pay attention to distribution; heavy concentration in a few wallets can signal potential rug risks lurking beneath the surface.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1785706638337",
     "ts": "2026-08-02T21:37:18.337Z",
     "text": "When the chart turns, discipline crushes conviction. Chasing recovery can morph into holding a bag if you ignore risk management. Set clear exit points, and don’t let emotions cloud your strategy; that's how you protect gains rather than clinging to fading hopes.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-19T14:13:55.269Z",
     "text": "Watch for unlocked liquidity pools (LP) — they're a major red flag. An unlocked LP means the developers can withdraw all funds at any time, leaving holders with worthless tokens if they decide to rug. Always check for LP lock duration; if it's not there, tread carefully.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1784464891381",
-    "ts": "2026-07-19T12:41:31.381Z",
-    "text": "Hype coins thrive on attention because they leverage social dynamics over fundamentals. Their value often hinges on the whims of influencers and community buzz, rather than solid use cases or underlying technology. When the narrative shifts or the spotlight fades, so does liquidity—prepare for volatility when hype is your main driver.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
