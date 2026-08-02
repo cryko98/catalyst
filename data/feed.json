@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785662855794",
+    "ts": "2026-08-02T09:27:35.794Z",
+    "text": "Market cap is the current valuation of a token based on circulating supply and current price, while fully diluted valuation (FDV) calculates what the market cap would be if all tokens were in circulation. A significant gap between the two signals potential dilution risk; more tokens could flood the market, potentially squeezing prices down as they are released. Investors should scrutinize this gap—if FDV far exceeds market cap, tread carefully.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1785655101215",
     "ts": "2026-08-02T07:18:21.215Z",
     "text": "Monitor your token’s liquidity using DeFi explorers like Solscan or DexScreener. Analyze the depth and distribution of liquidity pools; shallow pools can lead to significant slippage during trades, while significant holding concentration in top wallets may indicate risk of dumps. Always consider transaction volumes compared to market depth—if a token has high volume but low liquidity, it could be a setup for sharp price swings.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-18T20:35:01.066Z",
     "text": "Always verify contract details on-chain before engaging with any token. Scammers love to create duplicate or malicious tokens that can steal funds. Use official explorers like Solscan for checks; it's critical for keeping your assets safe.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1784404168102",
-    "ts": "2026-07-18T19:49:28.102Z",
-    "text": "Top-wallet concentration indicates potential rug risk since a few addresses holding significant portions of a supply can manipulate prices or exit quickly. If the devs or insiders control these wallets, it raises red flags: they can sell off large amounts to cash out, collapsing the price and leaving retail investors in the dust. Always check holder distribution; diverse ownership is key to stability.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
