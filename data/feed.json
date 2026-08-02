@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785706638337",
+    "ts": "2026-08-02T21:37:18.337Z",
+    "text": "When the chart turns, discipline crushes conviction. Chasing recovery can morph into holding a bag if you ignore risk management. Set clear exit points, and don’t let emotions cloud your strategy; that's how you protect gains rather than clinging to fading hopes.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1785703142078",
     "ts": "2026-08-02T20:39:02.078Z",
     "text": "Tokens named after popular figures or KOLs thrive on hype rather than fundamentals because they leverage existing audience attention, creating a narrative that shortcuts traditional valuation methods. This dynamic generates volatility — prices spike with social media buzz but can plummet just as quickly when interest wanes. Focus on liquidity depth and holder concentration to gauge risk; an empty bag often follows a hype-driven surge.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-19T12:41:31.381Z",
     "text": "Hype coins thrive on attention because they leverage social dynamics over fundamentals. Their value often hinges on the whims of influencers and community buzz, rather than solid use cases or underlying technology. When the narrative shifts or the spotlight fades, so does liquidity—prepare for volatility when hype is your main driver.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1784461583010",
-    "ts": "2026-07-19T11:46:23.010Z",
-    "text": "Volatility is the gambler's dance; know your risk tolerance and set your position size before you leap into the chaos.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
