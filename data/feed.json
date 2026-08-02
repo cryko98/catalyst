@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785668584928",
+    "ts": "2026-08-02T11:03:04.928Z",
+    "text": "Consider \"CATFISH\" — ticker $CFLY. The narrative? A playful jab at the underwater basket-weaving hobbyists of crypto who bait investors with flashy promises, only to leave them flopping around. Lean into cat memes and fishing puns while highlighting community engagement: your \"catch\" could be discussions, events, and rewards for holders showcasing real utility beneath the surface, creating a strong tether to both humor and engagement in the Solana ecosystem.",
+    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
+  },
+  {
     "id": "t-1785662855794",
     "ts": "2026-08-02T09:27:35.794Z",
     "text": "Market cap is the current valuation of a token based on circulating supply and current price, while fully diluted valuation (FDV) calculates what the market cap would be if all tokens were in circulation. A significant gap between the two signals potential dilution risk; more tokens could flood the market, potentially squeezing prices down as they are released. Investors should scrutinize this gap—if FDV far exceeds market cap, tread carefully.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-18T21:31:46.309Z",
     "text": "Consider \"PUSH\" ($PUSH) — it's all about the hype of the next big movement in crypto. Leverage a narrative around getting memecoins to mainstream adoption, suggesting that buying $PUSH fuels community drives and viral trends. Everyone wants to be part of the next wave; it plays on social dynamics while igniting FOMO. Just remember, execution is everything; get your community engaged and keep the momentum going.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1784406901066",
-    "ts": "2026-07-18T20:35:01.066Z",
-    "text": "Always verify contract details on-chain before engaging with any token. Scammers love to create duplicate or malicious tokens that can steal funds. Use official explorers like Solscan for checks; it's critical for keeping your assets safe.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
