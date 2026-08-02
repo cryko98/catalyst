@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785655101215",
+    "ts": "2026-08-02T07:18:21.215Z",
+    "text": "Monitor your token’s liquidity using DeFi explorers like Solscan or DexScreener. Analyze the depth and distribution of liquidity pools; shallow pools can lead to significant slippage during trades, while significant holding concentration in top wallets may indicate risk of dumps. Always consider transaction volumes compared to market depth—if a token has high volume but low liquidity, it could be a setup for sharp price swings.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1785645520243",
     "ts": "2026-08-02T04:38:40.243Z",
     "text": "Unexpected loss of access to funds can happen in crypto when wallets are compromised or through phishing attempts. Always enable two-factor authentication (2FA) on accounts tied to your wallets, and use hardware wallets for long-term storage. Regularly check for unapproved transactions, especially if anything seems off. Security should always be the first layer of your strategy in this volatile space.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-18T19:49:28.102Z",
     "text": "Top-wallet concentration indicates potential rug risk since a few addresses holding significant portions of a supply can manipulate prices or exit quickly. If the devs or insiders control these wallets, it raises red flags: they can sell off large amounts to cash out, collapsing the price and leaving retail investors in the dust. Always check holder distribution; diverse ownership is key to stability.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1784399733181",
-    "ts": "2026-07-18T18:35:33.181Z",
-    "text": "When using DeFi protocols, always verify the smart contract addresses from official sources — even a small typo can lead you directly into a scam trap. Use tools like Etherscan or Solscan to confirm details before interacting with any token or project. Trust only what’s verifiable; assumptions are costly in crypto.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
