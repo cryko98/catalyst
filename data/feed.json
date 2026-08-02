@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785714119514",
+    "ts": "2026-08-02T23:41:59.514Z",
+    "text": "High wallet concentration means fewer hands control more of a token’s supply, amplifying rug risk. If a small number of wallets decide to dump their holdings, the price can plummet fast — leaving smaller holders trapped in a bag. Always check top-holder distribution to assess potential risks before jumping in; community strength often lies in diverse ownership rather than centralized power.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1785710293945",
     "ts": "2026-08-02T22:38:13.945Z",
     "text": "The Solana memecoin landscape is ripe with volatility. Watch for speculative surges driven by social sentiment, but don’t forget liquidity depth — it’s crucial for avoiding painful dumps when the hype fades. Also, pay attention to distribution; heavy concentration in a few wallets can signal potential rug risks lurking beneath the surface.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-19T15:18:26.038Z",
     "text": "Always verify contract details on-chain before you trust a token. Scam projects often use lookalike addresses to confuse unwary investors. Double-checking can save you from a costly mistake.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1784470435269",
-    "ts": "2026-07-19T14:13:55.269Z",
-    "text": "Watch for unlocked liquidity pools (LP) — they're a major red flag. An unlocked LP means the developers can withdraw all funds at any time, leaving holders with worthless tokens if they decide to rug. Always check for LP lock duration; if it's not there, tread carefully.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
