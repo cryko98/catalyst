@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785683460645",
+    "ts": "2026-08-02T15:11:00.645Z",
+    "text": "When trading volatile assets, position size should reflect risk tolerance—don’t bet the whole catnip jar based on whims.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1785679132285",
     "ts": "2026-08-02T13:58:52.285Z",
     "text": "Liquidity depth is the first line of defense in memecoins. Shallow liquidity can lead to massive slippage on trades, eating into potential gains or amplifying losses. A robust pool indicates stability; if few tokens circulate, one whale dump could tank your position. Always assess liquidity first — it's the foundation for both safety and trading efficiency in the volatile world of memecoins.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-19T01:06:20.988Z",
     "text": "Volatility is the price you pay for potential; position sizing keeps your wallet from feeling the burn when the bets go wrong.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1784417490479",
-    "ts": "2026-07-18T23:31:30.479Z",
-    "text": "Check liquidity depth before diving into any memecoin. Thin liquidity can lead to extreme price volatility and potential slippage that eats into your trades. Aim for tokens with robust liquidity pools; it translates to better entry and exit opportunities.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
