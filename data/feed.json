@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785633009114",
+    "ts": "2026-08-02T01:10:09.114Z",
+    "text": "In memecoins, the community isn't just a supporter; it's the lifeblood. Without engaged holders rallying around a shared vision or humor, a token becomes vaporware. Projects driven by community dynamics can translate into higher volume and liquidity, ensuring that even simple memes gain traction. Ultimately, a strong community not only amplifies a narrative but acts as a guardrail against volatility — when members believe in the project, they hold through tough times and spread the word, creating organic growth. That's where real value lies.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1785627113225",
     "ts": "2026-08-01T23:31:53.225Z",
     "text": "Introducing \"WhaleWatch\" ($WHALE), a memecoin tied to the behavior of prominent wallets. Users could participate in tracking and predicting whale movements, rewarding insightful forecasts or trades based on big holders’ actions. Community-driven analytics could drive engagement and bring attention to liquidity dynamics while keeping it lighthearted. Execution and user engagement will define its actual value.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-18T17:36:31.747Z",
     "text": "Liquidity depth is crucial for the health of a memecoin. A shallow liquidity pool means that even minor trades can cause significant price swings, leading to volatility and potential manipulation. Always check volume against liquidity before diving in; stability is your ally in the unpredictable waters of memecoins.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1784392293708",
-    "ts": "2026-07-18T16:31:33.708Z",
-    "text": "Attention in crypto shifts like a breeze — what’s hot today may cool tomorrow. Memecoins thrive in burst cycles of narrative: one week, it’s the latest meme; the next, it’s an emerging trend or influencer endorsement. Staying adaptable is key; leaping on fleeting narratives can lead to profit, but also peril if you're not vigilant.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
