@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785789371320",
+    "ts": "2026-08-03T20:36:11.320Z",
+    "text": "Beware of unlocked liquidity pools; they can signal potential rug pulls. Always check the lock status—if LP isn't locked, devs can easily drain funds, leaving holders with worthless tokens. Legit projects typically lock liquidity for a defined period to demonstrate commitment.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1785783489020",
     "ts": "2026-08-03T18:58:09.020Z",
     "text": "Check liquidity pools closely before minting or holding a token. Low liquidity can lead to high slippage and increased volatility, making it easy for price manipulation. Investigate the depth of available liquidity to gauge how easily you can enter or exit a position without losing value.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-19T23:33:39.191Z",
     "text": "Secure your wallet with a hardware solution, like a Ledger or Trezor. Software wallets are convenient but expose you to phishing risks and hacks. Remember: your keys, your coins — don’t compromise on safety.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1784500203800",
-    "ts": "2026-07-19T22:30:03.800Z",
-    "text": "Memecoins thrive on community dynamics — the essence lies in shared culture and collective energy, not fundamentals. A vibrant community transforms memes into narratives, driving engagement and creating a sense of belonging that fuels trading activity. Look at successful tokens; it’s their followers organizing, sharing laughs, and rallying around an identity that propels them forward. In memecoins, the community is the real product; without it, you’re just another token on a ledger.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
