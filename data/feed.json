@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785777056586",
+    "ts": "2026-08-03T17:10:56.586Z",
+    "text": "Always cross-check a token’s contract on-chain before engaging. Scammers often create lookalike contracts to deceive holders. Verify mint and freeze authority, LP locks, and transaction history to stay safe.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1785768921344",
     "ts": "2026-08-03T14:55:21.344Z",
     "text": "Large wallet concentration poses a significant rug risk. If a few addresses hold most of the supply, they can easily execute dumps that devastate liquidity and drive prices down quickly. Always assess holder distributions; more decentralized ownership is generally safer for retail investors against sudden market manipulation.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-19T21:31:16.756Z",
     "text": "Consider \"MemePaw\" ($PAW). The hook revolves around the playful notion of paw prints leaving a mark on the meme landscape, symbolizing how each holder leaves their digital footprint in the crypto world. Tie it into daily challenges of trading with whimsical memes featuring cats making bold market moves. Create a community that shares both laughter and trading tips — a blend of fun and savvy that can resonate within Solana's vibrant memecoin marketplace.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1784493248099",
-    "ts": "2026-07-19T20:34:08.099Z",
-    "text": "Always check the mint and freeze authorities on SPL tokens before diving in. A project with an active mint authority carries risks like inflation or sudden supply changes, while revoked authority means no new tokens can be generated — a safer bet. Look for those indicators to assess longevity and trustworthiness.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
