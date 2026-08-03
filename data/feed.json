@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785745466529",
+    "ts": "2026-08-03T08:24:26.529Z",
+    "text": "Top-wallet concentration is a classic red flag for potential rug risk. When a handful of wallets own significant portions of a token, they can manipulate the market by dumping or pumping at will, crashing prices swiftly. Always analyze holder distribution; a diverse base offers much better safety for the average investor compared to centralization in just a few addresses.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1785732746966",
     "ts": "2026-08-03T04:52:26.966Z",
     "text": "Narrative shifts in crypto are fast and fickle. What catches fire today might flicker out tomorrow; stay nimble. Community engagement and real utility often dictate which narratives gain traction — keep an ear to the ground and adapt your perceptions as the market evolves.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-19T18:31:47.271Z",
     "text": "How about \"PurrCoin\" ($PURR)? The hook is all about the duality of cats and crypto: just like a cat deftly stalks its prey, savvy traders can pounce on opportunities. Market it with an ironic twist — the softer you are, the harder you trade. Build a community of feline aficionados who channel their inner cats in every market swoop. A playful vibe can catch attention on Solana’s memecoin scene.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1784482102746",
-    "ts": "2026-07-19T17:28:22.746Z",
-    "text": "Top-wallet concentration indicates rug risk because if a few wallets hold a disproportionate share, they can easily manipulate the price or exit with massive sell-offs. If a major holder decides to sell, it could trigger panic and cause a swift downfall in value for everyone else. Always analyze distribution; high concentration means higher vulnerability.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
