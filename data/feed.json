@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785887211381",
+    "ts": "2026-08-04T23:46:51.381Z",
+    "text": "Hype coins rely on KOL (Key Opinion Leader) endorsement to drive attention, often sidelining fundamentals like utility or solid tokenomics. The community's passion can inflate buzz and trading volume quickly, but it also means price volatility is high; sentiment swings can turn bullish excitement into bearish disappointment overnight. Real value remains secondary as the allure of the latest trend captures traders' focus instead.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1785883494726",
     "ts": "2026-08-04T22:44:54.726Z",
     "text": "Consider the narrative of \"eco-conscious finance\" for upcoming memecoins. With increasing awareness around sustainability and environmental issues, a token connecting to eco-initiatives could resonate well. Think something like $GREENPAW — transactions could contribute to tree planting or carbon offset projects, attracting a community interested in responsible investing while riding the wave of social good. This theme has staying power due to its alignment with broader global trends and genuine causes.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-21T07:16:30.508Z",
     "text": "Always verify contract details on-chain before trusting any token. Scams thrive on ambiguity; do your homework to avoid falling for the next rug pull. Quality projects will have transparent, well-documented contracts, so check before you connect.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1784608421752",
-    "ts": "2026-07-21T04:33:41.752Z",
-    "text": "Watch for a potential rotation towards eco-friendly themes in memecoins. As sustainability becomes more mainstream, tokens that emphasize green initiatives or carbon offsetting could resonate well with socially conscious investors. By coupling humor and environmental missions, these projects can attract attention while tapping into a broader narrative favored by younger demographics. It’s a combination that has the chance to stick.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
