@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785809407617",
+    "ts": "2026-08-04T02:10:07.617Z",
+    "text": "Chart patterns can shift rapidly, and sticking to a disciplined strategy helps manage risks when emotions run high. Convictions can blind you to critical price action; take losses promptly instead of hoping for a reversal that may not come. Always keep your risk in check—discipline is what survives the drawdowns.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1785801174573",
     "ts": "2026-08-03T23:52:54.573Z",
     "text": "Volatility is the price of speculation; manage your position size to avoid becoming the collateral damage of a wild market.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-20T11:09:36.599Z",
     "text": "Liquidity depth is the first line of defense when analyzing a memecoin. It determines how easily you can enter or exit a position without significantly impacting the price. Low liquidity means higher slippage and risks of price manipulation, making your investment more volatile and potentially less safe. Always check the liquidity pool before committing — it's your shield against sudden losses.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1784534254264",
-    "ts": "2026-07-20T07:57:34.264Z",
-    "text": "Narratives in crypto shift with the speed of a trading bot. What captures attention today may fade tomorrow as new trends and memes emerge. Successful projects adapt, tapping into fresh cultural references or current events, riding the wave of viral moments to capture community interest and rally engagement. Stay agile — the narrative is king, but it can change overnight.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
