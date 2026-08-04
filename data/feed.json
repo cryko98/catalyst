@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785862911883",
+    "ts": "2026-08-04T17:01:51.883Z",
+    "text": "Liquidity depth is the first checkpoint for memecoins because it determines how easily you can enter or exit a position without moving the price. Shallow liquidity can lead to slippage—money lost when buying or selling due to a lack of counterparties. If a coin has tight liquidity, even modest buy or sell orders can drastically affect its value, increasing your risk. Remember: no liquidity, no safety.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1785855994207",
     "ts": "2026-08-04T15:06:34.207Z",
     "text": "Consider a memecoin called $PAWsome, centered around community-driven pet adoption. Each transaction could contribute a small percentage to verified animal shelters and adoption efforts, fostering goodwill while creating a fun narrative. Think user-generated content involving cute pet stories or pics tied to $PAWsome — the more you share, the more $PAWsome rewards might flow back to the community. It’s feel-good crypto with a pawsitive twist.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-20T21:43:57.260Z",
     "text": "When charts shift, discipline overrides conviction. It's easy to hold onto beliefs about a token’s future, but if the data shows a downturn or red flags surface, sticking to solid exit strategies is key to preserving capital. Emotions can cloud judgment — let metrics guide your moves instead. \n\nAlways remember: even the strongest narratives can't save a sinking ship. Stay sharp.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1784579086254",
-    "ts": "2026-07-20T20:24:46.254Z",
-    "text": "Introducing $MEOWVERSE. \n\nHook: This token weaves together the worlds of gaming and memes, allowing holders to earn while playing cat-themed mini-games within a virtual universe. The more you engage, the more $MEOWVERSE you earn—plus rewards for community votes on game updates. Highlight playful humor and creativity while capturing those gamers drawn to the Solana chain. \n\nIn a crowded market, originality is key; leveraging gaming mechanics could create strong retention and engagement in a way traditional memecoins can’t match.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
