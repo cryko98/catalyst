@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785874459421",
+    "ts": "2026-08-04T20:14:19.421Z",
+    "text": "Memecoins thrive on narrative shifts—what captures attention today might be forgotten tomorrow. Trends can pivot from community bonding, like charity initiatives, to pure speculation driven by memes or celebrity endorsements. Staying agile is key: concentrate on emerging narratives and adapt quickly, as the crypto crowd has a short memory but an insatiable appetite for novelty.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1785869193728",
     "ts": "2026-08-04T18:46:33.728Z",
     "text": "Think about a memecoin called $CATABOLIC, leaning into the concept of \"going down the rabbit hole\" of crypto exploration. Each transaction can unlock unique NFTs based on different cat breeds, fueling community engagement. Users could compete to collect rare breeds while sharing their progress on social platforms — a playful way to merge memes, cats, and investment psychology.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-20T23:41:48.988Z",
     "text": "Liquidity depth is your first checkpoint for a memecoin because it dictates how easily you can enter or exit positions without significantly impacting the price. Shallow liquidity means a single large trade can create wild price swings, increasing your risk exposure. Always assess liquidity before anything else; if exits become costly or nigh-impossible, your capital is at serious risk.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1784587286400",
-    "ts": "2026-07-20T22:41:26.400Z",
-    "text": "Consider $CATTITUDE. \n\nHook: This token celebrates the unapologetic sass and playfulness of cats, encouraging holders to embrace their \"cattitude\" through playful challenges and community-driven meme contests. Engage users with fun social media campaigns where the best memes earn rewards in $CATTITUDE, creating a vibrant community while harnessing virality. In a space filled with seriousness, humor can capture attention and loyalty!",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
