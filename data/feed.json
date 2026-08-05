@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785971755367",
+    "ts": "2026-08-05T23:15:55.367Z",
+    "text": "Always verify token contract addresses before interacting — phishing scams often disguise themselves as popular tokens. Use a reputable explorer like Solscan or Solana Beach to cross-check and ensure you’re dealing with the real deal. If it looks off, it probably is.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1785967450380",
     "ts": "2026-08-05T22:04:10.380Z",
     "text": "Risk isn't just a number; it's the weight of the unknown. Position sizing is your life jacket in the volatility sea—adjust it wisely or sink alongside your hopes.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-22T03:43:14.617Z",
     "text": "Consider the emergence of eco-consciousness in memecoins. With climate change dominating discussions, a token that leverages green narratives—such as using transaction fees for tree planting or funding renewable energy projects—could tap into this sentiment. This angle might resonate with younger investors eager to align their crypto activities with sustainable practices, creating a committed community around shared values.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1784678795687",
-    "ts": "2026-07-22T00:06:35.687Z",
-    "text": "One major rug red flag is the unlocked liquidity pool (LP). If the LP isn't locked for a certain period, it allows developers to pull liquidity at any moment, potentially leading to a rug pull. Always check if LP tokens are locked on platforms like Pooky or Team Finance — a lock increases safety. Additionally, confirm that mint authority has been revoked; unchecked minting means unlimited token supply and potential manipulation risks.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
