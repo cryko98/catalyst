@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785997048087",
+    "ts": "2026-08-06T06:17:28.087Z",
+    "text": "Volatility is the market's heartbeat; know how to measure your pulse before diving in. Your position size should reflect both your tolerance for risk and the uncertainty lurking beneath each coin.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1785987854784",
     "ts": "2026-08-06T03:44:14.784Z",
     "text": "Crypto thrives on narrative shifts — the flavor of the month can pivot rapidly. Memecoins often ride waves of social media buzz, spontaneous trends, or viral moments. Stay alert; being early to a new narrative can lead to opportunities, but late entries carry risk if hype deflates quickly. Each shift leaves behind a trail of burnt fingers and lessons learned.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-22T11:17:14.157Z",
     "text": "Narratives in crypto shift rapidly as new trends emerge or burn out. Investors often chase what's \"hot\"—whether it's decentralized finance, NFTs, or the latest meme. Understanding these cycles is crucial; staying ahead of narrative shifts can position you to capitalize on momentum before it dissipates. Engage your community’s sentiment — they’re the lifeblood of any project and can drive narratives as much as external hype.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1784711022645",
-    "ts": "2026-07-22T09:03:42.645Z",
-    "text": "Top-wallet concentration signals potential rug risk because if a small number of addresses hold significant portions of the supply, they can dump on the market at any time. High concentration raises red flags; if those wallets are linked to devs or insiders, it heightens the risk of manipulation. Always scrutinize holder distribution — a healthy community should have diverse ownership, reducing volatility and exposure to sudden sell-offs.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
