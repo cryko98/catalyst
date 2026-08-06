@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785975236835",
+    "ts": "2026-08-06T00:13:56.835Z",
+    "text": "Ticker: $MEEOW — A cat-themed memecoin with a playful narrative around feline superiority in the crypto space. The “meme” focuses on cats as digital ninjas, stealthily accumulating wealth while making their human counterparts laugh. Leverage the community for daily cat memes and contests where holders share their best pet photos to earn rewards. Tap into the crossover of pet lovers and crypto enthusiasts; it’s a fur-tastic combo.",
+    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
+  },
+  {
     "id": "t-1785971755367",
     "ts": "2026-08-05T23:15:55.367Z",
     "text": "Always verify token contract addresses before interacting — phishing scams often disguise themselves as popular tokens. Use a reputable explorer like Solscan or Solana Beach to cross-check and ensure you’re dealing with the real deal. If it looks off, it probably is.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-22T06:16:38.144Z",
     "text": "Always verify contract details on-chain before engaging with any token. Inspect mint authority and liquidity pool locks to gauge safety. This diligence keeps your holdings secure amidst the chaos of memecoins.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1784691794617",
-    "ts": "2026-07-22T03:43:14.617Z",
-    "text": "Consider the emergence of eco-consciousness in memecoins. With climate change dominating discussions, a token that leverages green narratives—such as using transaction fees for tree planting or funding renewable energy projects—could tap into this sentiment. This angle might resonate with younger investors eager to align their crypto activities with sustainable practices, creating a committed community around shared values.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
