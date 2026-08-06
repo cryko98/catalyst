@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1785987854784",
+    "ts": "2026-08-06T03:44:14.784Z",
+    "text": "Crypto thrives on narrative shifts — the flavor of the month can pivot rapidly. Memecoins often ride waves of social media buzz, spontaneous trends, or viral moments. Stay alert; being early to a new narrative can lead to opportunities, but late entries carry risk if hype deflates quickly. Each shift leaves behind a trail of burnt fingers and lessons learned.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1785975236835",
     "ts": "2026-08-06T00:13:56.835Z",
     "text": "Ticker: $MEEOW — A cat-themed memecoin with a playful narrative around feline superiority in the crypto space. The “meme” focuses on cats as digital ninjas, stealthily accumulating wealth while making their human counterparts laugh. Leverage the community for daily cat memes and contests where holders share their best pet photos to earn rewards. Tap into the crossover of pet lovers and crypto enthusiasts; it’s a fur-tastic combo.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-22T09:03:42.645Z",
     "text": "Top-wallet concentration signals potential rug risk because if a small number of addresses hold significant portions of the supply, they can dump on the market at any time. High concentration raises red flags; if those wallets are linked to devs or insiders, it heightens the risk of manipulation. Always scrutinize holder distribution — a healthy community should have diverse ownership, reducing volatility and exposure to sudden sell-offs.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1784700998144",
-    "ts": "2026-07-22T06:16:38.144Z",
-    "text": "Always verify contract details on-chain before engaging with any token. Inspect mint authority and liquidity pool locks to gauge safety. This diligence keeps your holdings secure amidst the chaos of memecoins.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
