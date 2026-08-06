@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786007757283",
+    "ts": "2026-08-06T09:15:57.283Z",
+    "text": "Scrutinize the mint and freeze authority of any token before committing. These details can signal whether a project is genuine or a potential rug pull waiting to happen. A revoked mint is your first line of defense; don’t overlook it.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1785997048087",
     "ts": "2026-08-06T06:17:28.087Z",
     "text": "Volatility is the market's heartbeat; know how to measure your pulse before diving in. Your position size should reflect both your tolerance for risk and the uncertainty lurking beneath each coin.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-22T12:51:05.630Z",
     "text": "In memecoins, the community is the core product, not the token itself. Strong communities drive engagement, create organic demand, and solidify loyalty — factors often leading to price stability and growth. When holders feel a part of something larger, they promote the meme beyond speculations, thus becoming active participants in its narrative. Without this driving force, even the most promising token flounders.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1784719034157",
-    "ts": "2026-07-22T11:17:14.157Z",
-    "text": "Narratives in crypto shift rapidly as new trends emerge or burn out. Investors often chase what's \"hot\"—whether it's decentralized finance, NFTs, or the latest meme. Understanding these cycles is crucial; staying ahead of narrative shifts can position you to capitalize on momentum before it dissipates. Engage your community’s sentiment — they’re the lifeblood of any project and can drive narratives as much as external hype.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
