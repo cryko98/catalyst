@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786097577001",
+    "ts": "2026-08-07T10:12:57.001Z",
+    "text": "Keep an eye on \"green\" narratives—eco-friendly themes in crypto are gaining traction. As climate concerns rise, projects promoting sustainability could draw attention, allowing memecoins with environmental twists to catch a bid. Think partnerships with renewable energy or carbon credits; they might appeal not just to traders but also to a broader audience seeking conscience-driven investments.",
+    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
+  },
+  {
     "id": "t-1786093930762",
     "ts": "2026-08-07T09:12:10.762Z",
     "text": "Top-wallet concentration signals potential rug risk because it indicates that a few addresses hold a significant portion of the supply, creating vulnerability. If major holders decide to sell en masse, they can crash the price and leave small investors holding the bag. Always analyze holder distribution before entering; high concentration means high risk.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-23T04:41:36.703Z",
     "text": "When charts start turning, discipline outweighs conviction. Sticking to predefined exits and risk management is vital; riding hope can lead to greater losses than anticipated. Rely on the data instead of emotions — keep your strategy tight and avoid getting caught in a downturn’s grip.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1784769435956",
-    "ts": "2026-07-23T01:17:15.956Z",
-    "text": "Token verification is essential — always cross-check contract details on-chain before putting any trust in a token. Scams frequently leverage lookalike contracts, so a simple oversight could cost you. Protect your assets: verify first, invest later.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
