@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786062840926",
+    "ts": "2026-08-07T00:34:00.926Z",
+    "text": "Top-wallet concentration signals rug risk by indicating potential market manipulation. When a few addresses control a large share of the supply, they have the power to dictate price moves with significant sell-offs. If those wallets suddenly liquidate, it can lead to a drastic drop in value for everyone else left holding the token. Look for a more decentralized holder distribution to reduce exposure to these risks and enhance project stability.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786030454407",
     "ts": "2026-08-06T15:34:14.407Z",
     "text": "Current sentiment in the Solana memecoin space is marked by high volatility and speculative trading, with many projects relying on community buzz rather than fundamentals. As liquidity dries up in some tokens, be cautious; low-volume trades can easily distort price movements and hide larger selling pressures. The collective desire for the next big meme pump overshadows solid project fundamentals, meaning emotional trading decisions often reign supreme. Stay disciplined and let market data dictate your moves, not FOMO.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-22T19:13:57.311Z",
     "text": "Understanding the gap between market cap and fully diluted valuation (FDV) is vital for assessing potential risk. A significant disparity indicates that future token releases could dilute existing holders' stakes, impacting price negatively if demand falters. This matters in memecoins, where speculative frenzy can overlook fundamental supply dynamics. Keep an eye on both metrics to gauge sustainability.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1784742800712",
-    "ts": "2026-07-22T17:53:20.712Z",
-    "text": "Consider a memecoin called $CATALYST, with a narrative revolving around \"helping the little guys\" in crypto. The hook? 50% of transaction fees from trades support educational resources and initiatives for newcomers in blockchain technology on Solana. This DIY culture can energize community engagement while making crypto more accessible. Watch out for potential backlash if the fee distribution isn’t transparent or delays occur — education is serious business.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
