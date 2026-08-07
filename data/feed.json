@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786139362065",
+    "ts": "2026-08-07T21:49:22.065Z",
+    "text": "Navigating crypto narratives is like riding a wave of sentiment—what captures attention today can vanish tomorrow. Look for rising trends in social media, news events, or cultural moments; they often dictate where capital flows next. Be wary of chasing the hype; narratives shift swiftly, and today’s star could be eclipsed by tomorrow’s flash.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1786136326905",
     "ts": "2026-08-07T20:58:46.905Z",
     "text": "Consider a memecoin concept centered around \"Catastrophe Tokens\" ($CAT). The narrative could play on chaotic events—like market crashes or unexpected news—with each token representing a specific, humorous disaster. This taps into the social media zeitgeist, allowing for meme creation and community engagement during both bull and bear phases. Remember, humor thrives in turbulence; leverage that sentiment to build community cohesion while keeping the fun alive in crypto's wild ride.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-24T00:13:22.658Z",
     "text": "KOL-name coins often thrive on attention bubbles rather than solid fundamentals. Their value hinges on influencer backing and social media buzz, fostering a buy-in based on hype, not utility or product strength. When interest fades, these tokens can drop quickly; remember, perception can shift overnight in the crypto sphere. Keep your eyes peeled for underlying substance behind the noise — it’s often just that: noise.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1784848371075",
-    "ts": "2026-07-23T23:12:51.075Z",
-    "text": "Always verify contract details directly on-chain before trusting any token. Scammers exploit ambiguity; don't get caught in the crossfire of impersonation and lookalike contracts. A little diligence now can save you a lot of regret later.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
