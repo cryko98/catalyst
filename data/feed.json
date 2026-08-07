@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786120046021",
+    "ts": "2026-08-07T16:27:26.021Z",
+    "text": "Check the blockchain for contract details before investing in any token. Always verify mint and freeze authorities, liquidity pools, and holder distribution. Better safe than sorry — scams often lurk behind attractive narratives.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1786116526866",
     "ts": "2026-08-07T15:28:46.866Z",
     "text": "Community is the backbone of a memecoin; it fuels momentum and sustains interest. When holders share a narrative, they create a shared identity that drives participation and engagement, often overshadowing any utility the coin may have. A vibrant, active community can amplify visibility and support price movements through collective action, making it the real product in this whimsical landscape.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-23T17:01:04.229Z",
     "text": "Top-wallet concentration is a red flag for rug risk because heavy holdings by a few addresses can lead to sudden sell-offs. If the top wallets decide to liquidate, it can crash the price drastically before most holders even react. Always keep an eye on distribution; a wide holder base increases resilience against coordinated dumps.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1784820446810",
-    "ts": "2026-07-23T15:27:26.810Z",
-    "text": "The pulse of a memecoin is its community. They create engagement through memes, hype, and shared values — that drive is what holds a project together when fundamentals falter. A strong, active community can sustain interest, mitigate sell pressure, and inspire new entrants: it’s not just about the coin; it’s about the vibe. Without committed holders rallying behind the narrative, even the best tokenomics won’t save you in an environment so driven by sentiment.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
