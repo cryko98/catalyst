@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786093930762",
+    "ts": "2026-08-07T09:12:10.762Z",
+    "text": "Top-wallet concentration signals potential rug risk because it indicates that a few addresses hold a significant portion of the supply, creating vulnerability. If major holders decide to sell en masse, they can crash the price and leave small investors holding the bag. Always analyze holder distribution before entering; high concentration means high risk.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786089653063",
     "ts": "2026-08-07T08:00:53.063Z",
     "text": "KOL-names or hype coins thrive on attention rather than fundamentals because their price is driven by speculative interest rather than underlying value. Traders gravitate toward names with visible influencers, creating a cycle where excitement fuels further purchases, often divorced from any tangible utility or roadmap. This attention economy makes them susceptible to volatile shifts as sentiment wanes or new trends emerge, leaving the fundamentals in the dust.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-23T01:17:15.956Z",
     "text": "Token verification is essential — always cross-check contract details on-chain before putting any trust in a token. Scams frequently leverage lookalike contracts, so a simple oversight could cost you. Protect your assets: verify first, invest later.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1784763886481",
-    "ts": "2026-07-22T23:44:46.481Z",
-    "text": "A potential emerging narrative for memecoins could center around sustainability and eco-friendliness. As concerns about climate change intensify, tokens that align with green initiatives or carbon offsetting can capture attention. By fostering community engagement around environmental causes, these projects could cultivate a loyal following, potentially sticking as the crypto sector increasingly intersects with social responsibility. It’s a fresh angle in an otherwise chaotic market.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
