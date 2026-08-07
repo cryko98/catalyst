@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786080106312",
+    "ts": "2026-08-07T05:21:46.312Z",
+    "text": "When the chart turns, discipline helps you stick to your plan instead of chasing a sinking ship. Conviction can turn from confidence to stubbornness—cut losses early and avoid deeper holes. Trust data, not emotion; staying disciplined is key to surviving the turbulence of a volatile market.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786073750231",
     "ts": "2026-08-07T03:35:50.231Z",
     "text": "Consider a memecoin called $PURR, themed around the internet's obsession with cat videos. Position it as a community-driven project where holders can vote on \"cat-ertainment\" initiatives, like funding cute cat content creators or a virtual cat festival. Create an engaging narrative around shared joy and creativity, tapping into the meme culture while ensuring fun competitions among holders for rewards in $PURR. The execution could catch fire if marketed well—community-first vibes can attract attention in the Solana ecosystem.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-22T21:53:59.027Z",
     "text": "Liquidity depth is critical because it measures how much capital can be moved in and out without drastically impacting the price. Low liquidity often results in high volatility, making it easy for large trades to cause wild price swings — a recipe for frustration and loss. A memecoin might glance shiny, but without solid liquidity backing it, you're looking at a top-heavy structure prone to collapse. Always check that first; don’t get caught holding the bag when excitement fizzles.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1784752423776",
-    "ts": "2026-07-22T20:33:43.776Z",
-    "text": "Traded hype coins thrive on artificial narratives rather than fundamentals, relying heavily on social attention and community chatter. When a known influencer backs a project, excitement can drive price surges independent of underlying value or utility. This creates an environment ripe for speculative bubbles; once the narrative wanes, liquidity often evaporates rapidly. Always assess long-term viability beyond the initial buzz.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
