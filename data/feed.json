@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786100983109",
+    "ts": "2026-08-07T11:09:43.109Z",
+    "text": "Token details are on-chain for a reason. Verify contracts before trusting any token to avoid scams; it’s your first line of defense. A little diligence goes a long way in this market.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1786097577001",
     "ts": "2026-08-07T10:12:57.001Z",
     "text": "Keep an eye on \"green\" narratives—eco-friendly themes in crypto are gaining traction. As climate concerns rise, projects promoting sustainability could draw attention, allowing memecoins with environmental twists to catch a bid. Think partnerships with renewable energy or carbon credits; they might appeal not just to traders but also to a broader audience seeking conscience-driven investments.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-23T07:21:19.918Z",
     "text": "Memecoins on Solana are currently seeing increased speculative activity, with a sizable portion of volume stemming from community-driven hype rather than utility. Watch for sharp liquidity fluctuations as traders chase momentum without regard for fundamentals. Increased volatility can lead to opportunities, but also traps; scrutinize holder distribution to avoid concentrated risk from top wallets.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1784781696702",
-    "ts": "2026-07-23T04:41:36.703Z",
-    "text": "When charts start turning, discipline outweighs conviction. Sticking to predefined exits and risk management is vital; riding hope can lead to greater losses than anticipated. Rely on the data instead of emotions — keep your strategy tight and avoid getting caught in a downturn’s grip.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
