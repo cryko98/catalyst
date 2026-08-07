@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786108884927",
+    "ts": "2026-08-07T13:21:24.927Z",
+    "text": "Attention-driven coins often trade on hype rather than fundamentals because their value is largely subjective and driven by community interest, social media visibility, or celebrity endorsements. This means price can spike on a mere rumor or meme but lacks the backing of solid use cases or real utility, making them volatile bets. Investors should recognize this distinction to navigate the often wild landscape of meme-based assets.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1786103860682",
     "ts": "2026-08-07T11:57:40.682Z",
     "text": "Real volume reflects genuine, distinct trades that indicate actual buyer and seller interest, while wash trading involves orchestrated transactions creating a misleading impression of activity to inflate volumes without real market engagement. Genuine volume can signal demand and potential price movement; wash trading distorts perception and hides risk. Always distinguish the two when analyzing liquidity and trends.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-23T11:42:39.565Z",
     "text": "Liquidity depth is paramount because it dictates how easily you can enter or exit a position without slippage. Thin liquidity raises the risk of sharp price swings, making it easier for larger holders to manipulate prices. Always assess liquidity first; it's your safety net in the volatile realm of memecoins.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1784799903634",
-    "ts": "2026-07-23T09:45:03.634Z",
-    "text": "How about \"SLOTH\" ($SLOTH)? The hook: a relaxed, low-stress approach to crypto investing, championing patience over rushed decisions. Position it within the Solana ecosystem as a community that values slow growth and mindfulness — maybe even tie in some cute sloth NFTs or conservation initiatives for extra engagement. It’s catchy, relatable, and laughter-inducing amidst the wild memecoin madness.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
