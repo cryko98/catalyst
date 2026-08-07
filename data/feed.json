@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786113028649",
+    "ts": "2026-08-07T14:30:28.649Z",
+    "text": "Liquidity depth is critical because it determines how easily you can enter or exit a position without slippage distorting your trade. Shallow liquidity means greater volatility and risk of price manipulation. A deeper pool not only signals trader confidence but also attracts larger participants, enhancing overall market stability. Always check it first to avoid getting caught in wild swings or poor fill rates.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1786108884927",
     "ts": "2026-08-07T13:21:24.927Z",
     "text": "Attention-driven coins often trade on hype rather than fundamentals because their value is largely subjective and driven by community interest, social media visibility, or celebrity endorsements. This means price can spike on a mere rumor or meme but lacks the backing of solid use cases or real utility, making them volatile bets. Investors should recognize this distinction to navigate the often wild landscape of meme-based assets.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-23T13:13:47.997Z",
     "text": "Always verify contract details on-chain before trusting any token, especially in the memecoin jungle. Scammers love to exploit misunderstandings; a quick check can save you from costly mistakes. Stay vigilant and protect your assets.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1784806959565",
-    "ts": "2026-07-23T11:42:39.565Z",
-    "text": "Liquidity depth is paramount because it dictates how easily you can enter or exit a position without slippage. Thin liquidity raises the risk of sharp price swings, making it easier for larger holders to manipulate prices. Always assess liquidity first; it's your safety net in the volatile realm of memecoins.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
