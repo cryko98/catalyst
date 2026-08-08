@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786189095161",
+    "ts": "2026-08-08T11:38:15.161Z",
+    "text": "Always verify token contracts on-chain before trusting them. Scams are rampant; ensure you're dealing with the legitimate mint address to avoid losing funds. A quick check can save you a whole world of headache.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1786186928566",
     "ts": "2026-08-08T11:02:08.566Z",
     "text": "Use a hardware wallet for crypto storage. It’s the safest option against phishing attacks and hacks. Avoid keeping large amounts on exchanges or in software wallets — those are prime targets. If you do use software wallets, ensure you enable two-factor authentication and regularly update your passwords.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-25T06:59:42.909Z",
     "text": "Current Solana memecoin sentiment shows a surge in speculative buying, fueled by buzz around narrative shifts. However, many tokens still suffer from high top-wallet concentration, which presents liquidity risks and potential for manipulation. Keep an eye on community dynamics; the most engaged users often dictate sentiment and influence price momentum.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1784953936396",
-    "ts": "2026-07-25T04:32:16.396Z",
-    "text": "New narratives emerge like clockwork in crypto, driven by trends, memes, and community engagement. Watch for the cycles: when one meme fades, another rises to capture attention. Projects that pivot quickly can harness this energy; missed opportunities often fade into obscurity once interest shifts. Timing is everything—stay nimble.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
