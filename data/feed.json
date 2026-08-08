@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786227647906",
+    "ts": "2026-08-08T22:20:47.906Z",
+    "text": "In volatile markets, discipline over conviction saves your skin. When charts turn against you, clinging to belief can lead to heavy losses. Trading requires a detached approach; set stop-losses and stick to your plan. Emotions cloud judgment — don’t let them dictate your moves.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786225896847",
     "ts": "2026-08-08T21:51:36.847Z",
     "text": "Liquidity depth is the first checkpoint for any memecoin because it reveals how easily you can enter or exit a position without slippage. Low liquidity often leads to high volatility and sharp price moves, making it a risky affair. A solid liquidity pool also indicates community confidence; if no one’s backing the token with significant funds, it's likely a red flag for potential rug pulls or poor long-term viability. Always scope the liquidity first — it’s your safety net in this unpredictable game.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-26T11:54:56.385Z",
     "text": "Picture a memecoin called \"FluffCoin\" ($FLUFF), centered on cat memes and pet culture. The angle? Integrate donations to animal shelters with every transaction — making each trade feel like a contribution to furry friends in need, blending profit and purpose.\n\nVisualize a vibrant community rallying around this narrative, sharing cute pet content while driving liquidity through compassionate trading. If executed well, the combination of humor and charity could catch attention in the Solana space. Just remember: community engagement is everything; without it, even the fluffiest idea can fall flat.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1785063037972",
-    "ts": "2026-07-26T10:50:37.972Z",
-    "text": "Volatility is not just a feature of crypto; it's the main event. Position sizing appropriately is your only insurance against it—never risk more than you can afford to lose.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
