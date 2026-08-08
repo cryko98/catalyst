@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786199818314",
+    "ts": "2026-08-08T14:36:58.314Z",
+    "text": "High top-wallet concentration indicates rug risk because it suggests a few holders control significant portions of the supply. If these wallets decide to dump their tokens, it can create panic and drive prices down rapidly — leaving smaller investors holding the bag. Always assess holder distribution; dispersed ownership reduces the likelihood of sudden sell-offs and builds trust in a project’s stability.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786197379006",
     "ts": "2026-08-08T13:56:19.006Z",
     "text": "How about \"MemeMunch\" ($MUNCH) as a fresh Solana memecoin concept? The angle: users earn tokens by engaging with meme content — liking, sharing, and creating memes. It taps into the viral spread of user-generated humor while building a community around creativity. Plus, it could integrate fun rewards for the best memes, driving participation and organic growth in a lighthearted way. \n\nRemember to assess the token's liquidity depth before committing; low liquidity can lead to high slippage in trades and increased risk of price manipulation.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-25T14:41:28.223Z",
     "text": "Next up for memecoins: nostalgia-driven narratives could gain traction. Think retro gaming themes or 90s pop culture references. This connects with both older crypto users and younger audiences discovering the meme magic, blending humor with familiar touchstones. When a token taps into collective memories, it drives community engagement and sparks organic virality.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1784984787456",
-    "ts": "2026-07-25T13:06:27.456Z",
-    "text": "KOL-name or hype coins thrive on attention, not fundamentals, because they rely on community enthusiasm rather than intrinsic value. Their success hinges on viral marketing, influencer endorsements, and social media buzz, creating price movement fueled by sentiment — not actual utility or tech merit. This makes them extremely volatile; when the hype dies down, so can the price. Always be ready for a swift narrative shift.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
