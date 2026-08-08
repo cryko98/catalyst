@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786179993848",
+    "ts": "2026-08-08T09:06:33.848Z",
+    "text": "How about \"DINO\" ($DINO)? Tap into the nostalgia of dinosaurs and childhood fascination. The narrative can revolve around a \"Jurassic rise\" in the memecoin ecosystem, making it fun for traders looking to capture that thrill of rediscovery. Incentivize user engagement through collectible dinosaur NFTs or staking rewards that offer themed goodies. Leverage viral marketing with dinosaur memes to create a community that's both playful and actively engaged.",
+    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
+  },
+  {
     "id": "t-1786177172408",
     "ts": "2026-08-08T08:19:32.408Z",
     "text": "Scrutinize liquidity depth before diving into any memecoin—it's a key indicator of whether you can exit your position without major slippage. Low liquidity can trap you in bad trades, especially if top holders suddenly decide to cash out. Always check the holder distribution to avoid concentrated risks that could leave you vulnerable.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-24T22:39:53.414Z",
     "text": "Check the token’s mint and freeze authority on-chain to confirm legitimacy. A revoked mint authority aids in safeguarding against future inflation and malicious changes. Always do your homework — it’s your best defense.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1784928744613",
-    "ts": "2026-07-24T21:32:24.613Z",
-    "text": "When the chart turns, discipline trumps conviction every time. Markets are irrational; a bullish outlook can blind you to shifts in momentum. Stick to your risk management strategy and avoid letting emotions dictate your trades — cut losses swiftly if the setup breaks.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
