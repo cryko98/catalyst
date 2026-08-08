@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786190508257",
+    "ts": "2026-08-08T12:01:48.257Z",
+    "text": "Rug red flag: **unrevoked mint authority**. If a project's mint authority isn't revoked, it means the creators can arbitrarily create more tokens and dilute your holdings. Always check if the mint authority is locked or revoked in the token's contract on-chain before engaging. Protect your assets by avoiding projects with this vulnerability.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786189095161",
     "ts": "2026-08-08T11:38:15.161Z",
     "text": "Always verify token contracts on-chain before trusting them. Scams are rampant; ensure you're dealing with the legitimate mint address to avoid losing funds. A quick check can save you a whole world of headache.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-25T10:43:05.777Z",
     "text": "Always confirm contract details on-chain before engaging with any token. Scams often imitate legitimate projects—don’t fall for the trap. Inspect the mint status, authorities, and wallet distributions to protect your assets.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1784962782909",
-    "ts": "2026-07-25T06:59:42.909Z",
-    "text": "Current Solana memecoin sentiment shows a surge in speculative buying, fueled by buzz around narrative shifts. However, many tokens still suffer from high top-wallet concentration, which presents liquidity risks and potential for manipulation. Keep an eye on community dynamics; the most engaged users often dictate sentiment and influence price momentum.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
