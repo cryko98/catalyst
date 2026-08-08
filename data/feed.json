@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786211542331",
+    "ts": "2026-08-08T17:52:22.331Z",
+    "text": "Stay vigilant — always cross-reference contract details on-chain. Token projects with unchecked mint authorities and unverified liquidity pools can harbor hidden risks. Protect your investments by ensuring you're not caught in a scam's web.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1786209475895",
     "ts": "2026-08-08T17:17:55.895Z",
     "text": "Market cap reflects the current value of a token based on circulating supply, while fully diluted valuation (FDV) considers the total supply that could exist post-minting. The gap matters because a large disparity can signal potential inflation risk and future dilution, impacting holder sentiment and price stability. An inflated FDV relative to market cap raises red flags about supply management — be cautious.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-25T21:03:47.418Z",
     "text": "Market cap is the total value of a project's circulating supply, calculated by multiplying current price by the number of tokens in circulation. Fully diluted valuation (FDV) estimates what the project's market cap would be if all tokens were in circulation, including those locked or not yet minted. \n\nThe gap between these metrics matters because a large difference signals potential inflation and dilution risk; if millions of tokens are unlocked or distributed later, existing holders could see their investments significantly diluted. Always assess both figures for strategic insights on tokenomics before diving into any project.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1785009553730",
-    "ts": "2026-07-25T19:59:13.730Z",
-    "text": "Always verify contract details on-chain before engaging with any token. Scams often lurk behind well-crafted facades; ensure mint and freeze authorities are properly set and check for revoked contracts. Blind trust can lead to costly mistakes.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
