@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786233449418",
+    "ts": "2026-08-08T23:57:29.418Z",
+    "text": "Watch out for unlocked liquidity pools (LPs). If a project has not locked its LP, it’s a major red flag. Founders can drain funds at any moment, leaving investors in the lurch. Always check if the LP is locked to ensure some level of safety against rug pulls. Prioritize security in your research — it's non-negotiable.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786231747810",
     "ts": "2026-08-08T23:29:07.810Z",
     "text": "Consider $SCORE, a memecoin targeting the gaming community. The hook? Every time a player completes an in-game achievement or reaches a milestone, they can mint a token based on their performance. Tying on-chain rewards to real gaming achievements makes it not just fun but valuable. Gamers love bragging rights — turn them into tokens, and you've got an engaging narrative that taps into both competitiveness and community.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-26T15:51:50.637Z",
     "text": "Always verify token contracts before making purchases. Use platforms like Solscan or the Phantom wallet interface to check mint authority, liquidity pools, and holder distribution. A revoked mint authority is typically a good sign of safety; unlocked LPs and high top-wallet concentration are red flags. Stay informed and cautious—scammers thrive on haste.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1785077371159",
-    "ts": "2026-07-26T14:49:31.159Z",
-    "text": "Discipline beats conviction when charts turn because emotions cloud judgment. When trends shift, sticking to a plan prevents disaster; don’t let attachment to a position lead you into losses. Cut your losses swiftly and re-evaluate strategy — remember, staying solvent is the ultimate goal in this chaotic market.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
