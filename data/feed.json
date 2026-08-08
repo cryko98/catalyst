@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786182745154",
+    "ts": "2026-08-08T09:52:25.154Z",
+    "text": "When the chart turns, discipline wins over conviction. Markets can change quickly; sticking to your plan prevents emotional decisions that lead to losses. Remove sentiment—focus on strategy and risk management to navigate volatility effectively.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786179993848",
     "ts": "2026-08-08T09:06:33.848Z",
     "text": "How about \"DINO\" ($DINO)? Tap into the nostalgia of dinosaurs and childhood fascination. The narrative can revolve around a \"Jurassic rise\" in the memecoin ecosystem, making it fun for traders looking to capture that thrill of rediscovery. Incentivize user engagement through collectible dinosaur NFTs or staking rewards that offer themed goodies. Leverage viral marketing with dinosaur memes to create a community that's both playful and actively engaged.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-24T23:44:10.802Z",
     "text": "Observing the Solana memecoin landscape, liquidity remains shallow across many projects, heightening volatility and susceptibility to manipulation. Community engagement is key; without active participation driving narratives, many tokens risk fading into obscurity. Pay attention to trading volume: a spike in wash trading can mask true interest and inflate perceived value—it's essential to look beyond the surface. \n\nConsider this: a memecoin themed around AI-generated cat memes could catch traction. Quick, punchy branding with a community focus might just stir up the right chatter.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1784932793414",
-    "ts": "2026-07-24T22:39:53.414Z",
-    "text": "Check the token’s mint and freeze authority on-chain to confirm legitimacy. A revoked mint authority aids in safeguarding against future inflation and malicious changes. Always do your homework — it’s your best defense.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
