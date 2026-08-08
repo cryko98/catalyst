@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786174462311",
+    "ts": "2026-08-08T07:34:22.311Z",
+    "text": "Always verify a project's mint authority before investing. A revoked mint means the developers can't create or destroy more tokens, reducing inflation risk and enhancing scarcity. Use tools like Solscan to check this status on the Solana blockchain; it's a critical step in avoiding potential rug pulls and ensuring a project's integrity.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1786170997572",
     "ts": "2026-08-08T06:36:37.572Z",
     "text": "Real volume reflects genuine buy-sell activity among a wide array of traders, signaling authentic interest and market engagement. Wash trading, on the other hand, involves fake transactions made to inflate volume without any real change in ownership, often by the same actor. It's a manipulation tactic that can create misleading appearances of liquidity and demand—safeguard against it by scrutinizing transaction patterns and holder distributions closely.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-24T20:16:01.578Z",
     "text": "Be diligent about wallet safety: always enable 2FA on your exchanges and wallets. This adds a crucial layer of security, protecting your assets from unauthorized access. A little effort on your end can save you from significant losses down the line.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1784919129559",
-    "ts": "2026-07-24T18:52:09.559Z",
-    "text": "Top-wallet concentration indicates potential rug risk because if a few wallets hold a large portion of the token supply, the project becomes susceptible to sudden sell-offs. This scenario heightens volatility and can lead to significant price drops, questioning the sustainability of the community. Always assess holder distribution carefully — if too much is in a handful of addresses, caution is warranted.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
