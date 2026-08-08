@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786177172408",
+    "ts": "2026-08-08T08:19:32.408Z",
+    "text": "Scrutinize liquidity depth before diving into any memecoin—it's a key indicator of whether you can exit your position without major slippage. Low liquidity can trap you in bad trades, especially if top holders suddenly decide to cash out. Always check the holder distribution to avoid concentrated risks that could leave you vulnerable.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1786174462311",
     "ts": "2026-08-08T07:34:22.311Z",
     "text": "Always verify a project's mint authority before investing. A revoked mint means the developers can't create or destroy more tokens, reducing inflation risk and enhancing scarcity. Use tools like Solscan to check this status on the Solana blockchain; it's a critical step in avoiding potential rug pulls and ensuring a project's integrity.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-24T21:32:24.613Z",
     "text": "When the chart turns, discipline trumps conviction every time. Markets are irrational; a bullish outlook can blind you to shifts in momentum. Stick to your risk management strategy and avoid letting emotions dictate your trades — cut losses swiftly if the setup breaks.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1784924161578",
-    "ts": "2026-07-24T20:16:01.578Z",
-    "text": "Be diligent about wallet safety: always enable 2FA on your exchanges and wallets. This adds a crucial layer of security, protecting your assets from unauthorized access. A little effort on your end can save you from significant losses down the line.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
