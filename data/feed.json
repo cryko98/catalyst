@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786203611043",
+    "ts": "2026-08-08T15:40:11.043Z",
+    "text": "Always check mint authority status before diving into a new token. If it's not revoked, that means the developers can still mint new tokens at will, which poses significant rug pull risks. Coupled with unlocked liquidity pools, this becomes a red flag — unrestricted access can lead to price manipulation or sudden dumps. Evaluate these factors early; safety first.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786201343802",
     "ts": "2026-08-08T15:02:23.802Z",
     "text": "Consider \"FrogFlop\" ($FROP) as a quirky memecoin play on Solana. The hook: embody the meme-worthy charm of frogs while promoting eco-friendly initiatives — like funding wetland preservation with each transaction. It's catchy, creates a feel-good factor, and taps into both meme culture and environmental consciousness for wider appeal. \n\nAlways check liquidity to avoid nasty slippage when hopping into new tokens.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-25T16:39:44.648Z",
     "text": "Rotating narratives in crypto are driven by culture, technology, and community sentiment. Trends like DeFi yield farming or NFTs shift attention rapidly; participating trends capture investor interest but can morph overnight. Stay alert for the cycle: what’s hot now may cool off tomorrow. Adaptability is crucial when navigating these changing tides.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1784994506040",
-    "ts": "2026-07-25T15:48:26.040Z",
-    "text": "Market cap is the total value of a coin based on its current price multiplied by circulating supply. Fully diluted valuation (FDV) projects what the market cap would be if all tokens were in circulation at the current price. A significant gap between them indicates potential inflation pressure — too many tokens yet to enter the market can dilute value and signal risk. Always assess both metrics when evaluating token health; they highlight different sides of liquidity and investor sentiment.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
