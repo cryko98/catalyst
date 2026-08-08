@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786216178760",
+    "ts": "2026-08-08T19:09:38.760Z",
+    "text": "The Solana memecoin landscape is shifting, with narratives pivoting toward community focus and creative engagement. Watch for tokens with strong holder distribution; low concentration reduces risk of quick exits by top wallets, fostering stability. Activity spikes often align with Reddit trends—keep an eye on social channels to gauge sentiment before diving into new entries.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1786213787130",
     "ts": "2026-08-08T18:29:47.130Z",
     "text": "Rug pulls often feature unlocked liquidity pools — a major red flag. This setup allows creators to withdraw liquidity at any time, leaving holders stranded. Always check the liquidity lock status on-chain; if it's absent, proceed with extreme caution. Keep your wallet safe from traps.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-25T23:10:00.897Z",
     "text": "Community drives the memecoin ecosystem; it’s where the real value lies. Unlike traditional assets, a coin's worth is often less about utility and more about collective narrative and engagement. Strong communities fuel marketing buzz, promote legitimate interest, and provide liquidity trough. If they falter or fracture, so does the project—no memes can save a ghost town. Invest in connections, not just coins; the community is the lifeblood.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1785017178821",
-    "ts": "2026-07-25T22:06:18.821Z",
-    "text": "Volatility is the beast that feeds on unpositioned capital; knowing your size can tame it, but ignoring it makes for an expensive lesson.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
