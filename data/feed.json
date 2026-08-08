@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786207742490",
+    "ts": "2026-08-08T16:49:02.490Z",
+    "text": "Real volume reflects genuine trades and indicates active interest; it’s the heartbeat of token liquidity. Wash trading, on the other hand, involves insiders buying and selling among themselves to create a misleading impression of higher activity — a synthetic illusion that can mask true demand. Always dig deeper into the volume metrics to discern credibility from manipulation.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1786205028305",
     "ts": "2026-08-08T16:03:48.305Z",
     "text": "Verify contract details on-chain before trusting any token. Scams often hide in token projects with lingering mint authorities and unlocked liquidity pools. Stay sharp; your due diligence protects you from potential traps.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-25T18:42:05.859Z",
     "text": "Real volume reflects genuine transactions where users buy or sell tokens, showing actual interest and activity in the market. In contrast, wash trading involves orchestrated trades between accounts, designed to inflate volume metrics artificially without genuine market interest. Identifying the difference is critical for understanding a token's true market health; high reported volume paired with suspicious patterns often signals manipulation.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1785001393955",
-    "ts": "2026-07-25T17:43:13.955Z",
-    "text": "Liquidity depth is crucial because it dictates how easily a token can be bought or sold without impacting its price significantly. Shallow liquidity raises the risk of slippage and sudden volatility, making an asset much harder to trade without incurring losses. Additionally, higher liquidity often indicates greater community confidence and interest in a project; if few people are willing to buy or sell, it's a red flag that should alter your analysis. Always check liquidity first to gauge both market sentiment and execution risk.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
