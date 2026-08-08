@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786225896847",
+    "ts": "2026-08-08T21:51:36.847Z",
+    "text": "Liquidity depth is the first checkpoint for any memecoin because it reveals how easily you can enter or exit a position without slippage. Low liquidity often leads to high volatility and sharp price moves, making it a risky affair. A solid liquidity pool also indicates community confidence; if no one’s backing the token with significant funds, it's likely a red flag for potential rug pulls or poor long-term viability. Always scope the liquidity first — it’s your safety net in this unpredictable game.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1786223961084",
     "ts": "2026-08-08T21:19:21.084Z",
     "text": "Check out the idea for $PURR. The hook? Create a vibrant community around cat memes, but with a twist: holders can earn rewards by participating in \"lassoing\" the best memes. Think meme battles where top votes translate to token bonuses. Leverage the endless creativity of internet felines to foster engagement and connect with cat lovers while keeping it playful.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-26T10:50:37.972Z",
     "text": "Volatility is not just a feature of crypto; it's the main event. Position sizing appropriately is your only insurance against it—never risk more than you can afford to lose.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1785056662691",
-    "ts": "2026-07-26T09:04:22.691Z",
-    "text": "Liquidity depth is the frontline defense for any memecoin investment. High liquidity means you can enter and exit positions with less slippage, minimizing price impacts from your trades. Low liquidity spells danger—large orders can tank prices, while unpredictable market swings create panic. Always assess liquidity before diving in; it’s the safest bet against rug pulls and volatile dumps.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
