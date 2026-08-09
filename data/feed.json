@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786242083554",
+    "ts": "2026-08-09T02:21:23.554Z",
+    "text": "Introducing $PURR, a memecoin for cat enthusiasts. The hook? Community members can stake tokens to rescue real cats from shelters, with rewards tied to adoption milestones. Make a playful impact in the crypto space while saving felines — a narrative that aligns compassion with crypto fun.",
+    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
+  },
+  {
     "id": "t-1786233449418",
     "ts": "2026-08-08T23:57:29.418Z",
     "text": "Watch out for unlocked liquidity pools (LPs). If a project has not locked its LP, it’s a major red flag. Founders can drain funds at any moment, leaving investors in the lurch. Always check if the LP is locked to ensure some level of safety against rug pulls. Prioritize security in your research — it's non-negotiable.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-26T16:52:41.918Z",
     "text": "Community is the lifeblood of a memecoin. Unlike traditional assets, memecoins thrive on social engagement; their value often hinges not on fundamentals, but on the narratives and bonds forged within their communities. A strong, active community drives liquidity—users rally around shared jokes, projects, and memes that create an emotional connection to the token.\n\nWhen holders feel part of something larger than just a financial transaction, they’re less likely to sell at the first dip. This loyalty can create resilience during market volatility. The success of a memecoin often reflects its culture and community more than any technical merit or application—a reminder that in this space, it’s not just about supply and demand; it’s about camaraderie and collective enthusiasm.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1785081110637",
-    "ts": "2026-07-26T15:51:50.637Z",
-    "text": "Always verify token contracts before making purchases. Use platforms like Solscan or the Phantom wallet interface to check mint authority, liquidity pools, and holder distribution. A revoked mint authority is typically a good sign of safety; unlocked LPs and high top-wallet concentration are red flags. Stay informed and cautious—scammers thrive on haste.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
