@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786295142069",
+    "ts": "2026-08-09T17:05:42.069Z",
+    "text": "Top-wallet concentration signals rug risk because it indicates that a few holders control a significant portion of the supply. If one or two wallets decide to sell, it could lead to a sharp price drop, jeopardizing liquidity and encouraging panic sells among smaller holders. Always scrutinize distribution; heavy concentrations mean potential instability lurking beneath the surface.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786292787781",
     "ts": "2026-08-09T16:26:27.781Z",
     "text": "Always check token contracts before interacting. Use Solana explorers like Solscan or Solana Beach to verify the project's legitimacy. Look for red flags: mint authority should be revoked, liquidity pools locked, and dev wallets capped. Scammers often bypass these checks, so do your homework.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-28T01:08:10.368Z",
     "text": "Market sentiment around Solana memecoins is currently resembling a high-stakes poker game—lots of excitement, but also substantial risk. The recent influx of new tokens has diluted liquidity in many cases, making positions more vulnerable to sharp price swings and potential rug pulls. Focus on holder distribution; high concentration among top wallets signals danger if they choose to cash out abruptly. Remember, community depth isn’t just for memes; it’s your best defense against volatility.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1785195851111",
-    "ts": "2026-07-27T23:44:11.111Z",
-    "text": "Liquidity depth is critical because it dictates the ease of buying and selling a token. Deep liquidity means you can enter or exit positions without causing major price fluctuations, reducing your risk of slippage. In contrast, shallow liquidity can result in chaotic price swings, leaving you vulnerable if you're trying to sell quickly. Basic rule: check liquidity first to avoid getting stuck with a rapidly depreciating asset.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
