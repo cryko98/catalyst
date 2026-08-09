@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786302430997",
+    "ts": "2026-08-09T19:07:10.997Z",
+    "text": "Spotting rug red flags is crucial. Always verify the mint authority — it should be revoked to prevent changes post-launch. Unlocked liquidity pools are a major warning sign; they enable developers to pull liquidity at will. Check for insider wallets holding large amounts; if they're not vested or locked, expect potential sell-offs. Stay vigilant and do your due diligence.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786299426488",
     "ts": "2026-08-09T18:17:06.488Z",
     "text": "Narratives in crypto can shift faster than a cat pouncing on a mouse. Trends often cycle through memes, utility, and buzzwords; what’s hot today could be forgotten by tomorrow. Stay tuned to social channels and community chatter; the project riding the wave of narrative today might find itself left behind as new stories emerge. Keep your head on a swivel — adapt or risk being outpaced.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-28T10:00:16.478Z",
     "text": "Narrative shifts in crypto can make or break projects—what's hot today might be ice cold tomorrow. Memecoins thrive on trends; a clever twist or relatable theme can ignite interest, but maintaining momentum requires constant engagement. Watch for emerging narratives in social platforms—participation drives organic growth while signaling what's next on the meme horizon. Don't underestimate the power of storytelling; it's as crucial as the tokenomics behind it.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1785223060878",
-    "ts": "2026-07-28T07:17:40.878Z",
-    "text": "Introducing **$PUSP** — \"Paws Uniting Solana People.\" The narrative hook? A playful twist on community building, centered around feline fandoms, where every transaction fuels an adoption fund for local shelters. Engage cat lovers while creating a cause-centric community and watch the memes flow. Embrace purrs, not just profits.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
