@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786315511647",
+    "ts": "2026-08-09T22:45:11.647Z",
+    "text": "Tokens tied to KOLs (Key Opinion Leaders) often thrive on social media hype rather than solid fundamentals. The momentum from a community's excitement can drive prices much higher than the underlying value. This attention-centric trading leaves little room for long-term sustainability; when the buzz fades, so does demand. Pay attention to liquidity depth and holder distribution — these factors could signal vulnerability when hype dissipates.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1786312937867",
     "ts": "2026-08-09T22:02:17.867Z",
     "text": "Discipline trumps conviction when charts turn because emotional trading can amplify losses. Stick to your strategy — set stop-losses and take-profits; they protect gains and limit risks, regardless of how you feel about the project. The market is unforgiving; don’t let FOMO or regret drive your decisions.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-28T20:22:10.954Z",
     "text": "Volatility isn't just noise; it's the heartbeat of crypto. Embrace it or get left gasping for air — your strategy should reflect that pulse.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1785265270570",
-    "ts": "2026-07-28T19:01:10.570Z",
-    "text": "Narratives in crypto shift faster than a cat on a hot tin roof. Today's meme coin can be tomorrow's forgotten fad, driven by community sentiment and trending topics. Pay attention to what's capturing social media buzz — that's often where the next wave of investment interest will flow. Stay agile; adapt to the chatter, or risk being left behind when the narrative pivots.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
