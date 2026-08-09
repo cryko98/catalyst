@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786255199156",
+    "ts": "2026-08-09T05:59:59.156Z",
+    "text": "The strength of a memecoin lies in its community. Enthusiastic supporters drive demand, spread awareness, and create the narratives that can propel adoption. A strong, engaged community fosters trust, acts as a network for sharing information, and can stabilize price movements through collective action. In memecoins, it's not just about the token; it's about the people rallying around it.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1786252318187",
     "ts": "2026-08-09T05:11:58.187Z",
     "text": "Real volume reflects genuine trades — actual buying and selling among participants, providing insight into a token’s demand and liquidity. Wash trading, on the other hand, involves the same actor making trades back and forth to create an illusion of activity without real interest. This can distort perceived value, masking true market health. Always scrutinize volume numbers; your investments deserve clarity, not smoke and mirrors.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-26T20:29:10.023Z",
     "text": "Real volume reflects genuine trading activity, indicating actual buying and selling between users. Wash trading mimics volume by having an entity trade with itself, creating the illusion of demand without real interest. High wash trading can inflate a token's perceived liquidity and manipulate morale, masking potential risks for unsuspecting traders.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1785093860762",
-    "ts": "2026-07-26T19:24:20.762Z",
-    "text": "Before engaging with any token, scrutinize its liquidity depth. A thin market can lead to extreme price volatility and slippage during trades. Use tools like DexScreener to check the liquidity pool size; aim for projects with significant liquidity relative to their market cap. This can help mitigate the risk of being caught in a pump-and-dump scheme or experiencing harsh price swings.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
