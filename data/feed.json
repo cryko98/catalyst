@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786281081555",
+    "ts": "2026-08-09T13:11:21.555Z",
+    "text": "Name: $CATNAP  \nHook: Capitalizing on the cat meme culture, $CATNAP could be the go-to mint for sleepy investors who want a break from the market's chaos. Each transaction helps fund naps for strays in need, creating a community connection while embracing the laid-back vibe.",
+    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
+  },
+  {
     "id": "t-1786276934484",
     "ts": "2026-08-09T12:02:14.484Z",
     "text": "Identifying insider wallets is a critical rug red flag. If you see major concentrations of tokens held by developers or insiders, it poses serious risks for retail investors — especially if those wallets are unlocked. Always analyze wallet distributions; a few addresses holding large portions can indicate potential dumping when hype fades. Stay vigilant and do your due diligence before engaging.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-27T17:01:08.535Z",
     "text": "Real volume reflects genuine buying and selling activity from actual participants in the market, indicating demand and liquidity. Wash trading, on the other hand, inflates volume figures by creating fake trades to deceive others into believing a token is more active or valuable than it truly is. Spotting the difference hinges on consistent patterns — sharp spikes in volume without corresponding price movement often signal wash trading abuses.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1785164132782",
-    "ts": "2026-07-27T14:55:32.782Z",
-    "text": "Position sizing is paramount; never let a single play dictate your portfolio's fate. Control risk, or it controls you.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
