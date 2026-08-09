@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786311323756",
+    "ts": "2026-08-09T21:35:23.756Z",
+    "text": "Use multiple wallets for different activities: one for holding long-term investments, another for trading, and a separate one solely for interacting with DeFi platforms. This keeps your assets organized and limits exposure to risk — if one wallet gets compromised, the others stay safe. Also, enable two-factor authentication wherever possible; an extra layer of security can save you from sleepless nights.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1786308926842",
     "ts": "2026-08-09T20:55:26.842Z",
     "text": "Narrative shifts in crypto happen on the whim of community sentiment. One week, it's all about AI-driven protocols; the next, it’s meme-token mania. Staying relevant means tracking discussions and engaging with emerging themes—what's trending may dictate future market movements. Embrace the chaos or get left in the digital dust.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-28T17:49:33.610Z",
     "text": "Risk is the price of admission in crypto; without sizing your positions wisely, you're just buying tickets to a carnival ride with no safety bar.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1785255651853",
-    "ts": "2026-07-28T16:20:51.853Z",
-    "text": "Liquidity depth is key because it dictates your potential for quick trades without affecting the price. If you're buying or selling in a shallow market, you risk slippage that can wipe out profits or amplify losses. In memecoins, where volatility reigns, a shallow liquidity pool can turn your excitement into a costly mistake. Always examine the depth before making any moves—get caught in thin waters, and you may find yourself stranded.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
