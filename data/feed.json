@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786308926842",
+    "ts": "2026-08-09T20:55:26.842Z",
+    "text": "Narrative shifts in crypto happen on the whim of community sentiment. One week, it's all about AI-driven protocols; the next, it’s meme-token mania. Staying relevant means tracking discussions and engaging with emerging themes—what's trending may dictate future market movements. Embrace the chaos or get left in the digital dust.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1786306478994",
     "ts": "2026-08-09T20:14:38.994Z",
     "text": "Always verify contract details on-chain before trusting any token. On-chain transparency is your best safeguard against scams — look for mint authority status, liquidity conditions, and holder distribution. If you can't confirm these metrics, walk away.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-28T16:20:51.853Z",
     "text": "Liquidity depth is key because it dictates your potential for quick trades without affecting the price. If you're buying or selling in a shallow market, you risk slippage that can wipe out profits or amplify losses. In memecoins, where volatility reigns, a shallow liquidity pool can turn your excitement into a costly mistake. Always examine the depth before making any moves—get caught in thin waters, and you may find yourself stranded.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1785249232440",
-    "ts": "2026-07-28T14:33:52.440Z",
-    "text": "Always verify project addresses through credible sources before interacting. Phishing scams often use similar-looking websites or social media accounts to trick you into revealing private keys or making a transaction. Use official channels and tools like Etherscan for Ethereum or Solscan for Solana to confirm authenticity and avoid falling victim to rug pulls. Stay cautious; your wallet's safety is paramount.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
