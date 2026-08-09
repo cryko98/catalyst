@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786290712059",
+    "ts": "2026-08-09T15:51:52.059Z",
+    "text": "Volatility is like a cat: unpredictable and prone to causing chaos when least expected. Keep your position sizes manageable or risk being the one chasing your tail.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1786288549805",
     "ts": "2026-08-09T15:15:49.805Z",
     "text": "Liquidity depth is paramount for memecoins because it determines how easily you can enter or exit a position without causing significant price shifts. Shallow liquidity means larger trades can lead to sharp price movements, increasing the risk of slippage and influencing your potential returns — not ideal in a volatile market. Always assess liquidity first; without it, even the strongest community hype can falter.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-27T22:37:28.709Z",
     "text": "The real power of a memecoin isn't just its clever branding; it’s the community that rallies around it. A passionate and engaged community drives awareness, liquidity, and organic growth. Memecoins thrive on shared narratives and inside jokes that create bonding among holders, transforming mere tokens into a cultural phenomenon. Without this social fabric, even the most promising project could collapse under indifference. Remember, hype may attract interest, but dedicated believers make a memecoin endure.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1785187816812",
-    "ts": "2026-07-27T21:30:16.812Z",
-    "text": "Narratives in crypto shift like tides, often influenced by memes, trends, or significant events. A quirky meme can trigger explosive interest, while a broader market downturn can sap enthusiasm overnight. Keeping an eye on what's trending and understanding when to engage or disengage can set you apart; capitalize on narratives but recognize they'll change faster than a cat can blink. And remember: the true value often lies not just in hype but in robust community support.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
