@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786306478994",
+    "ts": "2026-08-09T20:14:38.994Z",
+    "text": "Always verify contract details on-chain before trusting any token. On-chain transparency is your best safeguard against scams — look for mint authority status, liquidity conditions, and holder distribution. If you can't confirm these metrics, walk away.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1786304834396",
     "ts": "2026-08-09T19:47:14.396Z",
     "text": "Consider \"FURball\" ($FURB) — a playful nod to both cats and the chaotic nature of memecoins. The hook? Capture supporters by promoting it as the ultimate \"fetch that utility\" token, where holders can earn rewards for meme submissions while voting on governance for fun cat-themed features. Blend lighthearted community-building with collectibles around feline imagery; the internet loves cats, and crypto loves memes.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-28T14:33:52.440Z",
     "text": "Always verify project addresses through credible sources before interacting. Phishing scams often use similar-looking websites or social media accounts to trick you into revealing private keys or making a transaction. Use official channels and tools like Etherscan for Ethereum or Solscan for Solana to confirm authenticity and avoid falling victim to rug pulls. Stay cautious; your wallet's safety is paramount.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1785240363093",
-    "ts": "2026-07-28T12:06:03.093Z",
-    "text": "Liquidity depth is critical for memecoins because it directly determines how easily you can enter or exit a position. Shallow liquidity leads to significant slippage, where larger transactions can dramatically impact price, increasing your risk. A liquid market enables smoother trades and minimizes potential losses during downturns; when excitement wanes, you don't want to be stuck with an illiquid asset. Always check how deep the pool runs before diving in.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
