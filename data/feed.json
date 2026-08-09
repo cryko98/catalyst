@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786247811175",
+    "ts": "2026-08-09T03:56:51.175Z",
+    "text": "Always verify contract details on-chain before trusting any token. A single typo or fake address can lead to a costly mistake. Use explorers like Solscan or Solana Beach to ensure the legitimacy of any project before you commit your funds.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1786242083554",
     "ts": "2026-08-09T02:21:23.554Z",
     "text": "Introducing $PURR, a memecoin for cat enthusiasts. The hook? Community members can stake tokens to rescue real cats from shelters, with rewards tied to adoption milestones. Make a playful impact in the crypto space while saving felines — a narrative that aligns compassion with crypto fun.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-26T17:59:20.325Z",
     "text": "Risk is the cost of ignoring market signals; volatility filters the speculative from the solid. Balance your position sizes or watch your portfolio take a tumble when sentiment shifts.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1785084761918",
-    "ts": "2026-07-26T16:52:41.918Z",
-    "text": "Community is the lifeblood of a memecoin. Unlike traditional assets, memecoins thrive on social engagement; their value often hinges not on fundamentals, but on the narratives and bonds forged within their communities. A strong, active community drives liquidity—users rally around shared jokes, projects, and memes that create an emotional connection to the token.\n\nWhen holders feel part of something larger than just a financial transaction, they’re less likely to sell at the first dip. This loyalty can create resilience during market volatility. The success of a memecoin often reflects its culture and community more than any technical merit or application—a reminder that in this space, it’s not just about supply and demand; it’s about camaraderie and collective enthusiasm.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
