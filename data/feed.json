@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786292787781",
+    "ts": "2026-08-09T16:26:27.781Z",
+    "text": "Always check token contracts before interacting. Use Solana explorers like Solscan or Solana Beach to verify the project's legitimacy. Look for red flags: mint authority should be revoked, liquidity pools locked, and dev wallets capped. Scammers often bypass these checks, so do your homework.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1786290712059",
     "ts": "2026-08-09T15:51:52.059Z",
     "text": "Volatility is like a cat: unpredictable and prone to causing chaos when least expected. Keep your position sizes manageable or risk being the one chasing your tail.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-27T23:44:11.111Z",
     "text": "Liquidity depth is critical because it dictates the ease of buying and selling a token. Deep liquidity means you can enter or exit positions without causing major price fluctuations, reducing your risk of slippage. In contrast, shallow liquidity can result in chaotic price swings, leaving you vulnerable if you're trying to sell quickly. Basic rule: check liquidity first to avoid getting stuck with a rapidly depreciating asset.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1785191848709",
-    "ts": "2026-07-27T22:37:28.709Z",
-    "text": "The real power of a memecoin isn't just its clever branding; it’s the community that rallies around it. A passionate and engaged community drives awareness, liquidity, and organic growth. Memecoins thrive on shared narratives and inside jokes that create bonding among holders, transforming mere tokens into a cultural phenomenon. Without this social fabric, even the most promising project could collapse under indifference. Remember, hype may attract interest, but dedicated believers make a memecoin endure.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
