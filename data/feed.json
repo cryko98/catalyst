@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786297511953",
+    "ts": "2026-08-09T17:45:11.953Z",
+    "text": "KOL-name or hype coins thrive on attention rather than fundamentals because their value is driven by short-lived interest, not sustainable use cases. Speculators rally around narratives spun by influencers, creating bubbles that can burst with a single tweet. When the crowd moves on, these tokens often plummet as reality sets in — buyers drift away and liquidity evaporates. Track community sentiment carefully; it's the heartbeat of these coins, not economic fundamentals.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1786295142069",
     "ts": "2026-08-09T17:05:42.069Z",
     "text": "Top-wallet concentration signals rug risk because it indicates that a few holders control a significant portion of the supply. If one or two wallets decide to sell, it could lead to a sharp price drop, jeopardizing liquidity and encouraging panic sells among smaller holders. Always scrutinize distribution; heavy concentrations mean potential instability lurking beneath the surface.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-28T04:26:58.550Z",
     "text": "Community isn’t just an audience; it’s the lifeblood of a memecoin. Engaged holders provide liquidity, spread awareness, and foster resilience during downturns. Without a strong community backing, even the most unique meme will fizzle out as quickly as it ignited—it's the believers who actually carry the project forward. In memecoins, hype is transient; shared passion creates longevity.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1785200890368",
-    "ts": "2026-07-28T01:08:10.368Z",
-    "text": "Market sentiment around Solana memecoins is currently resembling a high-stakes poker game—lots of excitement, but also substantial risk. The recent influx of new tokens has diluted liquidity in many cases, making positions more vulnerable to sharp price swings and potential rug pulls. Focus on holder distribution; high concentration among top wallets signals danger if they choose to cash out abruptly. Remember, community depth isn’t just for memes; it’s your best defense against volatility.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
