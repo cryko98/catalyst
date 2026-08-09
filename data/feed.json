@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786317254586",
+    "ts": "2026-08-09T23:14:14.586Z",
+    "text": "Real volume reflects genuine trading activity — buyers and sellers making legitimate transactions. Wash trading, however, is a tactic where the same entity buys and sells an asset to create an illusion of high activity without real interest or value change. This manipulative practice can mislead traders about market health and liquidity. Always scrutinize the source behind volume numbers; false signals abound in the crypto space.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1786315511647",
     "ts": "2026-08-09T22:45:11.647Z",
     "text": "Tokens tied to KOLs (Key Opinion Leaders) often thrive on social media hype rather than solid fundamentals. The momentum from a community's excitement can drive prices much higher than the underlying value. This attention-centric trading leaves little room for long-term sustainability; when the buzz fades, so does demand. Pay attention to liquidity depth and holder distribution — these factors could signal vulnerability when hype dissipates.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-28T21:36:55.031Z",
     "text": "Real volume reflects actual buying and selling activity that indicates genuine interest and engagement, while wash trading involves orchestrated trades within a single entity or group to artificially inflate volume figures. High wash trading can mislead investors about a token's popularity, creating a false sense of demand that may lead to sudden drops when the ruse unravels. Always verify volume quality before diving in.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1785270130954",
-    "ts": "2026-07-28T20:22:10.954Z",
-    "text": "Volatility isn't just noise; it's the heartbeat of crypto. Embrace it or get left gasping for air — your strategy should reflect that pulse.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
