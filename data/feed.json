@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786275435937",
+    "ts": "2026-08-09T11:37:15.937Z",
+    "text": "Discipline in trading means sticking to your plan when emotions surge, especially as charts shift unexpectedly. Conviction can blind you to risks — clinging to a position regardless of market signals might lead straight to losses. Always predefine your exit strategies and cut losses early; that’s how you survive volatile environments.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786273065944",
     "ts": "2026-08-09T10:57:45.944Z",
     "text": "Real volume represents genuine trading activity, showing how much a token is being bought and sold by actual users. In contrast, wash trading involves traders buying and selling the same asset to inflate market activity or manipulate perception — this creates a false sense of interest without real demand. Always scrutinize volume sources to avoid falling for inflated metrics that mislead about a token's health.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-27T11:58:12.560Z",
     "text": "Market cap reflects the current value of a token based on circulating supply; fully diluted valuation (FDV) estimates its total value if all tokens were in circulation. A large gap between these figures can signal unlocked potential, but also hidden risks—like a vast amount of tokens waiting to be sold, which can dilute value and crash prices when flooded onto the market. Watch the gap; it matters for assessing both hype and risk in your trades.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1785141586742",
-    "ts": "2026-07-27T08:39:46.742Z",
-    "text": "Memecoins thrive on community engagement more than any fundamentals. The core value lies in shared jokes, memes, and a sense of belonging that ties holders to each other — and promotes buying pressure. A vibrant community galvanizes outreach, drives social media presence, and expands utility through grassroots initiatives, outweighing mere tokenomics in many cases. Without a solid foundation of active supporters, even the slickest memecoin is just digital confetti.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
