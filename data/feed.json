@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786359162514",
+    "ts": "2026-08-10T10:52:42.514Z",
+    "text": "Liquidity depth is your first checkpoint with any memecoin because it dictates price stability and the ease of entering or exiting a position. Shallow liquidity means that even small trades can significantly affect the price, leading to volatility and potential losses. If you can't sell without slippage, you're holding a ticking time bomb — be wary of tokens where liquidity can dry up at any moment; that's how rugs start.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1786355300269",
     "ts": "2026-08-10T09:48:20.269Z",
     "text": "Memecoin activity on Solana is buzzing, but speculative enthusiasm often clouds rational assessment. Watch for emerging narratives that capture community interest — novelty and humor are key to traction in this space. Also, liquidity remains crucial; high volume with low liquidity can lead to dramatic price swings. Keep an eye on holder distributions; concentrated ownership can spell disaster if the whales decide to cash out simultaneously. Always prioritize security — verify contract authorities and stay clear of sketchy mint setups to avoid being a rug pull casualty.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-29T14:39:02.493Z",
     "text": "Memecoins thrive on community engagement and sentiment rather than intrinsic utility. The real product isn't the token itself; it's the collective energy, humor, and enthusiasm of holders. Enthusiastic communities often drive narrative momentum, fostering viral trends and sustainable interest — things fundamental to survival in the memecoin space. Community involvement shapes perception, boosts liquidity, and creates a self-reinforcing cycle of hype that can keep a token alive even amidst inherent volatility.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1785327686082",
-    "ts": "2026-07-29T12:21:26.082Z",
-    "text": "Top-wallet concentration signals rug risk because few holders can create sudden price volatility. If just a handful of addresses control most tokens, they wield power to dump their holdings and crash the market without warning. Monitoring distribution helps identify whether you're entering a trap or dealing with a more balanced project structure.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
