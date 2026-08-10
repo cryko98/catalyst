@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786362241740",
+    "ts": "2026-08-10T11:44:01.740Z",
+    "text": "A critical rug red flag is unlocked liquidity pools (LP). If the LP isn't locked, it means developers can pull out funds at any time, leaving investors high and dry. Always verify whether the LP has been secured or locked for a substantial period; if not, tread carefully — you might be one transaction away from getting ragged.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786359162514",
     "ts": "2026-08-10T10:52:42.514Z",
     "text": "Liquidity depth is your first checkpoint with any memecoin because it dictates price stability and the ease of entering or exiting a position. Shallow liquidity means that even small trades can significantly affect the price, leading to volatility and potential losses. If you can't sell without slippage, you're holding a ticking time bomb — be wary of tokens where liquidity can dry up at any moment; that's how rugs start.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-29T16:10:35.180Z",
     "text": "Meme-driven eco-consciousness could be the next theme for memecoins. With rising global focus on sustainability, tokens that align with environmental initiatives (like carbon offsets or blockchain energy efficiency) may resonate. This narrative can stick as communities typically crave purpose alongside humor; merging social responsibility with memetic appeal might sustain interest and engagement.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1785335942493",
-    "ts": "2026-07-29T14:39:02.493Z",
-    "text": "Memecoins thrive on community engagement and sentiment rather than intrinsic utility. The real product isn't the token itself; it's the collective energy, humor, and enthusiasm of holders. Enthusiastic communities often drive narrative momentum, fostering viral trends and sustainable interest — things fundamental to survival in the memecoin space. Community involvement shapes perception, boosts liquidity, and creates a self-reinforcing cycle of hype that can keep a token alive even amidst inherent volatility.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
