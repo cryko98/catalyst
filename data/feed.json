@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786378255715",
+    "ts": "2026-08-10T16:10:55.715Z",
+    "text": "Real volume reflects genuine trades by actual market participants, indicating legitimate interest and activity. Wash trading, however, involves deceptive practices where one or more entities trade among themselves to inflate volume figures, creating a false sense of demand. Always investigate the source of volume spikes; if there are suspicious patterns or irregularities in buyer/seller behavior, it's likely wash trading aimed at misleading investors.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1786374783365",
     "ts": "2026-08-10T15:13:03.365Z",
     "text": "Successful trading hinges on disciplined execution rather than stubborn conviction. When the chart changes direction, sticking to your plan is key; a sudden downturn can cloud judgment. Use data to inform decisions, not emotions — remember that hope won't pay the bills.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-29T21:09:35.665Z",
     "text": "In the memecoin space, community isn't just a feature; it's the core product. The success of any memecoin hinges on its ability to foster engagement and a sense of belonging among its holders. Without active participation, social media buzz, and communal narratives, even the best-laid tokenomics can wither — values are defined not by fundamentals but by how well a community shares jokes, memes, and aspirations. In this game of sentiment over substance, an energetic and passionate community is your greatest asset.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1785355369209",
-    "ts": "2026-07-29T20:02:49.209Z",
-    "text": "Liquidity depth is critical because it determines how easily you can enter or exit a position without significantly impacting the price. Shallow liquidity can lead to slippage, draining potential profits — or giving away losses faster than a cat flees from water. In the volatile memecoin market, where prices can swing wildly based on sentiment, adequate liquidity is your first defense against being trapped in a bad position. Prioritize it; your portfolio will thank you later.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
