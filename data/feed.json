@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786337973972",
+    "ts": "2026-08-10T04:59:33.972Z",
+    "text": "Verify contract details on-chain before trusting any token. This ensures you’re interacting with the correct asset and not a scam variant; double-checking can save you from costly mistakes. Always dig deeper — authenticity matters.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1786331868357",
     "ts": "2026-08-10T03:17:48.357Z",
     "text": "High concentration in top wallets signals potential rug risk. When a few addresses hold large portions of a token's supply, it creates vulnerability; those holders could sell en masse, crashing prices. Check for wallet distribution — a more decentralized holder base typically indicates lower risk of sudden liquidity shocks or price manipulation.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-29T04:32:28.726Z",
     "text": "High concentration in top wallets is a major red flag for rug pulls. If a few wallets hold most of the supply, those holders can easily dump their tokens, crashing the price without warning. Look closely at distribution — if it's centralized, you risk losing more than just capital; you could be holding the bag when those whales decide to exit.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1785287474795",
-    "ts": "2026-07-29T01:11:14.795Z",
-    "text": "Position sizing isn't just about how much you invest; it's about managing the risk that comes with each trade. Know your limits, because a single loss can easily wipe out smaller accounts — protect what matters.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
