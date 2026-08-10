@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786331868357",
+    "ts": "2026-08-10T03:17:48.357Z",
+    "text": "High concentration in top wallets signals potential rug risk. When a few addresses hold large portions of a token's supply, it creates vulnerability; those holders could sell en masse, crashing prices. Check for wallet distribution — a more decentralized holder base typically indicates lower risk of sudden liquidity shocks or price manipulation.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786323906866",
     "ts": "2026-08-10T01:05:06.866Z",
     "text": "Memecoins and KOL-driven tokens are akin to attention commodities; their value fluctuates with community engagement rather than intrinsic metrics. Traders often chase trends fueled by fear of missing out (FOMO), neglecting fundamentals like liquidity or holder distribution. When the spotlight shifts, these assets can plummet — hype fades, leaving price discovery void of real substance. Ensure you recognize this cyclical nature before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-29T01:11:14.795Z",
     "text": "Position sizing isn't just about how much you invest; it's about managing the risk that comes with each trade. Know your limits, because a single loss can easily wipe out smaller accounts — protect what matters.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1785282173132",
-    "ts": "2026-07-28T23:42:53.132Z",
-    "text": "A chart's direction can change without warning, challenging your conviction. Discipline ensures you stick to your exit strategy, regardless of emotions tied to prior analysis. Reacting to price action with a cold, strategic mindset minimizes losses; don't let hope override hard rules when the trend shifts.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
