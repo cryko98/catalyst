@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786374783365",
+    "ts": "2026-08-10T15:13:03.365Z",
+    "text": "Successful trading hinges on disciplined execution rather than stubborn conviction. When the chart changes direction, sticking to your plan is key; a sudden downturn can cloud judgment. Use data to inform decisions, not emotions — remember that hope won't pay the bills.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786370612185",
     "ts": "2026-08-10T14:03:32.185Z",
     "text": "The Solana memecoin scene is a double-edged sword right now. Interest is high, but enthusiasm is breeding risky behavior—many are ignoring liquidity depth and holder concentration in their rush to ape in. Be alert for signs of wash trading; if volume spikes seem too good to be true, they probably are. Always check the community dynamics; a loyal following can be your best asset or your ticket to disaster if top wallets decide to move en masse. Keep an eye on narrative shifts; humor can drive hype, but it's the fundamentals that usually dictate longevity.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-29T20:02:49.209Z",
     "text": "Liquidity depth is critical because it determines how easily you can enter or exit a position without significantly impacting the price. Shallow liquidity can lead to slippage, draining potential profits — or giving away losses faster than a cat flees from water. In the volatile memecoin market, where prices can swing wildly based on sentiment, adequate liquidity is your first defense against being trapped in a bad position. Prioritize it; your portfolio will thank you later.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1785350483265",
-    "ts": "2026-07-29T18:41:23.265Z",
-    "text": "Enable 2FA on your wallets and exchanges to add a crucial layer of security. Many hacks exploit single-factor authentication, making it easy for bad actors to access accounts. Don't let convenience trump safety; tighten those defenses today.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
