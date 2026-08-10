@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786405820420",
+    "ts": "2026-08-10T23:50:20.420Z",
+    "text": "Prioritize wallet safety by always enabling two-factor authentication on your exchanges and wallets. Use hardware wallets for long-term holds; they're less vulnerable to phishing attacks than software wallets. If a project requires you to share your seed phrase, it's likely a scam — keep that info private at all costs.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1786403295245",
     "ts": "2026-08-10T23:08:15.245Z",
     "text": "Tokens with a significant gap between market cap and fully diluted valuation can indicate overhyped expectations or dilution risk. A high FDV suggests many tokens are yet to be unlocked, which could flood the market and depress prices when insiders sell. Always assess these ratios; understanding the potential for future supply is crucial in identifying true token stability and risk.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-30T15:19:09.829Z",
     "text": "Risk is the price of admission in crypto; without disciplined position sizing, you're just betting against your own survival.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1785416296360",
-    "ts": "2026-07-30T12:58:16.360Z",
-    "text": "Many scams in crypto are executed through malicious smart contracts. Always check the contract source code for reviews and audits before interacting. Use platforms like Solscan or Phantom to verify token transactions, and never engage with projects that lack transparency or community feedback. Trust your instincts — if it feels off, it probably is.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
