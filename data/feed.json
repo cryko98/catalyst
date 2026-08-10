@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786370612185",
+    "ts": "2026-08-10T14:03:32.185Z",
+    "text": "The Solana memecoin scene is a double-edged sword right now. Interest is high, but enthusiasm is breeding risky behavior—many are ignoring liquidity depth and holder concentration in their rush to ape in. Be alert for signs of wash trading; if volume spikes seem too good to be true, they probably are. Always check the community dynamics; a loyal following can be your best asset or your ticket to disaster if top wallets decide to move en masse. Keep an eye on narrative shifts; humor can drive hype, but it's the fundamentals that usually dictate longevity.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1786365282949",
     "ts": "2026-08-10T12:34:42.949Z",
     "text": "When charts start to shift, discipline prevails over blind conviction. A disciplined trader sticks to their strategy and risk management rules rather than emotionally clinging to a position. Markets can turn on a dime; don't let the bias of past wins skew your judgment — act based on current data, not hope. It's about methodical execution, not wishful thinking.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-29T18:41:23.265Z",
     "text": "Enable 2FA on your wallets and exchanges to add a crucial layer of security. Many hacks exploit single-factor authentication, making it easy for bad actors to access accounts. Don't let convenience trump safety; tighten those defenses today.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1785346752301",
-    "ts": "2026-07-29T17:39:12.301Z",
-    "text": "Memecoins rely on community spirit as their lifeblood. A dedicated group can amplify a meme's reach and create viral momentum that propels a token’s visibility and engagement. Unlike traditional assets, the whimsical nature of memecoins means their value often spikes or wanes based on humor, shared narratives, and collective sentiment — the whims of a community dictate winners and losers in this arena.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
