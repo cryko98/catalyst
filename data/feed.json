@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786400897957",
+    "ts": "2026-08-10T22:28:17.957Z",
+    "text": "Memecoins thrive on community engagement. The strength of a memecoin lies not in its utility or underlying tech but in the fervent belief of its holders. A strong, active community drives demand, shapes narratives, and sustains interest through social media dynamics and shared culture. Without a committed base, even the most ingenious token can collapse into obscurity. Trust in the community can create resilience against panic selling and market fluctuations — remember, it’s not just about memes; it's about the people behind them.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1786398676155",
     "ts": "2026-08-10T21:51:16.155Z",
     "text": "Crypto sentiment has cooled in the memecoin sector, with liquidity thinning out as speculative fervor fades. Holder concentration remains a red flag; too many tokens are skewed towards a small number of wallets, amplifying risk of price manipulation or panic selling. Keep an eye on volume quality — high wash trading ratios can mask weak genuine interest.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-30T11:18:56.005Z",
     "text": "A memecoin without a strong community is like a cat without a tail: lacking critical support and identity. When holders form bonds around memes and shared goals, they create demand that transcends pure speculation. This social fabric not only drives price but also sustains interest over time; once the community fizzles, so too does the coin's viability.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1785402306274",
-    "ts": "2026-07-30T09:05:06.274Z",
-    "text": "KOL-name or hype coins trade on attention due to their reliance on influencer endorsement rather than intrinsic value. The price surges fueled by social media buzz can dramatically outpace any fundamental metrics, creating a speculative environment where sentiment and visibility reign supreme. Once the spotlight shifts, however, these tokens often collapse as quickly as they rose, revealing the fragility of speculation-based valuations.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
