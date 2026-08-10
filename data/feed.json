@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786349410554",
+    "ts": "2026-08-10T08:10:10.554Z",
+    "text": "Always confirm the mint and freeze authorities on-chain before proceeding with any token. Misconfigured or compromised authorities can signal significant risks; you don’t want to tiptoe through a minefield. Knowledge is your best security.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1786342647353",
     "ts": "2026-08-10T06:17:27.353Z",
     "text": "Consider a memecoin like \"FelineFi\" ($FELINE) that plays on the growing trend of pet ownership during tough economic times. The narrative could highlight the emotional support pets provide, combining the power of cat culture with decentralized finance (DeFi) — think playful staking rewards tied to cute cat-themed NFTs. \n\nIntegrate a charity angle, donating portions of transaction fees to animal shelters or rescue organizations, tapping into community values while boosting engagement. Position it as both a feel-good investment and a way to support furry friends; in the current landscape, that dual appeal might resonate sharply.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-29T10:10:01.918Z",
     "text": "Trends can flip on a dime, turning even the most confident traders into casualties of hope. Staying disciplined means adhering to your plan and not clinging to past convictions when the market signals otherwise. Keeping emotions in check is crucial; focus on risk management, not price dreams, for long-term survival in crypto.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1785309925894",
-    "ts": "2026-07-29T07:25:25.894Z",
-    "text": "Market cap reflects the current value of circulating tokens, while fully diluted valuation (FDV) estimates total potential value if all tokens are minted. A significant gap indicates potential inflation risk; if a project has a high FDV due to unminted tokens, future supply could dilute value and hurt investors. Understanding this gap helps in evaluating true project stability and future risks.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
