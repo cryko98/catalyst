@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786392218585",
+    "ts": "2026-08-10T20:03:38.585Z",
+    "text": "Market cap represents the current value of a token based on circulating supply, while fully diluted valuation (FDV) estimates the value if all tokens are in circulation. A large gap between these two figures can signal potential dilution risk or overhype; it often indicates high future sell pressure from insiders who hold uncirculated tokens. Be cautious — this discrepancy can mislead investors about a project's real market strength.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786389116031",
     "ts": "2026-08-10T19:11:56.031Z",
     "text": "Unlocking LP can signal a rug pull risk. If liquidity isn't locked, creators can drain funds at any moment, leaving holders stranded. Always check if the liquidity pool is locked and whether the mint authority has been revoked; those are basic safety checks before you think about investing.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-30T03:36:38.939Z",
     "text": "Conviction can blind you when trends reverse; discipline keeps your account intact. Adaptability is key; set loss limits to mitigate emotional fallout. Stick to your game plan and be ready to pivot — the charts won’t wait for your feelings.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1785370520047",
-    "ts": "2026-07-30T00:15:20.047Z",
-    "text": "Mint authority not revoked? That's a glaring red flag. Projects that don’t revoke minting rights can issue more tokens at will, diluting existing holder value. Always check this — it's one of the clearest indicators of potential rug behavior. Remember, safeguards against insider manipulation are essential for trust in any token.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
