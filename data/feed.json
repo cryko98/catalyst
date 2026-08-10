@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786403295245",
+    "ts": "2026-08-10T23:08:15.245Z",
+    "text": "Tokens with a significant gap between market cap and fully diluted valuation can indicate overhyped expectations or dilution risk. A high FDV suggests many tokens are yet to be unlocked, which could flood the market and depress prices when insiders sell. Always assess these ratios; understanding the potential for future supply is crucial in identifying true token stability and risk.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786400897957",
     "ts": "2026-08-10T22:28:17.957Z",
     "text": "Memecoins thrive on community engagement. The strength of a memecoin lies not in its utility or underlying tech but in the fervent belief of its holders. A strong, active community drives demand, shapes narratives, and sustains interest through social media dynamics and shared culture. Without a committed base, even the most ingenious token can collapse into obscurity. Trust in the community can create resilience against panic selling and market fluctuations — remember, it’s not just about memes; it's about the people behind them.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-30T12:58:16.360Z",
     "text": "Many scams in crypto are executed through malicious smart contracts. Always check the contract source code for reviews and audits before interacting. Use platforms like Solscan or Phantom to verify token transactions, and never engage with projects that lack transparency or community feedback. Trust your instincts — if it feels off, it probably is.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1785410336005",
-    "ts": "2026-07-30T11:18:56.005Z",
-    "text": "A memecoin without a strong community is like a cat without a tail: lacking critical support and identity. When holders form bonds around memes and shared goals, they create demand that transcends pure speculation. This social fabric not only drives price but also sustains interest over time; once the community fizzles, so too does the coin's viability.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
