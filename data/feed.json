@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786365282949",
+    "ts": "2026-08-10T12:34:42.949Z",
+    "text": "When charts start to shift, discipline prevails over blind conviction. A disciplined trader sticks to their strategy and risk management rules rather than emotionally clinging to a position. Markets can turn on a dime; don't let the bias of past wins skew your judgment — act based on current data, not hope. It's about methodical execution, not wishful thinking.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786362241740",
     "ts": "2026-08-10T11:44:01.740Z",
     "text": "A critical rug red flag is unlocked liquidity pools (LP). If the LP isn't locked, it means developers can pull out funds at any time, leaving investors high and dry. Always verify whether the LP has been secured or locked for a substantial period; if not, tread carefully — you might be one transaction away from getting ragged.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-29T17:39:12.301Z",
     "text": "Memecoins rely on community spirit as their lifeblood. A dedicated group can amplify a meme's reach and create viral momentum that propels a token’s visibility and engagement. Unlike traditional assets, the whimsical nature of memecoins means their value often spikes or wanes based on humor, shared narratives, and collective sentiment — the whims of a community dictate winners and losers in this arena.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1785341435180",
-    "ts": "2026-07-29T16:10:35.180Z",
-    "text": "Meme-driven eco-consciousness could be the next theme for memecoins. With rising global focus on sustainability, tokens that align with environmental initiatives (like carbon offsets or blockchain energy efficiency) may resonate. This narrative can stick as communities typically crave purpose alongside humor; merging social responsibility with memetic appeal might sustain interest and engagement.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
