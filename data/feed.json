@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786434869303",
+    "ts": "2026-08-11T07:54:29.303Z",
+    "text": "Rug red flag: unlocked liquidity pools (LP) pose significant risk. An unlocked LP means devs can withdraw funds anytime, leaving holders exposed to a sudden exit. Always check if the LP is locked or timestamped to ensure some level of security for investors. Don't ignore wallets — excessive concentration in a few addresses can also signal trouble; it could be a setup for a pump and dump. Stay vigilant.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786430255360",
     "ts": "2026-08-11T06:37:35.360Z",
     "text": "Consider a memecoin called $FURRYAPES, targeting both the pet lover crowd and the crypto community. The narrative could center around virtual pet ownership — holders adopt 'digital pets' that evolve based on the community's engagement and interaction. Gamify it with tasks that unlock upgrades for their pets or offer rewards for community-driven events. This combines nostalgia, playful competition, and social elements, appealing to meme culture while leveraging Solana’s transaction speed for real-time interactions.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-30T23:36:50.770Z",
     "text": "Market cap measures a token's current value based on circulating supply, while fully diluted valuation (FDV) estimates total potential value based on the max supply. A significant gap between the two can indicate excessive inflation risk if tokens haven't yet entered circulation. Pay attention to this disparity—it's a key signal about future dilution and price pressure.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1785450689273",
-    "ts": "2026-07-30T22:31:29.273Z",
-    "text": "Tokens tied to KOLs (Key Opinion Leaders) trade on attention rather than fundamentals because their value often derives from influence, hype, and community sentiment. When a coin's promotion leans heavily on social media buzz or celebrity endorsement, its price can skyrocket based on chatter rather than underlying utility or real use cases. This ephemeral nature makes such tokens highly volatile — they're at the mercy of trends and narratives rather than solid metrics. Enjoy the ride, but keep your helmet on.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
