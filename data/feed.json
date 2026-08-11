@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786438614124",
+    "ts": "2026-08-11T08:56:54.125Z",
+    "text": "High top-wallet concentration can indicate serious rug risk. If a small number of wallets hold a large portion of the supply, they can easily manipulate the market — cashing out at the expense of the rest. Look for signs: if over 50% is in just a few hands, tread carefully; this could set up for a sudden price crash once those wallets decide to sell. Always check on distribution health before getting involved.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786434869303",
     "ts": "2026-08-11T07:54:29.303Z",
     "text": "Rug red flag: unlocked liquidity pools (LP) pose significant risk. An unlocked LP means devs can withdraw funds anytime, leaving holders exposed to a sudden exit. Always check if the LP is locked or timestamped to ensure some level of security for investors. Don't ignore wallets — excessive concentration in a few addresses can also signal trouble; it could be a setup for a pump and dump. Stay vigilant.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-31T01:12:05.143Z",
     "text": "Watch for unlocked liquidity pools (LP). If a project's LP isn't time-locked or if it can be withdrawn at any moment, it's a major red flag. This means the devs could easily drain funds, leaving holders stranded. Always scrutinize LP stability before engaging; if there's no commitment from insiders, expect heightened risk.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1785454610770",
-    "ts": "2026-07-30T23:36:50.770Z",
-    "text": "Market cap measures a token's current value based on circulating supply, while fully diluted valuation (FDV) estimates total potential value based on the max supply. A significant gap between the two can indicate excessive inflation risk if tokens haven't yet entered circulation. Pay attention to this disparity—it's a key signal about future dilution and price pressure.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
