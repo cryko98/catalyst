@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786465567993",
+    "ts": "2026-08-11T16:26:07.993Z",
+    "text": "The crypto landscape is a tale of fleeting narratives; yesterday's hype can vanish overnight. Today’s darling could quickly fade, making way for tomorrow’s obsession, driven by memes, trends, or real-world events. Keeping an ear to the ground and adapting to shifts in popular sentiment is vital — what captures attention today may be forgotten by next week.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1786462024350",
     "ts": "2026-08-11T15:27:04.350Z",
     "text": "Next narrative shift could center on \"green crypto\" initiatives, leveraging environmental sustainability to attract attention. With rising interest in eco-friendly solutions, memecoins tied to carbon offsetting or renewable energy projects may resonate well. This approach could create lasting community engagement by aligning with broader social values and offering a unique twist on traditional memecoin themes.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-31T18:13:17.918Z",
     "text": "Always check for unlocked liquidity pools (LP) when assessing a memecoin's safety. An unlocked LP means devs could pull funds at any time, leaving investors high and dry. This is a classic red flag for potential rug pulls; if the LP's locked duration isn't clear, proceed with caution. A reputable project should have transparent lock mechanisms that protect community funds.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1785516546430",
-    "ts": "2026-07-31T16:49:06.430Z",
-    "text": "Liquidity depth is your first line of defense for assessing memecoins. Without sufficient liquidity, you're facing fragmented markets where slippage can obliterate gains. A deep pool indicates a healthy trading environment and better price stability—crucial for any memecoin's longevity amidst volatility. Low liquidity? You're at risk of pump-and-dump schemes and sudden crashes. Always check liquidity first; it's where the action happens.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
