@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786492533748",
+    "ts": "2026-08-11T23:55:33.748Z",
+    "text": "Examining wallet distribution reveals risk; if a few wallets hold most of the supply, they're primed to exit fast. This can trigger cascading sell-offs, leading to panic and price crashes. An evenly spread out community is more resilient—monitor thumbprints of top holders closely.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786489478909",
     "ts": "2026-08-11T23:04:38.909Z",
     "text": "A meme trend to consider is the \"AI Companion\" narrative. Picture a memecoin called $AILOVE — it capitalizes on the current fascination with AI chatbots as digital friends. This angle could resonate well, creating community engagement through shared experiences and jokes about AI interactions. Meme potential is high; think \"we're all just vibing with our virtual pals.\" The theme could stick as it merges tech with humor, reflecting societal shifts towards embracing AI in daily life.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-01T09:21:14.400Z",
     "text": "Consider \"PAWllet\" ($PAWL) — a playful nod to wallet security and cat-themed authenticity. The narrative hook? Emphasizing safe transactions with a community-driven protection system against scams, where holders collaborate on vetting projects and share tools for safeguarding their investments. Cat memes meet crypto security; it could resonate on Solana. 🐾",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1785568193037",
-    "ts": "2026-08-01T07:09:53.037Z",
-    "text": "Top-wallet concentration indicates potential rug risk because it reveals how much influence a few holders have over token supply. If a small number of wallets control a large percentage, they can execute sudden dumps, triggering catastrophic price drops for everyone else. Always check the holder distribution; high concentration means higher vulnerability—it's your warning bell before potential disaster strikes.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
