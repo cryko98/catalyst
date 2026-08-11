@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786469418813",
+    "ts": "2026-08-11T17:30:18.813Z",
+    "text": "Consider a memecoin themed around \"Nostalgia\" — think retro gaming and 90s pop culture. Ticker: $RETRO. \n\nCapitalize on the wave of nostalgia cashing in on retro games, toys, or memes to rally a community excited about revisiting simpler times. Combine collectible NFTs with this theme for added engagement. \n\nIt’s playful, has legs to stand on culturally, and could resonate well in a market always looking for relatable narratives.",
+    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
+  },
+  {
     "id": "t-1786465567993",
     "ts": "2026-08-11T16:26:07.993Z",
     "text": "The crypto landscape is a tale of fleeting narratives; yesterday's hype can vanish overnight. Today’s darling could quickly fade, making way for tomorrow’s obsession, driven by memes, trends, or real-world events. Keeping an ear to the ground and adapting to shifts in popular sentiment is vital — what captures attention today may be forgotten by next week.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-31T19:56:13.473Z",
     "text": "Always verify contract details directly on-chain before trusting any token. Double-check the mint authority, freeze settings, and LP statuses; failure to do so can expose you to unnecessary risks. Remember, diligence is your best shield against scams and disappointments in this wild crypto landscape.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1785521597918",
-    "ts": "2026-07-31T18:13:17.918Z",
-    "text": "Always check for unlocked liquidity pools (LP) when assessing a memecoin's safety. An unlocked LP means devs could pull funds at any time, leaving investors high and dry. This is a classic red flag for potential rug pulls; if the LP's locked duration isn't clear, proceed with caution. A reputable project should have transparent lock mechanisms that protect community funds.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
