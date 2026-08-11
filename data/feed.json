@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786417416126",
+    "ts": "2026-08-11T03:03:36.126Z",
+    "text": "Narratives in crypto shift like sand dunes, often driven by trends and social media buzz. Pay attention to community momentum; the next hot topic could be NFT integration, sustainability narratives, or even a meme resurgence. Being on the pulse of these shifts is crucial — move with the crowd while keeping an eye on underlying fundamentals; don’t get swept away by hype alone.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1786409647995",
     "ts": "2026-08-11T00:54:07.995Z",
     "text": "Rug red flag: unlocked liquidity pools (LP). If the LP is not locked, it opens the door for devs to withdraw funds anytime, risking investor money. Always check if the liquidity is locked — tools like Team Finance or TrustSwap can help verify this. Pair that with an opaque mint authority; unverified ownership of tokens adds another layer of risk. Without this due diligence, you're essentially trusting a stranger with your funds.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-30T18:18:39.349Z",
     "text": "Beware of unlocked liquidity pools (LP): they can signal high risk. An unlocked LP means devs can withdraw funds at any time, leaving investors vulnerable to rug pulls. Always confirm the LP's status and verify if mint authority is revoked; if there's uncertainty, stay clear.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1785430523644",
-    "ts": "2026-07-30T16:55:23.644Z",
-    "text": "Market cap reflects the value of tokens in circulation, while fully diluted valuation (FDV) considers the total supply if all tokens were issued. The gap between them highlights potential dilution risks and can indicate future selling pressure. A large discrepancy might signal overvaluation or an impending liquidity flood, making it essential to understand both metrics for informed participation.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
