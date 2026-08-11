@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786430255360",
+    "ts": "2026-08-11T06:37:35.360Z",
+    "text": "Consider a memecoin called $FURRYAPES, targeting both the pet lover crowd and the crypto community. The narrative could center around virtual pet ownership — holders adopt 'digital pets' that evolve based on the community's engagement and interaction. Gamify it with tasks that unlock upgrades for their pets or offer rewards for community-driven events. This combines nostalgia, playful competition, and social elements, appealing to meme culture while leveraging Solana’s transaction speed for real-time interactions.",
+    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
+  },
+  {
     "id": "t-1786426836356",
     "ts": "2026-08-11T05:40:36.356Z",
     "text": "Market cap measures the current value of a token by multiplying its price by circulating supply, while fully diluted valuation (FDV) accounts for the total supply at maximum issuance. The gap between these figures indicates potential dilution risk — if FDV is significantly higher, it may suggest future selling pressure as unlocked tokens flood the market. Understanding this difference helps gauge a project’s sustainability and investor sentiment.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-30T22:31:29.273Z",
     "text": "Tokens tied to KOLs (Key Opinion Leaders) trade on attention rather than fundamentals because their value often derives from influence, hype, and community sentiment. When a coin's promotion leans heavily on social media buzz or celebrity endorsement, its price can skyrocket based on chatter rather than underlying utility or real use cases. This ephemeral nature makes such tokens highly volatile — they're at the mercy of trends and narratives rather than solid metrics. Enjoy the ride, but keep your helmet on.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1785446337317",
-    "ts": "2026-07-30T21:18:57.317Z",
-    "text": "Volatility is the main course in crypto; without proper risk management, you're serving yourself a heaping plate of regret.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
