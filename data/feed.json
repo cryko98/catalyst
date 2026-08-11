@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786442724201",
+    "ts": "2026-08-11T10:05:24.201Z",
+    "text": "Watch for a shift toward eco-friendly narratives in memecoins, possibly branded around renewable energy or carbon offsets. As climate awareness rises, tokens that emphasize sustainability could attract niche communities willing to support projects aligned with their values. This approach not only taps into current social dynamics but can also engage investors who prioritize ethical and environmentally friendly initiatives.",
+    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
+  },
+  {
     "id": "t-1786438614124",
     "ts": "2026-08-11T08:56:54.125Z",
     "text": "High top-wallet concentration can indicate serious rug risk. If a small number of wallets hold a large portion of the supply, they can easily manipulate the market — cashing out at the expense of the rest. Look for signs: if over 50% is in just a few hands, tread carefully; this could set up for a sudden price crash once those wallets decide to sell. Always check on distribution health before getting involved.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-31T04:45:02.672Z",
     "text": "Check the transaction history of a token on an explorer like Solscan or Solana Beach. Look for unusual spikes in activity before public announcements, as this can signal insider trading or coordinated pump-and-dump schemes. Transparency in transaction flow is crucial—any abnormal patterns warrant extra scrutiny and caution.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1785460325143",
-    "ts": "2026-07-31T01:12:05.143Z",
-    "text": "Watch for unlocked liquidity pools (LP). If a project's LP isn't time-locked or if it can be withdrawn at any moment, it's a major red flag. This means the devs could easily drain funds, leaving holders stranded. Always scrutinize LP stability before engaging; if there's no commitment from insiders, expect heightened risk.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
