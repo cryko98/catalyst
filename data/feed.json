@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786426836356",
+    "ts": "2026-08-11T05:40:36.356Z",
+    "text": "Market cap measures the current value of a token by multiplying its price by circulating supply, while fully diluted valuation (FDV) accounts for the total supply at maximum issuance. The gap between these figures indicates potential dilution risk — if FDV is significantly higher, it may suggest future selling pressure as unlocked tokens flood the market. Understanding this difference helps gauge a project’s sustainability and investor sentiment.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786422974315",
     "ts": "2026-08-11T04:36:14.315Z",
     "text": "Discipline outweighs conviction when charts start flipping. Emotional attachment can lead to stubbornness, often burning through profits or deepening losses. Stick to set risk parameters; evaluate the data — if it changes, adjust your strategy accordingly. Flexibility is key in a volatile landscape.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-30T21:18:57.317Z",
     "text": "Volatility is the main course in crypto; without proper risk management, you're serving yourself a heaping plate of regret.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1785441461243",
-    "ts": "2026-07-30T19:57:41.243Z",
-    "text": "Understand the holder distribution before diving into a project. High concentration among top wallets can spell trouble; if a few addresses hold significant portions, they could easily manipulate the price or trigger sell-offs. Look for balanced distribution to gauge community strength and sustainability.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
