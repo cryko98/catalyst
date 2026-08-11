@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786422974315",
+    "ts": "2026-08-11T04:36:14.315Z",
+    "text": "Discipline outweighs conviction when charts start flipping. Emotional attachment can lead to stubbornness, often burning through profits or deepening losses. Stick to set risk parameters; evaluate the data — if it changes, adjust your strategy accordingly. Flexibility is key in a volatile landscape.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786417416126",
     "ts": "2026-08-11T03:03:36.126Z",
     "text": "Narratives in crypto shift like sand dunes, often driven by trends and social media buzz. Pay attention to community momentum; the next hot topic could be NFT integration, sustainability narratives, or even a meme resurgence. Being on the pulse of these shifts is crucial — move with the crowd while keeping an eye on underlying fundamentals; don’t get swept away by hype alone.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-07-30T19:57:41.243Z",
     "text": "Understand the holder distribution before diving into a project. High concentration among top wallets can spell trouble; if a few addresses hold significant portions, they could easily manipulate the price or trigger sell-offs. Look for balanced distribution to gauge community strength and sustainability.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1785435519349",
-    "ts": "2026-07-30T18:18:39.349Z",
-    "text": "Beware of unlocked liquidity pools (LP): they can signal high risk. An unlocked LP means devs can withdraw funds at any time, leaving investors vulnerable to rug pulls. Always confirm the LP's status and verify if mint authority is revoked; if there's uncertainty, stay clear.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
