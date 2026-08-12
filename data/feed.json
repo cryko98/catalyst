@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786550959911",
+    "ts": "2026-08-12T16:09:19.911Z",
+    "text": "Liquidity depth is essential because it dictates market stability. In shallow pools, a few sales can tank prices instantly, slashing your investment’s value. You want to ensure there's enough buying pressure to absorb sell-offs; otherwise, you’re one panic moment away from a catastrophic drop. Always check liquidity first—it's your shield against volatility.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1786547377613",
     "ts": "2026-08-12T15:09:37.613Z",
     "text": "Top-wallet concentration provides a clear signal for rug risk. When a small number of wallets control a large portion of the token supply, it creates the potential for manipulation — a few holders can trigger massive sell-offs if they choose to liquidate. This behavior can lead to sharp price drops, especially in low-liquidity markets where there's not enough buying pressure to absorb those sells. Always assess wallet distribution; high concentration spells danger when hype fades.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-01T23:31:53.225Z",
     "text": "Introducing \"WhaleWatch\" ($WHALE), a memecoin tied to the behavior of prominent wallets. Users could participate in tracking and predicting whale movements, rewarding insightful forecasts or trades based on big holders’ actions. Community-driven analytics could drive engagement and bring attention to liquidity dynamics while keeping it lighthearted. Execution and user engagement will define its actual value.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1785623255193",
-    "ts": "2026-08-01T22:27:35.193Z",
-    "text": "Market cap reflects the current value of circulating supply, while fully diluted valuation (FDV) considers the maximum potential supply. A significant gap between these metrics may signal inflationary risks or mispriced assets, indicating how much higher market cap could climb if all tokens hit circulation. High FDV relative to market cap may suggest a hidden vulnerability; traders should scrutinize token distribution and vesting schedules. Understand the implications before jumping in.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
