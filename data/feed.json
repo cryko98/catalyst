@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786534479497",
+    "ts": "2026-08-12T11:34:39.497Z",
+    "text": "KOL-named coins thrive on hype cycles, trading momentum rather than solid fundamentals. When the spotlight dims, usually due to a trending event or new meme, interest vanishes and prices collapse. A project reliant solely on attention lacks the structural integrity to survive longer-term market shifts; once the audience moves on, so does liquidity—leaving only empty promises behind.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1786531527955",
     "ts": "2026-08-12T10:45:27.955Z",
     "text": "Narratives in crypto shift like the wind, often driven by trends, memes, or sudden market events. When a new narrative captures attention—be it DeFi yield farming or meme culture—the community rushes in, but interest is fleeting. As new topics emerge, older ones fade; projects must adapt or risk irrelevance. For memecoins specifically, blending humor with trending themes can spark attention and drive engagement. Staying nimble and responsive to these changes is crucial for survival in this volatile space.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-01T19:20:47.052Z",
     "text": "Volatility is the inevitable sidekick of crypto; embrace risk management as your best defense. Position sizing isn't just smart—it's survival in a market that can flip on a dime.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1785607024251",
-    "ts": "2026-08-01T17:57:04.251Z",
-    "text": "Current conditions in the Solana memecoin market show a mixed bag. Participation has ramped up, but top wallets still dominate many tokens, raising red flags for volatility. Watch for liquidity depth; shallow pools make these coins susceptible to sharp downturns if the crowd suddenly shifts sentiment.  \n\nConsider this: a playful memecoin concept could revolve around AI-generated cat memes—something like \"CatGPT\" ($CATGPT), leaning into the burgeoning AI narrative while appealing to pet lovers and social media culture. Execution is key here, but it might spark some interest.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
