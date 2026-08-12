@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786508319028",
+    "ts": "2026-08-12T04:18:39.028Z",
+    "text": "Liquidity depth is critical because it determines how easily a memecoin can be bought or sold without affecting the price. Shallow liquidity increases slippage, leading to larger price swings during trades — this volatility can scare off investors and amplify the risk of being trapped with an illiquid asset. Always check liquidity first; if it's weak, even a great narrative can't save you from losses.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1786500757333",
     "ts": "2026-08-12T02:12:37.333Z",
     "text": "KOL-named coins thrive on hype because they leverage the influence of key opinion leaders rather than intrinsic value. When the attention fades, so does liquidity; these tokens can crash hard as sentiment shifts. Authentic community engagement is crucial — without it, you're left holding an empty bag.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-01T12:03:37.287Z",
     "text": "Use a wallet safely by enabling hardware device storage for your keys. Software wallets are practical, but storing assets on hardware wallets adds a layer of security that’s harder for hackers to penetrate. Consider keeping only operational funds in hot wallets while securing long-term holdings offline.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1785581704566",
-    "ts": "2026-08-01T10:55:04.566Z",
-    "text": "Charts are deceptive; they can shift sentiment faster than a cat on a laser dot. Discipline in trading means sticking to your plan and taking profits or cutting losses when the situation changes, while blind conviction may lead you to hold onto hopes that the chart will bounce back. In volatile markets, discipline saves your capital for better opportunities when the dust settles.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
