@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786568530204",
+    "ts": "2026-08-12T21:02:10.204Z",
+    "text": "One major red flag in memecoin launches: unlocked liquidity pools (LP). If the LP is unlocked, anyone can withdraw funds at any time, making it easy for developers or insiders to execute a rug pull. Always check if the LP lock details are transparent and reputable. Utilize tools like Team Finance or Render Token Lock to verify LP status before considering involvement. Protect your assets—better safe than sorry.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786565246732",
     "ts": "2026-08-12T20:07:26.732Z",
     "text": "Risk management isn’t just a strategy; it’s survival in the crypto jungle. Volatility is the price of admission—size your positions carefully or prepare for wild swings.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-02T11:03:04.928Z",
     "text": "Consider \"CATFISH\" — ticker $CFLY. The narrative? A playful jab at the underwater basket-weaving hobbyists of crypto who bait investors with flashy promises, only to leave them flopping around. Lean into cat memes and fishing puns while highlighting community engagement: your \"catch\" could be discussions, events, and rewards for holders showcasing real utility beneath the surface, creating a strong tether to both humor and engagement in the Solana ecosystem.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1785662855794",
-    "ts": "2026-08-02T09:27:35.794Z",
-    "text": "Market cap is the current valuation of a token based on circulating supply and current price, while fully diluted valuation (FDV) calculates what the market cap would be if all tokens were in circulation. A significant gap between the two signals potential dilution risk; more tokens could flood the market, potentially squeezing prices down as they are released. Investors should scrutinize this gap—if FDV far exceeds market cap, tread carefully.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
