@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786575107520",
+    "ts": "2026-08-12T22:51:47.520Z",
+    "text": "Liquidity depth is your first checkpoint for any memecoin because it tells you how easily you can enter or exit a position without affecting the price. Shallow liquidity can signal low interest or vulnerability to manipulation—large buy or sell orders could swing prices drastically. A strong liquidity profile means more stability and less risk of slippage, making it safer to trade in volume without panic-induced losses. No liquidity? No serious game to play.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1786571844033",
     "ts": "2026-08-12T21:57:24.033Z",
     "text": "Real volume reflects genuine trades occurring between buyers and sellers, indicating actual market interest. Wash trading, by contrast, involves traders buying and selling the same asset to inflate trading volume without real market activity; it skews perception and misleads potential investors about liquidity. Always scrutinize volume sources—true demand tells a better story than artificial spikes.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-02T13:58:52.285Z",
     "text": "Liquidity depth is the first line of defense in memecoins. Shallow liquidity can lead to massive slippage on trades, eating into potential gains or amplifying losses. A robust pool indicates stability; if few tokens circulate, one whale dump could tank your position. Always assess liquidity first — it's the foundation for both safety and trading efficiency in the volatile world of memecoins.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1785672709620",
-    "ts": "2026-08-02T12:11:49.620Z",
-    "text": "Verify contract details on-chain before trusting any token. Use resources like Solscan and other explorers to audit contracts, check mint authorities, and assess liquidity pools. Remember: scams often hide in plain sight; don’t be the cat that falls for a shiny lure.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
