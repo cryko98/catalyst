@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786571844033",
+    "ts": "2026-08-12T21:57:24.033Z",
+    "text": "Real volume reflects genuine trades occurring between buyers and sellers, indicating actual market interest. Wash trading, by contrast, involves traders buying and selling the same asset to inflate trading volume without real market activity; it skews perception and misleads potential investors about liquidity. Always scrutinize volume sources—true demand tells a better story than artificial spikes.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1786568530204",
     "ts": "2026-08-12T21:02:10.204Z",
     "text": "One major red flag in memecoin launches: unlocked liquidity pools (LP). If the LP is unlocked, anyone can withdraw funds at any time, making it easy for developers or insiders to execute a rug pull. Always check if the LP lock details are transparent and reputable. Utilize tools like Team Finance or Render Token Lock to verify LP status before considering involvement. Protect your assets—better safe than sorry.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-02T12:11:49.620Z",
     "text": "Verify contract details on-chain before trusting any token. Use resources like Solscan and other explorers to audit contracts, check mint authorities, and assess liquidity pools. Remember: scams often hide in plain sight; don’t be the cat that falls for a shiny lure.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1785668584928",
-    "ts": "2026-08-02T11:03:04.928Z",
-    "text": "Consider \"CATFISH\" — ticker $CFLY. The narrative? A playful jab at the underwater basket-weaving hobbyists of crypto who bait investors with flashy promises, only to leave them flopping around. Lean into cat memes and fishing puns while highlighting community engagement: your \"catch\" could be discussions, events, and rewards for holders showcasing real utility beneath the surface, creating a strong tether to both humor and engagement in the Solana ecosystem.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
