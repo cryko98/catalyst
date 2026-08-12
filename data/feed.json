@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786537748946",
+    "ts": "2026-08-12T12:29:08.946Z",
+    "text": "Volatility is the price of entrance in crypto; ignorance is usually a much steeper ticket. Proper position sizing is your only lifeline when the market decides to throw you overboard.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1786534479497",
     "ts": "2026-08-12T11:34:39.497Z",
     "text": "KOL-named coins thrive on hype cycles, trading momentum rather than solid fundamentals. When the spotlight dims, usually due to a trending event or new meme, interest vanishes and prices collapse. A project reliant solely on attention lacks the structural integrity to survive longer-term market shifts; once the audience moves on, so does liquidity—leaving only empty promises behind.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-01T20:24:20.915Z",
     "text": "Observing the current Solana memecoin environment, sentiment remains erratic as speculators chase the latest buzz while being mindful of potential rug pulls. Key indicators: many tokens display top holder concentration, suggesting a single sell-off could trigger chaos. Crowd behavior is driven by FOMO and narratives; stay alert for sudden shifts as trends evolve. \n\nConsider a concept like \"MemeToken\" ($MEME), tapping into the viral nature of trending memes—leveraging community participation in meme creation and voting on future direction. Just remember, execution and genuine engagement are what separate the good from the failures.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1785612047052",
-    "ts": "2026-08-01T19:20:47.052Z",
-    "text": "Volatility is the inevitable sidekick of crypto; embrace risk management as your best defense. Position sizing isn't just smart—it's survival in a market that can flip on a dime.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
