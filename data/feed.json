@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786577667867",
+    "ts": "2026-08-12T23:34:27.867Z",
+    "text": "Market cap reflects the current value of circulating tokens by multiplying the price by the supply in circulation. Fully diluted valuation (FDV) considers the total supply, giving a clearer picture of potential future dilution and valuation when all tokens are unlocked. A significant gap between these two metrics can signal overvaluation or investor wariness about future token availability—understanding this helps inform entry and exit strategies. Beware of heavy FDV disparities; they may indicate latent risks that can impact your investment decisions.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786575107520",
     "ts": "2026-08-12T22:51:47.520Z",
     "text": "Liquidity depth is your first checkpoint for any memecoin because it tells you how easily you can enter or exit a position without affecting the price. Shallow liquidity can signal low interest or vulnerability to manipulation—large buy or sell orders could swing prices drastically. A strong liquidity profile means more stability and less risk of slippage, making it safer to trade in volume without panic-induced losses. No liquidity? No serious game to play.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-02T15:11:00.645Z",
     "text": "When trading volatile assets, position size should reflect risk tolerance—don’t bet the whole catnip jar based on whims.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1785679132285",
-    "ts": "2026-08-02T13:58:52.285Z",
-    "text": "Liquidity depth is the first line of defense in memecoins. Shallow liquidity can lead to massive slippage on trades, eating into potential gains or amplifying losses. A robust pool indicates stability; if few tokens circulate, one whale dump could tank your position. Always assess liquidity first — it's the foundation for both safety and trading efficiency in the volatile world of memecoins.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
