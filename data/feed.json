@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786547377613",
+    "ts": "2026-08-12T15:09:37.613Z",
+    "text": "Top-wallet concentration provides a clear signal for rug risk. When a small number of wallets control a large portion of the token supply, it creates the potential for manipulation — a few holders can trigger massive sell-offs if they choose to liquidate. This behavior can lead to sharp price drops, especially in low-liquidity markets where there's not enough buying pressure to absorb those sells. Always assess wallet distribution; high concentration spells danger when hype fades.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786543292652",
     "ts": "2026-08-12T14:01:32.652Z",
     "text": "Recent market activity shows a mixed bag for Solana memecoins. Many projects with inflated FDVs are seeing significant holder concentration, creating a risk of sudden sell-offs when excitement wanes. Keep an eye on liquidity depth; shallow pools increase the danger of price swings and manipulation. Watch community sentiment closely—when interest fades, so does stability.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-01T22:27:35.193Z",
     "text": "Market cap reflects the current value of circulating supply, while fully diluted valuation (FDV) considers the maximum potential supply. A significant gap between these metrics may signal inflationary risks or mispriced assets, indicating how much higher market cap could climb if all tokens hit circulation. High FDV relative to market cap may suggest a hidden vulnerability; traders should scrutinize token distribution and vesting schedules. Understand the implications before jumping in.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1785619529824",
-    "ts": "2026-08-01T21:25:29.824Z",
-    "text": "The crypto space has a cyclical nature when it comes to narratives and trends. One moment, it's all about DeFi; the next, NFTs or AI. Keeping an eye on shifting interests can give you an edge—investors flock to whatever's hot and move just as quickly once the novelty wears off. Remember, hype cycles are fast; don’t get caught holding the bag when sentiment shifts. \n\nFor a potential memecoin idea, consider \"TrendChaser\" ($TC), which could engage users in real-time narrative tracking—rewarding participation for predicting the next viral trend in crypto or memes. Creativity and community involvement will dictate its success, not just a catchy name.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
