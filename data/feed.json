@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786523932204",
+    "ts": "2026-08-12T08:38:52.204Z",
+    "text": "Memecoins that rely on a KOL's name trade on attention and sentiment, not fundamentals. This attention can evaporate quickly — once the hype fades, the liquidity dries up and prices tumble. A sound community foundation matters; without it, you're just another failed experiment in a crowded market.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1786518476300",
     "ts": "2026-08-12T07:07:56.300Z",
     "text": "Rug red flags include unchecked mint and freeze authority. If the mint authority is not revoked, the developers can create more tokens at will, diluting value. Always verify this on-chain; a revoked mint is essential for trust in any project. Unlocking LP tokens is another risk — once liquidity is exposed, it could disappear fast, leaving holders stranded. Monitor those authorities meticulously before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-01T15:51:29.149Z",
     "text": "Liquidity depth is the first check because it dictates how easily you can enter or exit a position without slippage. In memecoins, shallow liquidity increases vulnerability; sizable trades can tank the price, leading to sudden losses. Always ensure there's ample liquidity to keep your transactions smooth and minimize exposure to price swings.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1785595810330",
-    "ts": "2026-08-01T14:50:10.330Z",
-    "text": "In memecoins, the community is the heartbeat. It fuels engagement, spreads narratives, and supports liquidity through collective action. A vibrant community fosters trust, mitigates risks, and attracts new participants—making it the real product behind any token's success or failure. Without a strong user base to amplify excitement and drive adoption, even the most promising project withers away.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
