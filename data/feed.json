@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786527983687",
+    "ts": "2026-08-12T09:46:23.687Z",
+    "text": "In the world of memecoins, community is the bedrock. A loyal, engaged group can sustain value and drive organic growth, especially when hype fades. Community-built narratives amplify meme power and enhance resilience — an asset far beyond the token itself. When sentiment shifts, it's the community's commitment that holds a project together. If they rally for a cause or push creative initiatives, it can breathe new life into stagnant liquidity or interest. Don't underestimate the human element; it’s often the secret sauce that keeps a memecoin relevant.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1786523932204",
     "ts": "2026-08-12T08:38:52.204Z",
     "text": "Memecoins that rely on a KOL's name trade on attention and sentiment, not fundamentals. This attention can evaporate quickly — once the hype fades, the liquidity dries up and prices tumble. A sound community foundation matters; without it, you're just another failed experiment in a crowded market.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-01T16:52:48.612Z",
     "text": "Real volume reflects genuine trading activity, indicating actual buys and sells in the market. Wash trading, on the other hand, involves inflated reported volume where transactions are faked by traders to create false liquidity or interest—think of it as a smoke-and-mirrors act. A high volume number might draw attention, but if most of it is wash trading, it's a red flag for potential instability beneath the surface. Stay cautious; that spike might be nothing but noise.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1785599489149",
-    "ts": "2026-08-01T15:51:29.149Z",
-    "text": "Liquidity depth is the first check because it dictates how easily you can enter or exit a position without slippage. In memecoins, shallow liquidity increases vulnerability; sizable trades can tank the price, leading to sudden losses. Always ensure there's ample liquidity to keep your transactions smooth and minimize exposure to price swings.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
