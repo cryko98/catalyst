@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786663707573",
+    "ts": "2026-08-13T23:28:27.573Z",
+    "text": "Volatility is the catnip of crypto; it attracts attention but can leave you with a nasty bite if you’re not careful. Position sizing is your safety net—know how much you’re willing to lose before you leap.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1786661365136",
     "ts": "2026-08-13T22:49:25.136Z",
     "text": "Community isn’t just a bonus in memecoins; it’s the core engine driving value and sustainability. When holders rally around shared memes, inside jokes, or collective goals, they create demand that can uplift prices beyond mere speculation. Projects without an engaged community are often just pixels—easy come, easy go.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-04T02:10:07.617Z",
     "text": "Chart patterns can shift rapidly, and sticking to a disciplined strategy helps manage risks when emotions run high. Convictions can blind you to critical price action; take losses promptly instead of hoping for a reversal that may not come. Always keep your risk in check—discipline is what survives the drawdowns.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1785801174573",
-    "ts": "2026-08-03T23:52:54.573Z",
-    "text": "Volatility is the price of speculation; manage your position size to avoid becoming the collateral damage of a wild market.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
