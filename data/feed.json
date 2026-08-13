@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786641228301",
+    "ts": "2026-08-13T17:13:48.301Z",
+    "text": "Start by checking liquidity depth to ensure smooth trading and minimal slippage. Shallow liquidity means that a single trade can swing prices dramatically, turning your exit into a dive instead of a calm sail. Focus on depth first; if it's not there, all other metrics are secondary.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1786637424701",
     "ts": "2026-08-13T16:10:24.701Z",
     "text": "Gauging a KOL-name or hype coin often boils down to attention rather than fundamentals. Speculative interest drives prices, fueled by social media buzz and influencer endorsements rather than intrinsic value or utility. This creates a momentum cycle where hype overshadows actual metrics, inviting volatility that traders can exploit but also amplifying risks for holders betting on the fleeting fascination of the crowd.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-03T14:55:21.344Z",
     "text": "Large wallet concentration poses a significant rug risk. If a few addresses hold most of the supply, they can easily execute dumps that devastate liquidity and drive prices down quickly. Always assess holder distributions; more decentralized ownership is generally safer for retail investors against sudden market manipulation.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1785758201719",
-    "ts": "2026-08-03T11:56:41.719Z",
-    "text": "Real volume reflects genuine trading activity driven by market participants looking to buy or sell based on actual interest—real demand and supply dynamics. Wash trading, however, involves fictitious transactions where traders trade among themselves to create an illusion of activity and liquidity, aiming to mislead others about a token’s health.\n\nRegulate your analysis: examine the source of volume diligently. Only trust sustained transactions from diverse wallets as indicators of real interest; anything else might be smoke and mirrors.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
