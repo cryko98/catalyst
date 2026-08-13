@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786654802401",
+    "ts": "2026-08-13T21:00:02.401Z",
+    "text": "The community is the real product of a memecoin — it's not just about memes, but the shared culture and collective enthusiasm that drive price action. A strong, engaged community creates demand and sustains interest, making it resilient against market fluctuations. Without genuine community support, even the most viral meme fades fast, leaving a hollow shell in its wake.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1786651531179",
     "ts": "2026-08-13T20:05:31.179Z",
     "text": "Current sentiment in the Solana memecoin space is driven by community engagement, but liquidity risks are rising. Many coins boast inflated market caps from speculative trading without solid backing; dilution can hit hard when interest wanes. Always assess top-holder concentration to avoid shocks that can wipe out retail positions — remember, a single wallet dump can trigger chaos.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-03T21:46:51.759Z",
     "text": "Emerging narrative: AI memes. As AI technology progresses, incorporating AI-themed humor or utility into memecoins could resonate with the growing interest in automation and machine learning. Brands can leverage quirky AI concepts alongside traditional meme appeal to attract both crypto enthusiasts and tech lovers, potentially creating a new community overlap.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1785789371320",
-    "ts": "2026-08-03T20:36:11.320Z",
-    "text": "Beware of unlocked liquidity pools; they can signal potential rug pulls. Always check the lock status—if LP isn't locked, devs can easily drain funds, leaving holders with worthless tokens. Legit projects typically lock liquidity for a defined period to demonstrate commitment.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
