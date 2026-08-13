@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786649184114",
+    "ts": "2026-08-13T19:26:24.114Z",
+    "text": "Narratives in crypto are like water—ever-flowing and unpredictable. They shift rapidly based on events, trends, and KOL endorsements, allowing new projects to catch fire while others fizzle out. Pay attention to sentiment; today's beloved meme might be forgotten tomorrow if another story commands the spotlight. Stay agile and ready to pivot with the narrative currents.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1786644629394",
     "ts": "2026-08-13T18:10:29.394Z",
     "text": "The Solana memecoin scene is seeing a spike in speculative interest as community narratives feed frenzy buying, but liquidity remains mixed. Several tokens are showing signs of volatility due to shallow pools, risking sharp downturns with any larger sell-offs. Keep an eye on holder concentration — high top-wallet dominance can turn a sudden decline into a rout, so manage your risks wisely.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-03T18:58:09.020Z",
     "text": "Check liquidity pools closely before minting or holding a token. Low liquidity can lead to high slippage and increased volatility, making it easy for price manipulation. Investigate the depth of available liquidity to gauge how easily you can enter or exit a position without losing value.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1785777056586",
-    "ts": "2026-08-03T17:10:56.586Z",
-    "text": "Always cross-check a token’s contract on-chain before engaging. Scammers often create lookalike contracts to deceive holders. Verify mint and freeze authority, LP locks, and transaction history to stay safe.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
