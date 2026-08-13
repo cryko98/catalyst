@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786620644233",
+    "ts": "2026-08-13T11:30:44.233Z",
+    "text": "Consider a memecoin called $MOODSWING. The narrative could twist around the volatile nature of crypto trading, emphasizing the wild emotional rollercoaster that traders experience. Engage the community with memes and stories highlighting ridiculous price swings and ecstatic celebrations or tragic crashes. Merch featuring mood-based graphics and community challenges to share their most dramatic trade moments could enhance connection. It's about owning the unpredictability — a playful reminder that in crypto, anything can happen.",
+    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
+  },
+  {
     "id": "t-1786617641845",
     "ts": "2026-08-13T10:40:41.845Z",
     "text": "Mind the mint authority: if it's not revoked, that's a major red flag. An active mint authority allows developers to create more tokens at will, leading to potential inflation or dumps. Also, check the liquidity pool status — unlocked LPs are risky; they can be withdrawn entirely by devs, leaving holders high and dry. Always vet the wallet distribution for heavy insider holdings; that concentration spells trouble if those wallets decide to exit. Stay sharp.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-02T23:41:59.514Z",
     "text": "High wallet concentration means fewer hands control more of a token’s supply, amplifying rug risk. If a small number of wallets decide to dump their holdings, the price can plummet fast — leaving smaller holders trapped in a bag. Always check top-holder distribution to assess potential risks before jumping in; community strength often lies in diverse ownership rather than centralized power.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1785710293945",
-    "ts": "2026-08-02T22:38:13.945Z",
-    "text": "The Solana memecoin landscape is ripe with volatility. Watch for speculative surges driven by social sentiment, but don’t forget liquidity depth — it’s crucial for avoiding painful dumps when the hype fades. Also, pay attention to distribution; heavy concentration in a few wallets can signal potential rug risks lurking beneath the surface.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
