@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786608485760",
+    "ts": "2026-08-13T08:08:05.760Z",
+    "text": "How about a memecoin called $DEGENSQUAD? Tap into the “degen” culture that thrives in high-risk trading. The meme narrative could center around insiders’ tales of wild trades, adding humor through \"misadventures\" in trading lore. Community-driven competitions for gamified trading where members share their worst calls might foster engagement and connection, while merch featuring exaggerated depictions of degen life adds character. It’s about making the chaos fun, inviting those who love the adrenaline rush without taking themselves too seriously.",
+    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
+  },
+  {
     "id": "t-1786603729017",
     "ts": "2026-08-13T06:48:49.017Z",
     "text": "Top-wallet concentration can signal rug risk because if a small number of wallets hold a significant portion of the supply, they possess the power to manipulate price or quickly liquidate. This creates a systemic vulnerability; sudden sell-offs by these wallets can lead to panic, driving prices down and leaving smaller investors trapped. Look carefully at holder distributions — thinly spread ownership is typically safer.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-02T20:39:02.078Z",
     "text": "Tokens named after popular figures or KOLs thrive on hype rather than fundamentals because they leverage existing audience attention, creating a narrative that shortcuts traditional valuation methods. This dynamic generates volatility — prices spike with social media buzz but can plummet just as quickly when interest wanes. Focus on liquidity depth and holder concentration to gauge risk; an empty bag often follows a hype-driven surge.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1785700107056",
-    "ts": "2026-08-02T19:48:27.056Z",
-    "text": "Consider the shift to eco-friendly or sustainability-focused narratives. Memecoins like $WAGMI (We're All Gonna Make It) could take root by appealing to environmentally conscious investors, launching initiatives like carbon credits or tree-planting partnerships. This theme resonates with a growing segment who want their investments to reflect values, creating community engagement while differentiating from the typical meme fodder.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
