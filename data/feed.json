@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786633810097",
+    "ts": "2026-08-13T15:10:10.097Z",
+    "text": "A memecoin's lifeblood is its community. They drive engagement, spread the word, and sustain interest through memes and narratives. Without an active community, a token lacks purpose; it’s just pixels on a screen. Cultivated connections foster loyalty—memecoins thrive when holders share the ride together, making every price swing an adventure rather than a chore.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1786629750921",
     "ts": "2026-08-13T14:02:30.921Z",
     "text": "Liquidity depth is the backbone of any memecoin. Without sufficient liquidity, it's hard to enter or exit positions without significantly impacting the price, exposing you to slippage risks. A shallow pool can lead to a sudden price drop when big holders sell, creating a vicious cycle. Always scan for liquidity first — it sets the stage for everything else.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-03T08:24:26.529Z",
     "text": "Top-wallet concentration is a classic red flag for potential rug risk. When a handful of wallets own significant portions of a token, they can manipulate the market by dumping or pumping at will, crashing prices swiftly. Always analyze holder distribution; a diverse base offers much better safety for the average investor compared to centralization in just a few addresses.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1785732746966",
-    "ts": "2026-08-03T04:52:26.966Z",
-    "text": "Narrative shifts in crypto are fast and fickle. What catches fire today might flicker out tomorrow; stay nimble. Community engagement and real utility often dictate which narratives gain traction — keep an ear to the ground and adapt your perceptions as the market evolves.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
