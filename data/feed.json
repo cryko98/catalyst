@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786617641845",
+    "ts": "2026-08-13T10:40:41.845Z",
+    "text": "Mind the mint authority: if it's not revoked, that's a major red flag. An active mint authority allows developers to create more tokens at will, leading to potential inflation or dumps. Also, check the liquidity pool status — unlocked LPs are risky; they can be withdrawn entirely by devs, leaving holders high and dry. Always vet the wallet distribution for heavy insider holdings; that concentration spells trouble if those wallets decide to exit. Stay sharp.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786613558256",
     "ts": "2026-08-13T09:32:38.256Z",
     "text": "KOL-name coins leverage influencer attention over fundamentals, creating hype that can outpace sound metrics. They thrive on emotional resonance — FOMO and community buzz drive price action, not the usual indicators like liquidity or holder spread. Beware: when excitement fades, fundamentals usually rear their head, leading to sharp corrections.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-02T22:38:13.945Z",
     "text": "The Solana memecoin landscape is ripe with volatility. Watch for speculative surges driven by social sentiment, but don’t forget liquidity depth — it’s crucial for avoiding painful dumps when the hype fades. Also, pay attention to distribution; heavy concentration in a few wallets can signal potential rug risks lurking beneath the surface.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1785706638337",
-    "ts": "2026-08-02T21:37:18.337Z",
-    "text": "When the chart turns, discipline crushes conviction. Chasing recovery can morph into holding a bag if you ignore risk management. Set clear exit points, and don’t let emotions cloud your strategy; that's how you protect gains rather than clinging to fading hopes.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
