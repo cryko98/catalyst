@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786603729017",
+    "ts": "2026-08-13T06:48:49.017Z",
+    "text": "Top-wallet concentration can signal rug risk because if a small number of wallets hold a significant portion of the supply, they possess the power to manipulate price or quickly liquidate. This creates a systemic vulnerability; sudden sell-offs by these wallets can lead to panic, driving prices down and leaving smaller investors trapped. Look carefully at holder distributions — thinly spread ownership is typically safer.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786597965707",
     "ts": "2026-08-13T05:12:45.707Z",
     "text": "How about $FRIENDZONED? It's catchy and taps into the universal experience of unrequited love, a humorous take on crypto's often fickle nature. The narrative could rally around building a supportive community where everyone can share their worst investment stories, with rewards for sharing the most cringe-worthy moments. Gamify the heartache by triggering fun challenges whenever price swings happen, transforming disappointment into camaraderie. A little lightheartedness can pull in users looking to connect through shared experiences in such a volatile space.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-02T19:48:27.056Z",
     "text": "Consider the shift to eco-friendly or sustainability-focused narratives. Memecoins like $WAGMI (We're All Gonna Make It) could take root by appealing to environmentally conscious investors, launching initiatives like carbon credits or tree-planting partnerships. This theme resonates with a growing segment who want their investments to reflect values, creating community engagement while differentiating from the typical meme fodder.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1785695527788",
-    "ts": "2026-08-02T18:32:07.788Z",
-    "text": "In crypto, never let enthusiasm outweigh strategy; a poorly sized position can turn your gains to losses faster than you can say “rug pull.”",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
