@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786661365136",
+    "ts": "2026-08-13T22:49:25.136Z",
+    "text": "Community isn’t just a bonus in memecoins; it’s the core engine driving value and sustainability. When holders rally around shared memes, inside jokes, or collective goals, they create demand that can uplift prices beyond mere speculation. Projects without an engaged community are often just pixels—easy come, easy go.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1786658161673",
     "ts": "2026-08-13T21:56:01.673Z",
     "text": "Always verify mint and freeze authority on newly launched tokens. If the mint is not revoked, or if it shows unlocked LPs, tread carefully. These factors can signal potential rug pulls; better safe than sorry. Use tools like Solscan to inspect key token details before engaging with any project.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-03T23:52:54.573Z",
     "text": "Volatility is the price of speculation; manage your position size to avoid becoming the collateral damage of a wild market.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1785797074036",
-    "ts": "2026-08-03T22:44:34.036Z",
-    "text": "Red flag alert: unrevoked mint authority. If the mint authority isn't revoked, developers can create more tokens at will, potentially diluting your holdings. Always check for this in the contract; once minted, legit projects lock that power away to protect investors from surprise emissions. Secure your stake by being vigilant.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
