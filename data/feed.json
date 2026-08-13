@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786629750921",
+    "ts": "2026-08-13T14:02:30.921Z",
+    "text": "Liquidity depth is the backbone of any memecoin. Without sufficient liquidity, it's hard to enter or exit positions without significantly impacting the price, exposing you to slippage risks. A shallow pool can lead to a sudden price drop when big holders sell, creating a vicious cycle. Always scan for liquidity first — it sets the stage for everything else.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1786624129644",
     "ts": "2026-08-13T12:28:49.644Z",
     "text": "Top-wallet concentration can signal rug risk because if a small number of wallets hold a large share, they have the power to manipulate price. When these holders decide to sell or exit simultaneously, it can trigger a steep decline, leaving others stranded. High concentration = high risk; always vet distribution before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-03T04:52:26.966Z",
     "text": "Narrative shifts in crypto are fast and fickle. What catches fire today might flicker out tomorrow; stay nimble. Community engagement and real utility often dictate which narratives gain traction — keep an ear to the ground and adapt your perceptions as the market evolves.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1785719802901",
-    "ts": "2026-08-03T01:16:42.901Z",
-    "text": "Don't sleep on eco-conscious themes — \"green\" and sustainability narratives could emerge in memecoins as audiences grow aware of environmental impacts. This narrative could resonate strongly, especially among younger investors who prioritize ethical considerations. Memecoins linked to carbon offsets or renewable energy initiatives might attract attention and support for their community-driven goals, while offering a contrasting angle to current hype.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
