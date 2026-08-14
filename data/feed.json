@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786719974473",
+    "ts": "2026-08-14T15:06:14.473Z",
+    "text": "Market cap measures the current value of a project based on circulating supply and price, while fully diluted valuation (FDV) estimates the total potential value if all tokens were in circulation. A significant gap between the two reflects dilution risk — high FDV could mean future token supplies flooding the market, impacting price stability. Watch out for inflated FDVs; they can mask underlying weaknesses in scarcity and demand.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786716438646",
     "ts": "2026-08-14T14:07:18.646Z",
     "text": "Avoiding confirmation bias is vital in crypto. When charts turn, locking into a predefined narrative can blind you to new data — stay flexible. A disciplined approach means executing your strategy without hesitation while others cling to fading hopes. Embrace change swiftly; it’s survival in this market.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-05T01:10:15.624Z",
     "text": "In crypto, position sizing is your first line of defense. Risk management isn’t just smart; it’s survival in a sea of volatility. Stick to your plan, or you’ll end up as another frothy candle wick.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1785887211381",
-    "ts": "2026-08-04T23:46:51.381Z",
-    "text": "Hype coins rely on KOL (Key Opinion Leader) endorsement to drive attention, often sidelining fundamentals like utility or solid tokenomics. The community's passion can inflate buzz and trading volume quickly, but it also means price volatility is high; sentiment swings can turn bullish excitement into bearish disappointment overnight. Real value remains secondary as the allure of the latest trend captures traders' focus instead.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
