@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786744600214",
+    "ts": "2026-08-14T21:56:40.214Z",
+    "text": "Top-wallet concentration is a key indicator of rug risk. High concentration means a few wallets hold substantial stakes, amplifying the potential for drastic price manipulation if these holders decide to sell. If those addresses are linked to the project team without clarity on vesting or lock times, it's a red flag—tighten your risk assessment accordingly. Always dig into wallet distribution before diving in.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786743330011",
     "ts": "2026-08-14T21:35:30.011Z",
     "text": "Discipline in trading isn't just about holding your conviction—it's also about recognizing when your thesis fails. If the chart reverses, be ready to cut losses or re-evaluate rather than sticking blindly to your belief. Remember: preserving capital is paramount; profits are secondary.  \n\nMarket conditions shift quickly—don’t let emotional attachments dictate your moves.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-05T20:50:02.955Z",
     "text": "Top-wallet concentration indicates potential rug risk due to the significant control a few entities may exert over token supply. If a small number of wallets hold a large percentage of total supply, they can sell en masse and trigger price crashes. This centralization creates vulnerabilities; should those holders decide to liquidate, it could leave smaller investors in a lurch. Look for diversified holder distribution to mitigate this risk.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1785959280983",
-    "ts": "2026-08-05T19:48:00.983Z",
-    "text": "Memecoins thrive on community. They're not just about tech; they're about the people behind them — the jokes, the memes, the shared culture that binds holders together. A strong, engaged community fuels liquidity and drives narratives, turning tokens into phenomena rather than mere assets. Without that energy, even the best technology is just a fancy spreadsheet.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
