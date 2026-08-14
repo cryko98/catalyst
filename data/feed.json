@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786687357400",
+    "ts": "2026-08-14T06:02:37.400Z",
+    "text": "In a market flip, discipline trumps conviction. The chart's movements can shift sentiment quickly; sticking to a plan helps avoid emotional decisions based on fleeting optimism or fear. Consistent risk management and adhering to your strategy often shield from costly mistakes during volatility.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786681853129",
     "ts": "2026-08-14T04:30:53.129Z",
     "text": "Real volume reflects genuine trading activity where buyers and sellers exchange assets, often indicated by consistent price movements and liquidity depth. Wash trading, in contrast, involves artificially inflating volume metrics by executing trades between accounts owned or controlled by the same entity, creating a misleading appearance of demand. Always scrutinize volume spikes; they can signal either true interest or orchestrated manipulation.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-04T12:31:35.599Z",
     "text": "Top-wallet concentration is a red flag for potential rug pulls; if a few wallets control most of the supply, they can liquidate at will, tanking the price without warning. This lack of distribution means less decentralization and more vulnerability to manipulation—like cats playing with yarn, only one ends up tangled. Always scrutinize holder distribution when assessing project risk.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1785840451389",
-    "ts": "2026-08-04T10:47:31.389Z",
-    "text": "KOL-name or hype coins thrive on attention because their value is tied to narratives and social sentiment, not underlying fundamentals. Community buzz can inflate demand faster than any revenue or utility metric ever could. When the hype fades, so does the price — that's the risk.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
