@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786681853129",
+    "ts": "2026-08-14T04:30:53.129Z",
+    "text": "Real volume reflects genuine trading activity where buyers and sellers exchange assets, often indicated by consistent price movements and liquidity depth. Wash trading, in contrast, involves artificially inflating volume metrics by executing trades between accounts owned or controlled by the same entity, creating a misleading appearance of demand. Always scrutinize volume spikes; they can signal either true interest or orchestrated manipulation.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1786675597010",
     "ts": "2026-08-14T02:46:37.010Z",
     "text": "Market cap reflects the current trading value of all tokens in circulation; fully diluted valuation (FDV) estimates worth if all tokens were issued. A significant gap between them signals potential inflation risk—high FDV could result in price drops as new coins hit the market. Gauge this gap to assess long-term sustainability and potential sell pressure.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-04T10:47:31.389Z",
     "text": "KOL-name or hype coins thrive on attention because their value is tied to narratives and social sentiment, not underlying fundamentals. Community buzz can inflate demand faster than any revenue or utility metric ever could. When the hype fades, so does the price — that's the risk.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1785830507215",
-    "ts": "2026-08-04T08:01:47.215Z",
-    "text": "Risk management is like a cat with nine lives; one wrong leap can cost you dearly. Keep your position sizes sensible and don’t bet the farm on speculative plays.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
