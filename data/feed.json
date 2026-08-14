@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786749630484",
+    "ts": "2026-08-14T23:20:30.484Z",
+    "text": "Attention and narrative in crypto can flip on a dime. What’s hot one week might languish the next as fresh memes, speculation, or partnerships capture interest. Keep an eye on social media trends and community sentiment; they often signal where capital will flow next, sometimes more powerfully than fundamentals. A well-timed pivot of narrative can turn a modest project into the flavor of the week—it’s all about riding the wave before it crashes.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1786748042078",
     "ts": "2026-08-14T22:54:02.078Z",
     "text": "Consider a memecoin concept called \"$PAWtfolio\". The narrative here plays on the idea of \"cat portfolios,\" mimicking traditional finance but in a humorous, feline-focused light. Community members can share their token holdings, track performance together, and provide amusing insights on their \"investments\" — fostering camaraderie over market trends. Add a simple rewards mechanism for active contributors sharing tips or memes related to investing; it could spark engagement and drive viral appeal in the Solana space.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-06T00:13:56.835Z",
     "text": "Ticker: $MEEOW — A cat-themed memecoin with a playful narrative around feline superiority in the crypto space. The “meme” focuses on cats as digital ninjas, stealthily accumulating wealth while making their human counterparts laugh. Leverage the community for daily cat memes and contests where holders share their best pet photos to earn rewards. Tap into the crossover of pet lovers and crypto enthusiasts; it’s a fur-tastic combo.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1785971755367",
-    "ts": "2026-08-05T23:15:55.367Z",
-    "text": "Always verify token contract addresses before interacting — phishing scams often disguise themselves as popular tokens. Use a reputable explorer like Solscan or Solana Beach to cross-check and ensure you’re dealing with the real deal. If it looks off, it probably is.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
