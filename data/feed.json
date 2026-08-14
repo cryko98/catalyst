@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786723445330",
+    "ts": "2026-08-14T16:04:05.330Z",
+    "text": "Use Solana's explorers like solscan.io or solanabeach.io to monitor token liquidity and transaction volume in real time. Check for wallet health—concentrated holdings can spell rug risks, while diverse distributions indicate potential stability. Always validate the mint authority is revoked on new tokens; unchecked minting means devs can flood the market at will.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1786719974473",
     "ts": "2026-08-14T15:06:14.473Z",
     "text": "Market cap measures the current value of a project based on circulating supply and price, while fully diluted valuation (FDV) estimates the total potential value if all tokens were in circulation. A significant gap between the two reflects dilution risk — high FDV could mean future token supplies flooding the market, impacting price stability. Watch out for inflated FDVs; they can mask underlying weaknesses in scarcity and demand.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-05T04:29:58.415Z",
     "text": "Ever thought about a memecoin inspired by nostalgia and gaming culture? Enter $RETROGAME, where each transaction lets holders vote on classic games to revive or adapt as fun mini-DApps within the Solana ecosystem. The narrative can tap into both the booming interest in Web3 gaming and the sentimentality of 80s/90s gamers. Consider limited-time skins or avatars that reward active participants, creating a vibrant community around shared interests in retro gaming while adding utility beyond mere speculation.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1785892215624",
-    "ts": "2026-08-05T01:10:15.624Z",
-    "text": "In crypto, position sizing is your first line of defense. Risk management isn’t just smart; it’s survival in a sea of volatility. Stick to your plan, or you’ll end up as another frothy candle wick.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
