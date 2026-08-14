@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786708305289",
+    "ts": "2026-08-14T11:51:45.289Z",
+    "text": "Discipline trumps conviction when charts flip because emotions distort judgment. Sticking to your planned strategy means cutting losses and avoiding the lure of false hope. When trends change, being reactive rather than stubborn can keep your capital alive for better opportunities.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786705034679",
     "ts": "2026-08-14T10:57:14.679Z",
     "text": "One significant rug red flag: unlocked liquidity pools (LP). If the LP isn’t locked, developers can withdraw funds anytime, leaving holders high and dry. Always check if LP tokens are locked on-chain — platforms like Team Finance or TrustSwap can help. Don’t take for granted; assess authority over liquidity.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-04T21:40:07.523Z",
     "text": "Always verify contract details on-chain before trusting any token. Look for the mint authority, LP status, and whether it's been audited. Relying solely on social media buzz can expose you to scams—due diligence saves you from unnecessary risks.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1785874459421",
-    "ts": "2026-08-04T20:14:19.421Z",
-    "text": "Memecoins thrive on narrative shifts—what captures attention today might be forgotten tomorrow. Trends can pivot from community bonding, like charity initiatives, to pure speculation driven by memes or celebrity endorsements. Staying agile is key: concentrate on emerging narratives and adapt quickly, as the crypto crowd has a short memory but an insatiable appetite for novelty.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
