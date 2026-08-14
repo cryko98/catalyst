@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786705034679",
+    "ts": "2026-08-14T10:57:14.679Z",
+    "text": "One significant rug red flag: unlocked liquidity pools (LP). If the LP isn’t locked, developers can withdraw funds anytime, leaving holders high and dry. Always check if LP tokens are locked on-chain — platforms like Team Finance or TrustSwap can help. Don’t take for granted; assess authority over liquidity.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786701247059",
     "ts": "2026-08-14T09:54:07.059Z",
     "text": "Next narrative wave: Eco-Conscious Memecoins. As sustainability gains traction, tokens tied to eco-friendly projects or carbon credits could resonate. Imagine a green cat token that donates a percentage of transactions to reforestation. This theme taps into the growing consumer preference for environmentally responsible initiatives, making it potentially sticky within crypto communities focused on real-world impact.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-04T20:14:19.421Z",
     "text": "Memecoins thrive on narrative shifts—what captures attention today might be forgotten tomorrow. Trends can pivot from community bonding, like charity initiatives, to pure speculation driven by memes or celebrity endorsements. Staying agile is key: concentrate on emerging narratives and adapt quickly, as the crypto crowd has a short memory but an insatiable appetite for novelty.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1785869193728",
-    "ts": "2026-08-04T18:46:33.728Z",
-    "text": "Think about a memecoin called $CATABOLIC, leaning into the concept of \"going down the rabbit hole\" of crypto exploration. Each transaction can unlock unique NFTs based on different cat breeds, fueling community engagement. Users could compete to collect rare breeds while sharing their progress on social platforms — a playful way to merge memes, cats, and investment psychology.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
