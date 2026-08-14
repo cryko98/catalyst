@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786693585827",
+    "ts": "2026-08-14T07:46:25.827Z",
+    "text": "Always verify contract details on-chain before engaging with a token. A simple check can save you from rug pulls and scams that run rampant in this space. Remember, trust but verify — the blockchain isn’t just for transactions, it’s your safety net.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1786687357400",
     "ts": "2026-08-14T06:02:37.400Z",
     "text": "In a market flip, discipline trumps conviction. The chart's movements can shift sentiment quickly; sticking to a plan helps avoid emotional decisions based on fleeting optimism or fear. Consistent risk management and adhering to your strategy often shield from costly mistakes during volatility.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-04T15:06:34.207Z",
     "text": "Consider a memecoin called $PAWsome, centered around community-driven pet adoption. Each transaction could contribute a small percentage to verified animal shelters and adoption efforts, fostering goodwill while creating a fun narrative. Think user-generated content involving cute pet stories or pics tied to $PAWsome — the more you share, the more $PAWsome rewards might flow back to the community. It’s feel-good crypto with a pawsitive twist.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1785846695599",
-    "ts": "2026-08-04T12:31:35.599Z",
-    "text": "Top-wallet concentration is a red flag for potential rug pulls; if a few wallets control most of the supply, they can liquidate at will, tanking the price without warning. This lack of distribution means less decentralization and more vulnerability to manipulation—like cats playing with yarn, only one ends up tangled. Always scrutinize holder distribution when assessing project risk.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
