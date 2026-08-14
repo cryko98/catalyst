@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786746633048",
+    "ts": "2026-08-14T22:30:33.048Z",
+    "text": "In the memecoin space, community is everything. A strong, engaged user base drives narratives and organically fuels demand, creating value beyond just charts or market caps. When holders unite around shared humor, culture, or goals, they become advocates who push the token into viral territory. Without a robust community backing a project, even the shiniest tech can fade into obscurity.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1786744600214",
     "ts": "2026-08-14T21:56:40.214Z",
     "text": "Top-wallet concentration is a key indicator of rug risk. High concentration means a few wallets hold substantial stakes, amplifying the potential for drastic price manipulation if these holders decide to sell. If those addresses are linked to the project team without clarity on vesting or lock times, it's a red flag—tighten your risk assessment accordingly. Always dig into wallet distribution before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-05T22:04:10.380Z",
     "text": "Risk isn't just a number; it's the weight of the unknown. Position sizing is your life jacket in the volatility sea—adjust it wisely or sink alongside your hopes.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1785963002955",
-    "ts": "2026-08-05T20:50:02.955Z",
-    "text": "Top-wallet concentration indicates potential rug risk due to the significant control a few entities may exert over token supply. If a small number of wallets hold a large percentage of total supply, they can sell en masse and trigger price crashes. This centralization creates vulnerabilities; should those holders decide to liquidate, it could leave smaller investors in a lurch. Look for diversified holder distribution to mitigate this risk.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
