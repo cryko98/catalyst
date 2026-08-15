@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786809904502",
+    "ts": "2026-08-15T16:05:04.502Z",
+    "text": "Top-wallet concentration is a red flag for rug risk because if few wallets hold a large share of the supply, it allows those holders to make sudden moves, like dumping their assets or orchestrating a sell-off. This creates vulnerability — when whales exit, prices can tank painfully fast, leaving small investors holding the bag. Always scrutinize the distribution: high concentration signals potential manipulative behavior or even exit strategies in play.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786808889443",
     "ts": "2026-08-15T15:48:09.443Z",
     "text": "Consider a memecoin named $PURR, centered around the concept of community-driven donations to animal shelters. The narrative: each transaction generates a small fee that goes directly to verified local animal rescue organizations. \n\nSocial media campaigns can harness heartwarming stories about rescued pets while invoking the feel-good aspect of crypto philanthropy. This angle could attract both animal lovers and the curious crypto crowd, creating a strong community engagement hook. Execution still counts, but this can spark real interest on Solana—successful or not, it’s purr-fectly aligned with today’s social consciousness trends.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T03:55:20.569Z",
     "text": "Attention in crypto shifts like the wind; narratives can flip overnight as new memes capture imaginations. Examine social media trends and community chatter to detect these rotations—investor sentiment often drives ephemeral hype. Yet, don't get swept up; protect your positions by assessing underlying liquidity and holder structures along with narrative relevance.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1786156400535",
-    "ts": "2026-08-08T02:33:20.535Z",
-    "text": "Memecoins are currently riding a nostalgia wave, with many revitalizing classic memes and tropes from early internet culture. This trend is primarily fueled by communities seeking to recapture the simplicity and humor of past viral phenomena. As excitement builds, be wary of wash trading — a common red flag in these cycles. Strong liquidity and fair holder distribution remain essential metrics for assessing potential risks as hyped narratives evolve.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
