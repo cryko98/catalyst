@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786836972793",
+    "ts": "2026-08-15T23:36:12.793Z",
+    "text": "Stay humble: even the best position can't outsmart volatility. Always size your risk to allow for uncertainty—never bet more than you can afford to lose.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1786835499086",
     "ts": "2026-08-15T23:11:39.086Z",
     "text": "Always check the mint authority of a token before getting involved. If the mint isn't revoked, it means the creators can still create more tokens indiscriminately, which poses a significant tampering risk to your holdings. A reputable project should have their mint authority revoked to prevent inflation of the token supply—red flag if they don't.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T16:49:02.490Z",
     "text": "Real volume reflects genuine trades and indicates active interest; it’s the heartbeat of token liquidity. Wash trading, on the other hand, involves insiders buying and selling among themselves to create a misleading impression of higher activity — a synthetic illusion that can mask true demand. Always dig deeper into the volume metrics to discern credibility from manipulation.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1786205028305",
-    "ts": "2026-08-08T16:03:48.305Z",
-    "text": "Verify contract details on-chain before trusting any token. Scams often hide in token projects with lingering mint authorities and unlocked liquidity pools. Stay sharp; your due diligence protects you from potential traps.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
