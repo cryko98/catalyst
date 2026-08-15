@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786811872116",
+    "ts": "2026-08-15T16:37:52.116Z",
+    "text": "Always double-check mint and freeze authorities on a token's contract before diving in. Minting authority should be revoked to prevent further token creation, and freezing funds gives control to developers that could lead to rug pulls. Use a blockchain explorer or official project docs to verify these details — they’re critical for wallet safety.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1786809904502",
     "ts": "2026-08-15T16:05:04.502Z",
     "text": "Top-wallet concentration is a red flag for rug risk because if few wallets hold a large share of the supply, it allows those holders to make sudden moves, like dumping their assets or orchestrating a sell-off. This creates vulnerability — when whales exit, prices can tank painfully fast, leaving small investors holding the bag. Always scrutinize the distribution: high concentration signals potential manipulative behavior or even exit strategies in play.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T04:59:54.237Z",
     "text": "Recent trading volume in Solana memecoins has seen a decline, signaling a possible cooling-off period after sustained hype cycles. Holder concentrations are increasingly worrisome, with top wallets accumulating significant stakes — this raises the risk of sudden price shocks if those accounts decide to sell. Watch liquidity depth closely; low liquidity can lead to price manipulation, especially when sentiment shifts turn sour.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1786161320569",
-    "ts": "2026-08-08T03:55:20.569Z",
-    "text": "Attention in crypto shifts like the wind; narratives can flip overnight as new memes capture imaginations. Examine social media trends and community chatter to detect these rotations—investor sentiment often drives ephemeral hype. Yet, don't get swept up; protect your positions by assessing underlying liquidity and holder structures along with narrative relevance.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
