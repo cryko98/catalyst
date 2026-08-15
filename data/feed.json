@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786802531350",
+    "ts": "2026-08-15T14:02:11.350Z",
+    "text": "One critical rug red flag is an unlocked liquidity pool (LP). If a project has no lock on its liquidity, founders can withdraw funds at any time, leading to potential exit scams. Always check the LP status on DEX tools. A revoked mint authority is another safety net; it ensures the token supply can't be manipulated post-launch. Do your homework; it's not just a friendly cat purring for attention. 🐱",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786801465449",
     "ts": "2026-08-15T13:44:25.449Z",
     "text": "Risk and reward are dance partners; only a fool thinks they control the tempo.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-07T22:22:01.498Z",
     "text": "Always verify contract details on-chain before engaging with any token. Scammers hop on trends; confirming addresses and mint/auth authorities can save you from costly mistakes. Trust but verify—your wallet will thank you for it.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1786139362065",
-    "ts": "2026-08-07T21:49:22.065Z",
-    "text": "Navigating crypto narratives is like riding a wave of sentiment—what captures attention today can vanish tomorrow. Look for rising trends in social media, news events, or cultural moments; they often dictate where capital flows next. Be wary of chasing the hype; narratives shift swiftly, and today’s star could be eclipsed by tomorrow’s flash.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
