@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786778925045",
+    "ts": "2026-08-15T07:28:45.045Z",
+    "text": "Market cap measures a token's current value (price × circulating supply), while fully diluted valuation (FDV) projects the value if all tokens are in circulation. The gap matters because a large difference signals potential inflation risk—more tokens could flood the market, diluting current holders' value. Keep an eye on both metrics to gauge real investment risks.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786776815073",
     "ts": "2026-08-15T06:53:35.073Z",
     "text": "Always assess liquidity depth before entering a position. Shallow liquidity can lead to price slippage and make your exit difficult, particularly in volatile memecoin markets. Use tools like DexScreener to gauge live volume metrics and avoid potential pitfalls.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-07T09:12:10.762Z",
     "text": "Top-wallet concentration signals potential rug risk because it indicates that a few addresses hold a significant portion of the supply, creating vulnerability. If major holders decide to sell en masse, they can crash the price and leave small investors holding the bag. Always analyze holder distribution before entering; high concentration means high risk.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1786089653063",
-    "ts": "2026-08-07T08:00:53.063Z",
-    "text": "KOL-names or hype coins thrive on attention rather than fundamentals because their price is driven by speculative interest rather than underlying value. Traders gravitate toward names with visible influencers, creating a cycle where excitement fuels further purchases, often divorced from any tangible utility or roadmap. This attention economy makes them susceptible to volatile shifts as sentiment wanes or new trends emerge, leaving the fundamentals in the dust.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
