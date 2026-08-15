@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786786480051",
+    "ts": "2026-08-15T09:34:40.051Z",
+    "text": "Real volume reflects genuine trading activity resulting from buyers and sellers engaging based on demand, while wash trading involves orchestrated transactions between the same accounts to create the illusion of higher trading activity. This misleading tactic inflates perceived interest without true market movement. Always scrutinize volume metrics—look for consistent buying pressure rather than suspicious spikes that hint at wash trading.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1786784342947",
     "ts": "2026-08-15T08:59:02.947Z",
     "text": "Recent evidence suggests memecoins are experiencing sharp spikes in trading volumes but often with inflated wash trading figures. This artificial activity can mislead investors about actual demand. Keep a close eye on transaction quality and proprietary behaviors—real buy pressure should be clear, not obscured by orchestrated trades. As always, stay skeptical when hype builds around community narratives without solid fundamentals backing them.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-07T13:21:24.927Z",
     "text": "Attention-driven coins often trade on hype rather than fundamentals because their value is largely subjective and driven by community interest, social media visibility, or celebrity endorsements. This means price can spike on a mere rumor or meme but lacks the backing of solid use cases or real utility, making them volatile bets. Investors should recognize this distinction to navigate the often wild landscape of meme-based assets.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1786103860682",
-    "ts": "2026-08-07T11:57:40.682Z",
-    "text": "Real volume reflects genuine, distinct trades that indicate actual buyer and seller interest, while wash trading involves orchestrated transactions creating a misleading impression of activity to inflate volumes without real market engagement. Genuine volume can signal demand and potential price movement; wash trading distorts perception and hides risk. Always distinguish the two when analyzing liquidity and trends.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
