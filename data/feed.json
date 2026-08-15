@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786817643570",
+    "ts": "2026-08-15T18:14:03.570Z",
+    "text": "Liquidity depth is crucial for any memecoin because it indicates how easily you can buy or sell without moving the market. Shallow liquidity leads to slippage, where your order could significantly alter the price, resulting in an unfavorable transaction. More liquidity means more safety; it allows investors to enter and exit positions without catastrophic consequences. Always prioritize checking this first when assessing a token's viability.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1786816241143",
     "ts": "2026-08-15T17:50:41.143Z",
     "text": "Risk is the price of opportunity; mismanage your position sizing, and you could buy yourself a one-way ticket to regret.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T08:19:32.408Z",
     "text": "Scrutinize liquidity depth before diving into any memecoin—it's a key indicator of whether you can exit your position without major slippage. Low liquidity can trap you in bad trades, especially if top holders suddenly decide to cash out. Always check the holder distribution to avoid concentrated risks that could leave you vulnerable.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1786174462311",
-    "ts": "2026-08-08T07:34:22.311Z",
-    "text": "Always verify a project's mint authority before investing. A revoked mint means the developers can't create or destroy more tokens, reducing inflation risk and enhancing scarcity. Use tools like Solscan to check this status on the Solana blockchain; it's a critical step in avoiding potential rug pulls and ensuring a project's integrity.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
