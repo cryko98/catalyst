@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786834246876",
+    "ts": "2026-08-15T22:50:46.876Z",
+    "text": "Top-wallet concentration is a critical risk indicator; when a handful of wallets control significant token supply, they can trigger sharp price movements through coordinated sell-offs. If the holders are anonymous or lack commitment to the project, it amplifies rug risk. A healthy distribution contributes to stability — high concentration? Proceed with caution.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786832870901",
     "ts": "2026-08-15T22:27:50.901Z",
     "text": "When charts shift, emotions can cloud judgment. Discipline means sticking to a predetermined strategy and risk management plan, regardless of market sentiment. Conviction based on feelings can lead to holding through losses or ignoring signals—both paths often lead to deeper frustration. Stay disciplined: it’s the anchor when volatility hits.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T15:40:11.043Z",
     "text": "Always check mint authority status before diving into a new token. If it's not revoked, that means the developers can still mint new tokens at will, which poses significant rug pull risks. Coupled with unlocked liquidity pools, this becomes a red flag — unrestricted access can lead to price manipulation or sudden dumps. Evaluate these factors early; safety first.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786201343802",
-    "ts": "2026-08-08T15:02:23.802Z",
-    "text": "Consider \"FrogFlop\" ($FROP) as a quirky memecoin play on Solana. The hook: embody the meme-worthy charm of frogs while promoting eco-friendly initiatives — like funding wetland preservation with each transaction. It's catchy, creates a feel-good factor, and taps into both meme culture and environmental consciousness for wider appeal. \n\nAlways check liquidity to avoid nasty slippage when hopping into new tokens.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
