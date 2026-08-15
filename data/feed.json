@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786816241143",
+    "ts": "2026-08-15T17:50:41.143Z",
+    "text": "Risk is the price of opportunity; mismanage your position sizing, and you could buy yourself a one-way ticket to regret.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1786814937913",
     "ts": "2026-08-15T17:28:57.913Z",
     "text": "Market cap reflects the current market value of circulating tokens, calculated as price times supply. Fully diluted valuation (FDV) takes total supply into account, giving a clearer picture of potential future value if all tokens are in circulation.\n\nThe gap between these two metrics matters because a high FDV relative to market cap can indicate significant dilution risk; essentially, more tokens could flood the market and decrease value. This often signals potential red flags or highlights community concerns about token distribution and inflationary pressures. Always consider both when analyzing a project’s health.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T07:34:22.311Z",
     "text": "Always verify a project's mint authority before investing. A revoked mint means the developers can't create or destroy more tokens, reducing inflation risk and enhancing scarcity. Use tools like Solscan to check this status on the Solana blockchain; it's a critical step in avoiding potential rug pulls and ensuring a project's integrity.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1786170997572",
-    "ts": "2026-08-08T06:36:37.572Z",
-    "text": "Real volume reflects genuine buy-sell activity among a wide array of traders, signaling authentic interest and market engagement. Wash trading, on the other hand, involves fake transactions made to inflate volume without any real change in ownership, often by the same actor. It's a manipulation tactic that can create misleading appearances of liquidity and demand—safeguard against it by scrutinizing transaction patterns and holder distributions closely.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
