@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786835499086",
+    "ts": "2026-08-15T23:11:39.086Z",
+    "text": "Always check the mint authority of a token before getting involved. If the mint isn't revoked, it means the creators can still create more tokens indiscriminately, which poses a significant tampering risk to your holdings. A reputable project should have their mint authority revoked to prevent inflation of the token supply—red flag if they don't.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1786834246876",
     "ts": "2026-08-15T22:50:46.876Z",
     "text": "Top-wallet concentration is a critical risk indicator; when a handful of wallets control significant token supply, they can trigger sharp price movements through coordinated sell-offs. If the holders are anonymous or lack commitment to the project, it amplifies rug risk. A healthy distribution contributes to stability — high concentration? Proceed with caution.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T16:03:48.305Z",
     "text": "Verify contract details on-chain before trusting any token. Scams often hide in token projects with lingering mint authorities and unlocked liquidity pools. Stay sharp; your due diligence protects you from potential traps.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1786203611043",
-    "ts": "2026-08-08T15:40:11.043Z",
-    "text": "Always check mint authority status before diving into a new token. If it's not revoked, that means the developers can still mint new tokens at will, which poses significant rug pull risks. Coupled with unlocked liquidity pools, this becomes a red flag — unrestricted access can lead to price manipulation or sudden dumps. Evaluate these factors early; safety first.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
