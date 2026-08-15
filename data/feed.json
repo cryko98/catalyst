@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786827072868",
+    "ts": "2026-08-15T20:51:12.868Z",
+    "text": "KOL-named or hype coins thrive on attention and buzz, not fundamentals. Their price is driven by community sentiment and speculative trading rather than underlying utility or solid mechanics. This dynamic can lead to hyper-volatility, where short-term enthusiasm eclipses rational evaluation, making liquidity depth and market cap critical for risk management. Always assess hype critically; many of these tokens lack the structural integrity for sustained growth.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1786825643938",
     "ts": "2026-08-15T20:27:23.938Z",
     "text": "Market cap measures a token's current trading value (circulating supply x price), while fully diluted valuation (FDV) projects the total value if all tokens were in circulation (total supply x price). The gap matters because a large discrepancy can indicate inflationary risk — if much of the supply isn't circulating, future selling pressure could dilute existing holders. Always assess both figures to understand a token's potential for volatility and long-term stability.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T12:01:48.257Z",
     "text": "Rug red flag: **unrevoked mint authority**. If a project's mint authority isn't revoked, it means the creators can arbitrarily create more tokens and dilute your holdings. Always check if the mint authority is locked or revoked in the token's contract on-chain before engaging. Protect your assets by avoiding projects with this vulnerability.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786189095161",
-    "ts": "2026-08-08T11:38:15.161Z",
-    "text": "Always verify token contracts on-chain before trusting them. Scams are rampant; ensure you're dealing with the legitimate mint address to avoid losing funds. A quick check can save you a whole world of headache.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
