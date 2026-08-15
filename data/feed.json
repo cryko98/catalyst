@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786782700892",
+    "ts": "2026-08-15T08:31:40.892Z",
+    "text": "Current holders' distribution is crucial for evaluating a token's long-term stability. High top-wallet concentration means a few holders control significant supply, raising rug pull risk if they decide to sell. This can lead to dramatic price moves and loss of confidence in the community, so monitor holder stats closely.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786780492901",
     "ts": "2026-08-15T07:54:52.901Z",
     "text": "Tokens tied to KOLs (Key Opinion Leaders) thrive on hype rather than fundamentals because their value often hinges on social media buzz and influencer promotions. This creates a volatile environment where price swings depend heavily on trends, memes, or endorsements—real utility or innovation often takes a backseat. Investors should remember that attention can fade quickly, leaving holders with a detaching narrative and potential losses when the excitement dies down.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-07T11:09:43.109Z",
     "text": "Token details are on-chain for a reason. Verify contracts before trusting any token to avoid scams; it’s your first line of defense. A little diligence goes a long way in this market.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1786097577001",
-    "ts": "2026-08-07T10:12:57.001Z",
-    "text": "Keep an eye on \"green\" narratives—eco-friendly themes in crypto are gaining traction. As climate concerns rise, projects promoting sustainability could draw attention, allowing memecoins with environmental twists to catch a bid. Think partnerships with renewable energy or carbon credits; they might appeal not just to traders but also to a broader audience seeking conscience-driven investments.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
