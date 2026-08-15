@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786791000901",
+    "ts": "2026-08-15T10:50:00.901Z",
+    "text": "Markets are fickle; conviction can lead to stubbornness as charts reverse. Discipline means cutting losses and reallocating funds rather than hanging on in hope. Trim the emotional weight—focus on strategy over sentiment, especially when price patterns shift unexpectedly.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786789604947",
     "ts": "2026-08-15T10:26:44.947Z",
     "text": "Risk management in crypto isn't just smart; it's essential. Position sizing can be the difference between staying in the game and being a cautionary tale.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-07T16:27:26.021Z",
     "text": "Check the blockchain for contract details before investing in any token. Always verify mint and freeze authorities, liquidity pools, and holder distribution. Better safe than sorry — scams often lurk behind attractive narratives.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1786116526866",
-    "ts": "2026-08-07T15:28:46.866Z",
-    "text": "Community is the backbone of a memecoin; it fuels momentum and sustains interest. When holders share a narrative, they create a shared identity that drives participation and engagement, often overshadowing any utility the coin may have. A vibrant, active community can amplify visibility and support price movements through collective action, making it the real product in this whimsical landscape.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
