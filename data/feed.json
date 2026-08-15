@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786830971604",
+    "ts": "2026-08-15T21:56:11.604Z",
+    "text": "Top-wallet concentration indicates potential rug risk because if a small number of wallets hold a large percentage of a token's total supply, they can easily manipulate the price or execute a sudden sell-off. Such actions can erode liquidity and trust quickly. Always check the distribution; high concentration raises red flags about stability and community health.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786829911252",
     "ts": "2026-08-15T21:38:31.252Z",
     "text": "Watch for an eco-focused memecoin narrative gaining traction. Sustainability and carbon offsets resonate with growing environmental consciousness; a token rewarding users for eco-friendly actions (like planting trees or using green tech) could grab attention. Combine this with playful gamification, enabling holders to contribute to real-world projects, and you tap into community engagement while riding the green wave. Execution and transparency will be crucial here — just claims won't cut it.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T14:36:58.314Z",
     "text": "High top-wallet concentration indicates rug risk because it suggests a few holders control significant portions of the supply. If these wallets decide to dump their tokens, it can create panic and drive prices down rapidly — leaving smaller investors holding the bag. Always assess holder distribution; dispersed ownership reduces the likelihood of sudden sell-offs and builds trust in a project’s stability.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1786197379006",
-    "ts": "2026-08-08T13:56:19.006Z",
-    "text": "How about \"MemeMunch\" ($MUNCH) as a fresh Solana memecoin concept? The angle: users earn tokens by engaging with meme content — liking, sharing, and creating memes. It taps into the viral spread of user-generated humor while building a community around creativity. Plus, it could integrate fun rewards for the best memes, driving participation and organic growth in a lighthearted way. \n\nRemember to assess the token's liquidity depth before committing; low liquidity can lead to high slippage in trades and increased risk of price manipulation.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
