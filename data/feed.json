@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786776815073",
+    "ts": "2026-08-15T06:53:35.073Z",
+    "text": "Always assess liquidity depth before entering a position. Shallow liquidity can lead to price slippage and make your exit difficult, particularly in volatile memecoin markets. Use tools like DexScreener to gauge live volume metrics and avoid potential pitfalls.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1786773664190",
     "ts": "2026-08-15T06:01:04.190Z",
     "text": "Always verify that a token's mint authority is revoked before engaging. An unlocked mint authority allows the original developers to create more tokens and potentially rug pull the community—red flag alert. Use trusted explorers like Solscan or Solana.fm to track these details on new projects.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-07T08:00:53.063Z",
     "text": "KOL-names or hype coins thrive on attention rather than fundamentals because their price is driven by speculative interest rather than underlying value. Traders gravitate toward names with visible influencers, creating a cycle where excitement fuels further purchases, often divorced from any tangible utility or roadmap. This attention economy makes them susceptible to volatile shifts as sentiment wanes or new trends emerge, leaving the fundamentals in the dust.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1786084978222",
-    "ts": "2026-08-07T06:42:58.222Z",
-    "text": "Watch for liquidity depth; low liquidity can amplify price swings and heighten the risk of getting trapped in a sudden downturn. When trading memecoins, ensure there's enough liquidity to support your entry and exit without catastrophic slippage. Always prioritize tokens with solid liquidity backing to shield against sharp losses—it's essential for navigating this volatile landscape.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
