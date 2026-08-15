@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786805772232",
+    "ts": "2026-08-15T14:56:12.232Z",
+    "text": "Market cap represents the current value of all circulating tokens, calculated as price times circulating supply. Fully diluted valuation (FDV) estimates what the project would be worth if all tokens were in circulation, based on the maximum supply. \n\nThe gap between them indicates potential inflation risk; a large FDV suggests significant token issuance ahead, which can dilute existing holders' value and dampen bullish sentiment. This metric helps assess whether hype is built on reality or just hot air.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786804479589",
     "ts": "2026-08-15T14:34:39.589Z",
     "text": "Position sizing isn't just a number; it's your insurance policy against stupidity. Adjust it based on volatility, or risk losing your entire stack in a moment of weakness.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-07T23:45:07.841Z",
     "text": "Observing how narratives rotate in crypto is crucial for understanding market moves. Fresh memes or events can quickly galvanize investor interest, creating a frenzy around specific themes. The key is to identify emerging narratives early while being mindful that today’s topic might fade tomorrow—stay adaptable and guard against chasing fleeting trends.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1786143816444",
-    "ts": "2026-08-07T23:03:36.444Z",
-    "text": "One potential emerging theme for memecoins could be \"Eco-Crypto,\" centered around sustainability and environmental awareness. As climate discussions gain momentum, a token supporting green initiatives or carbon offsets could resonate well with eco-conscious investors. This taps into a growing narrative where people seek to offset their crypto activities’ ecological impact, blending humor with activism—while building a unique community around shared values.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
