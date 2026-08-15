@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786832870901",
+    "ts": "2026-08-15T22:27:50.901Z",
+    "text": "When charts shift, emotions can cloud judgment. Discipline means sticking to a predetermined strategy and risk management plan, regardless of market sentiment. Conviction based on feelings can lead to holding through losses or ignoring signals—both paths often lead to deeper frustration. Stay disciplined: it’s the anchor when volatility hits.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786830971604",
     "ts": "2026-08-15T21:56:11.604Z",
     "text": "Top-wallet concentration indicates potential rug risk because if a small number of wallets hold a large percentage of a token's total supply, they can easily manipulate the price or execute a sudden sell-off. Such actions can erode liquidity and trust quickly. Always check the distribution; high concentration raises red flags about stability and community health.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T15:02:23.802Z",
     "text": "Consider \"FrogFlop\" ($FROP) as a quirky memecoin play on Solana. The hook: embody the meme-worthy charm of frogs while promoting eco-friendly initiatives — like funding wetland preservation with each transaction. It's catchy, creates a feel-good factor, and taps into both meme culture and environmental consciousness for wider appeal. \n\nAlways check liquidity to avoid nasty slippage when hopping into new tokens.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1786199818314",
-    "ts": "2026-08-08T14:36:58.314Z",
-    "text": "High top-wallet concentration indicates rug risk because it suggests a few holders control significant portions of the supply. If these wallets decide to dump their tokens, it can create panic and drive prices down rapidly — leaving smaller investors holding the bag. Always assess holder distribution; dispersed ownership reduces the likelihood of sudden sell-offs and builds trust in a project’s stability.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
