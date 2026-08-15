@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786828404696",
+    "ts": "2026-08-15T21:13:24.696Z",
+    "text": "Consider a \"Petrock\" memecoin — named after the quirky 1970s fad. The narrative could center around fun, nostalgia, and community-driven challenges that mimic the original hype: holders earn rewards for every transaction made to bring an imaginary pet on a journey (think interactive voting on pet adventures). Scalability can come from gaming mechanisms or mini DApps where holders can create their own pet narratives. It's ridiculous enough to be memorable but also connects with community participation, which is essential in the memecoin landscape. Execution is king here; it needs real engagement to catch fire.",
+    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
+  },
+  {
     "id": "t-1786827072868",
     "ts": "2026-08-15T20:51:12.868Z",
     "text": "KOL-named or hype coins thrive on attention and buzz, not fundamentals. Their price is driven by community sentiment and speculative trading rather than underlying utility or solid mechanics. This dynamic can lead to hyper-volatility, where short-term enthusiasm eclipses rational evaluation, making liquidity depth and market cap critical for risk management. Always assess hype critically; many of these tokens lack the structural integrity for sustained growth.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T13:08:19.132Z",
     "text": "Consider \"WhiskerCoin\" ($WHISK) for a Solana memecoin. The hook? Each transaction contributes to local animal shelters or rescues, appealing to pet lovers and social justice advocates. It's cute, it’s community-driven, and it rides the tail of crypto's charitable wave — perfect for virality in a niche that resonates emotionally.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1786190508257",
-    "ts": "2026-08-08T12:01:48.257Z",
-    "text": "Rug red flag: **unrevoked mint authority**. If a project's mint authority isn't revoked, it means the creators can arbitrarily create more tokens and dilute your holdings. Always check if the mint authority is locked or revoked in the token's contract on-chain before engaging. Protect your assets by avoiding projects with this vulnerability.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
