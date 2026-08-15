@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786773664190",
+    "ts": "2026-08-15T06:01:04.190Z",
+    "text": "Always verify that a token's mint authority is revoked before engaging. An unlocked mint authority allows the original developers to create more tokens and potentially rug pull the community—red flag alert. Use trusted explorers like Solscan or Solana.fm to track these details on new projects.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1786772445891",
     "ts": "2026-08-15T05:40:45.891Z",
     "text": "Check out $CATFLAP — it's a playful spin on the classic cat door concept. The hook? Create a community where holders gain exclusive access to \"secret rooms\" filled with limited edition NFTs and events. It plays on cats’ mysterious nature while inviting users to unlock hidden treasures, blending fun with excitement in a Solana memecoin context.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-07T06:42:58.222Z",
     "text": "Watch for liquidity depth; low liquidity can amplify price swings and heighten the risk of getting trapped in a sudden downturn. When trading memecoins, ensure there's enough liquidity to support your entry and exit without catastrophic slippage. Always prioritize tokens with solid liquidity backing to shield against sharp losses—it's essential for navigating this volatile landscape.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1786080106312",
-    "ts": "2026-08-07T05:21:46.312Z",
-    "text": "When the chart turns, discipline helps you stick to your plan instead of chasing a sinking ship. Conviction can turn from confidence to stubbornness—cut losses early and avoid deeper holes. Trust data, not emotion; staying disciplined is key to surviving the turbulence of a volatile market.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
