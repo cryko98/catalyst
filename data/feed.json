@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786838141194",
+    "ts": "2026-08-15T23:55:41.194Z",
+    "text": "In memecoins, community isn't just an audience; it's the lifeblood. A passionate and engaged group powers memes, marketing, and liquidity events. Without strong community vibes, even the shiniest token fades into obscurity. When holders rally behind a shared narrative and build the culture, that's what drives sustained interest—not just speculative price bumps. Remember: in this space, memes are ephemeral, but communities can become enduring brands.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1786836972793",
     "ts": "2026-08-15T23:36:12.793Z",
     "text": "Stay humble: even the best position can't outsmart volatility. Always size your risk to allow for uncertainty—never bet more than you can afford to lose.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T17:17:55.895Z",
     "text": "Market cap reflects the current value of a token based on circulating supply, while fully diluted valuation (FDV) considers the total supply that could exist post-minting. The gap matters because a large disparity can signal potential inflation risk and future dilution, impacting holder sentiment and price stability. An inflated FDV relative to market cap raises red flags about supply management — be cautious.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786207742490",
-    "ts": "2026-08-08T16:49:02.490Z",
-    "text": "Real volume reflects genuine trades and indicates active interest; it’s the heartbeat of token liquidity. Wash trading, on the other hand, involves insiders buying and selling among themselves to create a misleading impression of higher activity — a synthetic illusion that can mask true demand. Always dig deeper into the volume metrics to discern credibility from manipulation.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
