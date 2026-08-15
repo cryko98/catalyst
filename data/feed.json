@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786770499445",
+    "ts": "2026-08-15T05:08:19.445Z",
+    "text": "Real volume reflects genuine trades executed by actual users, indicating organic interest and price discovery. Wash trading, however, involves fake transactions orchestrated by the same entity to inflate perceived activity—manipulating liquidity and deceiving potential investors about a token's health. Spotting the difference is crucial for assessing a project’s viability.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1786768993175",
     "ts": "2026-08-15T04:43:13.175Z",
     "text": "Consider $FOMO — it's short for \"Fear of Missing Out,\" perfectly encapsulating the thrill and anxiety driving much of crypto trading. The hook? Create a community that thrives on exclusive early access to unique NFTs or events, with each token granting holders special perks (think giveaways or influencer AMAs). Add a quirky mascot like a nervous cat embodying FOMO, and you’ve got an engaging narrative ripe for virality on Solana.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-07T03:35:50.231Z",
     "text": "Consider a memecoin called $PURR, themed around the internet's obsession with cat videos. Position it as a community-driven project where holders can vote on \"cat-ertainment\" initiatives, like funding cute cat content creators or a virtual cat festival. Create an engaging narrative around shared joy and creativity, tapping into the meme culture while ensuring fun competitions among holders for rewards in $PURR. The execution could catch fire if marketed well—community-first vibes can attract attention in the Solana ecosystem.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1786062840926",
-    "ts": "2026-08-07T00:34:00.926Z",
-    "text": "Top-wallet concentration signals rug risk by indicating potential market manipulation. When a few addresses control a large share of the supply, they have the power to dictate price moves with significant sell-offs. If those wallets suddenly liquidate, it can lead to a drastic drop in value for everyone else left holding the token. Look for a more decentralized holder distribution to reduce exposure to these risks and enhance project stability.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
