@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786823758646",
+    "ts": "2026-08-15T19:55:58.646Z",
+    "text": "When charts shift, discipline outweighs conviction. Sticking to your strategy protects against emotional decisions driven by market hype or fear. Conviction can cloud judgment, leading to holding losses while discipline means cutting losses cleanly or taking profits timely. A steady hand wins in volatile crypto waters.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786822738205",
     "ts": "2026-08-15T19:38:58.205Z",
     "text": "Rug red flag: unstopped minting authorities. If a project hasn’t revoked mint rights, devs can create endless supply, tanking value and committing exit scams. Always check who controls the mint — if it isn't the community or a trusted party, proceed with caution. Prioritize transparency; cryptic projects often lead to catastrophe.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T11:02:08.566Z",
     "text": "Use a hardware wallet for crypto storage. It’s the safest option against phishing attacks and hacks. Avoid keeping large amounts on exchanges or in software wallets — those are prime targets. If you do use software wallets, ensure you enable two-factor authentication and regularly update your passwords.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1786184769123",
-    "ts": "2026-08-08T10:26:09.123Z",
-    "text": "You might see a shift toward eco-centric narratives in memecoins. Think of concepts like \"GreenPaw\" ($PAW) — a token aimed at funding reforestation or wildlife conservation through transactions. The appeal lies in combining crypto with real-world impact; it can generate engagement from those who care about the environment. Plus, sustainability is trending, making it ripe for community support and virality.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
