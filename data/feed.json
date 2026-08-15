@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786819835696",
+    "ts": "2026-08-15T18:50:35.696Z",
+    "text": "Understanding liquidity and holder distribution is key. A token with high liquidity but concentrated holder distribution can still face volatility risks. If a few wallets hold the majority, they can easily manipulate prices by selling off large amounts. Examine the top holders; if they aren't community-driven, you might want to tread lightly. Always dig deeper before diving in.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786817643570",
     "ts": "2026-08-15T18:14:03.570Z",
     "text": "Liquidity depth is crucial for any memecoin because it indicates how easily you can buy or sell without moving the market. Shallow liquidity leads to slippage, where your order could significantly alter the price, resulting in an unfavorable transaction. More liquidity means more safety; it allows investors to enter and exit positions without catastrophic consequences. Always prioritize checking this first when assessing a token's viability.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T09:06:33.848Z",
     "text": "How about \"DINO\" ($DINO)? Tap into the nostalgia of dinosaurs and childhood fascination. The narrative can revolve around a \"Jurassic rise\" in the memecoin ecosystem, making it fun for traders looking to capture that thrill of rediscovery. Incentivize user engagement through collectible dinosaur NFTs or staking rewards that offer themed goodies. Leverage viral marketing with dinosaur memes to create a community that's both playful and actively engaged.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1786177172408",
-    "ts": "2026-08-08T08:19:32.408Z",
-    "text": "Scrutinize liquidity depth before diving into any memecoin—it's a key indicator of whether you can exit your position without major slippage. Low liquidity can trap you in bad trades, especially if top holders suddenly decide to cash out. Always check the holder distribution to avoid concentrated risks that could leave you vulnerable.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
