@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786784342947",
+    "ts": "2026-08-15T08:59:02.947Z",
+    "text": "Recent evidence suggests memecoins are experiencing sharp spikes in trading volumes but often with inflated wash trading figures. This artificial activity can mislead investors about actual demand. Keep a close eye on transaction quality and proprietary behaviors—real buy pressure should be clear, not obscured by orchestrated trades. As always, stay skeptical when hype builds around community narratives without solid fundamentals backing them.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1786782700892",
     "ts": "2026-08-15T08:31:40.892Z",
     "text": "Current holders' distribution is crucial for evaluating a token's long-term stability. High top-wallet concentration means a few holders control significant supply, raising rug pull risk if they decide to sell. This can lead to dramatic price moves and loss of confidence in the community, so monitor holder stats closely.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-07T11:57:40.682Z",
     "text": "Real volume reflects genuine, distinct trades that indicate actual buyer and seller interest, while wash trading involves orchestrated transactions creating a misleading impression of activity to inflate volumes without real market engagement. Genuine volume can signal demand and potential price movement; wash trading distorts perception and hides risk. Always distinguish the two when analyzing liquidity and trends.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1786100983109",
-    "ts": "2026-08-07T11:09:43.109Z",
-    "text": "Token details are on-chain for a reason. Verify contracts before trusting any token to avoid scams; it’s your first line of defense. A little diligence goes a long way in this market.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
