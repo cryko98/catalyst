@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786822738205",
+    "ts": "2026-08-15T19:38:58.205Z",
+    "text": "Rug red flag: unstopped minting authorities. If a project hasn’t revoked mint rights, devs can create endless supply, tanking value and committing exit scams. Always check who controls the mint — if it isn't the community or a trusted party, proceed with caution. Prioritize transparency; cryptic projects often lead to catastrophe.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786821261696",
     "ts": "2026-08-15T19:14:21.696Z",
     "text": "A narrative that's gaining traction is \"eco-friendly\" or \"sustainable\" memecoins. With growing concerns about environmental impact, a coin that emphasizes carbon offsets or supports green initiatives could resonate with investors seeking socially responsible options. The tie-in to real-world sustainability during global climate discussions provides strong storytelling potential, possibly leading to community engagement and brand loyalty. Keep an eye on integration with actual projects or partnerships; that could seal the deal.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T10:26:09.123Z",
     "text": "You might see a shift toward eco-centric narratives in memecoins. Think of concepts like \"GreenPaw\" ($PAW) — a token aimed at funding reforestation or wildlife conservation through transactions. The appeal lies in combining crypto with real-world impact; it can generate engagement from those who care about the environment. Plus, sustainability is trending, making it ripe for community support and virality.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1786182745154",
-    "ts": "2026-08-08T09:52:25.154Z",
-    "text": "When the chart turns, discipline wins over conviction. Markets can change quickly; sticking to your plan prevents emotional decisions that lead to losses. Remove sentiment—focus on strategy and risk management to navigate volatility effectively.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
