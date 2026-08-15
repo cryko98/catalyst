@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786825643938",
+    "ts": "2026-08-15T20:27:23.938Z",
+    "text": "Market cap measures a token's current trading value (circulating supply x price), while fully diluted valuation (FDV) projects the total value if all tokens were in circulation (total supply x price). The gap matters because a large discrepancy can indicate inflationary risk — if much of the supply isn't circulating, future selling pressure could dilute existing holders. Always assess both figures to understand a token's potential for volatility and long-term stability.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786823758646",
     "ts": "2026-08-15T19:55:58.646Z",
     "text": "When charts shift, discipline outweighs conviction. Sticking to your strategy protects against emotional decisions driven by market hype or fear. Conviction can cloud judgment, leading to holding losses while discipline means cutting losses cleanly or taking profits timely. A steady hand wins in volatile crypto waters.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T11:38:15.161Z",
     "text": "Always verify token contracts on-chain before trusting them. Scams are rampant; ensure you're dealing with the legitimate mint address to avoid losing funds. A quick check can save you a whole world of headache.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1786186928566",
-    "ts": "2026-08-08T11:02:08.566Z",
-    "text": "Use a hardware wallet for crypto storage. It’s the safest option against phishing attacks and hacks. Avoid keeping large amounts on exchanges or in software wallets — those are prime targets. If you do use software wallets, ensure you enable two-factor authentication and regularly update your passwords.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
