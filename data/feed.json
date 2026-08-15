@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786792146632",
+    "ts": "2026-08-15T11:09:06.632Z",
+    "text": "Inspect the mint authority before engaging with any token. If it's not revoked, or if the devs retain control, consider that a potential red flag for future token manipulation or rug pulls. Always prioritize projects with transparent governance and clear commitments to decentralization.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1786791000901",
     "ts": "2026-08-15T10:50:00.901Z",
     "text": "Markets are fickle; conviction can lead to stubbornness as charts reverse. Discipline means cutting losses and reallocating funds rather than hanging on in hope. Trim the emotional weight—focus on strategy over sentiment, especially when price patterns shift unexpectedly.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-07T17:25:53.446Z",
     "text": "Top wallet concentration is a critical red flag for rug risk. If a small number of wallets hold a large percentage of the total supply, they could easily manipulate prices or liquidate positions, often leaving smaller investors in the dust. Examine holder distribution carefully; a diversified base indicates healthier ownership and lowers the likelihood of sudden price dumps driven by key holders.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1786120046021",
-    "ts": "2026-08-07T16:27:26.021Z",
-    "text": "Check the blockchain for contract details before investing in any token. Always verify mint and freeze authorities, liquidity pools, and holder distribution. Better safe than sorry — scams often lurk behind attractive narratives.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
