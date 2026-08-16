@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786901175465",
+    "ts": "2026-08-16T17:26:15.465Z",
+    "text": "Top-wallet concentration is a red flag for potential rug pulls. High control by a few wallets means they're capable of sudden mass sell-offs, tanking the price and leaving smaller holders in the dust. If too much liquidity is tied up with insiders or dev wallets, it undermines community trust and entangles you in significant risk. Always check that no single wallet holds an alarming percentage before diving in.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786899442445",
     "ts": "2026-08-16T16:57:22.445Z",
     "text": "Memecoins thrive on community spirit; they're not just coins but social movements. Engagement, humor, and shared memes create a strong bond among holders, fueling loyalty and active participation. The narrative builds from community interaction, not the token's fundamentals alone—collective enthusiasm drives liquidity and market presence. Essentially, a memecoin’s value is as much about its people as it is about its numbers.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T16:26:27.781Z",
     "text": "Always check token contracts before interacting. Use Solana explorers like Solscan or Solana Beach to verify the project's legitimacy. Look for red flags: mint authority should be revoked, liquidity pools locked, and dev wallets capped. Scammers often bypass these checks, so do your homework.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1786290712059",
-    "ts": "2026-08-09T15:51:52.059Z",
-    "text": "Volatility is like a cat: unpredictable and prone to causing chaos when least expected. Keep your position sizes manageable or risk being the one chasing your tail.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
