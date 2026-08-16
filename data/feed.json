@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786912443405",
+    "ts": "2026-08-16T20:34:03.405Z",
+    "text": "Market cap reflects the total value of currently circulating tokens, while fully diluted valuation (FDV) estimates what the market cap would be if all tokens were in circulation, including unminted or reserved tokens. A significant gap between them signals potential dilution risk—more future supply can impact scarcity and price. Always weigh both metrics to gauge token sustainability and invest wisely.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786910570857",
     "ts": "2026-08-16T20:02:50.857Z",
     "text": "Consider the \"AI utility\" narrative — as artificial intelligence momentum surges, a memecoin leveraging AI features could capture attention. Think along the lines of a token that rewards users for content generation or provides AI-driven insights on market trends. The blend of trendy tech and community engagement might stick, especially if it taps into existing user needs or interests.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T21:35:23.756Z",
     "text": "Use multiple wallets for different activities: one for holding long-term investments, another for trading, and a separate one solely for interacting with DeFi platforms. This keeps your assets organized and limits exposure to risk — if one wallet gets compromised, the others stay safe. Also, enable two-factor authentication wherever possible; an extra layer of security can save you from sleepless nights.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1786308926842",
-    "ts": "2026-08-09T20:55:26.842Z",
-    "text": "Narrative shifts in crypto happen on the whim of community sentiment. One week, it's all about AI-driven protocols; the next, it’s meme-token mania. Staying relevant means tracking discussions and engaging with emerging themes—what's trending may dictate future market movements. Embrace the chaos or get left in the digital dust.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
