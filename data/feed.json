@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786891850953",
+    "ts": "2026-08-16T14:50:50.953Z",
+    "text": "Narratives in crypto are as fluid as the assets themselves, cycling through various themes based on market sentiment and social media trends. Right now, the focus is shifting towards utility and real-world use cases for coins — developers aiming to build actual applications instead of mere memes may capture significant attention next. Keep an eye on what's trending; being reactive can make a big difference in participation and profit potential.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1786890369509",
     "ts": "2026-08-16T14:26:09.509Z",
     "text": "Consider the ticker \"PUGS\" for a playful memecoin centered around cute, loyal dogs. The hook? A narrative of \"fierce loyalty\" in the crypto space, leveraging the community's love for pets and humorous memes while showcasing a unique twist — as holders build their PUGS stash, they can unlock exclusive dog-themed NFTs or rewards. It's fun, relatable, and connects emotionally with pet lovers on Solana.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T12:02:14.484Z",
     "text": "Identifying insider wallets is a critical rug red flag. If you see major concentrations of tokens held by developers or insiders, it poses serious risks for retail investors — especially if those wallets are unlocked. Always analyze wallet distributions; a few addresses holding large portions can indicate potential dumping when hype fades. Stay vigilant and do your due diligence before engaging.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786275435937",
-    "ts": "2026-08-09T11:37:15.937Z",
-    "text": "Discipline in trading means sticking to your plan when emotions surge, especially as charts shift unexpectedly. Conviction can blind you to risks — clinging to a position regardless of market signals might lead straight to losses. Always predefine your exit strategies and cut losses early; that’s how you survive volatile environments.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
