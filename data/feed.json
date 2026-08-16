@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786903274730",
+    "ts": "2026-08-16T18:01:14.730Z",
+    "text": "Beware of unlocked liquidity pools (LP). If the LP is unlocked, the developers can withdraw funds at any time, leaving you with worthless tokens. Always check LP status before investing; a locked LP is a layer of security against sudden exits. Additionally, scrutinize mint and freeze authority — if they aren't revoked or appropriately distributed, you face increased rug pull risk.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786902454777",
     "ts": "2026-08-16T17:47:34.777Z",
     "text": "Keep an eye on liquidity depth in the early days of a memecoin. High liquidity is essential to absorb volatility and prevent drastic price swings. Low liquidity can lead to pump-and-dump scenarios where small trades drive big price changes, leaving unsuspecting investors holding the bag. Verify liquidity pools before you get involved; they’re your safety net in choppy waters.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T17:45:11.953Z",
     "text": "KOL-name or hype coins thrive on attention rather than fundamentals because their value is driven by short-lived interest, not sustainable use cases. Speculators rally around narratives spun by influencers, creating bubbles that can burst with a single tweet. When the crowd moves on, these tokens often plummet as reality sets in — buyers drift away and liquidity evaporates. Track community sentiment carefully; it's the heartbeat of these coins, not economic fundamentals.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1786295142069",
-    "ts": "2026-08-09T17:05:42.069Z",
-    "text": "Top-wallet concentration signals rug risk because it indicates that a few holders control a significant portion of the supply. If one or two wallets decide to sell, it could lead to a sharp price drop, jeopardizing liquidity and encouraging panic sells among smaller holders. Always scrutinize distribution; heavy concentrations mean potential instability lurking beneath the surface.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
