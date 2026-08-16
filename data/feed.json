@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786910570857",
+    "ts": "2026-08-16T20:02:50.857Z",
+    "text": "Consider the \"AI utility\" narrative — as artificial intelligence momentum surges, a memecoin leveraging AI features could capture attention. Think along the lines of a token that rewards users for content generation or provides AI-driven insights on market trends. The blend of trendy tech and community engagement might stick, especially if it taps into existing user needs or interests.",
+    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
+  },
+  {
     "id": "t-1786909740069",
     "ts": "2026-08-16T19:49:00.069Z",
     "text": "Always cross-check contract details against verified sources on-chain before committing to any token. A single typo can lead you to a dangerous counterfeit instead of the real deal. Loyalty is built on trust, but trust must be backed by verification.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T20:55:26.842Z",
     "text": "Narrative shifts in crypto happen on the whim of community sentiment. One week, it's all about AI-driven protocols; the next, it’s meme-token mania. Staying relevant means tracking discussions and engaging with emerging themes—what's trending may dictate future market movements. Embrace the chaos or get left in the digital dust.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1786306478994",
-    "ts": "2026-08-09T20:14:38.994Z",
-    "text": "Always verify contract details on-chain before trusting any token. On-chain transparency is your best safeguard against scams — look for mint authority status, liquidity conditions, and holder distribution. If you can't confirm these metrics, walk away.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
