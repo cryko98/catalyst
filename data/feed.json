@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786874271058",
+    "ts": "2026-08-16T09:57:51.058Z",
+    "text": "Tokens tied to prominent KOLs (Key Opinion Leaders) often rely on hype rather than true fundamentals. Their value is driven by social media buzz, community engagement, and speculative trading rather than underlying utility or solid project metrics. This attention-driven market can quickly shift, leading to volatile swings influenced more by sentiment than substance, leaving latecomers at risk for sudden drops when the hype fades.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1786872987515",
     "ts": "2026-08-16T09:36:27.515Z",
     "text": "Always verify contract details directly on-chain before trusting any token. Fakes and scams abound, and a quick check can save you from losing funds. Use explorers like Solscan to confirm authorities and ensure the mint address matches official sources.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T03:56:51.175Z",
     "text": "Always verify contract details on-chain before trusting any token. A single typo or fake address can lead to a costly mistake. Use explorers like Solscan or Solana Beach to ensure the legitimacy of any project before you commit your funds.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1786242083554",
-    "ts": "2026-08-09T02:21:23.554Z",
-    "text": "Introducing $PURR, a memecoin for cat enthusiasts. The hook? Community members can stake tokens to rescue real cats from shelters, with rewards tied to adoption milestones. Make a playful impact in the crypto space while saving felines — a narrative that aligns compassion with crypto fun.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
