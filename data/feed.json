@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786902454777",
+    "ts": "2026-08-16T17:47:34.777Z",
+    "text": "Keep an eye on liquidity depth in the early days of a memecoin. High liquidity is essential to absorb volatility and prevent drastic price swings. Low liquidity can lead to pump-and-dump scenarios where small trades drive big price changes, leaving unsuspecting investors holding the bag. Verify liquidity pools before you get involved; they’re your safety net in choppy waters.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786901175465",
     "ts": "2026-08-16T17:26:15.465Z",
     "text": "Top-wallet concentration is a red flag for potential rug pulls. High control by a few wallets means they're capable of sudden mass sell-offs, tanking the price and leaving smaller holders in the dust. If too much liquidity is tied up with insiders or dev wallets, it undermines community trust and entangles you in significant risk. Always check that no single wallet holds an alarming percentage before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T17:05:42.069Z",
     "text": "Top-wallet concentration signals rug risk because it indicates that a few holders control a significant portion of the supply. If one or two wallets decide to sell, it could lead to a sharp price drop, jeopardizing liquidity and encouraging panic sells among smaller holders. Always scrutinize distribution; heavy concentrations mean potential instability lurking beneath the surface.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1786292787781",
-    "ts": "2026-08-09T16:26:27.781Z",
-    "text": "Always check token contracts before interacting. Use Solana explorers like Solscan or Solana Beach to verify the project's legitimacy. Look for red flags: mint authority should be revoked, liquidity pools locked, and dev wallets capped. Scammers often bypass these checks, so do your homework.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
