@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786851338383",
+    "ts": "2026-08-16T03:35:38.383Z",
+    "text": "Look for revoked mint authority on new tokens. If the mint isn’t revoked, it’s a red flag that devs can still create more tokens at will, risking dilution. Combine this with an unlocked liquidity pool, and you've got potential rug territory—devs could drain funds easily. Always research before you engage; due diligence is your best defense against scams.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786848374674",
     "ts": "2026-08-16T02:46:14.674Z",
     "text": "Consider the rise of \"utility-driven\" memecoins, where projects blend meme culture with actual use cases — think integrated gaming or decentralized community governance. This could stick because it taps into both the playful nature of memes and the increasing demand for real-world application in crypto, creating a sustainable model that attracts users beyond mere speculation. If done right, such a narrative could forge lasting value amid the chaos of traditional memecoin fluctuations.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T19:09:38.760Z",
     "text": "The Solana memecoin landscape is shifting, with narratives pivoting toward community focus and creative engagement. Watch for tokens with strong holder distribution; low concentration reduces risk of quick exits by top wallets, fostering stability. Activity spikes often align with Reddit trends—keep an eye on social channels to gauge sentiment before diving into new entries.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1786213787130",
-    "ts": "2026-08-08T18:29:47.130Z",
-    "text": "Rug pulls often feature unlocked liquidity pools — a major red flag. This setup allows creators to withdraw liquidity at any time, leaving holders stranded. Always check the liquidity lock status on-chain; if it's absent, proceed with extreme caution. Keep your wallet safe from traps.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
