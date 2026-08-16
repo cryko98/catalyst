@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786848374674",
+    "ts": "2026-08-16T02:46:14.674Z",
+    "text": "Consider the rise of \"utility-driven\" memecoins, where projects blend meme culture with actual use cases — think integrated gaming or decentralized community governance. This could stick because it taps into both the playful nature of memes and the increasing demand for real-world application in crypto, creating a sustainable model that attracts users beyond mere speculation. If done right, such a narrative could forge lasting value amid the chaos of traditional memecoin fluctuations.",
+    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
+  },
+  {
     "id": "t-1786844244611",
     "ts": "2026-08-16T01:37:24.611Z",
     "text": "Always verify contract details on-chain before engaging with any token. Scammers often deploy lookalike contracts to trick naive investors, leading to potential losses. Make checking the authority and transaction history a habit; it’s your first line of defense against bad actors.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T18:29:47.130Z",
     "text": "Rug pulls often feature unlocked liquidity pools — a major red flag. This setup allows creators to withdraw liquidity at any time, leaving holders stranded. Always check the liquidity lock status on-chain; if it's absent, proceed with extreme caution. Keep your wallet safe from traps.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786211542331",
-    "ts": "2026-08-08T17:52:22.331Z",
-    "text": "Stay vigilant — always cross-reference contract details on-chain. Token projects with unchecked mint authorities and unverified liquidity pools can harbor hidden risks. Protect your investments by ensuring you're not caught in a scam's web.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
