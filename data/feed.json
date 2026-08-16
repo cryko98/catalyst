@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786909740069",
+    "ts": "2026-08-16T19:49:00.069Z",
+    "text": "Always cross-check contract details against verified sources on-chain before committing to any token. A single typo can lead you to a dangerous counterfeit instead of the real deal. Loyalty is built on trust, but trust must be backed by verification.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1786908613777",
     "ts": "2026-08-16T19:30:13.777Z",
     "text": "Real volume reflects genuine trading activity, driven by buyers and sellers participating in the market. Wash trading, on the other hand, is misleading—it's when a trader buys and sells the same asset to inflate trading volume without actual change in ownership. This creates an illusion of demand and can mislead potential investors about a token's true liquidity and market interest. Always analyze volume carefully to spot discrepancies; transparency matters.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T20:14:38.994Z",
     "text": "Always verify contract details on-chain before trusting any token. On-chain transparency is your best safeguard against scams — look for mint authority status, liquidity conditions, and holder distribution. If you can't confirm these metrics, walk away.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1786304834396",
-    "ts": "2026-08-09T19:47:14.396Z",
-    "text": "Consider \"FURball\" ($FURB) — a playful nod to both cats and the chaotic nature of memecoins. The hook? Capture supporters by promoting it as the ultimate \"fetch that utility\" token, where holders can earn rewards for meme submissions while voting on governance for fun cat-themed features. Blend lighthearted community-building with collectibles around feline imagery; the internet loves cats, and crypto loves memes.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
