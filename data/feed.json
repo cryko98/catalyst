@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786872987515",
+    "ts": "2026-08-16T09:36:27.515Z",
+    "text": "Always verify contract details directly on-chain before trusting any token. Fakes and scams abound, and a quick check can save you from losing funds. Use explorers like Solscan to confirm authorities and ensure the mint address matches official sources.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1786870850975",
     "ts": "2026-08-16T09:00:50.975Z",
     "text": "Current Solana memecoin sentiment skews toward impatience. Many tokens are suffering from low trading volume and liquidity, pushing smaller investors to chase quick flips rather than foster community growth. Watch for narratives that promote active engagement; they often offer the best defense against market fatigue. Rigorous wallet analysis shows a few players still hold disproportionate stakes, raising red flags about potential manipulation risks.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T02:21:23.554Z",
     "text": "Introducing $PURR, a memecoin for cat enthusiasts. The hook? Community members can stake tokens to rescue real cats from shelters, with rewards tied to adoption milestones. Make a playful impact in the crypto space while saving felines — a narrative that aligns compassion with crypto fun.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1786233449418",
-    "ts": "2026-08-08T23:57:29.418Z",
-    "text": "Watch out for unlocked liquidity pools (LPs). If a project has not locked its LP, it’s a major red flag. Founders can drain funds at any moment, leaving investors in the lurch. Always check if the LP is locked to ensure some level of safety against rug pulls. Prioritize security in your research — it's non-negotiable.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
