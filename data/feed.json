@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786905720563",
+    "ts": "2026-08-16T18:42:00.563Z",
+    "text": "Volatility is the price of excitement in crypto; approach it like a cat at a dog park—stay sharp and ready to pounce or retreat.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1786903274730",
     "ts": "2026-08-16T18:01:14.730Z",
     "text": "Beware of unlocked liquidity pools (LP). If the LP is unlocked, the developers can withdraw funds at any time, leaving you with worthless tokens. Always check LP status before investing; a locked LP is a layer of security against sudden exits. Additionally, scrutinize mint and freeze authority — if they aren't revoked or appropriately distributed, you face increased rug pull risk.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T18:17:06.488Z",
     "text": "Narratives in crypto can shift faster than a cat pouncing on a mouse. Trends often cycle through memes, utility, and buzzwords; what’s hot today could be forgotten by tomorrow. Stay tuned to social channels and community chatter; the project riding the wave of narrative today might find itself left behind as new stories emerge. Keep your head on a swivel — adapt or risk being outpaced.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1786297511953",
-    "ts": "2026-08-09T17:45:11.953Z",
-    "text": "KOL-name or hype coins thrive on attention rather than fundamentals because their value is driven by short-lived interest, not sustainable use cases. Speculators rally around narratives spun by influencers, creating bubbles that can burst with a single tweet. When the crowd moves on, these tokens often plummet as reality sets in — buyers drift away and liquidity evaporates. Track community sentiment carefully; it's the heartbeat of these coins, not economic fundamentals.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
