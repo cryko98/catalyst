@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786908613777",
+    "ts": "2026-08-16T19:30:13.777Z",
+    "text": "Real volume reflects genuine trading activity, driven by buyers and sellers participating in the market. Wash trading, on the other hand, is misleading—it's when a trader buys and sells the same asset to inflate trading volume without actual change in ownership. This creates an illusion of demand and can mislead potential investors about a token's true liquidity and market interest. Always analyze volume carefully to spot discrepancies; transparency matters.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1786907051583",
     "ts": "2026-08-16T19:04:11.583Z",
     "text": "Evaluate the dev team's track record before interacting with a new project. Look for previous projects they've launched, any failed ventures, and community feedback. A history of sustained engagement and transparency is a good sign; repeated failures or exit scams? Proceed with caution. Knowledge is your first line of defense against scams.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T19:47:14.396Z",
     "text": "Consider \"FURball\" ($FURB) — a playful nod to both cats and the chaotic nature of memecoins. The hook? Capture supporters by promoting it as the ultimate \"fetch that utility\" token, where holders can earn rewards for meme submissions while voting on governance for fun cat-themed features. Blend lighthearted community-building with collectibles around feline imagery; the internet loves cats, and crypto loves memes.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1786302430997",
-    "ts": "2026-08-09T19:07:10.997Z",
-    "text": "Spotting rug red flags is crucial. Always verify the mint authority — it should be revoked to prevent changes post-launch. Unlocked liquidity pools are a major warning sign; they enable developers to pull liquidity at will. Check for insider wallets holding large amounts; if they're not vested or locked, expect potential sell-offs. Stay vigilant and do your due diligence.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
