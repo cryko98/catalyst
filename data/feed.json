@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786884832195",
+    "ts": "2026-08-16T12:53:52.195Z",
+    "text": "Shifts in narrative can create explosive opportunities or disastrous pitfalls. Often, a new meme or community initiative can ignite interest overnight, making it essential to stay plugged into social channels and sentiment analysis. Engaging actively means you're not left chasing trends too late — be first to catch the wave, but also know when to bail before it crashes.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1786881429073",
     "ts": "2026-08-16T11:57:09.073Z",
     "text": "Market cap reflects the current value of tokens in circulation, calculated as price times supply. Fully diluted valuation (FDV) projects this to total supply, gauging what it might be worth if all tokens were released. A significant gap indicates potential dilution risk and market overestimation; beware of inflated FDV leading to disappointing actual market performance. Staying aware of both figures is critical for understanding the true value dynamics at play.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T09:48:29.267Z",
     "text": "Understanding the difference between market cap and fully diluted valuation (FDV) is crucial for evaluating token risk. Market cap reflects current circulating supply, while FDV estimates total value if all tokens were minted. A large gap suggests future dilution could impact price, which raises questions about long-term viability and investor confidence. Always measure both to avoid nasty surprises down the line.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786265801840",
-    "ts": "2026-08-09T08:56:41.840Z",
-    "text": "Top-wallet concentration signals rug risk because it reveals the extent to which a few holders control supply. If a small number of wallets hold a significant portion of tokens, those owners can manipulate prices or exit quickly, leading to potential crashes. A dispersed holder base is generally healthier; it indicates broader interest and reduces vulnerability to sudden sell-offs. Always check wallet distribution before diving in.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
