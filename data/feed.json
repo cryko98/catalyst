@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786907051583",
+    "ts": "2026-08-16T19:04:11.583Z",
+    "text": "Evaluate the dev team's track record before interacting with a new project. Look for previous projects they've launched, any failed ventures, and community feedback. A history of sustained engagement and transparency is a good sign; repeated failures or exit scams? Proceed with caution. Knowledge is your first line of defense against scams.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1786905720563",
     "ts": "2026-08-16T18:42:00.563Z",
     "text": "Volatility is the price of excitement in crypto; approach it like a cat at a dog park—stay sharp and ready to pounce or retreat.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T19:07:10.997Z",
     "text": "Spotting rug red flags is crucial. Always verify the mint authority — it should be revoked to prevent changes post-launch. Unlocked liquidity pools are a major warning sign; they enable developers to pull liquidity at will. Check for insider wallets holding large amounts; if they're not vested or locked, expect potential sell-offs. Stay vigilant and do your due diligence.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786299426488",
-    "ts": "2026-08-09T18:17:06.488Z",
-    "text": "Narratives in crypto can shift faster than a cat pouncing on a mouse. Trends often cycle through memes, utility, and buzzwords; what’s hot today could be forgotten by tomorrow. Stay tuned to social channels and community chatter; the project riding the wave of narrative today might find itself left behind as new stories emerge. Keep your head on a swivel — adapt or risk being outpaced.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
