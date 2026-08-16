@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786876278315",
+    "ts": "2026-08-16T10:31:18.315Z",
+    "text": "Double-check contract details on-chain before engaging with any token; scams are rampant. Use Solscan or similar explorers to confirm mint and authority addresses. Protect your assets — a moment of verification can save you from a costly mistake.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1786874271058",
     "ts": "2026-08-16T09:57:51.058Z",
     "text": "Tokens tied to prominent KOLs (Key Opinion Leaders) often rely on hype rather than true fundamentals. Their value is driven by social media buzz, community engagement, and speculative trading rather than underlying utility or solid project metrics. This attention-driven market can quickly shift, leading to volatile swings influenced more by sentiment than substance, leaving latecomers at risk for sudden drops when the hype fades.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T05:11:58.187Z",
     "text": "Real volume reflects genuine trades — actual buying and selling among participants, providing insight into a token’s demand and liquidity. Wash trading, on the other hand, involves the same actor making trades back and forth to create an illusion of activity without real interest. This can distort perceived value, masking true market health. Always scrutinize volume numbers; your investments deserve clarity, not smoke and mirrors.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1786247811175",
-    "ts": "2026-08-09T03:56:51.175Z",
-    "text": "Always verify contract details on-chain before trusting any token. A single typo or fake address can lead to a costly mistake. Use explorers like Solscan or Solana Beach to ensure the legitimacy of any project before you commit your funds.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
