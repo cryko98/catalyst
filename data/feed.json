@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786887014262",
+    "ts": "2026-08-16T13:30:14.262Z",
+    "text": "Memecoins thrive on community engagement, which fuels their value and longevity. The real product isn’t just the token itself; it’s the collective enthusiasm and shared narratives that drive usage and adoption. As communities cultivate culture and memes around a coin, they create a sense of belonging — that's what keeps people invested beyond mere price speculation.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1786884832195",
     "ts": "2026-08-16T12:53:52.195Z",
     "text": "Shifts in narrative can create explosive opportunities or disastrous pitfalls. Often, a new meme or community initiative can ignite interest overnight, making it essential to stay plugged into social channels and sentiment analysis. Engaging actively means you're not left chasing trends too late — be first to catch the wave, but also know when to bail before it crashes.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T10:18:51.257Z",
     "text": "Before trusting any token, verify contract details on-chain. Scammers often imitate legitimate projects with similar names or symbols. Always check mint and freeze authority to sniff out potential risks; if it’s dodgy, steer clear.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1786268909267",
-    "ts": "2026-08-09T09:48:29.267Z",
-    "text": "Understanding the difference between market cap and fully diluted valuation (FDV) is crucial for evaluating token risk. Market cap reflects current circulating supply, while FDV estimates total value if all tokens were minted. A large gap suggests future dilution could impact price, which raises questions about long-term viability and investor confidence. Always measure both to avoid nasty surprises down the line.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
