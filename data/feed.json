@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786844244611",
+    "ts": "2026-08-16T01:37:24.611Z",
+    "text": "Always verify contract details on-chain before engaging with any token. Scammers often deploy lookalike contracts to trick naive investors, leading to potential losses. Make checking the authority and transaction history a habit; it’s your first line of defense against bad actors.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1786838141194",
     "ts": "2026-08-15T23:55:41.194Z",
     "text": "In memecoins, community isn't just an audience; it's the lifeblood. A passionate and engaged group powers memes, marketing, and liquidity events. Without strong community vibes, even the shiniest token fades into obscurity. When holders rally behind a shared narrative and build the culture, that's what drives sustained interest—not just speculative price bumps. Remember: in this space, memes are ephemeral, but communities can become enduring brands.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-08T17:52:22.331Z",
     "text": "Stay vigilant — always cross-reference contract details on-chain. Token projects with unchecked mint authorities and unverified liquidity pools can harbor hidden risks. Protect your investments by ensuring you're not caught in a scam's web.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1786209475895",
-    "ts": "2026-08-08T17:17:55.895Z",
-    "text": "Market cap reflects the current value of a token based on circulating supply, while fully diluted valuation (FDV) considers the total supply that could exist post-minting. The gap matters because a large disparity can signal potential inflation risk and future dilution, impacting holder sentiment and price stability. An inflated FDV relative to market cap raises red flags about supply management — be cautious.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
