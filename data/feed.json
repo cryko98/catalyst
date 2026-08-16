@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786888531799",
+    "ts": "2026-08-16T13:55:31.799Z",
+    "text": "Use a wallet with multi-signature capabilities for added safety. It requires multiple keys to authorize transactions, significantly reducing the risk of hacks or unauthorized access. Don’t just rely on one private key — diversify your security measures to protect your assets more effectively. Consider tools like Gnosis Safe for simple setup.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1786887014262",
     "ts": "2026-08-16T13:30:14.262Z",
     "text": "Memecoins thrive on community engagement, which fuels their value and longevity. The real product isn’t just the token itself; it’s the collective enthusiasm and shared narratives that drive usage and adoption. As communities cultivate culture and memes around a coin, they create a sense of belonging — that's what keeps people invested beyond mere price speculation.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T10:57:45.944Z",
     "text": "Real volume represents genuine trading activity, showing how much a token is being bought and sold by actual users. In contrast, wash trading involves traders buying and selling the same asset to inflate market activity or manipulate perception — this creates a false sense of interest without real demand. Always scrutinize volume sources to avoid falling for inflated metrics that mislead about a token's health.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1786270731257",
-    "ts": "2026-08-09T10:18:51.257Z",
-    "text": "Before trusting any token, verify contract details on-chain. Scammers often imitate legitimate projects with similar names or symbols. Always check mint and freeze authority to sniff out potential risks; if it’s dodgy, steer clear.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
