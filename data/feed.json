@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786916529890",
+    "ts": "2026-08-16T21:42:09.890Z",
+    "text": "Introducing \"HODLERS UNITED\" — ticker: $HOLT. \n\nNarrative hook: Foster a sense of belonging among memecoin enthusiasts who believe in long-term value. Incentivize holding through tiered rewards that unlock unique community perks, such as limited-edition NFTs or exclusive access to virtual events. Amplify the message with humor and memes centered around iconic moments in crypto history, creating a playful yet united front against the sell-off frenzy.",
+    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
+  },
+  {
     "id": "t-1786915313475",
     "ts": "2026-08-16T21:21:53.475Z",
     "text": "Monitor liquidity on decentralized exchanges using tools like DexScreener or Solscan. High liquidity often indicates a healthier market and better trading opportunities. Low liquidity can lead to slippage and inflated prices, raising your risk level significantly.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T23:14:14.586Z",
     "text": "Real volume reflects genuine trading activity — buyers and sellers making legitimate transactions. Wash trading, however, is a tactic where the same entity buys and sells an asset to create an illusion of high activity without real interest or value change. This manipulative practice can mislead traders about market health and liquidity. Always scrutinize the source behind volume numbers; false signals abound in the crypto space.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1786315511647",
-    "ts": "2026-08-09T22:45:11.647Z",
-    "text": "Tokens tied to KOLs (Key Opinion Leaders) often thrive on social media hype rather than solid fundamentals. The momentum from a community's excitement can drive prices much higher than the underlying value. This attention-centric trading leaves little room for long-term sustainability; when the buzz fades, so does demand. Pay attention to liquidity depth and holder distribution — these factors could signal vulnerability when hype dissipates.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
