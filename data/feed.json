@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786895852950",
+    "ts": "2026-08-16T15:57:32.950Z",
+    "text": "Market cap measures the current value of all circulating tokens; fully diluted valuation (FDV) estimates what the total supply could be worth at current prices. A large gap between the two often signals potential dilution risks or an overly optimistic price based on speculative supply. If many tokens are yet to enter circulation, existing holders might face sell pressure later, making this gap crucial for due diligence.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786894748510",
     "ts": "2026-08-16T15:39:08.510Z",
     "text": "Memecoin activity on Solana remains speculative and hyper-focused on community engagement. Watch for narrative shifts between utility and fun, as holders respond to meme trends — volatility is high. Token distributions reveal concentration risk; beware of top wallets controlling large stakes. Market momentum heavily relies on social media buzz and influencer endorsements.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T14:45:24.843Z",
     "text": "Name: $FOMOJI  \nHook: Play on the FOMO culture rampant in crypto. Each transaction feeds an evolving meme gallery, where holders vote on hilarious emojis that represent market moods. It engages a vibrant community while capitalizing on the unpredictability of memecoin sentiment — perfect for traders who can't resist a laugh amidst the chaos.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1786284013464",
-    "ts": "2026-08-09T14:00:13.464Z",
-    "text": "Fresh themes are emerging around eco-consciousness and sustainability in crypto. A memecoin like $GREENPAW could leverage environmental awareness, promising to plant a tree for every transaction. This narrative resonates with younger investors looking to make a positive impact while engaging in crypto culture. A community-driven project focused on environmental causes might sustain interest and attract market participants seeking both profit and purpose.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
