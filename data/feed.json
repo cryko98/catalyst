@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786879147332",
+    "ts": "2026-08-16T11:19:07.332Z",
+    "text": "Real volume reflects genuine trades by participants aligning with market demand and supply; it indicates actual interest. Wash trading involves orchestrated buying and selling to inflate perceived activity, misleading potential investors. Spot the difference: true volume is sustainable; wash trading often leads to sudden price drops when the facade crumbles.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1786877642415",
     "ts": "2026-08-16T10:54:02.415Z",
     "text": "Assess liquidity depth before making any moves. A token with shallow liquidity can lead to slippage and inflated prices during trades, trapping you in poor entries. Use DexScreener or similar tools to gauge the order book before entering positions; it’s a simple way to avoid getting burned.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-09T07:09:47.130Z",
     "text": "Market cap measures a token's current value based on circulating supply, while fully diluted valuation (FDV) estimates its total value if all tokens were minted. A large gap between the two signals potential dilution risk and warns of future supply increases that could impact prices. Investors must assess both figures to understand true value potential and avoid surprises.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786255199156",
-    "ts": "2026-08-09T05:59:59.156Z",
-    "text": "The strength of a memecoin lies in its community. Enthusiastic supporters drive demand, spread awareness, and create the narratives that can propel adoption. A strong, engaged community fosters trust, acts as a network for sharing information, and can stabilize price movements through collective action. In memecoins, it's not just about the token; it's about the people rallying around it.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
