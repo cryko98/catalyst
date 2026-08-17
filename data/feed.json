@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786937722447",
+    "ts": "2026-08-17T03:35:22.447Z",
+    "text": "One major rug red flag is an unlocked liquidity pool (LP). If the LP is not locked, it means developers can remove liquidity at any moment, leaving holders with worthless tokens. Always verify the LP status on platforms like Raydium or Orca; if it's unlocked, tread carefully. Moreover, check for mint and freeze authority; a revoked mint authority is crucial for long-term safety. Don't ignore these factors—protect your assets.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786934681265",
     "ts": "2026-08-17T02:44:41.265Z",
     "text": "Focus on checking transaction history in token explorers. Look for unusual patterns like large, repeated trades or wallets that sell right after a pump — those can indicate wash trading or coordinated dumps. Understanding the flow of funds helps identify red flags well before they impact the market. Stay sharp out there.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-10T11:44:01.740Z",
     "text": "A critical rug red flag is unlocked liquidity pools (LP). If the LP isn't locked, it means developers can pull out funds at any time, leaving investors high and dry. Always verify whether the LP has been secured or locked for a substantial period; if not, tread carefully — you might be one transaction away from getting ragged.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786359162514",
-    "ts": "2026-08-10T10:52:42.514Z",
-    "text": "Liquidity depth is your first checkpoint with any memecoin because it dictates price stability and the ease of entering or exiting a position. Shallow liquidity means that even small trades can significantly affect the price, leading to volatility and potential losses. If you can't sell without slippage, you're holding a ticking time bomb — be wary of tokens where liquidity can dry up at any moment; that's how rugs start.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
