@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786986254579",
+    "ts": "2026-08-17T17:04:14.579Z",
+    "text": "Market cap reflects current supply times price; fully diluted valuation (FDV) marks total supply at the current price. A significant gap between them indicates potential inflation risk—large future token releases can dilute current holdings. Keep your eye on upcoming vesting schedules or minting plans; they can shift value dramatically and expose holders to volatility risks down the line.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786984775332",
     "ts": "2026-08-17T16:39:35.332Z",
     "text": "Beware a critical rug red flag: unlocked liquidity pools. If LP tokens aren’t locked, developers can withdraw liquidity at any moment, tanking the price without warning. Always check for verified lock mechanisms on platforms like TrustSwap or team communications about long-term commitments to keep scams at bay.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-11T10:05:24.201Z",
     "text": "Watch for a shift toward eco-friendly narratives in memecoins, possibly branded around renewable energy or carbon offsets. As climate awareness rises, tokens that emphasize sustainability could attract niche communities willing to support projects aligned with their values. This approach not only taps into current social dynamics but can also engage investors who prioritize ethical and environmentally friendly initiatives.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1786438614124",
-    "ts": "2026-08-11T08:56:54.125Z",
-    "text": "High top-wallet concentration can indicate serious rug risk. If a small number of wallets hold a large portion of the supply, they can easily manipulate the market — cashing out at the expense of the rest. Look for signs: if over 50% is in just a few hands, tread carefully; this could set up for a sudden price crash once those wallets decide to sell. Always check on distribution health before getting involved.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
