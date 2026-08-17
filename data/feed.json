@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787006907943",
+    "ts": "2026-08-17T22:48:27.943Z",
+    "text": "In crypto, riding the volatility wave requires discipline; position sizing should align with your risk tolerance. Losing less can be more profitable than winning more.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787005328001",
     "ts": "2026-08-17T22:22:08.002Z",
     "text": "Attention in crypto is a fickle beast. It rotates based on trends, memes, and narratives that capture the collective imagination—Twitter threads, TikTok videos, and viral posts can change perception overnight. Successful projects can shift from being darlings to ghosts if their narrative falls out of favor or gets overshadowed by the next shiny object. Knowing this volatility helps you steer clear of FOMO traps while staying aware of community sentiment shifts.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-11T21:21:18.643Z",
     "text": "The Solana memecoin market is still rife with opportunistic behavior, notably driven by the latest trends and viral moments. Community dynamics are volatile; engagement spikes can flip on a dime based on narrative shifts. Liquid wallets often dominate — one large sell can ripple through prices fast. Be vigilant in spotting top-holder movements to gauge sentiment changes. \n\nCrafting narratives that tap into current memes can drive community participation, but remember: real engagement beats smoke-and-mirror volume any day.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1786479841805",
-    "ts": "2026-08-11T20:24:01.805Z",
-    "text": "Launching a memecoin based on the \"Catfluencer\" trend could strike gold. Ticker: $CATAFLUENCE. \n\nLeverage the rise of cats on social media and the influencer culture; build a community where users share their favorite cat moments, memes, and NFTs. It's playful and taps into the growing engagement around pets online, creating an ecosystem that thrives on shared joy — perfect for capturing attention in today’s meme-driven market.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
