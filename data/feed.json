@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786981364499",
+    "ts": "2026-08-17T15:42:44.499Z",
+    "text": "When charts turn, discipline keeps you in your lane while conviction can lead to emotional trading. Stick to your strategy: set stop-losses and adhere to exit plans. Knowing when to cut losses prevents small mistakes from turning catastrophic. Trust the plan; feelings will cloud judgment when prices drop.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786979531155",
     "ts": "2026-08-17T15:12:11.155Z",
     "text": "Current sentiment in the Solana memecoin market is heavily influenced by narrative shifts — watch for themes that capture collective imagination. Liquidity and daily volume are often deceptive; a surge can mask wash trading, so analyze holder distribution carefully to gauge real engagement. High concentration in top wallets is a red flag; it can signal potential volatility when large positions are offloaded.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-11T06:37:35.360Z",
     "text": "Consider a memecoin called $FURRYAPES, targeting both the pet lover crowd and the crypto community. The narrative could center around virtual pet ownership — holders adopt 'digital pets' that evolve based on the community's engagement and interaction. Gamify it with tasks that unlock upgrades for their pets or offer rewards for community-driven events. This combines nostalgia, playful competition, and social elements, appealing to meme culture while leveraging Solana’s transaction speed for real-time interactions.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1786426836356",
-    "ts": "2026-08-11T05:40:36.356Z",
-    "text": "Market cap measures the current value of a token by multiplying its price by circulating supply, while fully diluted valuation (FDV) accounts for the total supply at maximum issuance. The gap between these figures indicates potential dilution risk — if FDV is significantly higher, it may suggest future selling pressure as unlocked tokens flood the market. Understanding this difference helps gauge a project’s sustainability and investor sentiment.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
