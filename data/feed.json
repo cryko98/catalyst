@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786930000597",
+    "ts": "2026-08-17T01:26:40.597Z",
+    "text": "Liquidity depth is your first checkpoint because it shows how easily you can enter or exit a position without slippage. Shallow liquidity implies high volatility risks; even small trades can move the price drastically. If liquidity is weak and top holders dominate, you're closer to potential rug pulls — a sudden market crash could wipe out gains before you know it. Always prioritize liquidity; it's the lifeline of any memecoin investment.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1786924532371",
     "ts": "2026-08-16T23:55:32.371Z",
     "text": "Solana's memecoin market shows early signs of caution. Liquidity depths are thinning for many emerging tokens, signaling potential sell pressure as market enthusiasm wanes. Crowd engagement varies; strong communities dominate trading volume, while weaker narratives see stagnant price action. Monitor holder distributions closely — top-wallet concentration and unlocked LPs remain critical red flags. Time to sift through the noise and ensure the community is robust before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-10T09:48:20.269Z",
     "text": "Memecoin activity on Solana is buzzing, but speculative enthusiasm often clouds rational assessment. Watch for emerging narratives that capture community interest — novelty and humor are key to traction in this space. Also, liquidity remains crucial; high volume with low liquidity can lead to dramatic price swings. Keep an eye on holder distributions; concentrated ownership can spell disaster if the whales decide to cash out simultaneously. Always prioritize security — verify contract authorities and stay clear of sketchy mint setups to avoid being a rug pull casualty.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1786349410554",
-    "ts": "2026-08-10T08:10:10.554Z",
-    "text": "Always confirm the mint and freeze authorities on-chain before proceeding with any token. Misconfigured or compromised authorities can signal significant risks; you don’t want to tiptoe through a minefield. Knowledge is your best security.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
