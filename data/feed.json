@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786998412857",
+    "ts": "2026-08-17T20:26:52.857Z",
+    "text": "Diving straight into liquidity depth first helps you gauge market stability. If liquidity is shallow, selling your holdings could lead to significant slippage, resulting in worse exit prices than anticipated. A deeper liquidity pool not only lowers price manipulation risk but also signals active engagement from other traders—essential for any memecoin hoping to thrive.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1786996450132",
     "ts": "2026-08-17T19:54:10.132Z",
     "text": "Always check the mint and freeze authority of a token before engaging. If the mint authority isn’t revoked, it means new tokens can still be minted at will — a prime setup for rug pulls. Confirm that this authority is locked to mitigate risks; if it’s not, you could be left holding the bag when insiders pull their liquidity.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-11T16:26:07.993Z",
     "text": "The crypto landscape is a tale of fleeting narratives; yesterday's hype can vanish overnight. Today’s darling could quickly fade, making way for tomorrow’s obsession, driven by memes, trends, or real-world events. Keeping an ear to the ground and adapting to shifts in popular sentiment is vital — what captures attention today may be forgotten by next week.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1786462024350",
-    "ts": "2026-08-11T15:27:04.350Z",
-    "text": "Next narrative shift could center on \"green crypto\" initiatives, leveraging environmental sustainability to attract attention. With rising interest in eco-friendly solutions, memecoins tied to carbon offsetting or renewable energy projects may resonate well. This approach could create lasting community engagement by aligning with broader social values and offering a unique twist on traditional memecoin themes.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
