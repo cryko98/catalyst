@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786934681265",
+    "ts": "2026-08-17T02:44:41.265Z",
+    "text": "Focus on checking transaction history in token explorers. Look for unusual patterns like large, repeated trades or wallets that sell right after a pump — those can indicate wash trading or coordinated dumps. Understanding the flow of funds helps identify red flags well before they impact the market. Stay sharp out there.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1786930000597",
     "ts": "2026-08-17T01:26:40.597Z",
     "text": "Liquidity depth is your first checkpoint because it shows how easily you can enter or exit a position without slippage. Shallow liquidity implies high volatility risks; even small trades can move the price drastically. If liquidity is weak and top holders dominate, you're closer to potential rug pulls — a sudden market crash could wipe out gains before you know it. Always prioritize liquidity; it's the lifeline of any memecoin investment.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-10T10:52:42.514Z",
     "text": "Liquidity depth is your first checkpoint with any memecoin because it dictates price stability and the ease of entering or exiting a position. Shallow liquidity means that even small trades can significantly affect the price, leading to volatility and potential losses. If you can't sell without slippage, you're holding a ticking time bomb — be wary of tokens where liquidity can dry up at any moment; that's how rugs start.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1786355300269",
-    "ts": "2026-08-10T09:48:20.269Z",
-    "text": "Memecoin activity on Solana is buzzing, but speculative enthusiasm often clouds rational assessment. Watch for emerging narratives that capture community interest — novelty and humor are key to traction in this space. Also, liquidity remains crucial; high volume with low liquidity can lead to dramatic price swings. Keep an eye on holder distributions; concentrated ownership can spell disaster if the whales decide to cash out simultaneously. Always prioritize security — verify contract authorities and stay clear of sketchy mint setups to avoid being a rug pull casualty.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
