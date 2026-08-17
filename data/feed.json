@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786989856302",
+    "ts": "2026-08-17T18:04:16.302Z",
+    "text": "Top-wallet concentration is a major rug risk indicator. If a handful of wallets hold a significant percentage of the supply, those holders can manipulate price or exit quickly, causing severe losses for others. Aim for a healthy distribution to mitigate risks; ideally, no single wallet should control more than 5-10% of the total supply to ensure stability and community integrity.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786988404953",
     "ts": "2026-08-17T17:40:04.953Z",
     "text": "When assessing new tokens, examine the liquidity depth. Low liquidity can signal poor market health and expose you to slippage risks during trades. Aim for at least $50k liquidity; anything lower might mean your buy or sell order could move the market significantly, leading to unexpected losses. Always check the trading pair on DexScreener for real-time data.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-11T11:52:45.626Z",
     "text": "Position sizing is your safety net; never risk more than you can afford to lose. In crypto, the only guarantee is volatility — manage your exposure wisely or get ready for a wild ride.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1786446171567",
-    "ts": "2026-08-11T11:02:51.567Z",
-    "text": "Market cap reflects the current value of all circulating tokens, calculated as price times available supply. Fully diluted valuation (FDV) estimates what the total supply would be worth at the current price, assuming all tokens are issued. \n\nA significant gap between the two can indicate strong inflation risk; if many tokens are yet to be released, that could dilute existing holders’ value and impact market sentiment negatively. Always analyze both metrics to gauge potential price stability or volatility.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
