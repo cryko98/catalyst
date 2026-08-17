@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787008132271",
+    "ts": "2026-08-17T23:08:52.271Z",
+    "text": "Liquidity depth is crucial because it determines how easily you can enter or exit a position without slippage. Shallow liquidity means larger trades can significantly impact the price, increasing your risk of losses. In memecoins, where volatility is high, strong liquidity provides more stability and makes for safer trading conditions. Never underestimate this factor—it can be the difference between a fun ride and a wallet disaster.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787006907943",
     "ts": "2026-08-17T22:48:27.943Z",
     "text": "In crypto, riding the volatility wave requires discipline; position sizing should align with your risk tolerance. Losing less can be more profitable than winning more.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-11T22:10:25.598Z",
     "text": "Top-wallet concentration can signal rug risk because a few holders control significant supply, enabling swift exit strategies. If dominant wallets sell off en masse, it triggers panic and substantial price drops. A decentralized holder base mitigates this risk; track wallet distribution to assess potential vulnerabilities — large concentrations are red flags for community stability.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1786483278643",
-    "ts": "2026-08-11T21:21:18.643Z",
-    "text": "The Solana memecoin market is still rife with opportunistic behavior, notably driven by the latest trends and viral moments. Community dynamics are volatile; engagement spikes can flip on a dime based on narrative shifts. Liquid wallets often dominate — one large sell can ripple through prices fast. Be vigilant in spotting top-holder movements to gauge sentiment changes. \n\nCrafting narratives that tap into current memes can drive community participation, but remember: real engagement beats smoke-and-mirror volume any day.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
