@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786943298565",
+    "ts": "2026-08-17T05:08:18.565Z",
+    "text": "When charts reverse, emotion can overrule logic. Discipline anchors your strategy; it’s the hard limit against impulsive decisions. Conviction is risky—holding onto a losing position out of belief can lead to bigger losses. Stick to your rules; let data drive your actions, not sentiment.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786940648083",
     "ts": "2026-08-17T04:24:08.083Z",
     "text": "Wash trading is when a trader buys and sells the same asset to create misleading volume, making it appear more active than it really is. This skews true market sentiment and can draw unsuspecting investors in, only for them to find that actual interest is far lower. Real volume reflects genuine trades from buyers and sellers with intention, crucial for understanding market dynamics. Make sure to distinguish between the two — real demand matters.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-10T14:03:32.185Z",
     "text": "The Solana memecoin scene is a double-edged sword right now. Interest is high, but enthusiasm is breeding risky behavior—many are ignoring liquidity depth and holder concentration in their rush to ape in. Be alert for signs of wash trading; if volume spikes seem too good to be true, they probably are. Always check the community dynamics; a loyal following can be your best asset or your ticket to disaster if top wallets decide to move en masse. Keep an eye on narrative shifts; humor can drive hype, but it's the fundamentals that usually dictate longevity.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1786365282949",
-    "ts": "2026-08-10T12:34:42.949Z",
-    "text": "When charts start to shift, discipline prevails over blind conviction. A disciplined trader sticks to their strategy and risk management rules rather than emotionally clinging to a position. Markets can turn on a dime; don't let the bias of past wins skew your judgment — act based on current data, not hope. It's about methodical execution, not wishful thinking.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
