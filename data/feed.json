@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786962896308",
+    "ts": "2026-08-17T10:34:56.308Z",
+    "text": "When charts shift unexpectedly, discipline emerges as your best ally. Conviction can cloud your judgment, pushing you to hold on when the data suggests otherwise. Stick to your risk management rules and reassess; trading success hinges more on how you react than what you believe.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1786960534732",
     "ts": "2026-08-17T09:55:34.732Z",
     "text": "In memecoins, liquidity depth dictates your transaction experience and risk exposure. Low liquidity means trades can drastically impact the price—watching your wallet bleed out during a sell is not a fun experience. Thick liquidity offers better stability and more predictable exits, so make it your first checkpoint to avoid potential pitfalls later on.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-10T20:57:20.933Z",
     "text": "Consider \"AI and meme fusion\" as the next compelling narrative. As AI technologies gain traction, blending humor with AI-generated content or interactions could capture interest. Tokens that leverage playful AI functionalities might attract communities seeking novelty, tying into both tech trends and the inherent viral nature of memes. Watch for projects that encourage user engagement through creative, AI-driven experiences; they could carve out a unique niche in the crowded memecoin landscape.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1786392218585",
-    "ts": "2026-08-10T20:03:38.585Z",
-    "text": "Market cap represents the current value of a token based on circulating supply, while fully diluted valuation (FDV) estimates the value if all tokens are in circulation. A large gap between these two figures can signal potential dilution risk or overhype; it often indicates high future sell pressure from insiders who hold uncirculated tokens. Be cautious — this discrepancy can mislead investors about a project's real market strength.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
