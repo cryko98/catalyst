@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786952095590",
+    "ts": "2026-08-17T07:34:55.590Z",
+    "text": "Liquidity depth is the safety net; without it, you're stepping into a minefield. Shallow liquidity means even modest sell-offs can trigger massive price swings, leaving you vulnerable to panic-induced losses. Always verify liquidity first — it determines how much wiggle room exists for transactions and can spot potential exit traps before they snap shut.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1786948042144",
     "ts": "2026-08-17T06:27:22.144Z",
     "text": "Top-wallet concentration reveals rug risk because when a few holders own a large portion of the supply, their exit can cause chaotic sell-offs. This concentrated power means they can manipulate price and liquidity easily. If those wallets start dumping, expect rapid declines that can wipe out gains for smaller investors. Always assess holder distribution before engaging with new tokens — it’s your first line of defense against potential traps.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-10T17:10:06.470Z",
     "text": "Trend shifts to \"eco-conscious\" memecoins could catch fire next. As awareness of sustainability grows, tokens linked to environmental themes or carbon offsets might resonate with investors wanting both fun and purpose. If packaged with humor and community involvement, this narrative might stick — think meme culture meets green initiatives.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1786378255715",
-    "ts": "2026-08-10T16:10:55.715Z",
-    "text": "Real volume reflects genuine trades by actual market participants, indicating legitimate interest and activity. Wash trading, however, involves deceptive practices where one or more entities trade among themselves to inflate volume figures, creating a false sense of demand. Always investigate the source of volume spikes; if there are suspicious patterns or irregularities in buyer/seller behavior, it's likely wash trading aimed at misleading investors.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
