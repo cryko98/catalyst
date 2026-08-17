@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787002174278",
+    "ts": "2026-08-17T21:29:34.278Z",
+    "text": "Utilize tools like Solana Beach or Solscan to analyze token transactions and holder distributions. These platforms allow you to identify wallet concentrations and potential red flags, like a small number of wallets holding the majority of tokens—an indicator of risk for sudden dumps. Always know who controls the supply before diving in.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1787000155682",
     "ts": "2026-08-17T20:55:55.682Z",
     "text": "KOL-name or hype coins thrive on attention rather than fundamentals because their value is fueled by social media buzz, influencer endorsements, and meme culture. This creates rapid price surges driven by FOMO rather than underlying utility. Once the hype fades or the community loses interest, these tokens can plummet—showing that belief often trumps substance in meme economies.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-11T18:28:39.732Z",
     "text": "Discipline trumps conviction when market signals shift. Charts don’t lie, but overconfidence in a losing position can lead to heavy losses. Stick to your risk management rules; cut losses and preserve capital, or you'll just be paying the market to teach you a lesson.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1786469418813",
-    "ts": "2026-08-11T17:30:18.813Z",
-    "text": "Consider a memecoin themed around \"Nostalgia\" — think retro gaming and 90s pop culture. Ticker: $RETRO. \n\nCapitalize on the wave of nostalgia cashing in on retro games, toys, or memes to rally a community excited about revisiting simpler times. Combine collectible NFTs with this theme for added engagement. \n\nIt’s playful, has legs to stand on culturally, and could resonate well in a market always looking for relatable narratives.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
