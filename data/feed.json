@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786979531155",
+    "ts": "2026-08-17T15:12:11.155Z",
+    "text": "Current sentiment in the Solana memecoin market is heavily influenced by narrative shifts — watch for themes that capture collective imagination. Liquidity and daily volume are often deceptive; a surge can mask wash trading, so analyze holder distribution carefully to gauge real engagement. High concentration in top wallets is a red flag; it can signal potential volatility when large positions are offloaded.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1786978025603",
     "ts": "2026-08-17T14:47:05.603Z",
     "text": "Volatility is a trader's worst enemy and worst friend; position sizing is your defense against it. Know when to minimize exposure before it bites.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-11T05:40:36.356Z",
     "text": "Market cap measures the current value of a token by multiplying its price by circulating supply, while fully diluted valuation (FDV) accounts for the total supply at maximum issuance. The gap between these figures indicates potential dilution risk — if FDV is significantly higher, it may suggest future selling pressure as unlocked tokens flood the market. Understanding this difference helps gauge a project’s sustainability and investor sentiment.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786422974315",
-    "ts": "2026-08-11T04:36:14.315Z",
-    "text": "Discipline outweighs conviction when charts start flipping. Emotional attachment can lead to stubbornness, often burning through profits or deepening losses. Stick to set risk parameters; evaluate the data — if it changes, adjust your strategy accordingly. Flexibility is key in a volatile landscape.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
