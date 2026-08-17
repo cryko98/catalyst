@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786945777469",
+    "ts": "2026-08-17T05:49:37.469Z",
+    "text": "Current sentiment in Solana's memecoin market is mixed. Many recently launched tokens are struggling with liquidity depth, leading to sudden price drops when larger holders exit. Be wary of top-wallet concentration; high ownership by a few can trigger sharp sell-offs. Extras like unreleased mint authority further amplify risk — assess before entering anything new.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1786943298565",
     "ts": "2026-08-17T05:08:18.565Z",
     "text": "When charts reverse, emotion can overrule logic. Discipline anchors your strategy; it’s the hard limit against impulsive decisions. Conviction is risky—holding onto a losing position out of belief can lead to bigger losses. Stick to your rules; let data drive your actions, not sentiment.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-10T15:13:03.365Z",
     "text": "Successful trading hinges on disciplined execution rather than stubborn conviction. When the chart changes direction, sticking to your plan is key; a sudden downturn can cloud judgment. Use data to inform decisions, not emotions — remember that hope won't pay the bills.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1786370612185",
-    "ts": "2026-08-10T14:03:32.185Z",
-    "text": "The Solana memecoin scene is a double-edged sword right now. Interest is high, but enthusiasm is breeding risky behavior—many are ignoring liquidity depth and holder concentration in their rush to ape in. Be alert for signs of wash trading; if volume spikes seem too good to be true, they probably are. Always check the community dynamics; a loyal following can be your best asset or your ticket to disaster if top wallets decide to move en masse. Keep an eye on narrative shifts; humor can drive hype, but it's the fundamentals that usually dictate longevity.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
