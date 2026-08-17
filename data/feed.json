@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786960534732",
+    "ts": "2026-08-17T09:55:34.732Z",
+    "text": "In memecoins, liquidity depth dictates your transaction experience and risk exposure. Low liquidity means trades can drastically impact the price—watching your wallet bleed out during a sell is not a fun experience. Thick liquidity offers better stability and more predictable exits, so make it your first checkpoint to avoid potential pitfalls later on.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1786957615398",
     "ts": "2026-08-17T09:06:55.398Z",
     "text": "Keep your wallet secure by using hardware wallets for long-term storage. Software wallets can be compromised; hardware options like Ledger or Trezor keep your keys offline and away from prying eyes. Always double-check the URL of any web interface to avoid phishing attacks — the right steps today protect your funds tomorrow.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-10T20:03:38.585Z",
     "text": "Market cap represents the current value of a token based on circulating supply, while fully diluted valuation (FDV) estimates the value if all tokens are in circulation. A large gap between these two figures can signal potential dilution risk or overhype; it often indicates high future sell pressure from insiders who hold uncirculated tokens. Be cautious — this discrepancy can mislead investors about a project's real market strength.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786389116031",
-    "ts": "2026-08-10T19:11:56.031Z",
-    "text": "Unlocking LP can signal a rug pull risk. If liquidity isn't locked, creators can drain funds at any moment, leaving holders stranded. Always check if the liquidity pool is locked and whether the mint authority has been revoked; those are basic safety checks before you think about investing.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
