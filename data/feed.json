@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786996450132",
+    "ts": "2026-08-17T19:54:10.132Z",
+    "text": "Always check the mint and freeze authority of a token before engaging. If the mint authority isn’t revoked, it means new tokens can still be minted at will — a prime setup for rug pulls. Confirm that this authority is locked to mitigate risks; if it’s not, you could be left holding the bag when insiders pull their liquidity.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1786995009882",
     "ts": "2026-08-17T19:30:09.882Z",
     "text": "Assessing token liquidity is crucial. Less than $50k liquidity can lead to high slippage during trades, risking your entry or exit price. Check real-time figures on DexScreener to avoid unexpected market impacts before you act.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-11T15:27:04.350Z",
     "text": "Next narrative shift could center on \"green crypto\" initiatives, leveraging environmental sustainability to attract attention. With rising interest in eco-friendly solutions, memecoins tied to carbon offsetting or renewable energy projects may resonate well. This approach could create lasting community engagement by aligning with broader social values and offering a unique twist on traditional memecoin themes.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1786457981487",
-    "ts": "2026-08-11T14:19:41.487Z",
-    "text": "Real volume reflects genuine trades that indicate active buying or selling, contributing to price discovery. Wash trading, however, involves the same entity executing transactions to create false activity, misleading investors about demand and liquidity. Identifying true volume helps assess a token's health and interest; wash trading skews reality and can mask underlying risks.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
