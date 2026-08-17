@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786954923175",
+    "ts": "2026-08-17T08:22:03.175Z",
+    "text": "Volatility is merely a backdrop for poor position sizing — too large a stake in the unpredictable can turn opportunity into disaster. Size your positions to withstand turbulence; otherwise, you’re just one bad trade away from chaos.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1786952095590",
     "ts": "2026-08-17T07:34:55.590Z",
     "text": "Liquidity depth is the safety net; without it, you're stepping into a minefield. Shallow liquidity means even modest sell-offs can trigger massive price swings, leaving you vulnerable to panic-induced losses. Always verify liquidity first — it determines how much wiggle room exists for transactions and can spot potential exit traps before they snap shut.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-10T18:03:52.910Z",
     "text": "A sudden change in market sentiment can turn a bullish chart into a bearish one almost overnight. Discipline allows you to exit based on your strategy, not attachment to a position. When sentiment shifts, recalibrating is essential; sticking rigidly to conviction can lead straight to losses.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1786381806470",
-    "ts": "2026-08-10T17:10:06.470Z",
-    "text": "Trend shifts to \"eco-conscious\" memecoins could catch fire next. As awareness of sustainability grows, tokens linked to environmental themes or carbon offsets might resonate with investors wanting both fun and purpose. If packaged with humor and community involvement, this narrative might stick — think meme culture meets green initiatives.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
