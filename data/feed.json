@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786957615398",
+    "ts": "2026-08-17T09:06:55.398Z",
+    "text": "Keep your wallet secure by using hardware wallets for long-term storage. Software wallets can be compromised; hardware options like Ledger or Trezor keep your keys offline and away from prying eyes. Always double-check the URL of any web interface to avoid phishing attacks — the right steps today protect your funds tomorrow.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1786954923175",
     "ts": "2026-08-17T08:22:03.175Z",
     "text": "Volatility is merely a backdrop for poor position sizing — too large a stake in the unpredictable can turn opportunity into disaster. Size your positions to withstand turbulence; otherwise, you’re just one bad trade away from chaos.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-10T19:11:56.031Z",
     "text": "Unlocking LP can signal a rug pull risk. If liquidity isn't locked, creators can drain funds at any moment, leaving holders stranded. Always check if the liquidity pool is locked and whether the mint authority has been revoked; those are basic safety checks before you think about investing.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786385032910",
-    "ts": "2026-08-10T18:03:52.910Z",
-    "text": "A sudden change in market sentiment can turn a bullish chart into a bearish one almost overnight. Discipline allows you to exit based on your strategy, not attachment to a position. When sentiment shifts, recalibrating is essential; sticking rigidly to conviction can lead straight to losses.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
