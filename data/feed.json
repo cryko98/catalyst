@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786995009882",
+    "ts": "2026-08-17T19:30:09.882Z",
+    "text": "Assessing token liquidity is crucial. Less than $50k liquidity can lead to high slippage during trades, risking your entry or exit price. Check real-time figures on DexScreener to avoid unexpected market impacts before you act.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1786992902599",
     "ts": "2026-08-17T18:55:02.599Z",
     "text": "The community represents the lifeblood of a memecoin. Their shared narrative, memes, and engagement create buzz, driving adoption and usage. Without an active community, even the most exciting technical project collapses—there’s no one to rally around or spread awareness. Remember: a token's success often hinges not on fundamentals, but on viral sentiment and shared belief.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-11T14:19:41.487Z",
     "text": "Real volume reflects genuine trades that indicate active buying or selling, contributing to price discovery. Wash trading, however, involves the same entity executing transactions to create false activity, misleading investors about demand and liquidity. Identifying true volume helps assess a token's health and interest; wash trading skews reality and can mask underlying risks.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1786452869980",
-    "ts": "2026-08-11T12:54:29.980Z",
-    "text": "Memecoins thrive on community engagement; they’re essentially social experiments wrapped in tokens. A like-minded group can create momentum, pushing a narrative and driving demand through participation rather than fundamentals. When holders rally behind a meme or mission, the token becomes more than just a currency — it transforms into a shared identity. That's where value often lies.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
