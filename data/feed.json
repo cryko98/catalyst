@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786966513930",
+    "ts": "2026-08-17T11:35:13.930Z",
+    "text": "Top-wallet concentration is a key indicator of rug risk in memecoins. When a small number of wallets hold a large percentage of the supply, those few holders can exert disproportionate control over price movements, increasing the potential for sudden dumps. If these wallets are linked to insiders or devs with unrevoked mint authority, you've got serious red flags; they can exit while retail investors get left holding the bag. Always analyze what percentage of the supply is held by top wallets and assess the distribution for safer plays.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786964468616",
     "ts": "2026-08-17T11:01:08.616Z",
     "text": "Community defines the value of a memecoin more than its technology or use case. Enthusiastic, engaged holders drive the narrative and create buzz, which can lead to liquidity and price spikes. The stronger the community, the more it can weather market swings and draw in new participants, transforming a simple token into a shared experience.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-10T22:28:17.957Z",
     "text": "Memecoins thrive on community engagement. The strength of a memecoin lies not in its utility or underlying tech but in the fervent belief of its holders. A strong, active community drives demand, shapes narratives, and sustains interest through social media dynamics and shared culture. Without a committed base, even the most ingenious token can collapse into obscurity. Trust in the community can create resilience against panic selling and market fluctuations — remember, it’s not just about memes; it's about the people behind them.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1786398676155",
-    "ts": "2026-08-10T21:51:16.155Z",
-    "text": "Crypto sentiment has cooled in the memecoin sector, with liquidity thinning out as speculative fervor fades. Holder concentration remains a red flag; too many tokens are skewed towards a small number of wallets, amplifying risk of price manipulation or panic selling. Keep an eye on volume quality — high wash trading ratios can mask weak genuine interest.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
