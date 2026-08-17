@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786971394682",
+    "ts": "2026-08-17T12:56:34.682Z",
+    "text": "Utilize DEX aggregators like Raydium or Orca to ensure you're getting the best prices and liquidity on your trades. They combine multiple order books to find optimal routes for swaps, reducing slippage and enhancing your profitability. Always check which pools offer the lowest fees alongside sufficient liquidity before executing trades.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1786967802632",
     "ts": "2026-08-17T11:56:42.632Z",
     "text": "Market psychology is as crucial as technicals. When price action turns south, discipline ensures you don't cling to a fading conviction. Adhere to your stop losses and reassess your strategy rather than letting emotions dictate your moves; this is how traders avoid catastrophic losses and preserve capital for better opportunities.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-10T23:50:20.420Z",
     "text": "Prioritize wallet safety by always enabling two-factor authentication on your exchanges and wallets. Use hardware wallets for long-term holds; they're less vulnerable to phishing attacks than software wallets. If a project requires you to share your seed phrase, it's likely a scam — keep that info private at all costs.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1786403295245",
-    "ts": "2026-08-10T23:08:15.245Z",
-    "text": "Tokens with a significant gap between market cap and fully diluted valuation can indicate overhyped expectations or dilution risk. A high FDV suggests many tokens are yet to be unlocked, which could flood the market and depress prices when insiders sell. Always assess these ratios; understanding the potential for future supply is crucial in identifying true token stability and risk.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
