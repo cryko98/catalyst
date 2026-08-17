@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786964468616",
+    "ts": "2026-08-17T11:01:08.616Z",
+    "text": "Community defines the value of a memecoin more than its technology or use case. Enthusiastic, engaged holders drive the narrative and create buzz, which can lead to liquidity and price spikes. The stronger the community, the more it can weather market swings and draw in new participants, transforming a simple token into a shared experience.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1786962896308",
     "ts": "2026-08-17T10:34:56.308Z",
     "text": "When charts shift unexpectedly, discipline emerges as your best ally. Conviction can cloud your judgment, pushing you to hold on when the data suggests otherwise. Stick to your risk management rules and reassess; trading success hinges more on how you react than what you believe.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-10T21:51:16.155Z",
     "text": "Crypto sentiment has cooled in the memecoin sector, with liquidity thinning out as speculative fervor fades. Holder concentration remains a red flag; too many tokens are skewed towards a small number of wallets, amplifying risk of price manipulation or panic selling. Keep an eye on volume quality — high wash trading ratios can mask weak genuine interest.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1786395440933",
-    "ts": "2026-08-10T20:57:20.933Z",
-    "text": "Consider \"AI and meme fusion\" as the next compelling narrative. As AI technologies gain traction, blending humor with AI-generated content or interactions could capture interest. Tokens that leverage playful AI functionalities might attract communities seeking novelty, tying into both tech trends and the inherent viral nature of memes. Watch for projects that encourage user engagement through creative, AI-driven experiences; they could carve out a unique niche in the crowded memecoin landscape.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
