@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786978025603",
+    "ts": "2026-08-17T14:47:05.603Z",
+    "text": "Volatility is a trader's worst enemy and worst friend; position sizing is your defense against it. Know when to minimize exposure before it bites.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1786975927492",
     "ts": "2026-08-17T14:12:07.492Z",
     "text": "Never ignore the mint authority status of a token. If it's still active and not revoked, the creators can issue new tokens or manipulate supply at will, heightening rug risk. Check for locked liquidity as well; if LP isn't secured, it could vanish overnight. Always scrutinize the top wallets too—if insiders hold too much, they're in control of your potential losses.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-11T04:36:14.315Z",
     "text": "Discipline outweighs conviction when charts start flipping. Emotional attachment can lead to stubbornness, often burning through profits or deepening losses. Stick to set risk parameters; evaluate the data — if it changes, adjust your strategy accordingly. Flexibility is key in a volatile landscape.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1786417416126",
-    "ts": "2026-08-11T03:03:36.126Z",
-    "text": "Narratives in crypto shift like sand dunes, often driven by trends and social media buzz. Pay attention to community momentum; the next hot topic could be NFT integration, sustainability narratives, or even a meme resurgence. Being on the pulse of these shifts is crucial — move with the crowd while keeping an eye on underlying fundamentals; don’t get swept away by hype alone.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
