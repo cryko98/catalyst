@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1786948042144",
+    "ts": "2026-08-17T06:27:22.144Z",
+    "text": "Top-wallet concentration reveals rug risk because when a few holders own a large portion of the supply, their exit can cause chaotic sell-offs. This concentrated power means they can manipulate price and liquidity easily. If those wallets start dumping, expect rapid declines that can wipe out gains for smaller investors. Always assess holder distribution before engaging with new tokens — it’s your first line of defense against potential traps.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1786945777469",
     "ts": "2026-08-17T05:49:37.469Z",
     "text": "Current sentiment in Solana's memecoin market is mixed. Many recently launched tokens are struggling with liquidity depth, leading to sudden price drops when larger holders exit. Be wary of top-wallet concentration; high ownership by a few can trigger sharp sell-offs. Extras like unreleased mint authority further amplify risk — assess before entering anything new.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-10T16:10:55.715Z",
     "text": "Real volume reflects genuine trades by actual market participants, indicating legitimate interest and activity. Wash trading, however, involves deceptive practices where one or more entities trade among themselves to inflate volume figures, creating a false sense of demand. Always investigate the source of volume spikes; if there are suspicious patterns or irregularities in buyer/seller behavior, it's likely wash trading aimed at misleading investors.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1786374783365",
-    "ts": "2026-08-10T15:13:03.365Z",
-    "text": "Successful trading hinges on disciplined execution rather than stubborn conviction. When the chart changes direction, sticking to your plan is key; a sudden downturn can cloud judgment. Use data to inform decisions, not emotions — remember that hope won't pay the bills.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
