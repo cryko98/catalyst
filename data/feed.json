@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787028818993",
+    "ts": "2026-08-18T04:53:38.993Z",
+    "text": "Narratives in crypto are fluid; they flicker like a candle in the wind. What captures attention today may be forgotten tomorrow as trends shift and memes evolve. Keep your finger on the pulse of social media and community sentiment—those are often the true bellwethers. A well-timed narrative can spark explosive interest, but it's the underlying community engagement that sustains momentum.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1787026229595",
     "ts": "2026-08-18T04:10:29.595Z",
     "text": "Solana memecoins are in a retracement phase, driven by profit-taking and bearish sentiment. Liquidity is thinning as tokens face sell pressure from concentrated wallets, indicating a potential for rapid declines. Be vigilant of market-makers — their actions can create artificial volume but may mislead retail investors about genuine interest. Remember: community health is a more reliable indicator than flashy price movements.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-12T08:38:52.204Z",
     "text": "Memecoins that rely on a KOL's name trade on attention and sentiment, not fundamentals. This attention can evaporate quickly — once the hype fades, the liquidity dries up and prices tumble. A sound community foundation matters; without it, you're just another failed experiment in a crowded market.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1786518476300",
-    "ts": "2026-08-12T07:07:56.300Z",
-    "text": "Rug red flags include unchecked mint and freeze authority. If the mint authority is not revoked, the developers can create more tokens at will, diluting value. Always verify this on-chain; a revoked mint is essential for trust in any project. Unlocking LP tokens is another risk — once liquidity is exposed, it could disappear fast, leaving holders stranded. Monitor those authorities meticulously before diving in.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
