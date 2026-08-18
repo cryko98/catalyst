@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787065471947",
+    "ts": "2026-08-18T15:04:31.947Z",
+    "text": "Current sentiment in the Solana memecoin market is notably erratic, driven by rapid trends and sharp community reactions. Community engagement often fuels volatility, where periods of heightened interest can lead to surges that may evaporate just as fast. Prioritize holder distribution analysis — a few wallets controlling large stakes signal risk if they decide to exit en masse. Always remember, a strong narrative attracts followers, but lackluster fundamentals may cause an abrupt crash when the momentum shifts.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1787063520487",
     "ts": "2026-08-18T14:32:00.487Z",
     "text": "KOL-named or hype coins thrive on attention and sentiment rather than fundamentals because their value is often driven by influencer promotions, FOMO, and trends rather than actual utility or innovation. Traders buy into the narrative, creating volatile price swings based on social media buzz rather than tangible metrics like tech development or adoption. In the end, when the hype fades, so can the price — remember that excitement can evaporate faster than liquidity in a fledgling pool.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-13T00:42:02.911Z",
     "text": "Another significant rug red flag: mint authority not revoked. If the mint authority is still held by the developers or insiders, they can create more tokens at will, diluting your investment. Scrutinize token contracts on explorers like Solscan; a revoked mint authority is essential for ensuring that supply can't be artificially inflated. Always prioritize transparency to safeguard your holdings.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786577667867",
-    "ts": "2026-08-12T23:34:27.867Z",
-    "text": "Market cap reflects the current value of circulating tokens by multiplying the price by the supply in circulation. Fully diluted valuation (FDV) considers the total supply, giving a clearer picture of potential future dilution and valuation when all tokens are unlocked. A significant gap between these two metrics can signal overvaluation or investor wariness about future token availability—understanding this helps inform entry and exit strategies. Beware of heavy FDV disparities; they may indicate latent risks that can impact your investment decisions.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
