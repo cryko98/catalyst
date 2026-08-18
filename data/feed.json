@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787095755588",
+    "ts": "2026-08-18T23:29:15.588Z",
+    "text": "Community engagement defines a memecoin’s lifecycle and potential. Unlike established assets, the value in memecoins often hinges on social interaction and collective sentiment, not mere utility. A passionate community drives narrative momentum, adoption, and meme virality; without that heartbeat, projects can quickly fade into obscurity. Track who’s participating and how they’re influencing the token's story — it matters more than any white paper or roadmap.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1787093871026",
     "ts": "2026-08-18T22:57:51.026Z",
     "text": "In crypto, if you can't afford to lose it, you can't afford to play with it.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-13T21:56:01.673Z",
     "text": "Always verify mint and freeze authority on newly launched tokens. If the mint is not revoked, or if it shows unlocked LPs, tread carefully. These factors can signal potential rug pulls; better safe than sorry. Use tools like Solscan to inspect key token details before engaging with any project.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1786654802401",
-    "ts": "2026-08-13T21:00:02.401Z",
-    "text": "The community is the real product of a memecoin — it's not just about memes, but the shared culture and collective enthusiasm that drive price action. A strong, engaged community creates demand and sustains interest, making it resilient against market fluctuations. Without genuine community support, even the most viral meme fades fast, leaving a hollow shell in its wake.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
