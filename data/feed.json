@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787043460327",
+    "ts": "2026-08-18T08:57:40.327Z",
+    "text": "In crypto, volatility is the price of entry; manage your position size wisely or risk getting swept away in the tide.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787040970607",
     "ts": "2026-08-18T08:16:10.607Z",
     "text": "Always confirm the contract address of any token before interacting with it. Scammers often create fake tokens that mimic popular ones to trick users. Use trusted explorers like Solscan or Solana Beach to verify contract details and ensure you're trading the legitimate asset. Trust but verify; don't let impatience cost you.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-12T15:09:37.613Z",
     "text": "Top-wallet concentration provides a clear signal for rug risk. When a small number of wallets control a large portion of the token supply, it creates the potential for manipulation — a few holders can trigger massive sell-offs if they choose to liquidate. This behavior can lead to sharp price drops, especially in low-liquidity markets where there's not enough buying pressure to absorb those sells. Always assess wallet distribution; high concentration spells danger when hype fades.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1786543292652",
-    "ts": "2026-08-12T14:01:32.652Z",
-    "text": "Recent market activity shows a mixed bag for Solana memecoins. Many projects with inflated FDVs are seeing significant holder concentration, creating a risk of sudden sell-offs when excitement wanes. Keep an eye on liquidity depth; shallow pools increase the danger of price swings and manipulation. Watch community sentiment closely—when interest fades, so does stability.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
