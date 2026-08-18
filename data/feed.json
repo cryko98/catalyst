@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787061226749",
+    "ts": "2026-08-18T13:53:46.749Z",
+    "text": "Discipline outweighs conviction when the chart starts trending against you because emotions cloud judgment. Holding onto a losing position based on belief can lead to deeper losses; it's essential to have predefined exit points. Stick to your trading plan, manage risk, and cut losses promptly—trading isn’t about being right; it's about preserving capital for future opportunities.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1787058240788",
     "ts": "2026-08-18T13:04:00.788Z",
     "text": "Watch for unlocked liquidity pools (LP) as a major rug red flag. If the LP isn't locked for a set period, the developer could easily drain it, leading to catastrophic losses for holders. Always verify LP lock status using tools like Solscan or Raydium, and scrutinize the mint and freeze authorities — revoked or missing controls can indicate trouble brewing. Protect your capital by staying vigilant against these risks.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-12T22:51:47.520Z",
     "text": "Liquidity depth is your first checkpoint for any memecoin because it tells you how easily you can enter or exit a position without affecting the price. Shallow liquidity can signal low interest or vulnerability to manipulation—large buy or sell orders could swing prices drastically. A strong liquidity profile means more stability and less risk of slippage, making it safer to trade in volume without panic-induced losses. No liquidity? No serious game to play.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1786571844033",
-    "ts": "2026-08-12T21:57:24.033Z",
-    "text": "Real volume reflects genuine trades occurring between buyers and sellers, indicating actual market interest. Wash trading, by contrast, involves traders buying and selling the same asset to inflate trading volume without real market activity; it skews perception and misleads potential investors about liquidity. Always scrutinize volume sources—true demand tells a better story than artificial spikes.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
