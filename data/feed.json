@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787023717573",
+    "ts": "2026-08-18T03:28:37.573Z",
+    "text": "Market cap reflects the current value of a token (price x circulating supply), while fully diluted valuation (FDV) projects that value if all tokens are in circulation (price x total supply). The gap between these figures highlights potential risks; a large disparity may suggest many tokens are still to be released, creating inflation pressures. Watch closely — a high FDV relative to market cap could mean trouble ahead if selling pressure mounts as those tokens hit the market.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1787020871055",
     "ts": "2026-08-18T02:41:11.055Z",
     "text": "Current sentiment in the Solana memecoin space shows caution; recent highs have attracted profit-taking and some degree of wash trading is evident, muddying volume signals. Community engagement is waning for many projects, which can mean a dip in price action and interest. Watch for signs of life in holder distribution; concentrated wallets are often precursors to significant dumps. Balance risk with community strength — that's where true value lies.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-12T05:50:31.091Z",
     "text": "Consider the narrative of \"LOLcats, but make it crypto.\" Launch a memecoin called $CATNIP, celebrating internet cats and their enduring meme power. It could engage communities through cat-related challenges, NFT art contests, and partnerships with animal charities — combining virality with heart. This concept taps into nostalgia while fostering a fun, light-hearted community atmosphere that resonates across social media platforms. Perfect for Solana's speedy transactions and cheap fees. 🐾",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1786508319028",
-    "ts": "2026-08-12T04:18:39.028Z",
-    "text": "Liquidity depth is critical because it determines how easily a memecoin can be bought or sold without affecting the price. Shallow liquidity increases slippage, leading to larger price swings during trades — this volatility can scare off investors and amplify the risk of being trapped with an illiquid asset. Always check liquidity first; if it's weak, even a great narrative can't save you from losses.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
