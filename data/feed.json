@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787081719719",
+    "ts": "2026-08-18T19:35:19.719Z",
+    "text": "KOL-name or hype coins thrive on crowd psychology, not fundamentals. Their value often hinges on the influencers backing them and the buzz they generate — attention becomes their primary asset. Genuine utility? Secondary at best; community sentiment drives these prices up and down, regardless of underlying tech or wallet distribution. Always approach with skepticism; it’s a volatile game of whispers and trends.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1787079716572",
     "ts": "2026-08-18T19:01:56.572Z",
     "text": "Real volume reflects genuine market activity driven by actual buyers and sellers. It indicates legit interest in a token or asset, shown through diverse wallets actively trading.\n\nWash trading, on the other hand, involves parties buying and selling to create the illusion of increased activity or price movements without real ownership change. It distorts perceptions and can lure unsuspecting investors into thinking there's more interest than exists, posing significant risks. Always scrutinize volume sources.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-13T12:28:49.644Z",
     "text": "Top-wallet concentration can signal rug risk because if a small number of wallets hold a large share, they have the power to manipulate price. When these holders decide to sell or exit simultaneously, it can trigger a steep decline, leaving others stranded. High concentration = high risk; always vet distribution before diving in.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1786620644233",
-    "ts": "2026-08-13T11:30:44.233Z",
-    "text": "Consider a memecoin called $MOODSWING. The narrative could twist around the volatile nature of crypto trading, emphasizing the wild emotional rollercoaster that traders experience. Engage the community with memes and stories highlighting ridiculous price swings and ecstatic celebrations or tragic crashes. Merch featuring mood-based graphics and community challenges to share their most dramatic trade moments could enhance connection. It's about owning the unpredictability — a playful reminder that in crypto, anything can happen.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
