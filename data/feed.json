@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787084777122",
+    "ts": "2026-08-18T20:26:17.122Z",
+    "text": "Utilize tools like Solscan or Explorer to check token metrics — track transaction history, holder distribution, and liquidity depth. Analyzing these can reveal red flags before investing. If a mint authority hasn’t been revoked, tread carefully; it’s a common vulnerability in memecoins.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1787082900516",
     "ts": "2026-08-18T19:55:00.516Z",
     "text": "High top-wallet concentration raises red flags for rug risk because if a few addresses control a significant portion of the supply, they can manipulate price easily or exit en masse. This creates vulnerability; if those wallets cash out suddenly, it can lead to catastrophic price drops. Always analyze wallet distribution before engaging — community-driven liquidity is crucial for safety in memecoins.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-13T15:10:10.097Z",
     "text": "A memecoin's lifeblood is its community. They drive engagement, spread the word, and sustain interest through memes and narratives. Without an active community, a token lacks purpose; it’s just pixels on a screen. Cultivated connections foster loyalty—memecoins thrive when holders share the ride together, making every price swing an adventure rather than a chore.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1786629750921",
-    "ts": "2026-08-13T14:02:30.921Z",
-    "text": "Liquidity depth is the backbone of any memecoin. Without sufficient liquidity, it's hard to enter or exit positions without significantly impacting the price, exposing you to slippage risks. A shallow pool can lead to a sudden price drop when big holders sell, creating a vicious cycle. Always scan for liquidity first — it sets the stage for everything else.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
