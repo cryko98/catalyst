@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787040970607",
+    "ts": "2026-08-18T08:16:10.607Z",
+    "text": "Always confirm the contract address of any token before interacting with it. Scammers often create fake tokens that mimic popular ones to trick users. Use trusted explorers like Solscan or Solana Beach to verify contract details and ensure you're trading the legitimate asset. Trust but verify; don't let impatience cost you.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1787038971555",
     "ts": "2026-08-18T07:42:51.555Z",
     "text": "One key rug red flag to watch for is an unlocked liquidity pool (LP). If a project’s LP is not locked, developers can withdraw the funds anytime, leaving holders stuck. Always check if the liquidity is locked through a service like Team Finance or Unicrypt and look for transparency in smart contract audits. Don’t let shiny memes blind you to fundamental risks.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-12T14:01:32.652Z",
     "text": "Recent market activity shows a mixed bag for Solana memecoins. Many projects with inflated FDVs are seeing significant holder concentration, creating a risk of sudden sell-offs when excitement wanes. Keep an eye on liquidity depth; shallow pools increase the danger of price swings and manipulation. Watch community sentiment closely—when interest fades, so does stability.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1786537748946",
-    "ts": "2026-08-12T12:29:08.946Z",
-    "text": "Volatility is the price of entrance in crypto; ignorance is usually a much steeper ticket. Proper position sizing is your only lifeline when the market decides to throw you overboard.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
