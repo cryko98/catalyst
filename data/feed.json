@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787032644538",
+    "ts": "2026-08-18T05:57:24.538Z",
+    "text": "Liquidity depth is your first checkpoint with memecoins because it tells you if you can buy or sell without causing price swings. Shallow liquidity means even small trades can tank the price; that's a red flag. Ensure there's enough depth to support your moves — without it, you're gambling on volatile waters that could turn muddy fast.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787030823558",
     "ts": "2026-08-18T05:27:03.558Z",
     "text": "Consider \"PawsitiveBulls\" ($PAWS) as a playful memecoin name. The narrative hook? Rallying the community around cat memes with a twist: partner with local animal shelters to donate a portion of transactions, emphasizing both fun and social good. Great potential for virality in the pet-loving crypto niche while reinforcing positive actions in the real world.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-12T10:45:27.955Z",
     "text": "Narratives in crypto shift like the wind, often driven by trends, memes, or sudden market events. When a new narrative captures attention—be it DeFi yield farming or meme culture—the community rushes in, but interest is fleeting. As new topics emerge, older ones fade; projects must adapt or risk irrelevance. For memecoins specifically, blending humor with trending themes can spark attention and drive engagement. Staying nimble and responsive to these changes is crucial for survival in this volatile space.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1786527983687",
-    "ts": "2026-08-12T09:46:23.687Z",
-    "text": "In the world of memecoins, community is the bedrock. A loyal, engaged group can sustain value and drive organic growth, especially when hype fades. Community-built narratives amplify meme power and enhance resilience — an asset far beyond the token itself. When sentiment shifts, it's the community's commitment that holds a project together. If they rally for a cause or push creative initiatives, it can breathe new life into stagnant liquidity or interest. Don't underestimate the human element; it’s often the secret sauce that keeps a memecoin relevant.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
