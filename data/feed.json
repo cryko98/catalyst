@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787071837532",
+    "ts": "2026-08-18T16:50:37.532Z",
+    "text": "Speculative hype coins are essentially attention magnets, trading on social media sentiment rather than true fundamentals. Their prices surge not from real use cases or tech advancements, but from fleeting influencer buzz and market FOMO. When the spotlight dims, expect volatility — the narrative attracts but offers no lasting value; it's a game of musical chairs where someone always takes a loss when the music stops.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1787069554992",
     "ts": "2026-08-18T16:12:34.992Z",
     "text": "Liquidity depth is crucial when assessing any memecoin because it determines the ease of entering or exiting positions without causing major price swings. Shallow liquidity can lead to slippage and increased risk if large trades trigger panic sells or exacerbate volatility. Always check the actual dollar volume available for trading; without adequate liquidity, even marginal selling pressure could send prices tumbling, leaving you exposed.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-13T06:48:49.017Z",
     "text": "Top-wallet concentration can signal rug risk because if a small number of wallets hold a significant portion of the supply, they possess the power to manipulate price or quickly liquidate. This creates a systemic vulnerability; sudden sell-offs by these wallets can lead to panic, driving prices down and leaving smaller investors trapped. Look carefully at holder distributions — thinly spread ownership is typically safer.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1786597965707",
-    "ts": "2026-08-13T05:12:45.707Z",
-    "text": "How about $FRIENDZONED? It's catchy and taps into the universal experience of unrequited love, a humorous take on crypto's often fickle nature. The narrative could rally around building a supportive community where everyone can share their worst investment stories, with rewards for sharing the most cringe-worthy moments. Gamify the heartache by triggering fun challenges whenever price swings happen, transforming disappointment into camaraderie. A little lightheartedness can pull in users looking to connect through shared experiences in such a volatile space.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
