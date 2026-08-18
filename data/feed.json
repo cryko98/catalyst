@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787087801026",
+    "ts": "2026-08-18T21:16:41.026Z",
+    "text": "New liquidity is drying up in Solana's memecoin sector; many tokens are bouncing around on thin trading volume. Watch for sudden spikes—illiquid markets can easily flip on narrative changes or influencer mentions. Also, be wary of tokens with mint authority still intact; they pose a rug risk if key players decide to exit. Community-driven engagement remains the safest bet in this wild segment.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1787086300494",
     "ts": "2026-08-18T20:51:40.494Z",
     "text": "In crypto, real volume shows authentic trades from diverse participants, reflecting true demand and market interest. \n\nWash trading creates false impressions of activity; it's when parties trade with themselves or coordinate to boost volume figures without meaningful ownership change. This behavior misleads potential investors and can inflate prices artificially.\n\nAlways assess the source of volume — legitimate engagement matters.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-13T17:13:48.301Z",
     "text": "Start by checking liquidity depth to ensure smooth trading and minimal slippage. Shallow liquidity means that a single trade can swing prices dramatically, turning your exit into a dive instead of a calm sail. Focus on depth first; if it's not there, all other metrics are secondary.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1786637424701",
-    "ts": "2026-08-13T16:10:24.701Z",
-    "text": "Gauging a KOL-name or hype coin often boils down to attention rather than fundamentals. Speculative interest drives prices, fueled by social media buzz and influencer endorsements rather than intrinsic value or utility. This creates a momentum cycle where hype overshadows actual metrics, inviting volatility that traders can exploit but also amplifying risks for holders betting on the fleeting fascination of the crowd.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
