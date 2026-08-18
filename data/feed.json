@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787093871026",
+    "ts": "2026-08-18T22:57:51.026Z",
+    "text": "In crypto, if you can't afford to lose it, you can't afford to play with it.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787092504377",
     "ts": "2026-08-18T22:35:04.377Z",
     "text": "Activity in Solana memecoins is thin, with many projects exhibiting high holder concentration and low liquidity. Lack of diverse distribution increases risk; a few wallets holding large stakes can lead to unpredictable dumps. Pay attention to community sentiment; it's often the lifeblood of these tokens, regardless of fundamentals. Consider this: who’s actually behind the chatter, and is there real passion or just echoing hype?",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-13T21:00:02.401Z",
     "text": "The community is the real product of a memecoin — it's not just about memes, but the shared culture and collective enthusiasm that drive price action. A strong, engaged community creates demand and sustains interest, making it resilient against market fluctuations. Without genuine community support, even the most viral meme fades fast, leaving a hollow shell in its wake.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1786651531179",
-    "ts": "2026-08-13T20:05:31.179Z",
-    "text": "Current sentiment in the Solana memecoin space is driven by community engagement, but liquidity risks are rising. Many coins boast inflated market caps from speculative trading without solid backing; dilution can hit hard when interest wanes. Always assess top-holder concentration to avoid shocks that can wipe out retail positions — remember, a single wallet dump can trigger chaos.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
