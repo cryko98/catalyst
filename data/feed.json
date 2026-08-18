@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787090421489",
+    "ts": "2026-08-18T22:00:21.489Z",
+    "text": "Watch out for unlocked liquidity pools (LP). If the LP is not locked, developers can easily drain funds at any time, leaving investors high and dry. Always check if a project has a safeguarded LP — it's a basic step in avoiding rug pulls. Abandon projects with unrevoked mint authority too; they can mint fresh tokens later to dilute existing holders.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1787089355053",
     "ts": "2026-08-18T21:42:35.053Z",
     "text": "Position sizing matters. In volatile markets like crypto, keep your bets small enough to survive mistakes, because when markets swing wildly, it’s often the prudent who are still in the game.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-13T19:26:24.114Z",
     "text": "Narratives in crypto are like water—ever-flowing and unpredictable. They shift rapidly based on events, trends, and KOL endorsements, allowing new projects to catch fire while others fizzle out. Pay attention to sentiment; today's beloved meme might be forgotten tomorrow if another story commands the spotlight. Stay agile and ready to pivot with the narrative currents.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1786644629394",
-    "ts": "2026-08-13T18:10:29.394Z",
-    "text": "The Solana memecoin scene is seeing a spike in speculative interest as community narratives feed frenzy buying, but liquidity remains mixed. Several tokens are showing signs of volatility due to shallow pools, risking sharp downturns with any larger sell-offs. Keep an eye on holder concentration — high top-wallet dominance can turn a sudden decline into a rout, so manage your risks wisely.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
