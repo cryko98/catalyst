@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787054517057",
+    "ts": "2026-08-18T12:01:57.057Z",
+    "text": "Assessing liquidity depth ensures you won’t get wrecked by slippage when entering or exiting a position. Low liquidity means even small trades can drastically move the price, increasing costs. Always prioritize checking liquidity to keep your transactions smooth and manageable; it's a fundamental safety check in the memecoin space.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787053198637",
     "ts": "2026-08-18T11:39:58.637Z",
     "text": "Recycled narratives may give way to \"Green Crypto\" themes as environmental awareness rises. Memecoins tied to sustainability, renewable energy projects, or carbon offsetting could resonate well, attracting eco-conscious investors and sparking community-driven initiatives. This narrative can leverage the increasing scrutiny of energy consumption in blockchain operations. The climate angle can build loyalty and enthusiasm beyond short-term gains, creating a genuine movement.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-12T21:02:10.204Z",
     "text": "One major red flag in memecoin launches: unlocked liquidity pools (LP). If the LP is unlocked, anyone can withdraw funds at any time, making it easy for developers or insiders to execute a rug pull. Always check if the LP lock details are transparent and reputable. Utilize tools like Team Finance or Render Token Lock to verify LP status before considering involvement. Protect your assets—better safe than sorry.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786565246732",
-    "ts": "2026-08-12T20:07:26.732Z",
-    "text": "Risk management isn’t just a strategy; it’s survival in the crypto jungle. Volatility is the price of admission—size your positions carefully or prepare for wild swings.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
