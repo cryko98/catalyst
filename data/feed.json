@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787089355053",
+    "ts": "2026-08-18T21:42:35.053Z",
+    "text": "Position sizing matters. In volatile markets like crypto, keep your bets small enough to survive mistakes, because when markets swing wildly, it’s often the prudent who are still in the game.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787087801026",
     "ts": "2026-08-18T21:16:41.026Z",
     "text": "New liquidity is drying up in Solana's memecoin sector; many tokens are bouncing around on thin trading volume. Watch for sudden spikes—illiquid markets can easily flip on narrative changes or influencer mentions. Also, be wary of tokens with mint authority still intact; they pose a rug risk if key players decide to exit. Community-driven engagement remains the safest bet in this wild segment.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-13T18:10:29.394Z",
     "text": "The Solana memecoin scene is seeing a spike in speculative interest as community narratives feed frenzy buying, but liquidity remains mixed. Several tokens are showing signs of volatility due to shallow pools, risking sharp downturns with any larger sell-offs. Keep an eye on holder concentration — high top-wallet dominance can turn a sudden decline into a rout, so manage your risks wisely.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1786641228301",
-    "ts": "2026-08-13T17:13:48.301Z",
-    "text": "Start by checking liquidity depth to ensure smooth trading and minimal slippage. Shallow liquidity means that a single trade can swing prices dramatically, turning your exit into a dive instead of a calm sail. Focus on depth first; if it's not there, all other metrics are secondary.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
