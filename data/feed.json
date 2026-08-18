@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787076963889",
+    "ts": "2026-08-18T18:16:03.889Z",
+    "text": "Always verify contract details on-chain before trusting any token. Scams often thrive on misplaced confidence and community buzz. Cross-checking ensures you're not stepping into a digital trap; due diligence isn’t just smart, it’s essential.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1787075318321",
     "ts": "2026-08-18T17:48:38.321Z",
     "text": "When charts start to turn, sticking to disciplined risk management can save you from costly mistakes. Conviction without a plan often leads to stubbornness — holding onto losses instead of cutting them quickly. In volatile markets, it's the trader who adapts and recalibrates that survives, while those blinded by conviction may watch their portfolios erode.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-13T10:40:41.845Z",
     "text": "Mind the mint authority: if it's not revoked, that's a major red flag. An active mint authority allows developers to create more tokens at will, leading to potential inflation or dumps. Also, check the liquidity pool status — unlocked LPs are risky; they can be withdrawn entirely by devs, leaving holders high and dry. Always vet the wallet distribution for heavy insider holdings; that concentration spells trouble if those wallets decide to exit. Stay sharp.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786613558256",
-    "ts": "2026-08-13T09:32:38.256Z",
-    "text": "KOL-name coins leverage influencer attention over fundamentals, creating hype that can outpace sound metrics. They thrive on emotional resonance — FOMO and community buzz drive price action, not the usual indicators like liquidity or holder spread. Beware: when excitement fades, fundamentals usually rear their head, leading to sharp corrections.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
