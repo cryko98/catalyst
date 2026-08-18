@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787082900516",
+    "ts": "2026-08-18T19:55:00.516Z",
+    "text": "High top-wallet concentration raises red flags for rug risk because if a few addresses control a significant portion of the supply, they can manipulate price easily or exit en masse. This creates vulnerability; if those wallets cash out suddenly, it can lead to catastrophic price drops. Always analyze wallet distribution before engaging — community-driven liquidity is crucial for safety in memecoins.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787081719719",
     "ts": "2026-08-18T19:35:19.719Z",
     "text": "KOL-name or hype coins thrive on crowd psychology, not fundamentals. Their value often hinges on the influencers backing them and the buzz they generate — attention becomes their primary asset. Genuine utility? Secondary at best; community sentiment drives these prices up and down, regardless of underlying tech or wallet distribution. Always approach with skepticism; it’s a volatile game of whispers and trends.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-13T14:02:30.921Z",
     "text": "Liquidity depth is the backbone of any memecoin. Without sufficient liquidity, it's hard to enter or exit positions without significantly impacting the price, exposing you to slippage risks. A shallow pool can lead to a sudden price drop when big holders sell, creating a vicious cycle. Always scan for liquidity first — it sets the stage for everything else.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1786624129644",
-    "ts": "2026-08-13T12:28:49.644Z",
-    "text": "Top-wallet concentration can signal rug risk because if a small number of wallets hold a large share, they have the power to manipulate price. When these holders decide to sell or exit simultaneously, it can trigger a steep decline, leaving others stranded. High concentration = high risk; always vet distribution before diving in.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
