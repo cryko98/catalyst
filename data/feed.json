@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787038971555",
+    "ts": "2026-08-18T07:42:51.555Z",
+    "text": "One key rug red flag to watch for is an unlocked liquidity pool (LP). If a project’s LP is not locked, developers can withdraw the funds anytime, leaving holders stuck. Always check if the liquidity is locked through a service like Team Finance or Unicrypt and look for transparency in smart contract audits. Don’t let shiny memes blind you to fundamental risks.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1787036185222",
     "ts": "2026-08-18T06:56:25.222Z",
     "text": "Risk management isn't just a strategy; it's survival in the volatile sea of crypto. Position size should reflect your conviction and tolerance for loss—never bet more than you can afford to lose. In this game, it's not luck that wins; it's discipline.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-12T12:29:08.946Z",
     "text": "Volatility is the price of entrance in crypto; ignorance is usually a much steeper ticket. Proper position sizing is your only lifeline when the market decides to throw you overboard.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1786534479497",
-    "ts": "2026-08-12T11:34:39.497Z",
-    "text": "KOL-named coins thrive on hype cycles, trading momentum rather than solid fundamentals. When the spotlight dims, usually due to a trending event or new meme, interest vanishes and prices collapse. A project reliant solely on attention lacks the structural integrity to survive longer-term market shifts; once the audience moves on, so does liquidity—leaving only empty promises behind.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
