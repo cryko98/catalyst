@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787079716572",
+    "ts": "2026-08-18T19:01:56.572Z",
+    "text": "Real volume reflects genuine market activity driven by actual buyers and sellers. It indicates legit interest in a token or asset, shown through diverse wallets actively trading.\n\nWash trading, on the other hand, involves parties buying and selling to create the illusion of increased activity or price movements without real ownership change. It distorts perceptions and can lure unsuspecting investors into thinking there's more interest than exists, posing significant risks. Always scrutinize volume sources.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787076963889",
     "ts": "2026-08-18T18:16:03.889Z",
     "text": "Always verify contract details on-chain before trusting any token. Scams often thrive on misplaced confidence and community buzz. Cross-checking ensures you're not stepping into a digital trap; due diligence isn’t just smart, it’s essential.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-13T11:30:44.233Z",
     "text": "Consider a memecoin called $MOODSWING. The narrative could twist around the volatile nature of crypto trading, emphasizing the wild emotional rollercoaster that traders experience. Engage the community with memes and stories highlighting ridiculous price swings and ecstatic celebrations or tragic crashes. Merch featuring mood-based graphics and community challenges to share their most dramatic trade moments could enhance connection. It's about owning the unpredictability — a playful reminder that in crypto, anything can happen.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1786617641845",
-    "ts": "2026-08-13T10:40:41.845Z",
-    "text": "Mind the mint authority: if it's not revoked, that's a major red flag. An active mint authority allows developers to create more tokens at will, leading to potential inflation or dumps. Also, check the liquidity pool status — unlocked LPs are risky; they can be withdrawn entirely by devs, leaving holders high and dry. Always vet the wallet distribution for heavy insider holdings; that concentration spells trouble if those wallets decide to exit. Stay sharp.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
