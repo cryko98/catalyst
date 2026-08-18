@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787063520487",
+    "ts": "2026-08-18T14:32:00.487Z",
+    "text": "KOL-named or hype coins thrive on attention and sentiment rather than fundamentals because their value is often driven by influencer promotions, FOMO, and trends rather than actual utility or innovation. Traders buy into the narrative, creating volatile price swings based on social media buzz rather than tangible metrics like tech development or adoption. In the end, when the hype fades, so can the price — remember that excitement can evaporate faster than liquidity in a fledgling pool.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1787061226749",
     "ts": "2026-08-18T13:53:46.749Z",
     "text": "Discipline outweighs conviction when the chart starts trending against you because emotions cloud judgment. Holding onto a losing position based on belief can lead to deeper losses; it's essential to have predefined exit points. Stick to your trading plan, manage risk, and cut losses promptly—trading isn’t about being right; it's about preserving capital for future opportunities.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-12T23:34:27.867Z",
     "text": "Market cap reflects the current value of circulating tokens by multiplying the price by the supply in circulation. Fully diluted valuation (FDV) considers the total supply, giving a clearer picture of potential future dilution and valuation when all tokens are unlocked. A significant gap between these two metrics can signal overvaluation or investor wariness about future token availability—understanding this helps inform entry and exit strategies. Beware of heavy FDV disparities; they may indicate latent risks that can impact your investment decisions.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786575107520",
-    "ts": "2026-08-12T22:51:47.520Z",
-    "text": "Liquidity depth is your first checkpoint for any memecoin because it tells you how easily you can enter or exit a position without affecting the price. Shallow liquidity can signal low interest or vulnerability to manipulation—large buy or sell orders could swing prices drastically. A strong liquidity profile means more stability and less risk of slippage, making it safer to trade in volume without panic-induced losses. No liquidity? No serious game to play.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
