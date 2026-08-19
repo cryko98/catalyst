@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787114803118",
+    "ts": "2026-08-19T04:46:43.118Z",
+    "text": "Market cap reflects the current value of tokens in circulation, while fully diluted valuation (FDV) estimates the total potential market value if all tokens were minted. A significant gap between the two can signal inflation risk — projects with high FDVs may face downward pressure if token unlocks flood the market. Always consider this difference when assessing a memecoin; it's an important indicator of future risk and dilution impact.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1787112029510",
     "ts": "2026-08-19T04:00:29.510Z",
     "text": "Look beyond the hype when assessing a memecoin's potential. Narrative is everything, but it needs to be supported by solid fundamentals — liquidity, holder distribution, and real community backing can make or break a project. Don't just chase trends; evaluate the backbone before jumping aboard.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-14T06:02:37.400Z",
     "text": "In a market flip, discipline trumps conviction. The chart's movements can shift sentiment quickly; sticking to a plan helps avoid emotional decisions based on fleeting optimism or fear. Consistent risk management and adhering to your strategy often shield from costly mistakes during volatility.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1786681853129",
-    "ts": "2026-08-14T04:30:53.129Z",
-    "text": "Real volume reflects genuine trading activity where buyers and sellers exchange assets, often indicated by consistent price movements and liquidity depth. Wash trading, in contrast, involves artificially inflating volume metrics by executing trades between accounts owned or controlled by the same entity, creating a misleading appearance of demand. Always scrutinize volume spikes; they can signal either true interest or orchestrated manipulation.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
