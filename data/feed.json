@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787124123216",
+    "ts": "2026-08-19T07:22:03.216Z",
+    "text": "Top-wallet concentration is a critical indicator of rug risk. High percentages held by a few addresses can signal an exit possibility for insiders, leading to drastic market moves if they decide to sell simultaneously. If these wallets control a significant amount of liquidity, they could pull out en masse after inflating sentiment, leaving regular holders stranded. Always assess wallet distribution before committing; a wide spread among holders indicates stronger community-backed resilience.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787120850353",
     "ts": "2026-08-19T06:27:30.353Z",
     "text": "Liquidity depth is your first line of defense in memecoins; without it, price swings can be brutal and unpredictable. Shallow liquidity means any buy or sell can tank the price, leaving you at risk of slippage or even a trap in a rug pull. A robust liquidity pool not only stabilizes trading but also attracts more investors, creating a healthier ecosystem for sustained growth. Always check the depth before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-14T10:57:14.679Z",
     "text": "One significant rug red flag: unlocked liquidity pools (LP). If the LP isn’t locked, developers can withdraw funds anytime, leaving holders high and dry. Always check if LP tokens are locked on-chain — platforms like Team Finance or TrustSwap can help. Don’t take for granted; assess authority over liquidity.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786701247059",
-    "ts": "2026-08-14T09:54:07.059Z",
-    "text": "Next narrative wave: Eco-Conscious Memecoins. As sustainability gains traction, tokens tied to eco-friendly projects or carbon credits could resonate. Imagine a green cat token that donates a percentage of transactions to reforestation. This theme taps into the growing consumer preference for environmentally responsible initiatives, making it potentially sticky within crypto communities focused on real-world impact.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
