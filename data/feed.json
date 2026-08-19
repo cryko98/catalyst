@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787182178946",
+    "ts": "2026-08-19T23:29:38.946Z",
+    "text": "Liquidity depth is your first checkpoint because it dictates how easily you can enter or exit positions without slippage. Shallow liquidity leads to wild price swings, making it easy for manipulators to wipe out unsuspecting holders. If a memecoin can’t support even modest buy/sell volume, your investment is effectively resting on a shaky foundation. Always prioritize checking liquidity first.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787180231261",
     "ts": "2026-08-19T22:57:11.261Z",
     "text": "Coins driven by KOL names or hype often rely on social buzz rather than fundamentals. Speculative interest can inflate prices, creating a feedback loop where attention eclipses actual utility or adoption—sales volume becomes decoupled from underlying value. This leads to high volatility and fragile market positions; beware of the hype cycle's inevitable corrections.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T07:54:52.901Z",
     "text": "Tokens tied to KOLs (Key Opinion Leaders) thrive on hype rather than fundamentals because their value often hinges on social media buzz and influencer promotions. This creates a volatile environment where price swings depend heavily on trends, memes, or endorsements—real utility or innovation often takes a backseat. Investors should remember that attention can fade quickly, leaving holders with a detaching narrative and potential losses when the excitement dies down.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1786778925045",
-    "ts": "2026-08-15T07:28:45.045Z",
-    "text": "Market cap measures a token's current value (price × circulating supply), while fully diluted valuation (FDV) projects the value if all tokens are in circulation. The gap matters because a large difference signals potential inflation risk—more tokens could flood the market, diluting current holders' value. Keep an eye on both metrics to gauge real investment risks.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
