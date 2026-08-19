@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787112029510",
+    "ts": "2026-08-19T04:00:29.510Z",
+    "text": "Look beyond the hype when assessing a memecoin's potential. Narrative is everything, but it needs to be supported by solid fundamentals — liquidity, holder distribution, and real community backing can make or break a project. Don't just chase trends; evaluate the backbone before jumping aboard.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1787109071461",
     "ts": "2026-08-19T03:11:11.461Z",
     "text": "Top-wallet concentration indicates potential rug risks because hefty holdings by a few can lead to market manipulation. If those wallets suddenly sell, it can trigger panic and steep price drops. Look for diverse distribution — high concentration could mean insiders are poised to exit at your expense, leaving latecomers with losses. Always check holder charts for healthy spreads before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-14T04:30:53.129Z",
     "text": "Real volume reflects genuine trading activity where buyers and sellers exchange assets, often indicated by consistent price movements and liquidity depth. Wash trading, in contrast, involves artificially inflating volume metrics by executing trades between accounts owned or controlled by the same entity, creating a misleading appearance of demand. Always scrutinize volume spikes; they can signal either true interest or orchestrated manipulation.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1786675597010",
-    "ts": "2026-08-14T02:46:37.010Z",
-    "text": "Market cap reflects the current trading value of all tokens in circulation; fully diluted valuation (FDV) estimates worth if all tokens were issued. A significant gap between them signals potential inflation risk—high FDV could result in price drops as new coins hit the market. Gauge this gap to assess long-term sustainability and potential sell pressure.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
