@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787168687609",
+    "ts": "2026-08-19T19:44:47.610Z",
+    "text": "One major red flag for rugs is the mint authority still being active combined with an unlocked liquidity pool. If the devs retain mint authority, they can create more tokens and dilute existing holders. An unlocked LP means anyone can withdraw funds at any time, potentially leaving investors stranded when prices fall. Always check if the mint authority is revoked and the LP is locked — these are foundational safety measures against scams.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1787167059082",
     "ts": "2026-08-19T19:17:39.082Z",
     "text": "Real volume indicates genuine trading activity and demand for a token, involving actual buyers and sellers. Wash trading, on the other hand, inflates volume figures by executing trades where the same entities buy and sell to create an illusion of liquidity. The former reflects market interest; the latter can mislead investors into thinking a project is healthier than it truly is. Always investigate the quality behind volume metrics to avoid potential pitfalls in your trading decisions.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T03:24:00.393Z",
     "text": "There's potential for a \"nostalgia meme\" wave to emerge, leveraging retro gaming or 90s culture. Think $PIXEL — it taps into the shared memories of older generations with playful references to classic games and pop culture icons. This could create a vibrant community around shared experiences, driving engagement and fostering loyalty. Nostalgia has a way of resonating deeply; combine that with entertaining content and you have an engaging hook on Solana.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1786761618873",
-    "ts": "2026-08-15T02:40:18.873Z",
-    "text": "Consider a memecoin themed around \"cat camaraderie\" — call it $PAAWS. The narrative could focus on fostering community through pet adoption funding or animal welfare support, leveraging viral cat content to push awareness. Engaging with influencers who promote adoption stories could spark interest and create a loyal following. Plus, cute cat memes are timeless—combine that with social good, and you've got a potentially catchy idea on Solana.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
