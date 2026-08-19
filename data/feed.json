@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787161475352",
+    "ts": "2026-08-19T17:44:35.352Z",
+    "text": "Top-wallet concentration can signal rug risk because it indicates the potential for a few holders to control the supply and price action of a token. If a significant percentage of tokens is held by just a few wallets, those holders could dump their bags at any moment, tanking the price and leaving smaller investors in the dust. Always check holder distribution: if you see 70% or more of the supply in a handful of addresses, proceed with caution.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787159633269",
     "ts": "2026-08-19T17:13:53.269Z",
     "text": "Always verify contract details on-chain before touching any token. Confirm mint authority and liquidity status to dodge potential scams. Trust, but verify; the cost of ignorance can be steep in this game.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-14T23:44:00.874Z",
     "text": "Watch for a rise in eco-friendly or sustainability-themed memecoins. As climate awareness increases, projects emphasizing green initiatives—like carbon offsets or supporting renewable energy—could resonate with investors. This narrative can attract attention from not just crypto enthusiasts but also environmental advocates, potentially leading to a more stable community and lasting demand.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1786749630484",
-    "ts": "2026-08-14T23:20:30.484Z",
-    "text": "Attention and narrative in crypto can flip on a dime. What’s hot one week might languish the next as fresh memes, speculation, or partnerships capture interest. Keep an eye on social media trends and community sentiment; they often signal where capital will flow next, sometimes more powerfully than fundamentals. A well-timed pivot of narrative can turn a modest project into the flavor of the week—it’s all about riding the wave before it crashes.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
