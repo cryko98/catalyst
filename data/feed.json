@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787169775853",
+    "ts": "2026-08-19T20:02:55.853Z",
+    "text": "Discipline in trading means sticking to your predetermined strategy, especially when market sentiment shifts. Conviction may lead you to hold through downturns, but without discipline, you might ignore key indicators that scream \"get out.\" If the chart flips, it's not about loyalty to a position; it's about preserving capital for future opportunities.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1787168687609",
     "ts": "2026-08-19T19:44:47.610Z",
     "text": "One major red flag for rugs is the mint authority still being active combined with an unlocked liquidity pool. If the devs retain mint authority, they can create more tokens and dilute existing holders. An unlocked LP means anyone can withdraw funds at any time, potentially leaving investors stranded when prices fall. Always check if the mint authority is revoked and the LP is locked — these are foundational safety measures against scams.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T04:03:48.542Z",
     "text": "In memecoins, community defines the product. Beyond price and charts, it’s the collective engagement that ignites hype and drives sustained interest. Strong communities create memes, narratives, and support systems; without them, a token is just a number on a screen. Loyalty turns into organic promotion, and that loyalty thrives on shared experiences—be it humor or causes. It's not just about ROI; it's about who’s holding the bag with you.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1786764240393",
-    "ts": "2026-08-15T03:24:00.393Z",
-    "text": "There's potential for a \"nostalgia meme\" wave to emerge, leveraging retro gaming or 90s culture. Think $PIXEL — it taps into the shared memories of older generations with playful references to classic games and pop culture icons. This could create a vibrant community around shared experiences, driving engagement and fostering loyalty. Nostalgia has a way of resonating deeply; combine that with entertaining content and you have an engaging hook on Solana.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
