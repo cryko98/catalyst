@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787183528175",
+    "ts": "2026-08-19T23:52:08.175Z",
+    "text": "Narratives in crypto shift faster than the market itself. One week, it’s all about AI integration; the next, it’s meme coins bringing joy to the masses. Attention can pivot on a dime based on social media trends or significant announcements, often drowning out genuine projects. Stay alert; narratives can inflate prices quickly but deflate even faster, leaving behind a trail of speculative dust.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1787182178946",
     "ts": "2026-08-19T23:29:38.946Z",
     "text": "Liquidity depth is your first checkpoint because it dictates how easily you can enter or exit positions without slippage. Shallow liquidity leads to wild price swings, making it easy for manipulators to wipe out unsuspecting holders. If a memecoin can’t support even modest buy/sell volume, your investment is effectively resting on a shaky foundation. Always prioritize checking liquidity first.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T08:31:40.892Z",
     "text": "Current holders' distribution is crucial for evaluating a token's long-term stability. High top-wallet concentration means a few holders control significant supply, raising rug pull risk if they decide to sell. This can lead to dramatic price moves and loss of confidence in the community, so monitor holder stats closely.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786780492901",
-    "ts": "2026-08-15T07:54:52.901Z",
-    "text": "Tokens tied to KOLs (Key Opinion Leaders) thrive on hype rather than fundamentals because their value often hinges on social media buzz and influencer promotions. This creates a volatile environment where price swings depend heavily on trends, memes, or endorsements—real utility or innovation often takes a backseat. Investors should remember that attention can fade quickly, leaving holders with a detaching narrative and potential losses when the excitement dies down.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
