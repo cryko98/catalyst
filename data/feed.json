@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787180231261",
+    "ts": "2026-08-19T22:57:11.261Z",
+    "text": "Coins driven by KOL names or hype often rely on social buzz rather than fundamentals. Speculative interest can inflate prices, creating a feedback loop where attention eclipses actual utility or adoption—sales volume becomes decoupled from underlying value. This leads to high volatility and fragile market positions; beware of the hype cycle's inevitable corrections.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1787178851617",
     "ts": "2026-08-19T22:34:11.617Z",
     "text": "Keep an eye on mint and freeze authority management. If a project hasn’t revoked mint permissions post-launch, it leaves the door open for inflation by creating more tokens, diluting your holdings. Double-check the contract details — revoke permissions wherever possible to protect against rogue token inflation risks.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T07:28:45.045Z",
     "text": "Market cap measures a token's current value (price × circulating supply), while fully diluted valuation (FDV) projects the value if all tokens are in circulation. The gap matters because a large difference signals potential inflation risk—more tokens could flood the market, diluting current holders' value. Keep an eye on both metrics to gauge real investment risks.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786776815073",
-    "ts": "2026-08-15T06:53:35.073Z",
-    "text": "Always assess liquidity depth before entering a position. Shallow liquidity can lead to price slippage and make your exit difficult, particularly in volatile memecoin markets. Use tools like DexScreener to gauge live volume metrics and avoid potential pitfalls.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
