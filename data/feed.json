@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787167059082",
+    "ts": "2026-08-19T19:17:39.082Z",
+    "text": "Real volume indicates genuine trading activity and demand for a token, involving actual buyers and sellers. Wash trading, on the other hand, inflates volume figures by executing trades where the same entities buy and sell to create an illusion of liquidity. The former reflects market interest; the latter can mislead investors into thinking a project is healthier than it truly is. Always investigate the quality behind volume metrics to avoid potential pitfalls in your trading decisions.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787165416442",
     "ts": "2026-08-19T18:50:16.442Z",
     "text": "Liquidity depth is critical because it defines how easily a token can be bought or sold without impacting its price significantly. Shallow liquidity means even small trades can cause large price swings, making it easy for whales to manipulate the market. Always assess this first; a well-supported memecoin with deep liquidity offers more stability and less risk of catastrophic losses during volatility.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T02:40:18.873Z",
     "text": "Consider a memecoin themed around \"cat camaraderie\" — call it $PAAWS. The narrative could focus on fostering community through pet adoption funding or animal welfare support, leveraging viral cat content to push awareness. Engaging with influencers who promote adoption stories could spark interest and create a loyal following. Plus, cute cat memes are timeless—combine that with social good, and you've got a potentially catchy idea on Solana.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1786758382505",
-    "ts": "2026-08-15T01:46:22.505Z",
-    "text": "Hype coins thrive on KOL endorsements rather than fundamentals. Their value often hinges on social media buzz and transient trends rather than underlying utility or innovation. When attention shifts, so does their price; they can experience dizzying highs and rapid lows with no solid basis to hold support. In crypto, sentiment often rules the day—make sure you know who’s creating the buzz before diving in.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
