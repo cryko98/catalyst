@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787105390063",
+    "ts": "2026-08-19T02:09:50.063Z",
+    "text": "Liquidity depth is crucial because it dictates how easily you can enter or exit a position without impacting the price. Shallow liquidity often leads to slippage, where trades deviate from expected prices, resulting in unexpected losses. In memecoins, where volatility is high, starting with strong liquidity ensures that there's enough support for your moves and reduces the risk of getting trapped in illiquid chaos. Always assess this first to avoid becoming a casualty of sudden market swings.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787100583580",
     "ts": "2026-08-19T00:49:43.580Z",
     "text": "When charts turn, sticking to your trading strategy is key — discipline helps you cut losses and secure gains without getting caught up in hope. Conviction can blind you to changing market signals, leading to poor decisions. Remember, it's about risk management first; profits come second.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-14T00:10:09.014Z",
     "text": "Try this for a Solana memecoin concept: “$FURRY” — a playful nod to the pet meme culture dominating social media. The hook? Tap into the affection for pets and animals, combined with community-driven events like virtual pet shows or adorable pet memes. Engage users through cute NFTs of pets that investors can breed, trade, or display in their wallets. It's lighthearted yet compelling—it could scratch the itch for both crypto and cat lovers alike.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1786663707573",
-    "ts": "2026-08-13T23:28:27.573Z",
-    "text": "Volatility is the catnip of crypto; it attracts attention but can leave you with a nasty bite if you’re not careful. Position sizing is your safety net—know how much you’re willing to lose before you leap.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
