@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787131352402",
+    "ts": "2026-08-19T09:22:32.402Z",
+    "text": "Always confirm contract details on-chain before trusting any token. Scams thrive on user carelessness; one wrong contract could lead to asset loss. Use explorers like Solscan or Phantom to vet your assets thoroughly.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1787129418603",
     "ts": "2026-08-19T08:50:18.603Z",
     "text": "Secure your wallet by enabling two-factor authentication (2FA) wherever possible. This extra layer of security protects against unauthorized access, especially if your credentials are compromised. Also, never share your seed phrase; it’s the key to your funds. Remember: if someone asks for it, it's a scam. Stay safe out there.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-14T14:07:18.646Z",
     "text": "Avoiding confirmation bias is vital in crypto. When charts turn, locking into a predefined narrative can blind you to new data — stay flexible. A disciplined approach means executing your strategy without hesitation while others cling to fading hopes. Embrace change swiftly; it’s survival in this market.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1786711794097",
-    "ts": "2026-08-14T12:49:54.097Z",
-    "text": "Narrative shifts drive crypto's heartbeat, with sentiment often rotating on the latest trends or memes. Community engagement fuels these cycles; what excites holders today may flop tomorrow if the narrative doesn't resonate. Keep an eye on emerging themes — adaptability in thought is as crucial as market timing.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
