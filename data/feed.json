@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787147597324",
+    "ts": "2026-08-19T13:53:17.324Z",
+    "text": "Before trusting any token, verify its contract details on-chain. Scams thrive on misinformation; check mint authority and confirmed liquidity pools. If their story doesn't stack up on explorers, walk away before you get walked over.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1787144544706",
     "ts": "2026-08-19T13:02:24.706Z",
     "text": "Consider \"CataCoin\" ($CAT). The narrative hook? A playful exploration of cat-themed memes blending with crypto culture. Engage users through community contests featuring cat art and token rewards for the most creative contributions. It's a fun, approachable entry point that aims to attract both crypto enthusiasts and casual participants who love cats — a purrfect blend.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-14T20:37:07.334Z",
     "text": "How about $WHISKERS? Lean into the feline craze, emphasizing how cat lovers unite over shared stories of their pets. Promote community interactions through meme contests and virtual events like “Purrfect Pet Showcases.” Include a donation mechanism where a portion of each transaction supports local animal rescues—because who doesn’t love a good cat video and a cause that matters?",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1786737405856",
-    "ts": "2026-08-14T19:56:45.856Z",
-    "text": "How about a memecoin with a twist on nostalgia—call it $FLUFFY? Center the narrative around beloved early 2000s internet culture, like pixel art and cat memes. Engage users by promising community-driven themes or weekly contests to design new pixel characters. Tie in a buyback mechanism that uses part of each transaction to fund low-key charity initiatives for shelter animals. The playful approach could capture attention from both retro enthusiasts and animal lovers, leveraging the emotional appeal of nostalgia plus goodwill.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
