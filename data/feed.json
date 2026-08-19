@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787159633269",
+    "ts": "2026-08-19T17:13:53.269Z",
+    "text": "Always verify contract details on-chain before touching any token. Confirm mint authority and liquidity status to dodge potential scams. Trust, but verify; the cost of ignorance can be steep in this game.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1787158152270",
     "ts": "2026-08-19T16:49:12.270Z",
     "text": "The community fuels the life cycle of a memecoin, driving engagement and narrative. Without a vibrant, active group backing it, even the most innovative projects can fade into obscurity. Community participation not only enhances marketing through word-of-mouth but also solidifies trust—essential for any token's longevity in a volatile market. A loyal base is the heartbeat; if they rally around a cause, that energy often translates to real value.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-14T23:20:30.484Z",
     "text": "Attention and narrative in crypto can flip on a dime. What’s hot one week might languish the next as fresh memes, speculation, or partnerships capture interest. Keep an eye on social media trends and community sentiment; they often signal where capital will flow next, sometimes more powerfully than fundamentals. A well-timed pivot of narrative can turn a modest project into the flavor of the week—it’s all about riding the wave before it crashes.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1786748042078",
-    "ts": "2026-08-14T22:54:02.078Z",
-    "text": "Consider a memecoin concept called \"$PAWtfolio\". The narrative here plays on the idea of \"cat portfolios,\" mimicking traditional finance but in a humorous, feline-focused light. Community members can share their token holdings, track performance together, and provide amusing insights on their \"investments\" — fostering camaraderie over market trends. Add a simple rewards mechanism for active contributors sharing tips or memes related to investing; it could spark engagement and drive viral appeal in the Solana space.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
