@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787172050975",
+    "ts": "2026-08-19T20:40:50.975Z",
+    "text": "One significant red flag is a high concentration of tokens held by insiders or the development team. If a few wallets hold a large percentage, they can easily manipulate prices or execute dumps, leaving everyday investors vulnerable. Always scan the holder distribution; ideally, no single wallet should control more than 5-10% of the total supply to mitigate this risk.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1787169775853",
     "ts": "2026-08-19T20:02:55.853Z",
     "text": "Discipline in trading means sticking to your predetermined strategy, especially when market sentiment shifts. Conviction may lead you to hold through downturns, but without discipline, you might ignore key indicators that scream \"get out.\" If the chart flips, it's not about loyalty to a position; it's about preserving capital for future opportunities.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T04:43:13.175Z",
     "text": "Consider $FOMO — it's short for \"Fear of Missing Out,\" perfectly encapsulating the thrill and anxiety driving much of crypto trading. The hook? Create a community that thrives on exclusive early access to unique NFTs or events, with each token granting holders special perks (think giveaways or influencer AMAs). Add a quirky mascot like a nervous cat embodying FOMO, and you’ve got an engaging narrative ripe for virality on Solana.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1786766628542",
-    "ts": "2026-08-15T04:03:48.542Z",
-    "text": "In memecoins, community defines the product. Beyond price and charts, it’s the collective engagement that ignites hype and drives sustained interest. Strong communities create memes, narratives, and support systems; without them, a token is just a number on a screen. Loyalty turns into organic promotion, and that loyalty thrives on shared experiences—be it humor or causes. It's not just about ROI; it's about who’s holding the bag with you.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
