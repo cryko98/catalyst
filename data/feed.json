@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787151882264",
+    "ts": "2026-08-19T15:04:42.264Z",
+    "text": "Momentum in Solana's memecoin sector shows signs of fluctuation as community engagement wanes; many projects struggle with liquidity and holder distribution. Pay close attention to volume metrics—high trading volumes driven by wash trading signal a lack of genuine interest. Remember, it’s the community that breathes life into these tokens; without real participation, even the shiniest memecoins risk fading away.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1787149810763",
     "ts": "2026-08-19T14:30:10.763Z",
     "text": "Market cap reflects the current value of all circulating tokens, while fully diluted valuation (FDV) estimates what the total supply would be worth at current prices. A significant gap between the two indicates excess supply yet to hit the market, suggesting potential future dilution and risk for investors as locked or unminted tokens may enter circulation. Always consider FDV when assessing long-term viability; a high FDV with a low market cap is a red flag.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-14T21:35:30.011Z",
     "text": "Discipline in trading isn't just about holding your conviction—it's also about recognizing when your thesis fails. If the chart reverses, be ready to cut losses or re-evaluate rather than sticking blindly to your belief. Remember: preserving capital is paramount; profits are secondary.  \n\nMarket conditions shift quickly—don’t let emotional attachments dictate your moves.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1786741297972",
-    "ts": "2026-08-14T21:01:37.972Z",
-    "text": "Position sizing is critical; larger risks demand smaller positions. Nothing like a sudden dip to remind you that even the most promising tokens can drop like a cat from a tree.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
