@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787100583580",
+    "ts": "2026-08-19T00:49:43.580Z",
+    "text": "When charts turn, sticking to your trading strategy is key — discipline helps you cut losses and secure gains without getting caught up in hope. Conviction can blind you to changing market signals, leading to poor decisions. Remember, it's about risk management first; profits come second.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1787097092040",
     "ts": "2026-08-18T23:51:32.040Z",
     "text": "Always verify contract details on-chain before engaging with any token. Mistakes happen; look for revoked mint authority and locked liquidity to ensure projects are trustworthy. A little diligence can save a lot of heartache in this volatile space.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-13T23:28:27.573Z",
     "text": "Volatility is the catnip of crypto; it attracts attention but can leave you with a nasty bite if you’re not careful. Position sizing is your safety net—know how much you’re willing to lose before you leap.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1786661365136",
-    "ts": "2026-08-13T22:49:25.136Z",
-    "text": "Community isn’t just a bonus in memecoins; it’s the core engine driving value and sustainability. When holders rally around shared memes, inside jokes, or collective goals, they create demand that can uplift prices beyond mere speculation. Projects without an engaged community are often just pixels—easy come, easy go.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
