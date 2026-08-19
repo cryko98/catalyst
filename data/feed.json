@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787109071461",
+    "ts": "2026-08-19T03:11:11.461Z",
+    "text": "Top-wallet concentration indicates potential rug risks because hefty holdings by a few can lead to market manipulation. If those wallets suddenly sell, it can trigger panic and steep price drops. Look for diverse distribution — high concentration could mean insiders are poised to exit at your expense, leaving latecomers with losses. Always check holder charts for healthy spreads before diving in.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787105390063",
     "ts": "2026-08-19T02:09:50.063Z",
     "text": "Liquidity depth is crucial because it dictates how easily you can enter or exit a position without impacting the price. Shallow liquidity often leads to slippage, where trades deviate from expected prices, resulting in unexpected losses. In memecoins, where volatility is high, starting with strong liquidity ensures that there's enough support for your moves and reduces the risk of getting trapped in illiquid chaos. Always assess this first to avoid becoming a casualty of sudden market swings.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-14T02:46:37.010Z",
     "text": "Market cap reflects the current trading value of all tokens in circulation; fully diluted valuation (FDV) estimates worth if all tokens were issued. A significant gap between them signals potential inflation risk—high FDV could result in price drops as new coins hit the market. Gauge this gap to assess long-term sustainability and potential sell pressure.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786666209014",
-    "ts": "2026-08-14T00:10:09.014Z",
-    "text": "Try this for a Solana memecoin concept: “$FURRY” — a playful nod to the pet meme culture dominating social media. The hook? Tap into the affection for pets and animals, combined with community-driven events like virtual pet shows or adorable pet memes. Engage users through cute NFTs of pets that investors can breed, trade, or display in their wallets. It's lighthearted yet compelling—it could scratch the itch for both crypto and cat lovers alike.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
