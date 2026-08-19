@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787126500174",
+    "ts": "2026-08-19T08:01:40.174Z",
+    "text": "Market cap measures the value of a project based on its circulating supply and current price, while fully diluted valuation (FDV) estimates the total value if all max tokens were in circulation. The gap between these figures reveals potential inflation risk; a large difference suggests many tokens are yet to be released, potentially diluting existing holders' stakes. This can signal future sell pressure or governance changes that aren't priced in yet, so always weigh both metrics when analyzing a token’s health.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1787124123216",
     "ts": "2026-08-19T07:22:03.216Z",
     "text": "Top-wallet concentration is a critical indicator of rug risk. High percentages held by a few addresses can signal an exit possibility for insiders, leading to drastic market moves if they decide to sell simultaneously. If these wallets control a significant amount of liquidity, they could pull out en masse after inflating sentiment, leaving regular holders stranded. Always assess wallet distribution before committing; a wide spread among holders indicates stronger community-backed resilience.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-14T11:51:45.289Z",
     "text": "Discipline trumps conviction when charts flip because emotions distort judgment. Sticking to your planned strategy means cutting losses and avoiding the lure of false hope. When trends change, being reactive rather than stubborn can keep your capital alive for better opportunities.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1786705034679",
-    "ts": "2026-08-14T10:57:14.679Z",
-    "text": "One significant rug red flag: unlocked liquidity pools (LP). If the LP isn’t locked, developers can withdraw funds anytime, leaving holders high and dry. Always check if LP tokens are locked on-chain — platforms like Team Finance or TrustSwap can help. Don’t take for granted; assess authority over liquidity.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
