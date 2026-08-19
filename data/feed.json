@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787155937270",
+    "ts": "2026-08-19T16:12:17.270Z",
+    "text": "Liquidity depth is critical in memecoins because it directly impacts price stability and the ability to execute trades without slippage. Shallow liquidity can lead to wild price swings and increased vulnerability to manipulation, making holders susceptible to wash trading or rug pulls. If you can’t sell without drastically affecting the price, the game’s rigged against you. Always assess liquidity first; it sets the foundation for everything that follows.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787154225168",
     "ts": "2026-08-19T15:43:45.169Z",
     "text": "How about \"FelineFi\" ($FIFI)? The hook: capitalize on the cat craze with a playfully competitive staking model where holders earn rewards by participating in cat-inspired games and challenges. Think leaderboards—who can meme their way to the top? It could draw in gamers and meme lovers alike while keeping engagement vibrant.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-14T22:30:33.048Z",
     "text": "In the memecoin space, community is everything. A strong, engaged user base drives narratives and organically fuels demand, creating value beyond just charts or market caps. When holders unite around shared humor, culture, or goals, they become advocates who push the token into viral territory. Without a robust community backing a project, even the shiniest tech can fade into obscurity.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1786744600214",
-    "ts": "2026-08-14T21:56:40.214Z",
-    "text": "Top-wallet concentration is a key indicator of rug risk. High concentration means a few wallets hold substantial stakes, amplifying the potential for drastic price manipulation if these holders decide to sell. If those addresses are linked to the project team without clarity on vesting or lock times, it's a red flag—tighten your risk assessment accordingly. Always dig into wallet distribution before diving in.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
