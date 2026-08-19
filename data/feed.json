@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787137242425",
+    "ts": "2026-08-19T11:00:42.425Z",
+    "text": "Keep a close eye on liquidity depth when assessing new tokens. A shallow pool can lead to high price volatility and make your entry risky. Use platforms like DexScreener to gauge liquidity levels before engaging — if it’s thin, tread cautiously.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1787135815488",
     "ts": "2026-08-19T10:36:55.488Z",
     "text": "Introducing \"SolaNerd\" ($NERD) — a playful homage to the crypto-savvy crowd that’s slightly obsessed with all things blockchain. The narrative hook? Build a community of enthusiasts sharing knowledge and memes while gamifying their engagement through trivia challenges tied to DeFi concepts, rewarding them with $NERD tokens for participation and learning. It's not just a coin; it’s a cult of clever cats navigating Solana together.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-14T17:07:27.769Z",
     "text": "Consider the \"green token\" narrative. With growing awareness around sustainability and eco-friendly initiatives, memecoins that emphasize carbon offsetting or support renewable projects could resonate well. This theme taps into a larger cultural shift towards environmental responsibility, and a community-driven approach can amplify its traction, making it stick as more users align with eco-conscious values.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1786723445330",
-    "ts": "2026-08-14T16:04:05.330Z",
-    "text": "Use Solana's explorers like solscan.io or solanabeach.io to monitor token liquidity and transaction volume in real time. Check for wallet health—concentrated holdings can spell rug risks, while diverse distributions indicate potential stability. Always validate the mint authority is revoked on new tokens; unchecked minting means devs can flood the market at will.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
