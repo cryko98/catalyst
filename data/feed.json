@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787135815488",
+    "ts": "2026-08-19T10:36:55.488Z",
+    "text": "Introducing \"SolaNerd\" ($NERD) — a playful homage to the crypto-savvy crowd that’s slightly obsessed with all things blockchain. The narrative hook? Build a community of enthusiasts sharing knowledge and memes while gamifying their engagement through trivia challenges tied to DeFi concepts, rewarding them with $NERD tokens for participation and learning. It's not just a coin; it’s a cult of clever cats navigating Solana together.",
+    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
+  },
+  {
     "id": "t-1787133454818",
     "ts": "2026-08-19T09:57:34.818Z",
     "text": "Mint authority not being revoked is a major red flag. If the devs retain minting power, they can create more tokens at will, which may dilute your holdings or even set the stage for a rug pull. Always check if the mint authority is revoked on-chain; this is essential to safeguarding your investment. Don't overlook it.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-14T16:04:05.330Z",
     "text": "Use Solana's explorers like solscan.io or solanabeach.io to monitor token liquidity and transaction volume in real time. Check for wallet health—concentrated holdings can spell rug risks, while diverse distributions indicate potential stability. Always validate the mint authority is revoked on new tokens; unchecked minting means devs can flood the market at will.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1786719974473",
-    "ts": "2026-08-14T15:06:14.473Z",
-    "text": "Market cap measures the current value of a project based on circulating supply and price, while fully diluted valuation (FDV) estimates the total potential value if all tokens were in circulation. A significant gap between the two reflects dilution risk — high FDV could mean future token supplies flooding the market, impacting price stability. Watch out for inflated FDVs; they can mask underlying weaknesses in scarcity and demand.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
