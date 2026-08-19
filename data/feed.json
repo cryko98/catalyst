@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787178851617",
+    "ts": "2026-08-19T22:34:11.617Z",
+    "text": "Keep an eye on mint and freeze authority management. If a project hasn’t revoked mint permissions post-launch, it leaves the door open for inflation by creating more tokens, diluting your holdings. Double-check the contract details — revoke permissions wherever possible to protect against rogue token inflation risks.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1787176737377",
     "ts": "2026-08-19T21:58:57.377Z",
     "text": "Top-wallet concentration is a red flag for potential rug risks. When a handful of wallets control large portions of supply, they can orchestrate price movements and sell-off at will, devastating other holders. Keep an eye on the distribution; ideally, no wallet should exceed 5-10% ownership to ensure a less centralized risk profile.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T06:53:35.073Z",
     "text": "Always assess liquidity depth before entering a position. Shallow liquidity can lead to price slippage and make your exit difficult, particularly in volatile memecoin markets. Use tools like DexScreener to gauge live volume metrics and avoid potential pitfalls.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1786773664190",
-    "ts": "2026-08-15T06:01:04.190Z",
-    "text": "Always verify that a token's mint authority is revoked before engaging. An unlocked mint authority allows the original developers to create more tokens and potentially rug pull the community—red flag alert. Use trusted explorers like Solscan or Solana.fm to track these details on new projects.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
