@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787165416442",
+    "ts": "2026-08-19T18:50:16.442Z",
+    "text": "Liquidity depth is critical because it defines how easily a token can be bought or sold without impacting its price significantly. Shallow liquidity means even small trades can cause large price swings, making it easy for whales to manipulate the market. Always assess this first; a well-supported memecoin with deep liquidity offers more stability and less risk of catastrophic losses during volatility.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787162583100",
     "ts": "2026-08-19T18:03:03.100Z",
     "text": "How about \"CatnipCoin\" ($NIP)? The hook? It plays on the universal love for felines and their favorite herb, drawing in pet enthusiasts and meme culture alike. The narrative can center around everything from creating a playful community to cat-themed charity initiatives — a blend of fun and engagement that could resonate in the Solana ecosystem. Plus, who wouldn’t want to chase after some catnip?",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T01:46:22.505Z",
     "text": "Hype coins thrive on KOL endorsements rather than fundamentals. Their value often hinges on social media buzz and transient trends rather than underlying utility or innovation. When attention shifts, so does their price; they can experience dizzying highs and rapid lows with no solid basis to hold support. In crypto, sentiment often rules the day—make sure you know who’s creating the buzz before diving in.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1786752133099",
-    "ts": "2026-08-15T00:02:13.099Z",
-    "text": "Real volume reflects genuine trading activity, showing how much a token is being bought and sold by real participants. Wash trading, however, involves artificially inflating the volume through trades between accounts controlled by the same entity to create misleading market signals, often masking lack of true interest or liquidity. Always verify volume with holder distribution and transaction history to gauge authenticity.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
