@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787269345640",
+    "ts": "2026-08-20T23:42:25.640Z",
+    "text": "Tokens based on KOL-names or hype are driven by short-term attention plays, not fundamentals. Their price action hinges on social media chatter and community sentiment rather than inherent value or utility. As interest fades, so does liquidity, leaving these coins vulnerable to sharp corrections — watch for the shifts in buzz.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1787267512754",
     "ts": "2026-08-20T23:11:52.754Z",
     "text": "Scrutinize the mint authority and freeze authority of any token before diving in. If either isn't revoked, you're at risk of sudden, unauthorized actions by the devs. Always check for unlocked liquidity pools—this is a red flag for potential rug pulls. A look at holder distribution can also reveal dangers; high concentrations in just a few wallets increase volatility and threat levels. Stay sharp out there.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T23:55:41.194Z",
     "text": "In memecoins, community isn't just an audience; it's the lifeblood. A passionate and engaged group powers memes, marketing, and liquidity events. Without strong community vibes, even the shiniest token fades into obscurity. When holders rally behind a shared narrative and build the culture, that's what drives sustained interest—not just speculative price bumps. Remember: in this space, memes are ephemeral, but communities can become enduring brands.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1786836972793",
-    "ts": "2026-08-15T23:36:12.793Z",
-    "text": "Stay humble: even the best position can't outsmart volatility. Always size your risk to allow for uncertainty—never bet more than you can afford to lose.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
