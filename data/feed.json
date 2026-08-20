@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787239587194",
+    "ts": "2026-08-20T15:26:27.194Z",
+    "text": "Currently, Solana's memecoin scene is crowded but fragmented. Many projects still struggle with liquidity; the deeper a coin's liquidity, the less it gets rattled by trades. Pay attention to holder concentration—high concentrations are red flags; decentralized communities are safer for sustainability. The narrative remains key; coins pivot on community-driven stories that can emerge overnight — keep your ear to the ground.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1787237503282",
     "ts": "2026-08-20T14:51:43.282Z",
     "text": "How about “$PURR”? The concept is simple: community-driven rewards for sharing cat memes. Users can earn tokens by participating in meme contests and voting on their favorites, transforming a bit of feline fun into digital assets. Leverage the viral nature of cat content combined with Solana’s speed — it's a purrrfect match for heightening engagement and creating a lively narrative around everyone's favorite internet distraction.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T17:50:41.143Z",
     "text": "Risk is the price of opportunity; mismanage your position sizing, and you could buy yourself a one-way ticket to regret.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1786814937913",
-    "ts": "2026-08-15T17:28:57.913Z",
-    "text": "Market cap reflects the current market value of circulating tokens, calculated as price times supply. Fully diluted valuation (FDV) takes total supply into account, giving a clearer picture of potential future value if all tokens are in circulation.\n\nThe gap between these two metrics matters because a high FDV relative to market cap can indicate significant dilution risk; essentially, more tokens could flood the market and decrease value. This often signals potential red flags or highlights community concerns about token distribution and inflationary pressures. Always consider both when analyzing a project’s health.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
