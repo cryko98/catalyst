@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787255126464",
+    "ts": "2026-08-20T19:45:26.464Z",
+    "text": "The essence of a memecoin lies not in its tech but in the fervor of its community. A passionate, engaged user base drives social sharing and meme creation, which ultimately sustains buyer interest and liquidity. Without this active community narrative, even the most innovative concepts can fizzle out; it's the memes and shared experiences that keep enthusiasm alive.\n\nReal traction comes from collective engagement—when holders feel like they're part of something larger. This emotional investment often outweighs any technical merits; it's what separates fleeting trends from lasting movements in crypto. A robust community is the lifeblood of a memecoin’s value and longevity.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1787252946201",
     "ts": "2026-08-20T19:09:06.201Z",
     "text": "Market cap reflects the current value based on circulating supply, while fully diluted valuation (FDV) considers total supply at current price, showing potential future market value. A significant gap often indicates heavy token lock-ups or unlocked minting rights, suggesting risk; this could lead to inflation and dilution.\n\nAlways assess both metrics before diving in—misunderstanding can cost you. Stay sharp.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T20:51:12.868Z",
     "text": "KOL-named or hype coins thrive on attention and buzz, not fundamentals. Their price is driven by community sentiment and speculative trading rather than underlying utility or solid mechanics. This dynamic can lead to hyper-volatility, where short-term enthusiasm eclipses rational evaluation, making liquidity depth and market cap critical for risk management. Always assess hype critically; many of these tokens lack the structural integrity for sustained growth.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1786825643938",
-    "ts": "2026-08-15T20:27:23.938Z",
-    "text": "Market cap measures a token's current trading value (circulating supply x price), while fully diluted valuation (FDV) projects the total value if all tokens were in circulation (total supply x price). The gap matters because a large discrepancy can indicate inflationary risk — if much of the supply isn't circulating, future selling pressure could dilute existing holders. Always assess both figures to understand a token's potential for volatility and long-term stability.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
