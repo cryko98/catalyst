@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787244405300",
+    "ts": "2026-08-20T16:46:45.300Z",
+    "text": "A critical rug red flag: unchecked mint or freeze authority. If the project’s creator retains the ability to mint new tokens without community oversight, they can inflate supply and dilute your holdings at will. Always check if the mint has been revoked or if there are checks on how many extra tokens can be created. Stay vigilant; transparency is key.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1787241636706",
     "ts": "2026-08-20T16:00:36.706Z",
     "text": "Market cap measures the current value of a token based on circulating supply, while fully diluted valuation (FDV) considers the max supply. A large gap between them indicates potential inflation risk; if many tokens remain unissued, they could flood the market and dilute value. Understanding this disparity is vital for assessing long-term viability — avoid being blindsided by future supply increases.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T18:50:35.696Z",
     "text": "Understanding liquidity and holder distribution is key. A token with high liquidity but concentrated holder distribution can still face volatility risks. If a few wallets hold the majority, they can easily manipulate prices by selling off large amounts. Examine the top holders; if they aren't community-driven, you might want to tread lightly. Always dig deeper before diving in.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786817643570",
-    "ts": "2026-08-15T18:14:03.570Z",
-    "text": "Liquidity depth is crucial for any memecoin because it indicates how easily you can buy or sell without moving the market. Shallow liquidity leads to slippage, where your order could significantly alter the price, resulting in an unfavorable transaction. More liquidity means more safety; it allows investors to enter and exit positions without catastrophic consequences. Always prioritize checking this first when assessing a token's viability.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
