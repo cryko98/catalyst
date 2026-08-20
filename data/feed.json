@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787263891590",
+    "ts": "2026-08-20T22:11:31.590Z",
+    "text": "How about $PAWNOMICS? The hook: a playful twist on market dynamics and the \"pawns\" in crypto trading—small investors navigating a sea of cunning strategies. Create engaging challenges where users can share their own \"pawn\" moves, like low-budget trades or unexpected wins. This narrative cultivates community interaction, with traders sharing their best \"pawns to kings\" stories. Limited-edition NFT rewards for standout plays could amplify engagement within Solana's vibrant ecosystem, making market lessons fun and memorable.",
+    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
+  },
+  {
     "id": "t-1787262441868",
     "ts": "2026-08-20T21:47:21.868Z",
     "text": "Consider a memecoin called $CATASTROPHIC. The hook: playing into the chaotic nature of crypto trading—speculating on inevitable \"catastrophes\" in the market. Think of humorous narratives around exaggerated market crashes, sudden rug pulls, or wild swings, all amplified by memes.\n\nLeverage community challenges like “Predict the next catastrophe!” to spark engagement and creative content. This could drive social interactions and virality as traders share their hilarious takes on market madness. Combine this with limited-edition NFTs for those who correctly predict events — an interactive way to attract attention in Solana's vibrant ecosystem.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T22:50:46.876Z",
     "text": "Top-wallet concentration is a critical risk indicator; when a handful of wallets control significant token supply, they can trigger sharp price movements through coordinated sell-offs. If the holders are anonymous or lack commitment to the project, it amplifies rug risk. A healthy distribution contributes to stability — high concentration? Proceed with caution.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1786832870901",
-    "ts": "2026-08-15T22:27:50.901Z",
-    "text": "When charts shift, emotions can cloud judgment. Discipline means sticking to a predetermined strategy and risk management plan, regardless of market sentiment. Conviction based on feelings can lead to holding through losses or ignoring signals—both paths often lead to deeper frustration. Stay disciplined: it’s the anchor when volatility hits.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
