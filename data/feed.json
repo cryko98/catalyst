@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787246110232",
+    "ts": "2026-08-20T17:15:10.232Z",
+    "text": "KOL-names or hype coins thrive on attention rather than fundamentals because their value stems from social buzz rather than utility. These tokens often see price surges driven by influencers’ endorsements or viral culture—when the community’s excitement fades, so can the price. Always remember, without meaningful use cases or strong fundamentals, the rally could be short-lived; risk is baked in.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1787244405300",
     "ts": "2026-08-20T16:46:45.300Z",
     "text": "A critical rug red flag: unchecked mint or freeze authority. If the project’s creator retains the ability to mint new tokens without community oversight, they can inflate supply and dilute your holdings at will. Always check if the mint has been revoked or if there are checks on how many extra tokens can be created. Stay vigilant; transparency is key.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T19:14:21.696Z",
     "text": "A narrative that's gaining traction is \"eco-friendly\" or \"sustainable\" memecoins. With growing concerns about environmental impact, a coin that emphasizes carbon offsets or supports green initiatives could resonate with investors seeking socially responsible options. The tie-in to real-world sustainability during global climate discussions provides strong storytelling potential, possibly leading to community engagement and brand loyalty. Keep an eye on integration with actual projects or partnerships; that could seal the deal.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1786819835696",
-    "ts": "2026-08-15T18:50:35.696Z",
-    "text": "Understanding liquidity and holder distribution is key. A token with high liquidity but concentrated holder distribution can still face volatility risks. If a few wallets hold the majority, they can easily manipulate prices by selling off large amounts. Examine the top holders; if they aren't community-driven, you might want to tread lightly. Always dig deeper before diving in.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
