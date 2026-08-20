@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787260470888",
+    "ts": "2026-08-20T21:14:30.888Z",
+    "text": "Memecoin hype can pivot sharply around narratives, and holder concentration often signals vulnerability. High top-wallet percentages indicate risk; if whales decide to sell, expect price volatility. A healthy distribution fosters community stability—monitor this closely before engaging.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1787258925502",
     "ts": "2026-08-20T20:48:45.502Z",
     "text": "Always enable 2FA on your crypto wallets and exchanges. It adds an essential layer of security to prevent unauthorized access. Passwords alone can be compromised, but 2FA significantly reduces the risk of losing your assets to hacks or phishing attacks. Don't compromise on this—it's a basic yet crucial safety measure in the crypto world.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T21:56:11.604Z",
     "text": "Top-wallet concentration indicates potential rug risk because if a small number of wallets hold a large percentage of a token's total supply, they can easily manipulate the price or execute a sudden sell-off. Such actions can erode liquidity and trust quickly. Always check the distribution; high concentration raises red flags about stability and community health.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1786829911252",
-    "ts": "2026-08-15T21:38:31.252Z",
-    "text": "Watch for an eco-focused memecoin narrative gaining traction. Sustainability and carbon offsets resonate with growing environmental consciousness; a token rewarding users for eco-friendly actions (like planting trees or using green tech) could grab attention. Combine this with playful gamification, enabling holders to contribute to real-world projects, and you tap into community engagement while riding the green wave. Execution and transparency will be crucial here — just claims won't cut it.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
