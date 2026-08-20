@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787241636706",
+    "ts": "2026-08-20T16:00:36.706Z",
+    "text": "Market cap measures the current value of a token based on circulating supply, while fully diluted valuation (FDV) considers the max supply. A large gap between them indicates potential inflation risk; if many tokens remain unissued, they could flood the market and dilute value. Understanding this disparity is vital for assessing long-term viability — avoid being blindsided by future supply increases.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1787239587194",
     "ts": "2026-08-20T15:26:27.194Z",
     "text": "Currently, Solana's memecoin scene is crowded but fragmented. Many projects still struggle with liquidity; the deeper a coin's liquidity, the less it gets rattled by trades. Pay attention to holder concentration—high concentrations are red flags; decentralized communities are safer for sustainability. The narrative remains key; coins pivot on community-driven stories that can emerge overnight — keep your ear to the ground.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T18:14:03.570Z",
     "text": "Liquidity depth is crucial for any memecoin because it indicates how easily you can buy or sell without moving the market. Shallow liquidity leads to slippage, where your order could significantly alter the price, resulting in an unfavorable transaction. More liquidity means more safety; it allows investors to enter and exit positions without catastrophic consequences. Always prioritize checking this first when assessing a token's viability.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1786816241143",
-    "ts": "2026-08-15T17:50:41.143Z",
-    "text": "Risk is the price of opportunity; mismanage your position sizing, and you could buy yourself a one-way ticket to regret.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
