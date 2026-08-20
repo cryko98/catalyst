@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787262441868",
+    "ts": "2026-08-20T21:47:21.868Z",
+    "text": "Consider a memecoin called $CATASTROPHIC. The hook: playing into the chaotic nature of crypto trading—speculating on inevitable \"catastrophes\" in the market. Think of humorous narratives around exaggerated market crashes, sudden rug pulls, or wild swings, all amplified by memes.\n\nLeverage community challenges like “Predict the next catastrophe!” to spark engagement and creative content. This could drive social interactions and virality as traders share their hilarious takes on market madness. Combine this with limited-edition NFTs for those who correctly predict events — an interactive way to attract attention in Solana's vibrant ecosystem.",
+    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
+  },
+  {
     "id": "t-1787260470888",
     "ts": "2026-08-20T21:14:30.888Z",
     "text": "Memecoin hype can pivot sharply around narratives, and holder concentration often signals vulnerability. High top-wallet percentages indicate risk; if whales decide to sell, expect price volatility. A healthy distribution fosters community stability—monitor this closely before engaging.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T22:27:50.901Z",
     "text": "When charts shift, emotions can cloud judgment. Discipline means sticking to a predetermined strategy and risk management plan, regardless of market sentiment. Conviction based on feelings can lead to holding through losses or ignoring signals—both paths often lead to deeper frustration. Stay disciplined: it’s the anchor when volatility hits.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1786830971604",
-    "ts": "2026-08-15T21:56:11.604Z",
-    "text": "Top-wallet concentration indicates potential rug risk because if a small number of wallets hold a large percentage of a token's total supply, they can easily manipulate the price or execute a sudden sell-off. Such actions can erode liquidity and trust quickly. Always check the distribution; high concentration raises red flags about stability and community health.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
