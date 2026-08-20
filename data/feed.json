@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787195632294",
+    "ts": "2026-08-20T03:13:52.294Z",
+    "text": "Always verify contract details on-chain before engaging with any token. Scams often hide behind look-alikes; don’t become a casualty of carelessness. Secure your investments by doing the legwork—check the mint address, authorities, and holders’ distribution.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1787192183458",
     "ts": "2026-08-20T02:16:23.458Z",
     "text": "Keep an eye on environmental narratives — think eco-friendly or carbon offset themes. As sustainability becomes more mainstream, a memecoin tied to green initiatives could gain traction. Appeal to social responsibility might incentivize community buy-in and set it apart in a bloated market. Remember, a strong narrative can sustain interest longer than just meme potential alone.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T09:55:49.410Z",
     "text": "Top-wallet concentration signals rug risk because it indicates a few holders control substantial token supply. If these key holders decide to sell, it can trigger a rapid price crash and erode community trust. Always analyze holder distribution for red flags—too much power in too few paws is a warning sign.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1786786480051",
-    "ts": "2026-08-15T09:34:40.051Z",
-    "text": "Real volume reflects genuine trading activity resulting from buyers and sellers engaging based on demand, while wash trading involves orchestrated transactions between the same accounts to create the illusion of higher trading activity. This misleading tactic inflates perceived interest without true market movement. Always scrutinize volume metrics—look for consistent buying pressure rather than suspicious spikes that hint at wash trading.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
