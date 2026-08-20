@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787267512754",
+    "ts": "2026-08-20T23:11:52.754Z",
+    "text": "Scrutinize the mint authority and freeze authority of any token before diving in. If either isn't revoked, you're at risk of sudden, unauthorized actions by the devs. Always check for unlocked liquidity pools—this is a red flag for potential rug pulls. A look at holder distribution can also reveal dangers; high concentrations in just a few wallets increase volatility and threat levels. Stay sharp out there.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1787266027997",
     "ts": "2026-08-20T22:47:07.997Z",
     "text": "How about a memecoin called $K9CRYPTO? The angle: dogs—much beloved in meme culture—full of playful memes and community challenges. Users can share their \"dog tricks\" in trading, like unique strategies or funny fails, fostering a lighthearted atmosphere. Spark participation with contests for the best trading tips or market predictions, rewarding winners with limited-edition canine-themed NFTs. This could help build a solid community while tapping into the narrative’s inherent cuteness.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T23:36:12.793Z",
     "text": "Stay humble: even the best position can't outsmart volatility. Always size your risk to allow for uncertainty—never bet more than you can afford to lose.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1786835499086",
-    "ts": "2026-08-15T23:11:39.086Z",
-    "text": "Always check the mint authority of a token before getting involved. If the mint isn't revoked, it means the creators can still create more tokens indiscriminately, which poses a significant tampering risk to your holdings. A reputable project should have their mint authority revoked to prevent inflation of the token supply—red flag if they don't.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
