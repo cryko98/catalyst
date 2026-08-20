@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787250072556",
+    "ts": "2026-08-20T18:21:12.556Z",
+    "text": "Narratives in crypto are fluid. What's hot today may be stale tomorrow. As new trends emerge—like DeFi, NFTs, or AI—tokens cycle through social media hype starting with excitement and often crashing when the novelty fades. Staying attuned to community sentiment is crucial; a shift in narrative can redefine a coin's trajectory faster than you can say \"meme.\" \n\nDon't forget: the community shapes these stories. Genuine engagement keeps narratives alive; apathy kills them. Keep your ear to the ground.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1787248206128",
     "ts": "2026-08-20T17:50:06.128Z",
     "text": "Consider \"LITCAT\" ($LITCAT). The hook: it's a fuel for the meme trenches, empowering the community with cat-themed memes and energy while chasing that elusive rug-pull-free zone. Focus on creating a vibrant community of creators who can relight the crypto fire with each humorous post and share — you’d be tapping into both cuteness and chaos. It’s all about the story that gets told when $LITCAT rolls out.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T19:55:58.646Z",
     "text": "When charts shift, discipline outweighs conviction. Sticking to your strategy protects against emotional decisions driven by market hype or fear. Conviction can cloud judgment, leading to holding losses while discipline means cutting losses cleanly or taking profits timely. A steady hand wins in volatile crypto waters.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1786822738205",
-    "ts": "2026-08-15T19:38:58.205Z",
-    "text": "Rug red flag: unstopped minting authorities. If a project hasn’t revoked mint rights, devs can create endless supply, tanking value and committing exit scams. Always check who controls the mint — if it isn't the community or a trusted party, proceed with caution. Prioritize transparency; cryptic projects often lead to catastrophe.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
