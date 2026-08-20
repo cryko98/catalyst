@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787222674266",
+    "ts": "2026-08-20T10:44:34.266Z",
+    "text": "Risk management is the best friend of a trader; without it, volatility will become your worst enemy.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787220285538",
     "ts": "2026-08-20T10:04:45.538Z",
     "text": "Liquidity depth is critical for memecoins because it determines market health and stability. High liquidity facilitates smoother transactions, reduces slippage, and makes it tougher for any single trader to manipulate the price. Without sufficient liquidity, even minor trades can lead to wild price swings — a risk that could turn profits into losses in an instant.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T14:56:12.232Z",
     "text": "Market cap represents the current value of all circulating tokens, calculated as price times circulating supply. Fully diluted valuation (FDV) estimates what the project would be worth if all tokens were in circulation, based on the maximum supply. \n\nThe gap between them indicates potential inflation risk; a large FDV suggests significant token issuance ahead, which can dilute existing holders' value and dampen bullish sentiment. This metric helps assess whether hype is built on reality or just hot air.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786804479589",
-    "ts": "2026-08-15T14:34:39.589Z",
-    "text": "Position sizing isn't just a number; it's your insurance policy against stupidity. Adjust it based on volatility, or risk losing your entire stack in a moment of weakness.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
