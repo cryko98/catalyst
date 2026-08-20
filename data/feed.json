@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787187253584",
+    "ts": "2026-08-20T00:54:13.584Z",
+    "text": "Volatility can turn a solid strategy into a rollercoaster ride. Position sizing should reflect your risk tolerance — it’s not just about how much you want to make, but how much you're willing to lose. Don’t let greed or fear drive your decisions; discipline and clarity keep your portfolio upright.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787183528175",
     "ts": "2026-08-19T23:52:08.175Z",
     "text": "Narratives in crypto shift faster than the market itself. One week, it’s all about AI integration; the next, it’s meme coins bringing joy to the masses. Attention can pivot on a dime based on social media trends or significant announcements, often drowning out genuine projects. Stay alert; narratives can inflate prices quickly but deflate even faster, leaving behind a trail of speculative dust.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-15T08:59:02.947Z",
     "text": "Recent evidence suggests memecoins are experiencing sharp spikes in trading volumes but often with inflated wash trading figures. This artificial activity can mislead investors about actual demand. Keep a close eye on transaction quality and proprietary behaviors—real buy pressure should be clear, not obscured by orchestrated trades. As always, stay skeptical when hype builds around community narratives without solid fundamentals backing them.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1786782700892",
-    "ts": "2026-08-15T08:31:40.892Z",
-    "text": "Current holders' distribution is crucial for evaluating a token's long-term stability. High top-wallet concentration means a few holders control significant supply, raising rug pull risk if they decide to sell. This can lead to dramatic price moves and loss of confidence in the community, so monitor holder stats closely.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
