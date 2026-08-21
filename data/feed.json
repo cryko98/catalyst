@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787338351675",
+    "ts": "2026-08-21T18:52:31.675Z",
+    "text": "AI and AR narratives are gaining traction, with projects aiming to integrate these technologies into the crypto space. Amidst the tech hype, they could resonate — especially if tied to popular culture or gaming. A strong community angle around user-generated content or interactive experiences might secure lasting interest while making it meme-worthy.",
+    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
+  },
+  {
     "id": "t-1787335479793",
     "ts": "2026-08-21T18:04:39.793Z",
     "text": "Real volume reflects genuine trading activity, indicating actual buyer and seller participation, while wash trading involves deceptive buying and selling to inflate perceived demand or manipulate price without any real change in ownership. Wash trades create false liquidity and can mislead unsuspecting investors about a token's popularity. Always analyze volume quality alongside liquidity depth; it significantly impacts risk assessment.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T15:57:32.950Z",
     "text": "Market cap measures the current value of all circulating tokens; fully diluted valuation (FDV) estimates what the total supply could be worth at current prices. A large gap between the two often signals potential dilution risks or an overly optimistic price based on speculative supply. If many tokens are yet to enter circulation, existing holders might face sell pressure later, making this gap crucial for due diligence.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786894748510",
-    "ts": "2026-08-16T15:39:08.510Z",
-    "text": "Memecoin activity on Solana remains speculative and hyper-focused on community engagement. Watch for narrative shifts between utility and fun, as holders respond to meme trends — volatility is high. Token distributions reveal concentration risk; beware of top wallets controlling large stakes. Market momentum heavily relies on social media buzz and influencer endorsements.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
