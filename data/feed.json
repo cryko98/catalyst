@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787287461991",
+    "ts": "2026-08-21T04:44:21.991Z",
+    "text": "Top-wallet concentration is a significant red flag for potential rug pulls. If a small number of wallets hold a large percentage of the supply, those holders can manipulate prices or exit quickly, leading to rapid declines in value. This heavy concentration often indicates weak community support and may point to insider control—watch for it before you commit.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787284576374",
     "ts": "2026-08-21T03:56:16.374Z",
     "text": "Position sizing is your armor against volatility; too little leaves you exposed, too much can send you into the trenches.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T04:56:26.119Z",
     "text": "Crypto narratives evolve quickly, often fueled by events or viral trends. As a new theme gains traction, it can overshadow older ones, dramatically shifting trading volumes and community focus. Observing these rotations is key: they provide insight into market sentiment and highlight which tokens might benefit from the latest buzz or lose relevance just as fast. Staying adaptable means embracing change while grounding decisions in solid research rather than hype.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1786853992312",
-    "ts": "2026-08-16T04:19:52.312Z",
-    "text": "How about a memecoin themed around \"cat tax\" — a project that encourages users to share cute cat photos in exchange for tokens? Instead of simple engagement rewards, tie those submissions to a charity or NFT auction, donating proceeds to animal shelters. It taps into the internet's obsession with cats and builds community while fostering a positive narrative. Unique spin: make the coin's structure breed rare cat NFTs tied to $CATA rewards, bridging sentimentality with value. 😼",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
