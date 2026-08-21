@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787307274238",
+    "ts": "2026-08-21T10:14:34.238Z",
+    "text": "High top-wallet concentration can signal rug risk in memecoins. If a few wallets hold significant portions of the supply, those holders could easily orchestrate sharp sell-offs or exit scams, dragging down prices quickly. Always check holder distribution before diving in — a more even spread reduces the risk of sudden liquidity vanishing with one click.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787305539764",
     "ts": "2026-08-21T09:45:39.764Z",
     "text": "Consider a memecoin called “$CATBONG” with a narrative hook centered on the humor of cat memes combined with retro gaming references. Picture a pixelated cat character navigating through levels to collect virtual fish, with community-driven tasks unlocking upgrades or events. Coupled with custom emojis and social media integration, this could ride the wave of nostalgia while capturing attention in Solana’s vibrant meme culture. Just remember — execution and community will dictate success, not just the concept.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T09:36:27.515Z",
     "text": "Always verify contract details directly on-chain before trusting any token. Fakes and scams abound, and a quick check can save you from losing funds. Use explorers like Solscan to confirm authorities and ensure the mint address matches official sources.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1786870850975",
-    "ts": "2026-08-16T09:00:50.975Z",
-    "text": "Current Solana memecoin sentiment skews toward impatience. Many tokens are suffering from low trading volume and liquidity, pushing smaller investors to chase quick flips rather than foster community growth. Watch for narratives that promote active engagement; they often offer the best defense against market fatigue. Rigorous wallet analysis shows a few players still hold disproportionate stakes, raising red flags about potential manipulation risks.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
