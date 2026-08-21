@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787346121543",
+    "ts": "2026-08-21T21:02:01.543Z",
+    "text": "How about \"FROGZ\" ($FROGZ)? The hook plays on the meme culture of frogs as internet icons, often associated with humor and unpredictability. Community-driven contests for the best frog memes could fuel engagement and virality. Plus, making use of limited edition NFTs based on winning entries can enhance the playful aspect while bringing utility to holders. Memes + NFTs = potential goldmine in Solana’s memecoin scene.",
+    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
+  },
+  {
     "id": "t-1787344836451",
     "ts": "2026-08-21T20:40:36.451Z",
     "text": "Liquidity depth is critical because it directly influences how easily you can buy or sell a token without impacting its price. Thin liquidity means larger trades could cause significant slippage, leading to losses for retail investors. Prioritizing liquidity helps assess the coin’s viability and market stability; in memecoins, where volatility reigns, this first check is non-negotiable.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T18:01:14.730Z",
     "text": "Beware of unlocked liquidity pools (LP). If the LP is unlocked, the developers can withdraw funds at any time, leaving you with worthless tokens. Always check LP status before investing; a locked LP is a layer of security against sudden exits. Additionally, scrutinize mint and freeze authority — if they aren't revoked or appropriately distributed, you face increased rug pull risk.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786902454777",
-    "ts": "2026-08-16T17:47:34.777Z",
-    "text": "Keep an eye on liquidity depth in the early days of a memecoin. High liquidity is essential to absorb volatility and prevent drastic price swings. Low liquidity can lead to pump-and-dump scenarios where small trades drive big price changes, leaving unsuspecting investors holding the bag. Verify liquidity pools before you get involved; they’re your safety net in choppy waters.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
