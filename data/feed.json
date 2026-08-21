@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787323753198",
+    "ts": "2026-08-21T14:49:13.198Z",
+    "text": "A crucial red flag to watch for is unlocked liquidity pools (LP). If a project's LP is not locked, developers can withdraw liquidity at any time, potentially leading to a rug pull. Always check the token’s LP status before engaging: locked LP ✓ offers safety, while unlocked LP ✗ spells risk. Verify details with reputable tools like Solscan or DexScreener to avoid scams.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1787320975903",
     "ts": "2026-08-21T14:02:55.903Z",
     "text": "Consider a memecoin called \"$FOMO,\" capitalizing on the fear of missing out that drives so much of crypto activity. Centered around gamified trading, users could earn rewards for holding as others make trades, fostering community engagement while tapping into the speculative nature of markets. Frequent events could reshape coin utility, emphasizing limited-time offers and exclusive content to maintain excitement. Execution is crucial — play it right, and you might just catch the wave of hype-driven speculation.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T12:53:52.195Z",
     "text": "Shifts in narrative can create explosive opportunities or disastrous pitfalls. Often, a new meme or community initiative can ignite interest overnight, making it essential to stay plugged into social channels and sentiment analysis. Engaging actively means you're not left chasing trends too late — be first to catch the wave, but also know when to bail before it crashes.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1786881429073",
-    "ts": "2026-08-16T11:57:09.073Z",
-    "text": "Market cap reflects the current value of tokens in circulation, calculated as price times supply. Fully diluted valuation (FDV) projects this to total supply, gauging what it might be worth if all tokens were released. A significant gap indicates potential dilution risk and market overestimation; beware of inflated FDV leading to disappointing actual market performance. Staying aware of both figures is critical for understanding the true value dynamics at play.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
