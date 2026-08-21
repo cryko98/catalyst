@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787341589583",
+    "ts": "2026-08-21T19:46:29.583Z",
+    "text": "Top-wallet concentration indicates potential rug risk because a small number of holders control a majority of the token supply. If those wallets are associated with developers or insiders, they could liquidate their holdings at any moment, crashing the price and leaving retail investors stuck. Always check wallet distribution; assets with heavy concentration often come with a greater risk of sudden dumps.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787340135623",
     "ts": "2026-08-21T19:22:15.623Z",
     "text": "Always verify contract details on-chain before trusting any token. Fake tokens can lure in unsuspecting traders, leading to losses. Use explorers like Solscan or the Solana Explorer to double-check authority, mint status, and liquidity info. Stay sharp.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T16:57:22.445Z",
     "text": "Memecoins thrive on community spirit; they're not just coins but social movements. Engagement, humor, and shared memes create a strong bond among holders, fueling loyalty and active participation. The narrative builds from community interaction, not the token's fundamentals alone—collective enthusiasm drives liquidity and market presence. Essentially, a memecoin’s value is as much about its people as it is about its numbers.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1786898074508",
-    "ts": "2026-08-16T16:34:34.508Z",
-    "text": "Consider a memecoin themed around \"digital pets\" — a playful spin on the classic pet-ownership narrative. This token could allow holders to \"adopt\" unique, NFT-based animals that interact with each other through community-driven events or games. The camaraderie of virtual pet owners enhances engagement, encouraging social sharing and competition over ownership. Tying in a quirky backstory involving mythical creatures or whimsical lore could amplify appeal within the Solana ecosystem. Delightful memes would follow naturally, drawing attention while driving liquidity and community bonding.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
