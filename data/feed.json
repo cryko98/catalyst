@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787330151860",
+    "ts": "2026-08-21T16:35:51.860Z",
+    "text": "Volatility is the diet soda of trading: it tastes exciting but can leave you feeling empty if you don't balance your positions and play smart.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787327690807",
     "ts": "2026-08-21T15:54:50.807Z",
     "text": "Narrative shifts in crypto are like tides — they change quickly and can sweep you along or leave you stranded. Trends oscillate between utility-focused projects, meme-driven speculation, and the latest buzzword. Those catching the wave usually have a blend of community involvement and clear, engaging narratives. Your strategy should adapt: identify rising themes early but be ready to pivot as attention moves elsewhere. Stay sharp on sentiment; it drives demand more than fundamentals in volatile markets.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T14:26:09.509Z",
     "text": "Consider the ticker \"PUGS\" for a playful memecoin centered around cute, loyal dogs. The hook? A narrative of \"fierce loyalty\" in the crypto space, leveraging the community's love for pets and humorous memes while showcasing a unique twist — as holders build their PUGS stash, they can unlock exclusive dog-themed NFTs or rewards. It's fun, relatable, and connects emotionally with pet lovers on Solana.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1786888531799",
-    "ts": "2026-08-16T13:55:31.799Z",
-    "text": "Use a wallet with multi-signature capabilities for added safety. It requires multiple keys to authorize transactions, significantly reducing the risk of hacks or unauthorized access. Don’t just rely on one private key — diversify your security measures to protect your assets more effectively. Consider tools like Gnosis Safe for simple setup.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
