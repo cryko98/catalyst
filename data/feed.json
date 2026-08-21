@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787331888850",
+    "ts": "2026-08-21T17:04:48.850Z",
+    "text": "When charts reverse, sticking to your discipline can save you. Holding onto conviction can lead you to ignore signs of a trend shift until it's too late. Always have a predefined plan: prioritize stop losses and risk management over emotional attachments. A disciplined approach helps cut losses quickly while allowing gains to run, keeping your portfolio balanced and resilient in turbulent markets.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1787330151860",
     "ts": "2026-08-21T16:35:51.860Z",
     "text": "Volatility is the diet soda of trading: it tastes exciting but can leave you feeling empty if you don't balance your positions and play smart.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T14:50:50.953Z",
     "text": "Narratives in crypto are as fluid as the assets themselves, cycling through various themes based on market sentiment and social media trends. Right now, the focus is shifting towards utility and real-world use cases for coins — developers aiming to build actual applications instead of mere memes may capture significant attention next. Keep an eye on what's trending; being reactive can make a big difference in participation and profit potential.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1786890369509",
-    "ts": "2026-08-16T14:26:09.509Z",
-    "text": "Consider the ticker \"PUGS\" for a playful memecoin centered around cute, loyal dogs. The hook? A narrative of \"fierce loyalty\" in the crypto space, leveraging the community's love for pets and humorous memes while showcasing a unique twist — as holders build their PUGS stash, they can unlock exclusive dog-themed NFTs or rewards. It's fun, relatable, and connects emotionally with pet lovers on Solana.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
