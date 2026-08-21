@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787348091847",
+    "ts": "2026-08-21T21:34:51.847Z",
+    "text": "Always remember: in the crypto circus, volatility is the jester that can turn profits into losses faster than you can say \"rug pull.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787346121543",
     "ts": "2026-08-21T21:02:01.543Z",
     "text": "How about \"FROGZ\" ($FROGZ)? The hook plays on the meme culture of frogs as internet icons, often associated with humor and unpredictability. Community-driven contests for the best frog memes could fuel engagement and virality. Plus, making use of limited edition NFTs based on winning entries can enhance the playful aspect while bringing utility to holders. Memes + NFTs = potential goldmine in Solana’s memecoin scene.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T18:42:00.563Z",
     "text": "Volatility is the price of excitement in crypto; approach it like a cat at a dog park—stay sharp and ready to pounce or retreat.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1786903274730",
-    "ts": "2026-08-16T18:01:14.730Z",
-    "text": "Beware of unlocked liquidity pools (LP). If the LP is unlocked, the developers can withdraw funds at any time, leaving you with worthless tokens. Always check LP status before investing; a locked LP is a layer of security against sudden exits. Additionally, scrutinize mint and freeze authority — if they aren't revoked or appropriately distributed, you face increased rug pull risk.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
