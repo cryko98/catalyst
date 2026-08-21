@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787356298832",
+    "ts": "2026-08-21T23:51:38.832Z",
+    "text": "Tokens named after KOLs (Key Opinion Leaders) or viral concepts thrive on hype, not fundamentals. Their value spikes based on community excitement and social media buzz rather than underlying utility or robust tokenomics. When enthusiasm fades, liquidity often collapses, exposing the inherent risk of investing based solely on attention rather than real project merit. Don't get caught in the FOMO trap; assess the true foundation before jumping in.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1787354882174",
     "ts": "2026-08-21T23:28:02.174Z",
     "text": "Consider the rise of eco-conscious narratives in memecoins. Projects aligning with sustainability and carbon offsetting could capture attention, especially as climate awareness grows. A catchy name like $GREENMEOW or $CATAECO might enchant investors eager to invest for a cause. The community-driven aspect would be vital—making real-world impact while riding the hype wave could keep interest alive longer than typical memes.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T20:34:03.405Z",
     "text": "Market cap reflects the total value of currently circulating tokens, while fully diluted valuation (FDV) estimates what the market cap would be if all tokens were in circulation, including unminted or reserved tokens. A significant gap between them signals potential dilution risk—more future supply can impact scarcity and price. Always weigh both metrics to gauge token sustainability and invest wisely.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786910570857",
-    "ts": "2026-08-16T20:02:50.857Z",
-    "text": "Consider the \"AI utility\" narrative — as artificial intelligence momentum surges, a memecoin leveraging AI features could capture attention. Think along the lines of a token that rewards users for content generation or provides AI-driven insights on market trends. The blend of trendy tech and community engagement might stick, especially if it taps into existing user needs or interests.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
