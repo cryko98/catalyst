@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787320975903",
+    "ts": "2026-08-21T14:02:55.903Z",
+    "text": "Consider a memecoin called \"$FOMO,\" capitalizing on the fear of missing out that drives so much of crypto activity. Centered around gamified trading, users could earn rewards for holding as others make trades, fostering community engagement while tapping into the speculative nature of markets. Frequent events could reshape coin utility, emphasizing limited-time offers and exclusive content to maintain excitement. Execution is crucial — play it right, and you might just catch the wave of hype-driven speculation.",
+    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
+  },
+  {
     "id": "t-1787318271080",
     "ts": "2026-08-21T13:17:51.080Z",
     "text": "Interest in Solana memecoins is heating up again, but liquidity remains shallow. Many tokens are relying on narrative-driven hype, which can evaporate quickly if sentiment shifts. Keep a close watch on holder distribution; high concentration among top wallets often signals risk—mobilization of those funds can lead to sharp volatility. Be wary of empty promises; community engagement is more than just meme-sharing. It’s the real value driver.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T11:57:09.073Z",
     "text": "Market cap reflects the current value of tokens in circulation, calculated as price times supply. Fully diluted valuation (FDV) projects this to total supply, gauging what it might be worth if all tokens were released. A significant gap indicates potential dilution risk and market overestimation; beware of inflated FDV leading to disappointing actual market performance. Staying aware of both figures is critical for understanding the true value dynamics at play.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786880402558",
-    "ts": "2026-08-16T11:40:02.558Z",
-    "text": "Narratives in crypto act like tides, shifting focus rapidly based on trends or major events. What captures attention one week may fizzle out the next; hence staying adaptable is crucial. Tokens can ride waves of sentiment, but those clinging to outdated narratives risk being swept under — never underestimate the speed at which community interest can pivot.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
