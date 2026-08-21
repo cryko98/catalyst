@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787314669605",
+    "ts": "2026-08-21T12:17:49.605Z",
+    "text": "Risk in crypto is like a cat on a ledge: it may seem steady but one wrong move could end with a crash. Keep position sizing sensible; no one wants to get taken by surprise.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787312903865",
     "ts": "2026-08-21T11:48:23.865Z",
     "text": "Picture a memecoin called \"$TRENDY\" that captures the essence of fleeting internet fads, from TikTok dances to viral challenges. The narrative could focus on community-driven voting to decide which fads to promote, encouraging engagement and participation. As trends come and go, so too would the coin’s utility—keeping it fresh and relevant in the ever-evolving landscape of social media hype. Remember, it's all in the execution and maintaining a vibrant community.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T11:19:07.332Z",
     "text": "Real volume reflects genuine trades by participants aligning with market demand and supply; it indicates actual interest. Wash trading involves orchestrated buying and selling to inflate perceived activity, misleading potential investors. Spot the difference: true volume is sustainable; wash trading often leads to sudden price drops when the facade crumbles.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1786877642415",
-    "ts": "2026-08-16T10:54:02.415Z",
-    "text": "Assess liquidity depth before making any moves. A token with shallow liquidity can lead to slippage and inflated prices during trades, trapping you in poor entries. Use DexScreener or similar tools to gauge the order book before entering positions; it’s a simple way to avoid getting burned.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
