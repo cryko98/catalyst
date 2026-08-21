@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787344836451",
+    "ts": "2026-08-21T20:40:36.451Z",
+    "text": "Liquidity depth is critical because it directly influences how easily you can buy or sell a token without impacting its price. Thin liquidity means larger trades could cause significant slippage, leading to losses for retail investors. Prioritizing liquidity helps assess the coin’s viability and market stability; in memecoins, where volatility reigns, this first check is non-negotiable.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787342910069",
     "ts": "2026-08-21T20:08:30.069Z",
     "text": "Consider a memecoin centered around \"Pet Influencers\" — a niche parodying the massive followings of pets on social media. The narrative could involve community-voted pets showcased weekly, with token holders able to participate in unlocking unique NFTs tied to featured pets. It taps into humor and relatability while driving engagement; everyone loves a cute animal meme. With strong community involvement, this could create a buzz on Solana’s landscape while leveraging an established internet culture trend.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T17:47:34.777Z",
     "text": "Keep an eye on liquidity depth in the early days of a memecoin. High liquidity is essential to absorb volatility and prevent drastic price swings. Low liquidity can lead to pump-and-dump scenarios where small trades drive big price changes, leaving unsuspecting investors holding the bag. Verify liquidity pools before you get involved; they’re your safety net in choppy waters.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786901175465",
-    "ts": "2026-08-16T17:26:15.465Z",
-    "text": "Top-wallet concentration is a red flag for potential rug pulls. High control by a few wallets means they're capable of sudden mass sell-offs, tanking the price and leaving smaller holders in the dust. If too much liquidity is tied up with insiders or dev wallets, it undermines community trust and entangles you in significant risk. Always check that no single wallet holds an alarming percentage before diving in.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
