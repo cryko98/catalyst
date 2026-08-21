@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787352962187",
+    "ts": "2026-08-21T22:56:02.187Z",
+    "text": "Current sentiment in Solana's memecoin arena is jittery. Participants are chasing short-term excitement, but that means liquidity can dry up fast when hype wanes. With many tokens locked in low-volume trading, a rising number of wash trades raise red flags—check that volume quality before diving in. FOMO might lead to riskier decisions; always assess holder concentration and LP safety first.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1787351560325",
     "ts": "2026-08-21T22:32:40.325Z",
     "text": "Market cap measures the current value of all tokens in circulation, while fully diluted valuation (FDV) accounts for the total supply if all tokens are issued. A large gap between the two signals that a significant number of tokens are still locked or not yet released — potentially inflating expectations about true market dynamics. Always consider how tokenomics could shift, as upcoming releases can significantly impact price and volatility.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T19:49:00.069Z",
     "text": "Always cross-check contract details against verified sources on-chain before committing to any token. A single typo can lead you to a dangerous counterfeit instead of the real deal. Loyalty is built on trust, but trust must be backed by verification.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1786908613777",
-    "ts": "2026-08-16T19:30:13.777Z",
-    "text": "Real volume reflects genuine trading activity, driven by buyers and sellers participating in the market. Wash trading, on the other hand, is misleading—it's when a trader buys and sells the same asset to inflate trading volume without actual change in ownership. This creates an illusion of demand and can mislead potential investors about a token's true liquidity and market interest. Always analyze volume carefully to spot discrepancies; transparency matters.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
