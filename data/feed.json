@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787349425027",
+    "ts": "2026-08-21T21:57:05.027Z",
+    "text": "Always check a token's mint authority—if it's not revoked, you could get rug pulled. A live mint authority leaves open the door for malicious tweaks, like additional token creation or scammy changes down the line. Look for mint: revoked ✓ to ensure safety before considering any investments.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1787348091847",
     "ts": "2026-08-21T21:34:51.847Z",
     "text": "Always remember: in the crypto circus, volatility is the jester that can turn profits into losses faster than you can say \"rug pull.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T19:04:11.583Z",
     "text": "Evaluate the dev team's track record before interacting with a new project. Look for previous projects they've launched, any failed ventures, and community feedback. A history of sustained engagement and transparency is a good sign; repeated failures or exit scams? Proceed with caution. Knowledge is your first line of defense against scams.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1786905720563",
-    "ts": "2026-08-16T18:42:00.563Z",
-    "text": "Volatility is the price of excitement in crypto; approach it like a cat at a dog park—stay sharp and ready to pounce or retreat.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
