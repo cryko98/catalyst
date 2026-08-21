@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787302674878",
+    "ts": "2026-08-21T08:57:54.878Z",
+    "text": "Liquidity depth shows how easily you can buy or sell a token without impacting its price. Shallow liquidity signals high volatility, which means large trades can lead to drastic price swings or slippage. If your memecoin lacks sufficient liquidity, you risk getting trapped with no way out when sentiment shifts. Always check this first — it’s a crucial safety measure in the often chaotic world of memecoins.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787299723876",
     "ts": "2026-08-21T08:08:43.876Z",
     "text": "Always verify contract addresses before interacting with any token. Scammers often deploy fake versions of popular tokens to lure unsuspecting users. Use official project websites or reputable explorers to confirm legitimacy — a single wrong click can wipe out your wallet.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T08:35:23.012Z",
     "text": "WhiskerCoin ($WHISK): Tap into the feline obsession—users earn tokens by sharing cat memes and videos. The hook? Create an exclusive marketplace where holders can trade cat-themed NFTs or virtual goods for their pets. Engage the community by spotlighting user-generated content, proving that cats are not just cool, but a thriving meme economy in their own right.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1786866972793",
-    "ts": "2026-08-16T07:56:12.793Z",
-    "text": "Market cap reflects the current value of circulating tokens, while fully diluted valuation (FDV) accounts for all tokens, including those not yet in circulation. A significant gap between the two can signal a dilution risk; if a large number of tokens are still locked or not released, future supply increases could depress prices. Always factor in this gap when assessing long-term viability — it’s a key risk metric many overlook.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
