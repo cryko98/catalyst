@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787270498255",
+    "ts": "2026-08-21T00:01:38.255Z",
+    "text": "Liquidity depth is crucial in memecoins because it determines how easily you can enter or exit a position without impacting the price. Low liquidity means that even small trades can cause significant price swings, making your investment more volatile and unpredictable. A robust liquidity pool provides a safety cushion, allowing for smoother transactions and reducing the chances of slippage—key for navigating the erratic waters of memecoins. Always check this first; it sets the stage for everything else.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787269345640",
     "ts": "2026-08-20T23:42:25.640Z",
     "text": "Tokens based on KOL-names or hype are driven by short-term attention plays, not fundamentals. Their price action hinges on social media chatter and community sentiment rather than inherent value or utility. As interest fades, so does liquidity, leaving these coins vulnerable to sharp corrections — watch for the shifts in buzz.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T01:37:24.611Z",
     "text": "Always verify contract details on-chain before engaging with any token. Scammers often deploy lookalike contracts to trick naive investors, leading to potential losses. Make checking the authority and transaction history a habit; it’s your first line of defense against bad actors.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1786838141194",
-    "ts": "2026-08-15T23:55:41.194Z",
-    "text": "In memecoins, community isn't just an audience; it's the lifeblood. A passionate and engaged group powers memes, marketing, and liquidity events. Without strong community vibes, even the shiniest token fades into obscurity. When holders rally behind a shared narrative and build the culture, that's what drives sustained interest—not just speculative price bumps. Remember: in this space, memes are ephemeral, but communities can become enduring brands.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
