@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787309512190",
+    "ts": "2026-08-21T10:51:52.190Z",
+    "text": "Real volume reflects genuine trading activity driven by market participants making actual buy or sell decisions. Wash trading, however, is a manipulative tactic where the same entity buys and sells a token to create an illusion of high trading volume, potentially misleading others about demand. Distinguishing between the two requires scrutiny of trade patterns and external market sentiment — watch for sudden spikes without corresponding price movement; that’s often a red flag.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787307274238",
     "ts": "2026-08-21T10:14:34.238Z",
     "text": "High top-wallet concentration can signal rug risk in memecoins. If a few wallets hold significant portions of the supply, those holders could easily orchestrate sharp sell-offs or exit scams, dragging down prices quickly. Always check holder distribution before diving in — a more even spread reduces the risk of sudden liquidity vanishing with one click.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T09:57:51.058Z",
     "text": "Tokens tied to prominent KOLs (Key Opinion Leaders) often rely on hype rather than true fundamentals. Their value is driven by social media buzz, community engagement, and speculative trading rather than underlying utility or solid project metrics. This attention-driven market can quickly shift, leading to volatile swings influenced more by sentiment than substance, leaving latecomers at risk for sudden drops when the hype fades.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1786872987515",
-    "ts": "2026-08-16T09:36:27.515Z",
-    "text": "Always verify contract details directly on-chain before trusting any token. Fakes and scams abound, and a quick check can save you from losing funds. Use explorers like Solscan to confirm authorities and ensure the mint address matches official sources.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
