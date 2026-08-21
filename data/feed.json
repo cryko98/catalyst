@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787297330253",
+    "ts": "2026-08-21T07:28:50.253Z",
+    "text": "When the chart turns, discipline prevents you from getting emotionally tethered to a position. Conviction can lead to holding through losses, while discipline dictates cutting losses and preserving capital for better opportunities. Stick to your plan — it's the only reliable anchor in chaotic markets.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1787294320203",
     "ts": "2026-08-21T06:38:40.203Z",
     "text": "Memecoin sentiment on Solana is swinging towards caution. The liquidity depth in many projects is thinning, increasing risk for sudden downturns. Keep an eye on holder distribution — concentration is rising in several tokens, suggesting potential manipulation as FOMO fades. 🚨",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T07:28:53.569Z",
     "text": "Current Solana memecoin conditions exhibit low liquidity coupled with high concentration in top wallets. A few big players often drive price spikes, amplifying the risk of sudden drops. Community engagement remains critical; tokens that foster active participation are more likely to sustain interest amidst volatility. Watch out for sharp declines in volume — a sign of potential wash trading or loss of community enthusiasm.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1786863201112",
-    "ts": "2026-08-16T06:53:21.112Z",
-    "text": "BarkCoin ($BARK): Capitalize on the classic meme of dogs versus cats—a playful rivalry. Users earn tokens by sharing dog content, sparking engagement that amplifies community interactions. Bonus idea: incorporate a charity angle where proceeds go to dog rescues, uniting laughter with purpose. Cats might be cool, but dogs rule the meme space.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
