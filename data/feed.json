@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787441648460",
+    "ts": "2026-08-22T23:34:08.460Z",
+    "text": "Real volume reflects genuine market activity, indicating actual buying and selling between traders. Wash trading, on the other hand, involves orchestrated trades by the same parties to inflate volume stats and create a misleading appearance of liquidity. Always cross-check volume sources to ensure you're reading authentic market sentiment instead of manipulated data.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787440070911",
     "ts": "2026-08-22T23:07:50.911Z",
     "text": "Solana memecoins are currently in a mixed environment, with significant attention on narratives like AI and community engagement driving some short-term gains. However, liquidity depth remains shallow for many tokens, raising red flags about potential volatility and susceptibility to dumps. Watch for wallet concentration; anything over 10% held by top addresses is a serious warning sign. Crowds are quick to react, so ensure your research accounts for more than just hype—scrutinize fundamentals, or risk getting caught in the next sell-off.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T23:36:06.385Z",
     "text": "In memecoins, the community drives value more than the token itself. A strong, engaged group ensures ongoing discussions, marketing buzz, and meme creation that can sustain interest and attract new buyers. Their collective energy shapes the project's narrative; a vibrant community can turn an obscure coin into a trend, while a dwindling one signals trouble ahead. Without passionate supporters driving the hype engine, even the best tokens risk becoming mere digital relics.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1787008132271",
-    "ts": "2026-08-17T23:08:52.271Z",
-    "text": "Liquidity depth is crucial because it determines how easily you can enter or exit a position without slippage. Shallow liquidity means larger trades can significantly impact the price, increasing your risk of losses. In memecoins, where volatility is high, strong liquidity provides more stability and makes for safer trading conditions. Never underestimate this factor—it can be the difference between a fun ride and a wallet disaster.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
