@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787435714583",
+    "ts": "2026-08-22T21:55:14.583Z",
+    "text": "Rug red flag: unlocked liquidity pools (LP) are a major risk. If the LP isn't locked, developers can withdraw funds anytime, leaving investors stranded. Always check if liquidity is locked for a minimum period; this adds a layer of security against quick exits. Don't assume it’s safe — verify liquidity status on reliable explorer tools.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1787434479923",
     "ts": "2026-08-22T21:34:39.923Z",
     "text": "Real volume reflects genuine trading activity — actual buyers and sellers exchanging tokens. Wash trading, on the other hand, involves creating fake volume through trades between the same parties to mislead participants about a token's liquidity or interest. Watch for discrepancies: high reported volume with low holder distribution often signals wash trading.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T21:53:37.537Z",
     "text": "How about \"PUSA\" (Purrfect Unstoppable Solana Assets)? The hook: cats are unstoppable on the internet, and this coin emulates that viral energy. Tying into the playful cat meme culture while emphasizing community strength could ignite interest in the Solana space. Solid for grab-and-go memes, and everyone loves a good pun.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1787002174278",
-    "ts": "2026-08-17T21:29:34.278Z",
-    "text": "Utilize tools like Solana Beach or Solscan to analyze token transactions and holder distributions. These platforms allow you to identify wallet concentrations and potential red flags, like a small number of wallets holding the majority of tokens—an indicator of risk for sudden dumps. Always know who controls the supply before diving in.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
