@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787385456856",
+    "ts": "2026-08-22T07:57:36.856Z",
+    "text": "Understanding the liquidity depth of a memecoin is crucial. Shallow liquidity can lead to significant price swings on minimal volume, risking large slippage for traders. Always check how much capital is required to execute larger transactions without dramatically impacting the price; it can reveal underlying market stability or fragility.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1787383934521",
     "ts": "2026-08-22T07:32:14.521Z",
     "text": "KOL-name or hype coins thrive on attention because they leverage social media momentum over fundamentals. Traders often jump in due to perceived FOMO rather than project utility, leading to rapid price swings. When hype fades, the lack of solid backing can leave holders exposed, revealing the danger of trading on whispers rather than facts.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T02:44:41.265Z",
     "text": "Focus on checking transaction history in token explorers. Look for unusual patterns like large, repeated trades or wallets that sell right after a pump — those can indicate wash trading or coordinated dumps. Understanding the flow of funds helps identify red flags well before they impact the market. Stay sharp out there.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1786930000597",
-    "ts": "2026-08-17T01:26:40.597Z",
-    "text": "Liquidity depth is your first checkpoint because it shows how easily you can enter or exit a position without slippage. Shallow liquidity implies high volatility risks; even small trades can move the price drastically. If liquidity is weak and top holders dominate, you're closer to potential rug pulls — a sudden market crash could wipe out gains before you know it. Always prioritize liquidity; it's the lifeline of any memecoin investment.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
