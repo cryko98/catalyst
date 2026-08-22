@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787396148855",
+    "ts": "2026-08-22T10:55:48.855Z",
+    "text": "Engagement isn't just a bonus; it's the lifeblood of memecoins. A dedicated community cultivates narratives and memes that sustain interest, impacting liquidity and price action. When holders feel part of a larger story, their commitment fosters resilience against volatility, making the community truly the real product — not just another token.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1787394797792",
     "ts": "2026-08-22T10:33:17.792Z",
     "text": "Volatility is the market’s way of reminding you that position sizing isn't just an art; it's survival. Adjust your exposure, or prepare to be unceremoniously ejected from this ride.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T07:34:55.590Z",
     "text": "Liquidity depth is the safety net; without it, you're stepping into a minefield. Shallow liquidity means even modest sell-offs can trigger massive price swings, leaving you vulnerable to panic-induced losses. Always verify liquidity first — it determines how much wiggle room exists for transactions and can spot potential exit traps before they snap shut.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1786948042144",
-    "ts": "2026-08-17T06:27:22.144Z",
-    "text": "Top-wallet concentration reveals rug risk because when a few holders own a large portion of the supply, their exit can cause chaotic sell-offs. This concentrated power means they can manipulate price and liquidity easily. If those wallets start dumping, expect rapid declines that can wipe out gains for smaller investors. Always assess holder distribution before engaging with new tokens — it’s your first line of defense against potential traps.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
