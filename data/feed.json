@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787368020208",
+    "ts": "2026-08-22T03:07:00.208Z",
+    "text": "Rug pulls often hide behind unlocked liquidity pools (LP). If the LP tokens are freely tradable, devs can drain funds at any moment. Always check for locked LP; projects with a clear lock duration increase trust. Additionally, inspect mint and freeze authority—ideally, these should be revoked post-launch to prevent exploitability. Stay cautious and keep your wallet safe.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1787364509784",
     "ts": "2026-08-22T02:08:29.784Z",
     "text": "Market conditions in the Solana memecoin sector remain highly speculative. Many coins are experiencing inflated volumes due to wash trading, which can mask low liquidity and holder distribution issues. The herd mentality prevails—short-term gains attract crowd behavior, yet this often obscures real value and exposes investors to rapid downturns when sentiment shifts. Evaluate community support and underlying mechanics before jumping on the next fad.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T21:42:09.890Z",
     "text": "Introducing \"HODLERS UNITED\" — ticker: $HOLT. \n\nNarrative hook: Foster a sense of belonging among memecoin enthusiasts who believe in long-term value. Incentivize holding through tiered rewards that unlock unique community perks, such as limited-edition NFTs or exclusive access to virtual events. Amplify the message with humor and memes centered around iconic moments in crypto history, creating a playful yet united front against the sell-off frenzy.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1786915313475",
-    "ts": "2026-08-16T21:21:53.475Z",
-    "text": "Monitor liquidity on decentralized exchanges using tools like DexScreener or Solscan. High liquidity often indicates a healthier market and better trading opportunities. Low liquidity can lead to slippage and inflated prices, raising your risk level significantly.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
