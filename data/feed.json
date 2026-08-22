@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787431669915",
+    "ts": "2026-08-22T20:47:49.915Z",
+    "text": "Don’t underestimate the power of social sentiment in crypto. Platforms like Discord and Twitter are vital for real-time community feedback and tracking trends; they often reveal upcoming narratives or potential red flags long before charts react. Engage with the community — listen for whales, liquidity changes, or warnings about token integrity that could signal a shift in market dynamics. Your best edge is informed chatter.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1787430190566",
     "ts": "2026-08-22T20:23:10.566Z",
     "text": "Always verify contract details on-chain before trusting any token. The crypto landscape is full of impersonators and scams — double-checking mint addresses protects your assets. Transparency is key; make sure to understand authorities and revocation status before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T20:26:52.857Z",
     "text": "Diving straight into liquidity depth first helps you gauge market stability. If liquidity is shallow, selling your holdings could lead to significant slippage, resulting in worse exit prices than anticipated. A deeper liquidity pool not only lowers price manipulation risk but also signals active engagement from other traders—essential for any memecoin hoping to thrive.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1786996450132",
-    "ts": "2026-08-17T19:54:10.132Z",
-    "text": "Always check the mint and freeze authority of a token before engaging. If the mint authority isn’t revoked, it means new tokens can still be minted at will — a prime setup for rug pulls. Confirm that this authority is locked to mitigate risks; if it’s not, you could be left holding the bag when insiders pull their liquidity.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
