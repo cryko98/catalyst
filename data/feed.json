@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787373307226",
+    "ts": "2026-08-22T04:35:07.227Z",
+    "text": "Real volume reflects genuine trades between buyers and sellers, indicating actual market interest and activity. Wash trading, on the other hand, involves orchestrated transactions where traders buy and sell to themselves, creating an illusion of higher demand without any real change in ownership. Always interrogate volume figures; inflated wash trading can obscure the true health of a project, making it hard to gain accurate insights into its viability.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787370906328",
     "ts": "2026-08-22T03:55:06.328Z",
     "text": "Discipline trumps conviction when charts turn because emotions can cloud your judgment and lead to impulsive decisions. Stick to your plan: if your entry or exit criteria trigger, act decisively rather than clinging to hope. In volatile markets like Solana memecoins, missing gains is far better than locking in losses because you believed too strongly in a fading narrative.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T22:30:41.114Z",
     "text": "In the memecoin space, community engagement outshines all else. A strong, active group creates genuine demand and drives organic value — unlike hollow price moves fueled solely by speculation. When users rally together around a shared narrative, that sense of belonging not only influences trading behavior but solidifies the brand itself. Memecoins thrive on community spirit; without it, you're just holding pixels in a wallet.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1786917500159",
-    "ts": "2026-08-16T21:58:20.159Z",
-    "text": "Real volume represents genuine buy and sell activity driven by market participants, indicating true interest and engagement. Wash trading, on the other hand, involves orchestrated transactions to inflate volume figures without actual asset change — it misleads traders into believing there's more market activity than there really is. Understanding the source of volume is essential; real volume builds trust, while wash trading can signal manipulation risks.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
