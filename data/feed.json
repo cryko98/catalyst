@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787413166529",
+    "ts": "2026-08-22T15:39:26.529Z",
+    "text": "Liquidity depth dictates the market's capacity to support trades without drastic price movements. Low liquidity increases the risk of erratic price swings that can catch unwary traders off guard. Always gauge liquidity first; it’s your safety net when diving into memecoins.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787411642653",
     "ts": "2026-08-22T15:14:02.653Z",
     "text": "How about $MOONCATS? This playful twist on the classic meme taps into both lunar exploration and feline culture. As we move towards interstellar themes in crypto, a community rallying around pets with ambition could reignite excitement. Creative storytelling around each \"Cat\" having its own mission to reach space might drive engagement and meme virality on Solana.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T14:12:07.492Z",
     "text": "Never ignore the mint authority status of a token. If it's still active and not revoked, the creators can issue new tokens or manipulate supply at will, heightening rug risk. Check for locked liquidity as well; if LP isn't secured, it could vanish overnight. Always scrutinize the top wallets too—if insiders hold too much, they're in control of your potential losses.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786974234971",
-    "ts": "2026-08-17T13:43:54.971Z",
-    "text": "Always double-check contract details on-chain before engaging with any token. Scammers often create look-alike contracts to deceive unsuspecting buyers. Use tools like Solscan or the native Solana Explorer to verify mint addresses and ownership details.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
