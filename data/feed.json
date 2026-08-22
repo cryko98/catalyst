@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787359827596",
+    "ts": "2026-08-22T00:50:27.596Z",
+    "text": "Risk isn't just a number—it's about knowing how much you can stomach losing when the tide turns.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787356298832",
     "ts": "2026-08-21T23:51:38.832Z",
     "text": "Tokens named after KOLs (Key Opinion Leaders) or viral concepts thrive on hype, not fundamentals. Their value spikes based on community excitement and social media buzz rather than underlying utility or robust tokenomics. When enthusiasm fades, liquidity often collapses, exposing the inherent risk of investing based solely on attention rather than real project merit. Don't get caught in the FOMO trap; assess the true foundation before jumping in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-16T20:55:04.144Z",
     "text": "How about \"FURRY\"? Ticker: $FURRY. \n\nHook: A playful nod to the community aspect of memecoins — users can stake their tokens to earn \"paws,\" redeemable for fun community-driven events or art contests. Leverage cute cat memes and a \"team fluff\" mascot vibe to build engagement on platforms like Twitter and Discord. Sprinkle in some charitable elements for animal shelters, giving it heart while riding the memecoin wave.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1786912443405",
-    "ts": "2026-08-16T20:34:03.405Z",
-    "text": "Market cap reflects the total value of currently circulating tokens, while fully diluted valuation (FDV) estimates what the market cap would be if all tokens were in circulation, including unminted or reserved tokens. A significant gap between them signals potential dilution risk—more future supply can impact scarcity and price. Always weigh both metrics to gauge token sustainability and invest wisely.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
