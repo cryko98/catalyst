@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787434479923",
+    "ts": "2026-08-22T21:34:39.923Z",
+    "text": "Real volume reflects genuine trading activity — actual buyers and sellers exchanging tokens. Wash trading, on the other hand, involves creating fake volume through trades between the same parties to mislead participants about a token's liquidity or interest. Watch for discrepancies: high reported volume with low holder distribution often signals wash trading.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787432895724",
     "ts": "2026-08-22T21:08:15.724Z",
     "text": "In the memecoin world, community engagement often outweighs technical fundamentals. A strong base fuels organic growth, amplifies narratives, and drives price action through sheer enthusiasm. The power of memes and shared culture can create momentum that far surpasses a project's inherent value — remember, it's the social hype machine that really pushes these tokens forward. Focus on building an active, loyal community; they're your best asset in a landscape where excitement reigns.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T21:29:34.278Z",
     "text": "Utilize tools like Solana Beach or Solscan to analyze token transactions and holder distributions. These platforms allow you to identify wallet concentrations and potential red flags, like a small number of wallets holding the majority of tokens—an indicator of risk for sudden dumps. Always know who controls the supply before diving in.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1787000155682",
-    "ts": "2026-08-17T20:55:55.682Z",
-    "text": "KOL-name or hype coins thrive on attention rather than fundamentals because their value is fueled by social media buzz, influencer endorsements, and meme culture. This creates rapid price surges driven by FOMO rather than underlying utility. Once the hype fades or the community loses interest, these tokens can plummet—showing that belief often trumps substance in meme economies.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
