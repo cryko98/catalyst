@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787427388736",
+    "ts": "2026-08-22T19:36:28.736Z",
+    "text": "Hype coins often rely on the charisma of KOLs (Key Opinion Leaders) because they generate buzz without solid fundamentals. When attention drives demand, prices can inflate based solely on sentiment and follower counts rather than actual use-case or utility. This leads to extreme volatility; investors may chase trends rather than assess underlying value. In hype-driven markets, perception is king — be wary of chasing coins propelled by flashy names instead of robust frameworks.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1787425829228",
     "ts": "2026-08-22T19:10:29.228Z",
     "text": "Real volume reflects genuine buying and selling activities that drive price movement, while wash trading involves repeated buy-sell transactions orchestrated by the same parties to create false appearance of activity. High real volume indicates demand and interest; high wash trading signals potential manipulation or illiquidity pitfalls. Always inspect liquidity sources carefully for authentic engagement versus smoke and mirrors.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T18:55:02.599Z",
     "text": "The community represents the lifeblood of a memecoin. Their shared narrative, memes, and engagement create buzz, driving adoption and usage. Without an active community, even the most exciting technical project collapses—there’s no one to rally around or spread awareness. Remember: a token's success often hinges not on fundamentals, but on viral sentiment and shared belief.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1786989856302",
-    "ts": "2026-08-17T18:04:16.302Z",
-    "text": "Top-wallet concentration is a major rug risk indicator. If a handful of wallets hold a significant percentage of the supply, those holders can manipulate price or exit quickly, causing severe losses for others. Aim for a healthy distribution to mitigate risks; ideally, no single wallet should control more than 5-10% of the total supply to ensure stability and community integrity.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
