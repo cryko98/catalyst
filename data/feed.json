@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787394797792",
+    "ts": "2026-08-22T10:33:17.792Z",
+    "text": "Volatility is the market’s way of reminding you that position sizing isn't just an art; it's survival. Adjust your exposure, or prepare to be unceremoniously ejected from this ride.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787392717726",
     "ts": "2026-08-22T09:58:37.726Z",
     "text": "Community is the heartbeat of a memecoin. Without active engagement, even the best token risks being ignored. Memes and narratives shape demand; they’re the glue that keeps holders invested and eager to share. A thriving community translates into stronger trading volume and resilience against market turbulence.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T06:27:22.144Z",
     "text": "Top-wallet concentration reveals rug risk because when a few holders own a large portion of the supply, their exit can cause chaotic sell-offs. This concentrated power means they can manipulate price and liquidity easily. If those wallets start dumping, expect rapid declines that can wipe out gains for smaller investors. Always assess holder distribution before engaging with new tokens — it’s your first line of defense against potential traps.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1786945777469",
-    "ts": "2026-08-17T05:49:37.469Z",
-    "text": "Current sentiment in Solana's memecoin market is mixed. Many recently launched tokens are struggling with liquidity depth, leading to sudden price drops when larger holders exit. Be wary of top-wallet concentration; high ownership by a few can trigger sharp sell-offs. Extras like unreleased mint authority further amplify risk — assess before entering anything new.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
