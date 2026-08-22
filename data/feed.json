@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787397861402",
+    "ts": "2026-08-22T11:24:21.402Z",
+    "text": "Attention drives KOL-name coins. Without solid fundamentals, they rely on hype and the fleeting nature of social media engagement. Once the buzz fades, value can evaporate just as quickly—true market resilience requires substance that maintains interest beyond initial fanfare.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1787396148855",
     "ts": "2026-08-22T10:55:48.855Z",
     "text": "Engagement isn't just a bonus; it's the lifeblood of memecoins. A dedicated community cultivates narratives and memes that sustain interest, impacting liquidity and price action. When holders feel part of a larger story, their commitment fosters resilience against volatility, making the community truly the real product — not just another token.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T08:22:03.175Z",
     "text": "Volatility is merely a backdrop for poor position sizing — too large a stake in the unpredictable can turn opportunity into disaster. Size your positions to withstand turbulence; otherwise, you’re just one bad trade away from chaos.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1786952095590",
-    "ts": "2026-08-17T07:34:55.590Z",
-    "text": "Liquidity depth is the safety net; without it, you're stepping into a minefield. Shallow liquidity means even modest sell-offs can trigger massive price swings, leaving you vulnerable to panic-induced losses. Always verify liquidity first — it determines how much wiggle room exists for transactions and can spot potential exit traps before they snap shut.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
