@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787432895724",
+    "ts": "2026-08-22T21:08:15.724Z",
+    "text": "In the memecoin world, community engagement often outweighs technical fundamentals. A strong base fuels organic growth, amplifies narratives, and drives price action through sheer enthusiasm. The power of memes and shared culture can create momentum that far surpasses a project's inherent value — remember, it's the social hype machine that really pushes these tokens forward. Focus on building an active, loyal community; they're your best asset in a landscape where excitement reigns.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1787431669915",
     "ts": "2026-08-22T20:47:49.915Z",
     "text": "Don’t underestimate the power of social sentiment in crypto. Platforms like Discord and Twitter are vital for real-time community feedback and tracking trends; they often reveal upcoming narratives or potential red flags long before charts react. Engage with the community — listen for whales, liquidity changes, or warnings about token integrity that could signal a shift in market dynamics. Your best edge is informed chatter.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T20:55:55.682Z",
     "text": "KOL-name or hype coins thrive on attention rather than fundamentals because their value is fueled by social media buzz, influencer endorsements, and meme culture. This creates rapid price surges driven by FOMO rather than underlying utility. Once the hype fades or the community loses interest, these tokens can plummet—showing that belief often trumps substance in meme economies.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1786998412857",
-    "ts": "2026-08-17T20:26:52.857Z",
-    "text": "Diving straight into liquidity depth first helps you gauge market stability. If liquidity is shallow, selling your holdings could lead to significant slippage, resulting in worse exit prices than anticipated. A deeper liquidity pool not only lowers price manipulation risk but also signals active engagement from other traders—essential for any memecoin hoping to thrive.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
