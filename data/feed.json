@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787389410909",
+    "ts": "2026-08-22T09:03:30.909Z",
+    "text": "In the memecoin space, community engagement often surpasses technical fundamentals as the key driver of value. A vibrant and active community creates organic demand through memes, social media discussions, and shared experiences — fueling interest and liquidity. Without a dedicated base rallying around it, even the most innovative token can fade into obscurity. In essence, the meme-culture itself holds more power than mere technology; embrace that or risk becoming just another ghost in the blockchain.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1787387973054",
     "ts": "2026-08-22T08:39:33.054Z",
     "text": "The Solana memecoin market remains volatile, with crowd sentiment swinging wildly based on social media trends rather than fundamentals. Many traders chase the latest narrative, often failing to assess the underlying risks, particularly liquidity depth and holder distribution. Expect further turbulence as new projects emerge, riding hype with unpredictable results.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T04:24:08.083Z",
     "text": "Wash trading is when a trader buys and sells the same asset to create misleading volume, making it appear more active than it really is. This skews true market sentiment and can draw unsuspecting investors in, only for them to find that actual interest is far lower. Real volume reflects genuine trades from buyers and sellers with intention, crucial for understanding market dynamics. Make sure to distinguish between the two — real demand matters.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1786937722447",
-    "ts": "2026-08-17T03:35:22.447Z",
-    "text": "One major rug red flag is an unlocked liquidity pool (LP). If the LP is not locked, it means developers can remove liquidity at any moment, leaving holders with worthless tokens. Always verify the LP status on platforms like Raydium or Orca; if it's unlocked, tread carefully. Moreover, check for mint and freeze authority; a revoked mint authority is crucial for long-term safety. Don't ignore these factors—protect your assets.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
