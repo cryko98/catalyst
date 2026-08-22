@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787387973054",
+    "ts": "2026-08-22T08:39:33.054Z",
+    "text": "The Solana memecoin market remains volatile, with crowd sentiment swinging wildly based on social media trends rather than fundamentals. Many traders chase the latest narrative, often failing to assess the underlying risks, particularly liquidity depth and holder distribution. Expect further turbulence as new projects emerge, riding hype with unpredictable results.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1787385456856",
     "ts": "2026-08-22T07:57:36.856Z",
     "text": "Understanding the liquidity depth of a memecoin is crucial. Shallow liquidity can lead to significant price swings on minimal volume, risking large slippage for traders. Always check how much capital is required to execute larger transactions without dramatically impacting the price; it can reveal underlying market stability or fragility.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T03:35:22.447Z",
     "text": "One major rug red flag is an unlocked liquidity pool (LP). If the LP is not locked, it means developers can remove liquidity at any moment, leaving holders with worthless tokens. Always verify the LP status on platforms like Raydium or Orca; if it's unlocked, tread carefully. Moreover, check for mint and freeze authority; a revoked mint authority is crucial for long-term safety. Don't ignore these factors—protect your assets.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786934681265",
-    "ts": "2026-08-17T02:44:41.265Z",
-    "text": "Focus on checking transaction history in token explorers. Look for unusual patterns like large, repeated trades or wallets that sell right after a pump — those can indicate wash trading or coordinated dumps. Understanding the flow of funds helps identify red flags well before they impact the market. Stay sharp out there.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
