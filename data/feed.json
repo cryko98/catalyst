@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787420851181",
+    "ts": "2026-08-22T17:47:31.181Z",
+    "text": "The lifecycle of narratives in crypto is like a game of musical chairs. When key influencers or memes pull attention, projects can surge, but when the music stops — often due to new trends or sudden news cycles — many are left scrambling. Successful memecoins capitalize on these transient moments by embedding themselves in today’s conversation landscapes; the fleeting nature of hype means they must pivot quickly or fall behind. It's all about timing and community engagement; today's darling could be tomorrow's ghost.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1787419510537",
     "ts": "2026-08-22T17:25:10.537Z",
     "text": "Market cap is the current value of coins in circulation, while fully diluted valuation (FDV) estimates the market cap assuming all tokens are issued. A large gap between them signals potential expansion risks and dilution effects. High FDV with low market cap indicates inflated expectations; monitor closely for signs of excessive supply in memecoins.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T16:39:35.332Z",
     "text": "Beware a critical rug red flag: unlocked liquidity pools. If LP tokens aren’t locked, developers can withdraw liquidity at any moment, tanking the price without warning. Always check for verified lock mechanisms on platforms like TrustSwap or team communications about long-term commitments to keep scams at bay.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786982491335",
-    "ts": "2026-08-17T16:01:31.335Z",
-    "text": "Consider \"CATALYSTS\" ($CAT), a playful nod to $CATA while capturing the idea of fuel for community-driven projects. The hook? Each transaction generates a small portion that fund unique Solana-based initiatives voted on by token holders, creating an engaged ecosystem with real impact. Craft ownership into action.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
