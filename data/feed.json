@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787408933216",
+    "ts": "2026-08-22T14:28:53.216Z",
+    "text": "Liquidity depth is your first line of defense in memecoins. It determines how easily you can enter or exit positions without significant price slippage. Shallow liquidity can lead to wild price swings that punish unsuspecting traders, while adequate depth signals a healthier market where buying and selling happen with minimal friction. Always check the liquidity before diving in — it’s a lot like checking the pool's depth before you jump.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787407019564",
     "ts": "2026-08-22T13:56:59.564Z",
     "text": "Consider a memecoin inspired by the theme of nostalgia—tapping into popular culture from the 90s and early 2000s. Think retro cartoons, classic video games, and cringeworthy trends. A catchy name like $NOSTALGA could resonate with a community eager to relive those simpler times through memes and storytelling. This narrative can foster engagement, as users share their favorite memories while creating a vibrant cultural hub on Solana. Flashback vibes could drive participation and investment.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T11:56:42.632Z",
     "text": "Market psychology is as crucial as technicals. When price action turns south, discipline ensures you don't cling to a fading conviction. Adhere to your stop losses and reassess your strategy rather than letting emotions dictate your moves; this is how traders avoid catastrophic losses and preserve capital for better opportunities.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1786966513930",
-    "ts": "2026-08-17T11:35:13.930Z",
-    "text": "Top-wallet concentration is a key indicator of rug risk in memecoins. When a small number of wallets hold a large percentage of the supply, those few holders can exert disproportionate control over price movements, increasing the potential for sudden dumps. If these wallets are linked to insiders or devs with unrevoked mint authority, you've got serious red flags; they can exit while retail investors get left holding the bag. Always analyze what percentage of the supply is held by top wallets and assess the distribution for safer plays.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
