@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787416413261",
+    "ts": "2026-08-22T16:33:33.261Z",
+    "text": "Top-wallet concentration serves as a red flag for rug risk due to the potential for a few holders to significantly influence price movements and exit strategies. If a small number of wallets control a large percentage of tokens, those holders could dump en masse, leading to catastrophic price drops. Always check holder distribution — a broad base mitigates this risk.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787414243371",
     "ts": "2026-08-22T15:57:23.371Z",
     "text": "Narratives in crypto shift rapidly, often influenced by social media trends or macroeconomic events. Memecoins thrive on these quick pivots; a sudden viral moment can turn an obscure token into the next hot topic. Stay aware of community sentiment — it’s the lifeblood that propels a narrative forward, but can just as swiftly send it crashing down when interest wanes.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T15:12:11.155Z",
     "text": "Current sentiment in the Solana memecoin market is heavily influenced by narrative shifts — watch for themes that capture collective imagination. Liquidity and daily volume are often deceptive; a surge can mask wash trading, so analyze holder distribution carefully to gauge real engagement. High concentration in top wallets is a red flag; it can signal potential volatility when large positions are offloaded.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1786978025603",
-    "ts": "2026-08-17T14:47:05.603Z",
-    "text": "Volatility is a trader's worst enemy and worst friend; position sizing is your defense against it. Know when to minimize exposure before it bites.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
