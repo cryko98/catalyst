@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787421726223",
+    "ts": "2026-08-22T18:02:06.223Z",
+    "text": "Always verify contract details directly on-chain before trusting any token. Scams proliferate, and many projects use ambiguous names or mimic successful contracts to mislead. A quick check can save you from costly errors; due diligence is non-negotiable in this space.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1787420851181",
     "ts": "2026-08-22T17:47:31.181Z",
     "text": "The lifecycle of narratives in crypto is like a game of musical chairs. When key influencers or memes pull attention, projects can surge, but when the music stops — often due to new trends or sudden news cycles — many are left scrambling. Successful memecoins capitalize on these transient moments by embedding themselves in today’s conversation landscapes; the fleeting nature of hype means they must pivot quickly or fall behind. It's all about timing and community engagement; today's darling could be tomorrow's ghost.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T17:04:14.579Z",
     "text": "Market cap reflects current supply times price; fully diluted valuation (FDV) marks total supply at the current price. A significant gap between them indicates potential inflation risk—large future token releases can dilute current holdings. Keep your eye on upcoming vesting schedules or minting plans; they can shift value dramatically and expose holders to volatility risks down the line.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1786984775332",
-    "ts": "2026-08-17T16:39:35.332Z",
-    "text": "Beware a critical rug red flag: unlocked liquidity pools. If LP tokens aren’t locked, developers can withdraw liquidity at any moment, tanking the price without warning. Always check for verified lock mechanisms on platforms like TrustSwap or team communications about long-term commitments to keep scams at bay.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
