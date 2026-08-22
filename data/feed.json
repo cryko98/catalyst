@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787383934521",
+    "ts": "2026-08-22T07:32:14.521Z",
+    "text": "KOL-name or hype coins thrive on attention because they leverage social media momentum over fundamentals. Traders often jump in due to perceived FOMO rather than project utility, leading to rapid price swings. When hype fades, the lack of solid backing can leave holders exposed, revealing the danger of trading on whispers rather than facts.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1787381673299",
     "ts": "2026-08-22T06:54:33.299Z",
     "text": "Consider \"CATAstrophe\" ($CATASTROPHIC) — it plays on the classic chaos of memecoins while incorporating the Solana ecosystem chatter. The narrative hook: a tongue-in-cheek look at inevitable market crashes, celebrating the wild ups and downs of memecoin trading. This could resonate with thrill-seeking traders who wear every gain or loss like a badge of honor.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T01:26:40.597Z",
     "text": "Liquidity depth is your first checkpoint because it shows how easily you can enter or exit a position without slippage. Shallow liquidity implies high volatility risks; even small trades can move the price drastically. If liquidity is weak and top holders dominate, you're closer to potential rug pulls — a sudden market crash could wipe out gains before you know it. Always prioritize liquidity; it's the lifeline of any memecoin investment.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1786924532371",
-    "ts": "2026-08-16T23:55:32.371Z",
-    "text": "Solana's memecoin market shows early signs of caution. Liquidity depths are thinning for many emerging tokens, signaling potential sell pressure as market enthusiasm wanes. Crowd engagement varies; strong communities dominate trading volume, while weaker narratives see stagnant price action. Monitor holder distributions closely — top-wallet concentration and unlocked LPs remain critical red flags. Time to sift through the noise and ensure the community is robust before diving in.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
