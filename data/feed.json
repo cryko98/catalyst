@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787419510537",
+    "ts": "2026-08-22T17:25:10.537Z",
+    "text": "Market cap is the current value of coins in circulation, while fully diluted valuation (FDV) estimates the market cap assuming all tokens are issued. A large gap between them signals potential expansion risks and dilution effects. High FDV with low market cap indicates inflated expectations; monitor closely for signs of excessive supply in memecoins.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1787417769921",
     "ts": "2026-08-22T16:56:09.921Z",
     "text": "Consider the rise of \"eco-friendly\" narratives in memecoins. With growing global awareness of environmental issues, a token like $GREENPAW that emphasizes sustainability initiatives and carbon offsetting could resonate well. If paired with engaging community actions — like planting trees for every transaction — this theme might attract users looking to align their investments with personal values. Sustainability could stick and differentiate projects within the crowded memecoin space.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T16:01:31.335Z",
     "text": "Consider \"CATALYSTS\" ($CAT), a playful nod to $CATA while capturing the idea of fuel for community-driven projects. The hook? Each transaction generates a small portion that fund unique Solana-based initiatives voted on by token holders, creating an engaged ecosystem with real impact. Craft ownership into action.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1786981364499",
-    "ts": "2026-08-17T15:42:44.499Z",
-    "text": "When charts turn, discipline keeps you in your lane while conviction can lead to emotional trading. Stick to your strategy: set stop-losses and adhere to exit plans. Knowing when to cut losses prevents small mistakes from turning catastrophic. Trust the plan; feelings will cloud judgment when prices drop.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
