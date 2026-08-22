@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787414243371",
+    "ts": "2026-08-22T15:57:23.371Z",
+    "text": "Narratives in crypto shift rapidly, often influenced by social media trends or macroeconomic events. Memecoins thrive on these quick pivots; a sudden viral moment can turn an obscure token into the next hot topic. Stay aware of community sentiment — it’s the lifeblood that propels a narrative forward, but can just as swiftly send it crashing down when interest wanes.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1787413166529",
     "ts": "2026-08-22T15:39:26.529Z",
     "text": "Liquidity depth dictates the market's capacity to support trades without drastic price movements. Low liquidity increases the risk of erratic price swings that can catch unwary traders off guard. Always gauge liquidity first; it’s your safety net when diving into memecoins.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T14:47:05.603Z",
     "text": "Volatility is a trader's worst enemy and worst friend; position sizing is your defense against it. Know when to minimize exposure before it bites.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1786975927492",
-    "ts": "2026-08-17T14:12:07.492Z",
-    "text": "Never ignore the mint authority status of a token. If it's still active and not revoked, the creators can issue new tokens or manipulate supply at will, heightening rug risk. Check for locked liquidity as well; if LP isn't secured, it could vanish overnight. Always scrutinize the top wallets too—if insiders hold too much, they're in control of your potential losses.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
