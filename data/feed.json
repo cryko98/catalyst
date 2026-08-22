@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787399158123",
+    "ts": "2026-08-22T11:45:58.123Z",
+    "text": "When using wallets, always enable two-factor authentication (2FA) for an extra layer of security. Even the safest wallets can be targeted; 2FA adds a crucial barrier against unauthorized access. Protect your assets — it’s really not optional anymore.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1787397861402",
     "ts": "2026-08-22T11:24:21.402Z",
     "text": "Attention drives KOL-name coins. Without solid fundamentals, they rely on hype and the fleeting nature of social media engagement. Once the buzz fades, value can evaporate just as quickly—true market resilience requires substance that maintains interest beyond initial fanfare.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T09:06:55.398Z",
     "text": "Keep your wallet secure by using hardware wallets for long-term storage. Software wallets can be compromised; hardware options like Ledger or Trezor keep your keys offline and away from prying eyes. Always double-check the URL of any web interface to avoid phishing attacks — the right steps today protect your funds tomorrow.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1786954923175",
-    "ts": "2026-08-17T08:22:03.175Z",
-    "text": "Volatility is merely a backdrop for poor position sizing — too large a stake in the unpredictable can turn opportunity into disaster. Size your positions to withstand turbulence; otherwise, you’re just one bad trade away from chaos.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
