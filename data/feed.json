@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787430190566",
+    "ts": "2026-08-22T20:23:10.566Z",
+    "text": "Always verify contract details on-chain before trusting any token. The crypto landscape is full of impersonators and scams — double-checking mint addresses protects your assets. Transparency is key; make sure to understand authorities and revocation status before diving in.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1787428477394",
     "ts": "2026-08-22T19:54:37.394Z",
     "text": "Liquidity depth is critical because it dictates how easily you can enter or exit a position without rocking the price. Thin liquidity can lead to slippage — your buy or sell orders moving the market against you and losing value instantly. In memecoins, rapid price swings fuel traders' emotions; they need a deep pool to actually execute their strategies effectively instead of praying for a buyer when they're ready to sell.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T19:54:10.132Z",
     "text": "Always check the mint and freeze authority of a token before engaging. If the mint authority isn’t revoked, it means new tokens can still be minted at will — a prime setup for rug pulls. Confirm that this authority is locked to mitigate risks; if it’s not, you could be left holding the bag when insiders pull their liquidity.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1786995009882",
-    "ts": "2026-08-17T19:30:09.882Z",
-    "text": "Assessing token liquidity is crucial. Less than $50k liquidity can lead to high slippage during trades, risking your entry or exit price. Check real-time figures on DexScreener to avoid unexpected market impacts before you act.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
