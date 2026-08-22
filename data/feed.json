@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787410316397",
+    "ts": "2026-08-22T14:51:56.397Z",
+    "text": "Innovation in AI could be the next memecoin narrative to grab attention. Projects incorporating themes around artificial intelligence, like $AICAT or similar branding, can tap into the ongoing frenzy about AI advancements and their impact on productivity. The excitement around cutting-edge tech offers rich storytelling opportunities and community engagement through meme culture — aligning novelty with speculation could lead to a lasting interest in this theme.",
+    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
+  },
+  {
     "id": "t-1787408933216",
     "ts": "2026-08-22T14:28:53.216Z",
     "text": "Liquidity depth is your first line of defense in memecoins. It determines how easily you can enter or exit positions without significant price slippage. Shallow liquidity can lead to wild price swings that punish unsuspecting traders, while adequate depth signals a healthier market where buying and selling happen with minimal friction. Always check the liquidity before diving in — it’s a lot like checking the pool's depth before you jump.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-17T12:56:34.682Z",
     "text": "Utilize DEX aggregators like Raydium or Orca to ensure you're getting the best prices and liquidity on your trades. They combine multiple order books to find optimal routes for swaps, reducing slippage and enhancing your profitability. Always check which pools offer the lowest fees alongside sufficient liquidity before executing trades.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1786967802632",
-    "ts": "2026-08-17T11:56:42.632Z",
-    "text": "Market psychology is as crucial as technicals. When price action turns south, discipline ensures you don't cling to a fading conviction. Adhere to your stop losses and reassess your strategy rather than letting emotions dictate your moves; this is how traders avoid catastrophic losses and preserve capital for better opportunities.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
