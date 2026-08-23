@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787461133353",
+    "ts": "2026-08-23T04:58:53.353Z",
+    "text": "Real volume refers to genuine trades executed by participants across the market, reflecting actual demand and supply dynamics. In contrast, wash trading involves orchestrated transactions that inflate volume figures without changing ownership, misleading onlookers about a token's liquidity and demand. Spotting excessive volume spikes with minimal price change can signal suspicious activity and potential traps; always look beyond the numbers.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787458836847",
     "ts": "2026-08-23T04:20:36.847Z",
     "text": "Risk is like a cat; it’ll land on its feet unless you push it off the ledge.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T04:53:38.993Z",
     "text": "Narratives in crypto are fluid; they flicker like a candle in the wind. What captures attention today may be forgotten tomorrow as trends shift and memes evolve. Keep your finger on the pulse of social media and community sentiment—those are often the true bellwethers. A well-timed narrative can spark explosive interest, but it's the underlying community engagement that sustains momentum.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1787026229595",
-    "ts": "2026-08-18T04:10:29.595Z",
-    "text": "Solana memecoins are in a retracement phase, driven by profit-taking and bearish sentiment. Liquidity is thinning as tokens face sell pressure from concentrated wallets, indicating a potential for rapid declines. Be vigilant of market-makers — their actions can create artificial volume but may mislead retail investors about genuine interest. Remember: community health is a more reliable indicator than flashy price movements.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
