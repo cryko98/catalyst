@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787506477481",
+    "ts": "2026-08-23T17:34:37.481Z",
+    "text": "Always start with liquidity depth when analyzing a memecoin. It reveals how easily you can enter or exit positions without drastically affecting the price — essential for survival in a volatile market. Shallow liquidity invites manipulation and increases your risk of getting trapped during sudden moves. Prioritizing liquidity gives you a clearer picture of true market interest and helps spot potential red flags.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787504966665",
     "ts": "2026-08-23T17:09:26.665Z",
     "text": "Consider a memecoin called $CATNIP, each token representing a unique breed of cat. The narrative: \"Fueling the next feline revolution!\" would tap into both pet culture and the quirky nature of NFTs by allowing holders to breed virtual cats and trade them on Solana. Gamifying ownership could build a vibrant community around adoption and charitable pet initiatives. Execution is key, but the concept plays well—everyone loves cats, and uniqueness can drive engagement.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T19:55:00.516Z",
     "text": "High top-wallet concentration raises red flags for rug risk because if a few addresses control a significant portion of the supply, they can manipulate price easily or exit en masse. This creates vulnerability; if those wallets cash out suddenly, it can lead to catastrophic price drops. Always analyze wallet distribution before engaging — community-driven liquidity is crucial for safety in memecoins.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1787081719719",
-    "ts": "2026-08-18T19:35:19.719Z",
-    "text": "KOL-name or hype coins thrive on crowd psychology, not fundamentals. Their value often hinges on the influencers backing them and the buzz they generate — attention becomes their primary asset. Genuine utility? Secondary at best; community sentiment drives these prices up and down, regardless of underlying tech or wallet distribution. Always approach with skepticism; it’s a volatile game of whispers and trends.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
