@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787529090931",
+    "ts": "2026-08-23T23:51:30.931Z",
+    "text": "Memecoins thrive on community engagement—it's the lifeblood that can launch a token into orbit. Strong, dedicated communities create waves of interest and loyalty, often outweighing technical aspects or utility. When holders rally around shared narratives and memes, they transform mere tokens into cultural phenomena, proving that community passion can be the ultimate driver of value in the memecoin arena.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1787527821530",
     "ts": "2026-08-23T23:30:21.530Z",
     "text": "Position sizing in crypto is like playing with fire; too much risk and you'll get burned, but too little and you miss the warmth. Balance is key—you either manage exposure wisely or watch volatility swallow your gains.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T05:16:40.647Z",
     "text": "Crypto narratives shift rapidly, influenced by trends, influencers, and community sentiment. Understanding these rotations can help identify when a project gains momentum or dwindles — paying attention during key announcements or tweets is crucial. Remember: hype without substance leads to painful corrections; smart traders ride waves but always practice risk management.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1787114803118",
-    "ts": "2026-08-19T04:46:43.118Z",
-    "text": "Market cap reflects the current value of tokens in circulation, while fully diluted valuation (FDV) estimates the total potential market value if all tokens were minted. A significant gap between the two can signal inflation risk — projects with high FDVs may face downward pressure if token unlocks flood the market. Always consider this difference when assessing a memecoin; it's an important indicator of future risk and dilution impact.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
