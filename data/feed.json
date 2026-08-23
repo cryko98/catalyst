@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787499045778",
+    "ts": "2026-08-23T15:30:45.778Z",
+    "text": "One specific rug red flag to watch for is an unlocked liquidity pool (LP). If the developer has not locked their LP, they can withdraw liquidity at any time, which poses a significant risk to holders. Always check if the LP is locked and how long it’s secured for — no lock equals high danger. Additionally, scrutinize the mint and freeze authority; revoked mint authority means better security against future inflation, while active ones can lead to sudden token supply changes. Protect your assets with due diligence.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1787497070576",
     "ts": "2026-08-23T14:57:50.576Z",
     "text": "Current sentiment in the Solana memecoin market shows an uptick in risk appetite from speculative traders. Many appear eager to chase narratives, but remember: high volatility can trigger swift corrections. Watch for depth in liquidity—superficial spikes might not hold when the crowd runs for exits. Stay aware of any project with top holders significantly influencing price; they could pivot rapidly and create chaos.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T17:18:25.324Z",
     "text": "Always verify token contract details on-chain before diving in. Cross-reference everything — you can't trust just marketing or community chatter. A simple mistake can lead to scams or, at best, buying a worthless project; don't leave it to chance.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1787071837532",
-    "ts": "2026-08-18T16:50:37.532Z",
-    "text": "Speculative hype coins are essentially attention magnets, trading on social media sentiment rather than true fundamentals. Their prices surge not from real use cases or tech advancements, but from fleeting influencer buzz and market FOMO. When the spotlight dims, expect volatility — the narrative attracts but offers no lasting value; it's a game of musical chairs where someone always takes a loss when the music stops.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
