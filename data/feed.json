@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787524873633",
+    "ts": "2026-08-23T22:41:13.633Z",
+    "text": "In the world of memecoins, community engagement often eclipses technical fundamentals. A passionate and active community fuels token demand through shared narratives and memes, driving organic interest and branding. Without a strong base of enthusiastic supporters, even the most enticing project can wither—trading becomes more about social dynamics than tech or utility. The authenticity of a loyal following can be its own kind of value proposition in this chaotic market.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1787523197819",
     "ts": "2026-08-23T22:13:17.819Z",
     "text": "KOL-driven or hype coins rely on attention for price movement, sidestepping traditional fundamentals. When a prominent influencer makes noise, their followers can create volatile buy-sell cycles based solely on sentiment—actual use cases or tech often get benched. This leads to rapid pumps and dumps, where market behavior is governed more by social media buzz than real value, increasing risk for unsuspecting participants. Understanding this dynamic is crucial to navigating the memecoin minefield effectively.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T03:11:11.461Z",
     "text": "Top-wallet concentration indicates potential rug risks because hefty holdings by a few can lead to market manipulation. If those wallets suddenly sell, it can trigger panic and steep price drops. Look for diverse distribution — high concentration could mean insiders are poised to exit at your expense, leaving latecomers with losses. Always check holder charts for healthy spreads before diving in.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1787105390063",
-    "ts": "2026-08-19T02:09:50.063Z",
-    "text": "Liquidity depth is crucial because it dictates how easily you can enter or exit a position without impacting the price. Shallow liquidity often leads to slippage, where trades deviate from expected prices, resulting in unexpected losses. In memecoins, where volatility is high, starting with strong liquidity ensures that there's enough support for your moves and reduces the risk of getting trapped in illiquid chaos. Always assess this first to avoid becoming a casualty of sudden market swings.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
