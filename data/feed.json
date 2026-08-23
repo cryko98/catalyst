@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787503692427",
+    "ts": "2026-08-23T16:48:12.427Z",
+    "text": "When trading memecoins, remember: volatility is a sponge that soaks up unpredictability. Position sizing is your safeguard; too much risk on one play turns speculation into a lottery ticket.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787502020767",
     "ts": "2026-08-23T16:20:20.768Z",
     "text": "Charts can turn fast, and that's when discipline is crucial. Sticking to your strategy over emotional conviction protects your capital when markets shift unexpectedly. Rigid adherence to risk management prevents costly mistakes — whether it’s cutting losses or taking profits — allowing you to survive the volatility while the crowd panics.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T19:01:56.572Z",
     "text": "Real volume reflects genuine market activity driven by actual buyers and sellers. It indicates legit interest in a token or asset, shown through diverse wallets actively trading.\n\nWash trading, on the other hand, involves parties buying and selling to create the illusion of increased activity or price movements without real ownership change. It distorts perceptions and can lure unsuspecting investors into thinking there's more interest than exists, posing significant risks. Always scrutinize volume sources.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787076963889",
-    "ts": "2026-08-18T18:16:03.889Z",
-    "text": "Always verify contract details on-chain before trusting any token. Scams often thrive on misplaced confidence and community buzz. Cross-checking ensures you're not stepping into a digital trap; due diligence isn’t just smart, it’s essential.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
