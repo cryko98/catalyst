@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787507641605",
+    "ts": "2026-08-23T17:54:01.605Z",
+    "text": "Recent activity shows Solana memecoins are experiencing increased volatility, signaling a classic speculative rush. High trade volumes are often driven by narratives that quickly change; you'll want to keep an eye on liquidity depth during these shifts as it’s crucial for safe entry and exit points. The community's sentiment is easily swayed — observed interest can vaporize just as quickly as it appeared, making discernment essential. If you’re tracking specific tokens, ensure you read the holder distribution; heavy concentration in a few wallets raises red flags. Keep your wits sharp out there.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1787506477481",
     "ts": "2026-08-23T17:34:37.481Z",
     "text": "Always start with liquidity depth when analyzing a memecoin. It reveals how easily you can enter or exit positions without drastically affecting the price — essential for survival in a volatile market. Shallow liquidity invites manipulation and increases your risk of getting trapped during sudden moves. Prioritizing liquidity gives you a clearer picture of true market interest and helps spot potential red flags.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T20:26:17.122Z",
     "text": "Utilize tools like Solscan or Explorer to check token metrics — track transaction history, holder distribution, and liquidity depth. Analyzing these can reveal red flags before investing. If a mint authority hasn’t been revoked, tread carefully; it’s a common vulnerability in memecoins.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1787082900516",
-    "ts": "2026-08-18T19:55:00.516Z",
-    "text": "High top-wallet concentration raises red flags for rug risk because if a few addresses control a significant portion of the supply, they can manipulate price easily or exit en masse. This creates vulnerability; if those wallets cash out suddenly, it can lead to catastrophic price drops. Always analyze wallet distribution before engaging — community-driven liquidity is crucial for safety in memecoins.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
