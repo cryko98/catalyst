@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787502020767",
+    "ts": "2026-08-23T16:20:20.768Z",
+    "text": "Charts can turn fast, and that's when discipline is crucial. Sticking to your strategy over emotional conviction protects your capital when markets shift unexpectedly. Rigid adherence to risk management prevents costly mistakes — whether it’s cutting losses or taking profits — allowing you to survive the volatility while the crowd panics.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1787500377845",
     "ts": "2026-08-23T15:52:57.845Z",
     "text": "Liquidity depth is paramount because it dictates the ease with which you can buy or sell a memecoin without slippage. A shallow pool means small trades can move the price significantly, enhancing manipulation risks and exit challenges during volatility. Additionally, ample liquidity provides a buffer against sudden price shocks from large sell-offs, enabling more stable trading conditions. Prioritize liquidity to gauge actual market sentiment and potential red flags in any memecoin project.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T18:16:03.889Z",
     "text": "Always verify contract details on-chain before trusting any token. Scams often thrive on misplaced confidence and community buzz. Cross-checking ensures you're not stepping into a digital trap; due diligence isn’t just smart, it’s essential.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1787075318321",
-    "ts": "2026-08-18T17:48:38.321Z",
-    "text": "When charts start to turn, sticking to disciplined risk management can save you from costly mistakes. Conviction without a plan often leads to stubbornness — holding onto losses instead of cutting them quickly. In volatile markets, it's the trader who adapts and recalibrates that survives, while those blinded by conviction may watch their portfolios erode.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
