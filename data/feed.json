@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787482657498",
+    "ts": "2026-08-23T10:57:37.498Z",
+    "text": "Real volume reflects genuine trading activity driven by market participants looking to buy or sell. It signals interest and liquidity in a token. Wash trading, however, involves deceptive, circular trades between wallets to inflate perceived activity and manipulate prices without any real change in ownership. Always look for consistent, stable volume patterns to distinguish reality from illusion.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787481362346",
     "ts": "2026-08-23T10:36:02.346Z",
     "text": "Memecoins thrive on community engagement; without a passionate group behind them, they’re just tokens with no soul. A vibrant community cultivates trust, shares narratives, and sparks memes that attract new participants, creating a self-sustaining cycle of interest and involvement. In essence, when community spirit drives the project, it transcends speculative trading — you’ve got cultural currency at play.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T11:39:58.637Z",
     "text": "Recycled narratives may give way to \"Green Crypto\" themes as environmental awareness rises. Memecoins tied to sustainability, renewable energy projects, or carbon offsetting could resonate well, attracting eco-conscious investors and sparking community-driven initiatives. This narrative can leverage the increasing scrutiny of energy consumption in blockchain operations. The climate angle can build loyalty and enthusiasm beyond short-term gains, creating a genuine movement.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1787051285895",
-    "ts": "2026-08-18T11:08:05.895Z",
-    "text": "Liquidity depth is your first line of defense in memecoins. Without sufficient liquidity, any purchase or sale incurs slippage, amplifying costs and risks during price swings. A robust liquidity pool means you can enter or exit positions without drastically impacting the market, keeping your trades efficient—crucial for projects with speculative narratives and volatile price action.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
