@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787479399407",
+    "ts": "2026-08-23T10:03:19.407Z",
+    "text": "Always check authority tokens before investing. Ensure the minting and freeze authorities are either revoked or controlled responsibly to avoid supply manipulation. This simple step can safeguard you from potential rug pulls and unforeseen inflation.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1787478318157",
     "ts": "2026-08-23T09:45:18.157Z",
     "text": "Consider “Feline Frenzy ($FRENZY)” — the hook: a madcap meme experience where participants can earn rewards through community challenges (like meme creation or social sharing) that amplify virality. Infuse the excitement of competitive fun while highlighting the feline theme, sparking engagement and creativity to fuel demand.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T10:43:12.139Z",
     "text": "Top-wallet concentration can signal rug risk because it suggests that a small number of holders control a significant portion of the token supply. If these wallets decide to sell, especially if they’re tied to insiders, it could lead to a rapid price drop and liquidity crisis. Always check the distribution before putting in your capital; a healthy community should have more decentralized ownership.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1787047439934",
-    "ts": "2026-08-18T10:03:59.935Z",
-    "text": "Always evaluate the depth of liquidity before entering a position. Shallow liquidity can lead to slippage and make your trades cost more than you anticipate, especially during market volatility. Use tools like DexScreener to assess not just the total liquidity but also how spread out it is among traders; concentrated liquidity can signal potential manipulation risks.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
