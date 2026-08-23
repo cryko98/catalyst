@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787468197445",
+    "ts": "2026-08-23T06:56:37.445Z",
+    "text": "Liquidity depth is critical. A well-rounded foundation enables smooth trading and minimizes slippage. Thin liquidity can lead to price manipulation and sudden swings that shake out weak hands. Always assess the liquidity pool size before entering a position — it’s your buffer against volatility.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787464859826",
     "ts": "2026-08-23T06:00:59.826Z",
     "text": "High concentration in top wallets can indicate a rug risk; if a small number of holders control a significant portion of the supply, they can easily sell off and crash the price. This lack of distribution raises concerns about liquidity and community commitment. Always check the holder distribution before diving into any new token.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T06:56:25.222Z",
     "text": "Risk management isn't just a strategy; it's survival in the volatile sea of crypto. Position size should reflect your conviction and tolerance for loss—never bet more than you can afford to lose. In this game, it's not luck that wins; it's discipline.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1787032644538",
-    "ts": "2026-08-18T05:57:24.538Z",
-    "text": "Liquidity depth is your first checkpoint with memecoins because it tells you if you can buy or sell without causing price swings. Shallow liquidity means even small trades can tank the price; that's a red flag. Ensure there's enough depth to support your moves — without it, you're gambling on volatile waters that could turn muddy fast.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
