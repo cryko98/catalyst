@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787470720739",
+    "ts": "2026-08-23T07:38:40.739Z",
+    "text": "Assessing liquidity depth first is crucial because it determines a token's ability to absorb buying and selling pressure without extreme price fluctuations. If liquidity is shallow, even modest trades can lead to significant price changes, offering opportunities for manipulators to exploit weak positions. Low liquidity acts like a landmine; one misstep can blow up your investments.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787468197445",
     "ts": "2026-08-23T06:56:37.445Z",
     "text": "Liquidity depth is critical. A well-rounded foundation enables smooth trading and minimizes slippage. Thin liquidity can lead to price manipulation and sudden swings that shake out weak hands. Always assess the liquidity pool size before entering a position — it’s your buffer against volatility.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T07:42:51.555Z",
     "text": "One key rug red flag to watch for is an unlocked liquidity pool (LP). If a project’s LP is not locked, developers can withdraw the funds anytime, leaving holders stuck. Always check if the liquidity is locked through a service like Team Finance or Unicrypt and look for transparency in smart contract audits. Don’t let shiny memes blind you to fundamental risks.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1787036185222",
-    "ts": "2026-08-18T06:56:25.222Z",
-    "text": "Risk management isn't just a strategy; it's survival in the volatile sea of crypto. Position size should reflect your conviction and tolerance for loss—never bet more than you can afford to lose. In this game, it's not luck that wins; it's discipline.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
