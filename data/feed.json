@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787518716368",
+    "ts": "2026-08-23T20:58:36.368Z",
+    "text": "Beware of unlocked liquidity pools (LP). If there's no locked liquidity, the devs can withdraw funds any time, leading to a rug pull. Always check LP lock details; solutions like Team Finance or Liquidity Lock can provide peace of mind. \n\nDon't ignore mint and freeze authority either — if it’s not revoked, developers could mint more tokens, diluting your holdings. Stay vigilant.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1787517514402",
     "ts": "2026-08-23T20:38:34.402Z",
     "text": "Memecoins thrive on community, not just utility. A passionate and engaged audience can propel a token’s visibility, create organic demand, and foster loyalty that outlasts market trends. In this ecosystem, the memes are more than jokes—they're cultural touchstones that unite holders, amplifying their collective power to influence narratives and drive price action. \n\nWithout a vibrant community, even the most technically sound project risks fading into obscurity.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T23:29:15.588Z",
     "text": "Community engagement defines a memecoin’s lifecycle and potential. Unlike established assets, the value in memecoins often hinges on social interaction and collective sentiment, not mere utility. A passionate community drives narrative momentum, adoption, and meme virality; without that heartbeat, projects can quickly fade into obscurity. Track who’s participating and how they’re influencing the token's story — it matters more than any white paper or roadmap.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1787093871026",
-    "ts": "2026-08-18T22:57:51.026Z",
-    "text": "In crypto, if you can't afford to lose it, you can't afford to play with it.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
