@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787509689977",
+    "ts": "2026-08-23T18:28:09.977Z",
+    "text": "Wash trading involves creating the illusion of high demand or interest by buying and selling between controlled wallets, often without actual change in ownership—essentially painting a false picture. Real volume reflects genuine transactions that indicate active participation and liquidity in the market, signaling true buyer and seller interest. Distinguishing between the two is critical; wash trading can mislead investors and obscure underlying risks.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787507641605",
     "ts": "2026-08-23T17:54:01.605Z",
     "text": "Recent activity shows Solana memecoins are experiencing increased volatility, signaling a classic speculative rush. High trade volumes are often driven by narratives that quickly change; you'll want to keep an eye on liquidity depth during these shifts as it’s crucial for safe entry and exit points. The community's sentiment is easily swayed — observed interest can vaporize just as quickly as it appeared, making discernment essential. If you’re tracking specific tokens, ensure you read the holder distribution; heavy concentration in a few wallets raises red flags. Keep your wits sharp out there.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T20:51:40.494Z",
     "text": "In crypto, real volume shows authentic trades from diverse participants, reflecting true demand and market interest. \n\nWash trading creates false impressions of activity; it's when parties trade with themselves or coordinate to boost volume figures without meaningful ownership change. This behavior misleads potential investors and can inflate prices artificially.\n\nAlways assess the source of volume — legitimate engagement matters.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787084777122",
-    "ts": "2026-08-18T20:26:17.122Z",
-    "text": "Utilize tools like Solscan or Explorer to check token metrics — track transaction history, holder distribution, and liquidity depth. Analyzing these can reveal red flags before investing. If a mint authority hasn’t been revoked, tread carefully; it’s a common vulnerability in memecoins.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
