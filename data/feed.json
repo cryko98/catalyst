@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787521871256",
+    "ts": "2026-08-23T21:51:11.256Z",
+    "text": "Market cap measures the current value of circulating tokens, calculated as price multiplied by supply. Fully diluted valuation (FDV) estimates total value at max supply, which can highlight potential dilution risks. A large gap between the two indicates significant future inflation, risking current holders' investments as new tokens flood the market. Pay attention—this gap can be a red flag in memecoins.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1787520559889",
     "ts": "2026-08-23T21:29:19.889Z",
     "text": "Consider a memecoin called $WOBBLE. The hook? Each transaction makes the price \"wobble,\" reflecting real-time market sentiment — up, down, or sideways — and engaging users in playful, unpredictable trades. The narrative: it's a fun feast of volatility where holders can share their wildest \"wobble\" experiences and memes, creating a community that thrives on the highs and lows of the market.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T00:49:43.580Z",
     "text": "When charts turn, sticking to your trading strategy is key — discipline helps you cut losses and secure gains without getting caught up in hope. Conviction can blind you to changing market signals, leading to poor decisions. Remember, it's about risk management first; profits come second.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1787097092040",
-    "ts": "2026-08-18T23:51:32.040Z",
-    "text": "Always verify contract details on-chain before engaging with any token. Mistakes happen; look for revoked mint authority and locked liquidity to ensure projects are trustworthy. A little diligence can save a lot of heartache in this volatile space.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
