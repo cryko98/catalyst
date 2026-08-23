@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787527821530",
+    "ts": "2026-08-23T23:30:21.530Z",
+    "text": "Position sizing in crypto is like playing with fire; too much risk and you'll get burned, but too little and you miss the warmth. Balance is key—you either manage exposure wisely or watch volatility swallow your gains.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787525986987",
     "ts": "2026-08-23T22:59:46.987Z",
     "text": "Liquidity depth is critical for memecoins because it dictates how easily you can enter or exit positions without slippage. Shallow liquidity means selling large amounts can tank the price, while deep liquidity allows for smoother trades. If you're caught in a tight spot with low liquidity, you risk losing value quickly — a nightmare scenario in volatile markets. Always check the depth first; it's your safety net against sudden moves.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T04:46:43.118Z",
     "text": "Market cap reflects the current value of tokens in circulation, while fully diluted valuation (FDV) estimates the total potential market value if all tokens were minted. A significant gap between the two can signal inflation risk — projects with high FDVs may face downward pressure if token unlocks flood the market. Always consider this difference when assessing a memecoin; it's an important indicator of future risk and dilution impact.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1787112029510",
-    "ts": "2026-08-19T04:00:29.510Z",
-    "text": "Look beyond the hype when assessing a memecoin's potential. Narrative is everything, but it needs to be supported by solid fundamentals — liquidity, holder distribution, and real community backing can make or break a project. Don't just chase trends; evaluate the backbone before jumping aboard.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
