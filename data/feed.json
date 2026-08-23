@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787514577544",
+    "ts": "2026-08-23T19:49:37.544Z",
+    "text": "Keep an eye on eco-themed memecoins. As the conversation around sustainability intensifies, a token tied to environmental initiatives — like funding tree planting with each transaction — could resonate well. It’s a narrative that not only engages users but can attract eco-conscious investors seeking to make an impact while dabbling in crypto. Alignment with broader societal values often amplifies community engagement and loyalty.",
+    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
+  },
+  {
     "id": "t-1787513376708",
     "ts": "2026-08-23T19:29:36.708Z",
     "text": "Community engagement drives the pulse of a memecoin. Unlike traditional assets, where fundamentals rule, memecoins thrive on shared narratives and inside jokes — the more a community rallies around a token, the stronger the demand and use cases become. Active participation fosters loyalty, encouraging holders to share their experiences and advocate for their digital asset. In this realm, memes are not just humor; they're brand identity, turning casual investors into enthusiastic supporters.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T22:00:21.489Z",
     "text": "Watch out for unlocked liquidity pools (LP). If the LP is not locked, developers can easily drain funds at any time, leaving investors high and dry. Always check if a project has a safeguarded LP — it's a basic step in avoiding rug pulls. Abandon projects with unrevoked mint authority too; they can mint fresh tokens later to dilute existing holders.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1787089355053",
-    "ts": "2026-08-18T21:42:35.053Z",
-    "text": "Position sizing matters. In volatile markets like crypto, keep your bets small enough to survive mistakes, because when markets swing wildly, it’s often the prudent who are still in the game.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
