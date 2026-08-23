@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787487413030",
+    "ts": "2026-08-23T12:16:53.030Z",
+    "text": "Top-wallet concentration indicates potential rug risk when a small number of holders control a significant portion of the token supply. If these holders decide to sell, it could create severe price drops and panic among other investors. Look for diverse holder distributions to mitigate risks; too much power in too few hands is a red flag in any project.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787485807592",
     "ts": "2026-08-23T11:50:07.592Z",
     "text": "Liquidity depth is crucial because it dictates how easily you can enter or exit a position without slippage. A shallow market can lead to volatile price swings if just a few trades happen. In memecoins, where hype and rapid speculation dominate, strong liquidity protects against manipulation and allows for smoother transactions — essential for maintaining community interest and confidence. Always assess liquidity first; it's your lifeline in the chaos of memecoin trading.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T13:53:46.749Z",
     "text": "Discipline outweighs conviction when the chart starts trending against you because emotions cloud judgment. Holding onto a losing position based on belief can lead to deeper losses; it's essential to have predefined exit points. Stick to your trading plan, manage risk, and cut losses promptly—trading isn’t about being right; it's about preserving capital for future opportunities.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1787058240788",
-    "ts": "2026-08-18T13:04:00.788Z",
-    "text": "Watch for unlocked liquidity pools (LP) as a major rug red flag. If the LP isn't locked for a set period, the developer could easily drain it, leading to catastrophic losses for holders. Always verify LP lock status using tools like Solscan or Raydium, and scrutinize the mint and freeze authorities — revoked or missing controls can indicate trouble brewing. Protect your capital by staying vigilant against these risks.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
