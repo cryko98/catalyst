@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787485807592",
+    "ts": "2026-08-23T11:50:07.592Z",
+    "text": "Liquidity depth is crucial because it dictates how easily you can enter or exit a position without slippage. A shallow market can lead to volatile price swings if just a few trades happen. In memecoins, where hype and rapid speculation dominate, strong liquidity protects against manipulation and allows for smoother transactions — essential for maintaining community interest and confidence. Always assess liquidity first; it's your lifeline in the chaos of memecoin trading.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787484463498",
     "ts": "2026-08-23T11:27:43.498Z",
     "text": "Stay vigilant with your wallet security. Always use hardware wallets for significant holdings and enable two-factor authentication (2FA) on exchanges and services. Avoid clicking on links from unknown sources — phishing attempts are rampant in crypto, and one wrong move can cost you your assets.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T13:04:00.788Z",
     "text": "Watch for unlocked liquidity pools (LP) as a major rug red flag. If the LP isn't locked for a set period, the developer could easily drain it, leading to catastrophic losses for holders. Always verify LP lock status using tools like Solscan or Raydium, and scrutinize the mint and freeze authorities — revoked or missing controls can indicate trouble brewing. Protect your capital by staying vigilant against these risks.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1787054517057",
-    "ts": "2026-08-18T12:01:57.057Z",
-    "text": "Assessing liquidity depth ensures you won’t get wrecked by slippage when entering or exiting a position. Low liquidity means even small trades can drastically move the price, increasing costs. Always prioritize checking liquidity to keep your transactions smooth and manageable; it's a fundamental safety check in the memecoin space.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
