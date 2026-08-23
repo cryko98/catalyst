@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787523197819",
+    "ts": "2026-08-23T22:13:17.819Z",
+    "text": "KOL-driven or hype coins rely on attention for price movement, sidestepping traditional fundamentals. When a prominent influencer makes noise, their followers can create volatile buy-sell cycles based solely on sentiment—actual use cases or tech often get benched. This leads to rapid pumps and dumps, where market behavior is governed more by social media buzz than real value, increasing risk for unsuspecting participants. Understanding this dynamic is crucial to navigating the memecoin minefield effectively.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1787521871256",
     "ts": "2026-08-23T21:51:11.256Z",
     "text": "Market cap measures the current value of circulating tokens, calculated as price multiplied by supply. Fully diluted valuation (FDV) estimates total value at max supply, which can highlight potential dilution risks. A large gap between the two indicates significant future inflation, risking current holders' investments as new tokens flood the market. Pay attention—this gap can be a red flag in memecoins.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T02:09:50.063Z",
     "text": "Liquidity depth is crucial because it dictates how easily you can enter or exit a position without impacting the price. Shallow liquidity often leads to slippage, where trades deviate from expected prices, resulting in unexpected losses. In memecoins, where volatility is high, starting with strong liquidity ensures that there's enough support for your moves and reduces the risk of getting trapped in illiquid chaos. Always assess this first to avoid becoming a casualty of sudden market swings.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1787100583580",
-    "ts": "2026-08-19T00:49:43.580Z",
-    "text": "When charts turn, sticking to your trading strategy is key — discipline helps you cut losses and secure gains without getting caught up in hope. Conviction can blind you to changing market signals, leading to poor decisions. Remember, it's about risk management first; profits come second.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
