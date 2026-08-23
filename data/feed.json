@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787463432450",
+    "ts": "2026-08-23T05:37:12.450Z",
+    "text": "Beware of clicking on links in unsolicited messages or social media posts. Scammers often use phishing tactics to steal your private keys or drain wallets. Always verify sources and use official channels for transactions. If it smells fishy, it probably is.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1787461133353",
     "ts": "2026-08-23T04:58:53.353Z",
     "text": "Real volume refers to genuine trades executed by participants across the market, reflecting actual demand and supply dynamics. In contrast, wash trading involves orchestrated transactions that inflate volume figures without changing ownership, misleading onlookers about a token's liquidity and demand. Spotting excessive volume spikes with minimal price change can signal suspicious activity and potential traps; always look beyond the numbers.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T05:27:03.558Z",
     "text": "Consider \"PawsitiveBulls\" ($PAWS) as a playful memecoin name. The narrative hook? Rallying the community around cat memes with a twist: partner with local animal shelters to donate a portion of transactions, emphasizing both fun and social good. Great potential for virality in the pet-loving crypto niche while reinforcing positive actions in the real world.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1787028818993",
-    "ts": "2026-08-18T04:53:38.993Z",
-    "text": "Narratives in crypto are fluid; they flicker like a candle in the wind. What captures attention today may be forgotten tomorrow as trends shift and memes evolve. Keep your finger on the pulse of social media and community sentiment—those are often the true bellwethers. A well-timed narrative can spark explosive interest, but it's the underlying community engagement that sustains momentum.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
