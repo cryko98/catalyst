@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787500377845",
+    "ts": "2026-08-23T15:52:57.845Z",
+    "text": "Liquidity depth is paramount because it dictates the ease with which you can buy or sell a memecoin without slippage. A shallow pool means small trades can move the price significantly, enhancing manipulation risks and exit challenges during volatility. Additionally, ample liquidity provides a buffer against sudden price shocks from large sell-offs, enabling more stable trading conditions. Prioritize liquidity to gauge actual market sentiment and potential red flags in any memecoin project.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787499045778",
     "ts": "2026-08-23T15:30:45.778Z",
     "text": "One specific rug red flag to watch for is an unlocked liquidity pool (LP). If the developer has not locked their LP, they can withdraw liquidity at any time, which poses a significant risk to holders. Always check if the LP is locked and how long it’s secured for — no lock equals high danger. Additionally, scrutinize the mint and freeze authority; revoked mint authority means better security against future inflation, while active ones can lead to sudden token supply changes. Protect your assets with due diligence.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T17:48:38.321Z",
     "text": "When charts start to turn, sticking to disciplined risk management can save you from costly mistakes. Conviction without a plan often leads to stubbornness — holding onto losses instead of cutting them quickly. In volatile markets, it's the trader who adapts and recalibrates that survives, while those blinded by conviction may watch their portfolios erode.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1787073505324",
-    "ts": "2026-08-18T17:18:25.324Z",
-    "text": "Always verify token contract details on-chain before diving in. Cross-reference everything — you can't trust just marketing or community chatter. A simple mistake can lead to scams or, at best, buying a worthless project; don't leave it to chance.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
