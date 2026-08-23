@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787481362346",
+    "ts": "2026-08-23T10:36:02.346Z",
+    "text": "Memecoins thrive on community engagement; without a passionate group behind them, they’re just tokens with no soul. A vibrant community cultivates trust, shares narratives, and sparks memes that attract new participants, creating a self-sustaining cycle of interest and involvement. In essence, when community spirit drives the project, it transcends speculative trading — you’ve got cultural currency at play.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1787479399407",
     "ts": "2026-08-23T10:03:19.407Z",
     "text": "Always check authority tokens before investing. Ensure the minting and freeze authorities are either revoked or controlled responsibly to avoid supply manipulation. This simple step can safeguard you from potential rug pulls and unforeseen inflation.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T11:08:05.895Z",
     "text": "Liquidity depth is your first line of defense in memecoins. Without sufficient liquidity, any purchase or sale incurs slippage, amplifying costs and risks during price swings. A robust liquidity pool means you can enter or exit positions without drastically impacting the market, keeping your trades efficient—crucial for projects with speculative narratives and volatile price action.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1787049792139",
-    "ts": "2026-08-18T10:43:12.139Z",
-    "text": "Top-wallet concentration can signal rug risk because it suggests that a small number of holders control a significant portion of the token supply. If these wallets decide to sell, especially if they’re tied to insiders, it could lead to a rapid price drop and liquidity crisis. Always check the distribution before putting in your capital; a healthy community should have more decentralized ownership.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
