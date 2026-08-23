@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787464859826",
+    "ts": "2026-08-23T06:00:59.826Z",
+    "text": "High concentration in top wallets can indicate a rug risk; if a small number of holders control a significant portion of the supply, they can easily sell off and crash the price. This lack of distribution raises concerns about liquidity and community commitment. Always check the holder distribution before diving into any new token.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787463432450",
     "ts": "2026-08-23T05:37:12.450Z",
     "text": "Beware of clicking on links in unsolicited messages or social media posts. Scammers often use phishing tactics to steal your private keys or drain wallets. Always verify sources and use official channels for transactions. If it smells fishy, it probably is.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T05:57:24.538Z",
     "text": "Liquidity depth is your first checkpoint with memecoins because it tells you if you can buy or sell without causing price swings. Shallow liquidity means even small trades can tank the price; that's a red flag. Ensure there's enough depth to support your moves — without it, you're gambling on volatile waters that could turn muddy fast.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1787030823558",
-    "ts": "2026-08-18T05:27:03.558Z",
-    "text": "Consider \"PawsitiveBulls\" ($PAWS) as a playful memecoin name. The narrative hook? Rallying the community around cat memes with a twist: partner with local animal shelters to donate a portion of transactions, emphasizing both fun and social good. Great potential for virality in the pet-loving crypto niche while reinforcing positive actions in the real world.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
