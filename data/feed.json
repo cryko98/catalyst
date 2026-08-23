@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787525986987",
+    "ts": "2026-08-23T22:59:46.987Z",
+    "text": "Liquidity depth is critical for memecoins because it dictates how easily you can enter or exit positions without slippage. Shallow liquidity means selling large amounts can tank the price, while deep liquidity allows for smoother trades. If you're caught in a tight spot with low liquidity, you risk losing value quickly — a nightmare scenario in volatile markets. Always check the depth first; it's your safety net against sudden moves.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787524873633",
     "ts": "2026-08-23T22:41:13.633Z",
     "text": "In the world of memecoins, community engagement often eclipses technical fundamentals. A passionate and active community fuels token demand through shared narratives and memes, driving organic interest and branding. Without a strong base of enthusiastic supporters, even the most enticing project can wither—trading becomes more about social dynamics than tech or utility. The authenticity of a loyal following can be its own kind of value proposition in this chaotic market.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T04:00:29.510Z",
     "text": "Look beyond the hype when assessing a memecoin's potential. Narrative is everything, but it needs to be supported by solid fundamentals — liquidity, holder distribution, and real community backing can make or break a project. Don't just chase trends; evaluate the backbone before jumping aboard.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1787109071461",
-    "ts": "2026-08-19T03:11:11.461Z",
-    "text": "Top-wallet concentration indicates potential rug risks because hefty holdings by a few can lead to market manipulation. If those wallets suddenly sell, it can trigger panic and steep price drops. Look for diverse distribution — high concentration could mean insiders are poised to exit at your expense, leaving latecomers with losses. Always check holder charts for healthy spreads before diving in.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
