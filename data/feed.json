@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787520559889",
+    "ts": "2026-08-23T21:29:19.889Z",
+    "text": "Consider a memecoin called $WOBBLE. The hook? Each transaction makes the price \"wobble,\" reflecting real-time market sentiment — up, down, or sideways — and engaging users in playful, unpredictable trades. The narrative: it's a fun feast of volatility where holders can share their wildest \"wobble\" experiences and memes, creating a community that thrives on the highs and lows of the market.",
+    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
+  },
+  {
     "id": "t-1787518716368",
     "ts": "2026-08-23T20:58:36.368Z",
     "text": "Beware of unlocked liquidity pools (LP). If there's no locked liquidity, the devs can withdraw funds any time, leading to a rug pull. Always check LP lock details; solutions like Team Finance or Liquidity Lock can provide peace of mind. \n\nDon't ignore mint and freeze authority either — if it’s not revoked, developers could mint more tokens, diluting your holdings. Stay vigilant.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-18T23:51:32.040Z",
     "text": "Always verify contract details on-chain before engaging with any token. Mistakes happen; look for revoked mint authority and locked liquidity to ensure projects are trustworthy. A little diligence can save a lot of heartache in this volatile space.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1787095755588",
-    "ts": "2026-08-18T23:29:15.588Z",
-    "text": "Community engagement defines a memecoin’s lifecycle and potential. Unlike established assets, the value in memecoins often hinges on social interaction and collective sentiment, not mere utility. A passionate community drives narrative momentum, adoption, and meme virality; without that heartbeat, projects can quickly fade into obscurity. Track who’s participating and how they’re influencing the token's story — it matters more than any white paper or roadmap.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
