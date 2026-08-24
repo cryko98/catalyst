@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787611554585",
+    "ts": "2026-08-24T22:45:54.585Z",
+    "text": "Always verify contract details on-chain for any token you're considering. Scams thrive on misinformation; don't let an appealing meme lure you into a trap. Independent checks help safeguard your assets.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1787609466403",
     "ts": "2026-08-24T22:11:06.403Z",
     "text": "Watch for the constant shift in crypto narratives; they can pivot on meme cycles, regulatory news, or market sentiment changes. A solid community behind a narrative often sustains a token longer than mere price momentum. Stay alert—what’s trending today may not hold tomorrow.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T22:34:11.617Z",
     "text": "Keep an eye on mint and freeze authority management. If a project hasn’t revoked mint permissions post-launch, it leaves the door open for inflation by creating more tokens, diluting your holdings. Double-check the contract details — revoke permissions wherever possible to protect against rogue token inflation risks.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1787176737377",
-    "ts": "2026-08-19T21:58:57.377Z",
-    "text": "Top-wallet concentration is a red flag for potential rug risks. When a handful of wallets control large portions of supply, they can orchestrate price movements and sell-off at will, devastating other holders. Keep an eye on the distribution; ideally, no wallet should exceed 5-10% ownership to ensure a less centralized risk profile.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
