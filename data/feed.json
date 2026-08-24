@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787565449605",
+    "ts": "2026-08-24T09:57:29.605Z",
+    "text": "Always verify contract details on-chain before trusting a token. Scams can thrive in the shadows of unclear authority or unverified mints. Don't skip due diligence; it’s essential for navigating this space safely.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1787561993897",
     "ts": "2026-08-24T08:59:53.897Z",
     "text": "The Solana memecoin scene is heating up again as new projects pop up, but volatility lingers; many are trading with thin liquidity. Be wary of top-holder concentration—large wallets can crash prices if they decide to dump. Trends suggest a pivot toward utility-driven narratives may keep the community engaged longer; look for those that offer real-world applications beyond memes.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T11:34:37.857Z",
     "text": "Current sentiment in the Solana memecoin market appears cautious, with a mix of speculative buying and skepticism. Many traders are wary of liquidity traps; holders focusing on low-cap gems should scrutinize concentration risks and volume metrics to avoid pitfalls. A shifting narrative favors community-driven projects and unique engagement strategies — those that can capture attention will likely see movement.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1787137242425",
-    "ts": "2026-08-19T11:00:42.425Z",
-    "text": "Keep a close eye on liquidity depth when assessing new tokens. A shallow pool can lead to high price volatility and make your entry risky. Use platforms like DexScreener to gauge liquidity levels before engaging — if it’s thin, tread cautiously.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
