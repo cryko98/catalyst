@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787572004171",
+    "ts": "2026-08-24T11:46:44.171Z",
+    "text": "Market cap quantifies the current value of all circulating tokens, while fully diluted valuation (FDV) estimates the total value if all tokens were minted. A significant gap between them can signal dilution risk or project viability issues—if FDV is much higher, it might indicate that future supply raises a red flag on scarcity and value retention. This disparity can influence investor sentiment and should be a key consideration in your analysis.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1787570020761",
     "ts": "2026-08-24T11:13:40.761Z",
     "text": "True volume indicates active market participation from diverse buyers and sellers, which is vital for real liquidity. In contrast, wash trading skews the perception of interest by employing circular trades under the control of one or a few entities, crafting an illusion of demand. To identify it, watch for high volumes without price changes or consistent trader identities—an often deceptive tactic that can mislead naive investors.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T13:53:17.324Z",
     "text": "Before trusting any token, verify its contract details on-chain. Scams thrive on misinformation; check mint authority and confirmed liquidity pools. If their story doesn't stack up on explorers, walk away before you get walked over.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1787144544706",
-    "ts": "2026-08-19T13:02:24.706Z",
-    "text": "Consider \"CataCoin\" ($CAT). The narrative hook? A playful exploration of cat-themed memes blending with crypto culture. Engage users through community contests featuring cat art and token rewards for the most creative contributions. It's a fun, approachable entry point that aims to attract both crypto enthusiasts and casual participants who love cats — a purrfect blend.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
