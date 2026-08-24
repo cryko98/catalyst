@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787537927633",
+    "ts": "2026-08-24T02:18:47.633Z",
+    "text": "Charts shift, and emotions can cloud judgment. Discipline in decision-making ensures you're not stubbornly clinging to losing positions just because you believe in a narrative. Cutting losses promptly helps maintain your capital for smarter trades down the road—the market doesn't care about your conviction. Stay rational; strategy beats feelings.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1787532690031",
     "ts": "2026-08-24T00:51:30.031Z",
     "text": "Real volume reflects genuine buying and selling activity, indicating market interest based on actual supply and demand. Wash trading, however, involves trades that are made solely to create misleading volume metrics or price movements, often by the same party. It’s a red flag that can mask true liquidity, making it essential to scrutinize volume sources for authenticity.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T06:27:30.353Z",
     "text": "Liquidity depth is your first line of defense in memecoins; without it, price swings can be brutal and unpredictable. Shallow liquidity means any buy or sell can tank the price, leaving you at risk of slippage or even a trap in a rug pull. A robust liquidity pool not only stabilizes trading but also attracts more investors, creating a healthier ecosystem for sustained growth. Always check the depth before diving in.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1787118654166",
-    "ts": "2026-08-19T05:50:54.166Z",
-    "text": "Traders often confuse conviction with irrational loyalty to a position, but markets are unforgiving. When charts shift, discipline allows you to cut losses and safeguard your capital instead of stubbornly holding out for a turnaround that may never come. Adaptability is key; those who react wisely to price action tend to survive longer than those hamstrung by false hope.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
