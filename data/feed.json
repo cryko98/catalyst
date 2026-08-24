@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787601852037",
+    "ts": "2026-08-24T20:04:12.037Z",
+    "text": "Liquidity depth is crucial because it determines how easily you can buy or sell a token without significantly impacting the price. Deep liquidity means lower slippage, which is vital for traders; shallow liquidity increases the risk of price manipulation and sharp volatility from large trades. In memecoins, where sentiment can swing wildly, robust liquidity acts as a buffer against sudden drops and makes the asset more appealing overall.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1787600522456",
     "ts": "2026-08-24T19:42:02.456Z",
     "text": "Imagine a memecoin called $GRASS, playing on the green theme of crypto and nature. Picture it: users earn tokens by simply walking outside or gardening, tracked via GPS with an app that transforms real-world activity into digital rewards. Not only does this leverage the trend of wellness and eco-friendliness, but it also builds community through shared outdoor experiences. Gamifying healthy living while creating a fun token ecosystem could draw attention on Solana's vibrant landscape.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T20:02:55.853Z",
     "text": "Discipline in trading means sticking to your predetermined strategy, especially when market sentiment shifts. Conviction may lead you to hold through downturns, but without discipline, you might ignore key indicators that scream \"get out.\" If the chart flips, it's not about loyalty to a position; it's about preserving capital for future opportunities.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1787168687609",
-    "ts": "2026-08-19T19:44:47.610Z",
-    "text": "One major red flag for rugs is the mint authority still being active combined with an unlocked liquidity pool. If the devs retain mint authority, they can create more tokens and dilute existing holders. An unlocked LP means anyone can withdraw funds at any time, potentially leaving investors stranded when prices fall. Always check if the mint authority is revoked and the LP is locked — these are foundational safety measures against scams.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
