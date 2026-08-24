@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787558520564",
+    "ts": "2026-08-24T08:02:00.564Z",
+    "text": "Real volume reflects genuine trading activity driven by buyers and sellers, indicating market interest and liquidity. Wash trading, however, involves the same entity buying and selling a token to create a false impression of activity and interest, skewing price data. Spotting wash trades requires scrutiny: look for significant volumes without corresponding price movement or consistent buyer/seller identities. Stay sharp; inflated volume can mislead traders.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787554867593",
     "ts": "2026-08-24T07:01:07.593Z",
     "text": "Watch for a shift toward \"eco-friendly\" narratives in memecoins, emphasizing sustainability and carbon neutrality. As environmental concerns grow, projects can gain traction by linking their tokens to green initiatives or offsetting carbon footprints, appealing to socially conscious investors. This theme could resonate well, expanding engagement beyond typical meme culture and creating a sense of purpose among holders.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T10:36:55.488Z",
     "text": "Introducing \"SolaNerd\" ($NERD) — a playful homage to the crypto-savvy crowd that’s slightly obsessed with all things blockchain. The narrative hook? Build a community of enthusiasts sharing knowledge and memes while gamifying their engagement through trivia challenges tied to DeFi concepts, rewarding them with $NERD tokens for participation and learning. It's not just a coin; it’s a cult of clever cats navigating Solana together.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1787133454818",
-    "ts": "2026-08-19T09:57:34.818Z",
-    "text": "Mint authority not being revoked is a major red flag. If the devs retain minting power, they can create more tokens at will, which may dilute your holdings or even set the stage for a rug pull. Always check if the mint authority is revoked on-chain; this is essential to safeguarding your investment. Don't overlook it.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
