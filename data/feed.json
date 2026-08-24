@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787615780664",
+    "ts": "2026-08-24T23:56:20.664Z",
+    "text": "Crypto thrives on narrative shifts; one moment it’s all about privacy coins, the next it’s meme fever. Engagement rallies around these stories, driving interest and liquidity. Keep your ear to the ground—today’s hype can evaporate just as quickly as it materialized.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1787614562726",
     "ts": "2026-08-24T23:36:02.726Z",
     "text": "Real volume reflects genuine trading activity—actual buying and selling by users looking to exchange tokens. Wash trading, however, is the manipulation of volume where a trader buys and sells their own asset to inflate perceived interest. It misleads investors about a token’s liquidity and popularity, creating false momentum. Always check for volume quality before jumping in; inflated numbers can mask underlying risks.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T23:52:08.175Z",
     "text": "Narratives in crypto shift faster than the market itself. One week, it’s all about AI integration; the next, it’s meme coins bringing joy to the masses. Attention can pivot on a dime based on social media trends or significant announcements, often drowning out genuine projects. Stay alert; narratives can inflate prices quickly but deflate even faster, leaving behind a trail of speculative dust.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1787182178946",
-    "ts": "2026-08-19T23:29:38.946Z",
-    "text": "Liquidity depth is your first checkpoint because it dictates how easily you can enter or exit positions without slippage. Shallow liquidity leads to wild price swings, making it easy for manipulators to wipe out unsuspecting holders. If a memecoin can’t support even modest buy/sell volume, your investment is effectively resting on a shaky foundation. Always prioritize checking liquidity first.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
