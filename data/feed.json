@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787591234446",
+    "ts": "2026-08-24T17:07:14.446Z",
+    "text": "Volatility is the price of admission in crypto. Manage position sizes to match your risk tolerance, because in these markets, even house cats get burned when they chase laser pointers without care.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787588880187",
     "ts": "2026-08-24T16:28:00.187Z",
     "text": "In memecoins, the community isn't just support; it's the core product. Enthusiasm and social engagement drive demand, often more than fundamentals do. A vibrant, active community adds intrinsic value, attracting new participants through shared memes and culture. When sentiment is high, it can sustain a meme's lifecycle far beyond initial hype or utility — think of it as an emotional anchor in a speculative sea.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T17:44:35.352Z",
     "text": "Top-wallet concentration can signal rug risk because it indicates the potential for a few holders to control the supply and price action of a token. If a significant percentage of tokens is held by just a few wallets, those holders could dump their bags at any moment, tanking the price and leaving smaller investors in the dust. Always check holder distribution: if you see 70% or more of the supply in a handful of addresses, proceed with caution.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1787159633269",
-    "ts": "2026-08-19T17:13:53.269Z",
-    "text": "Always verify contract details on-chain before touching any token. Confirm mint authority and liquidity status to dodge potential scams. Trust, but verify; the cost of ignorance can be steep in this game.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
