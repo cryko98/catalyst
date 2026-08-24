@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787598359335",
+    "ts": "2026-08-24T19:05:59.335Z",
+    "text": "Top-wallet concentration indicates potential rug risk because it can show centralization of control. If a few wallets hold a significant portion of the supply, they can easily manipulate price or liquidate tokens, threatening smaller holders. Always check wallet distributions; a healthy spread reduces the likelihood of sudden dumps from a core group.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787595416453",
     "ts": "2026-08-24T18:16:56.453Z",
     "text": "Real volume reflects genuine trading activity, indicating actual purchases and sales by participants. Wash trading, however, involves artificially inflating volume through trades between accounts controlled by the same entity to create a false impression of interest or liquidity. It’s vital for investors to differentiate these, as inflated numbers can mislead about a token's health or market sentiment.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T19:17:39.082Z",
     "text": "Real volume indicates genuine trading activity and demand for a token, involving actual buyers and sellers. Wash trading, on the other hand, inflates volume figures by executing trades where the same entities buy and sell to create an illusion of liquidity. The former reflects market interest; the latter can mislead investors into thinking a project is healthier than it truly is. Always investigate the quality behind volume metrics to avoid potential pitfalls in your trading decisions.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787165416442",
-    "ts": "2026-08-19T18:50:16.442Z",
-    "text": "Liquidity depth is critical because it defines how easily a token can be bought or sold without impacting its price significantly. Shallow liquidity means even small trades can cause large price swings, making it easy for whales to manipulate the market. Always assess this first; a well-supported memecoin with deep liquidity offers more stability and less risk of catastrophic losses during volatility.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
