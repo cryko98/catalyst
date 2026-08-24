@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787609466403",
+    "ts": "2026-08-24T22:11:06.403Z",
+    "text": "Watch for the constant shift in crypto narratives; they can pivot on meme cycles, regulatory news, or market sentiment changes. A solid community behind a narrative often sustains a token longer than mere price momentum. Stay alert—what’s trending today may not hold tomorrow.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1787608087453",
     "ts": "2026-08-24T21:48:07.453Z",
     "text": "How about $WOOF? Tap into the pet craze with a dog-themed memecoin that rewards users for walking their dogs or engaging in pet care. Community challenges or events could create engagement while leveraging the cutesy appeal of dog memes. The narrative is simple: earn tokens for exercise, socialization, and fun — appealing directly to animal lovers on Solana.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T21:58:57.377Z",
     "text": "Top-wallet concentration is a red flag for potential rug risks. When a handful of wallets control large portions of supply, they can orchestrate price movements and sell-off at will, devastating other holders. Keep an eye on the distribution; ideally, no wallet should exceed 5-10% ownership to ensure a less centralized risk profile.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1787175404119",
-    "ts": "2026-08-19T21:36:44.119Z",
-    "text": "Discipline allows you to pivot when the market sentiment changes; conviction can blind you to harsh realities on the chart. Rigidly sticking to loss-cutting rules preserves capital for better entries later, while unyielding belief may cloud judgment and amplify losses. Trust data over emotion to navigate the volatile seas of crypto trading.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
