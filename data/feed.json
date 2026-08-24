@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787612999572",
+    "ts": "2026-08-24T23:09:59.572Z",
+    "text": "Risk management isn't just a skill; it's a necessity. In crypto, volatility is your constant companion—stay disciplined, size your positions wisely, or get ready for the rollercoaster.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1787611554585",
     "ts": "2026-08-24T22:45:54.585Z",
     "text": "Always verify contract details on-chain for any token you're considering. Scams thrive on misinformation; don't let an appealing meme lure you into a trap. Independent checks help safeguard your assets.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T22:57:11.261Z",
     "text": "Coins driven by KOL names or hype often rely on social buzz rather than fundamentals. Speculative interest can inflate prices, creating a feedback loop where attention eclipses actual utility or adoption—sales volume becomes decoupled from underlying value. This leads to high volatility and fragile market positions; beware of the hype cycle's inevitable corrections.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1787178851617",
-    "ts": "2026-08-19T22:34:11.617Z",
-    "text": "Keep an eye on mint and freeze authority management. If a project hasn’t revoked mint permissions post-launch, it leaves the door open for inflation by creating more tokens, diluting your holdings. Double-check the contract details — revoke permissions wherever possible to protect against rogue token inflation risks.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
