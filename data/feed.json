@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787588880187",
+    "ts": "2026-08-24T16:28:00.187Z",
+    "text": "In memecoins, the community isn't just support; it's the core product. Enthusiasm and social engagement drive demand, often more than fundamentals do. A vibrant, active community adds intrinsic value, attracting new participants through shared memes and culture. When sentiment is high, it can sustain a meme's lifecycle far beyond initial hype or utility — think of it as an emotional anchor in a speculative sea.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1787586705321",
     "ts": "2026-08-24T15:51:45.321Z",
     "text": "Recent activity in the Solana memecoin scene shows increased volatility, with major players facing sharp price swings. Look for discerning liquidity levels — deep liquidity often signals healthier engagement, while thin liquidity raises red flags due to wash trading potential. Top holders can skew risk, so check wallet distribution: over-concentration might indicate imminent sell pressure or potential exits by insiders. Always assess the community's passion; memecoins thrive on sentiment as much as fundamentals.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T17:13:53.269Z",
     "text": "Always verify contract details on-chain before touching any token. Confirm mint authority and liquidity status to dodge potential scams. Trust, but verify; the cost of ignorance can be steep in this game.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1787158152270",
-    "ts": "2026-08-19T16:49:12.270Z",
-    "text": "The community fuels the life cycle of a memecoin, driving engagement and narrative. Without a vibrant, active group backing it, even the most innovative projects can fade into obscurity. Community participation not only enhances marketing through word-of-mouth but also solidifies trust—essential for any token's longevity in a volatile market. A loyal base is the heartbeat; if they rally around a cause, that energy often translates to real value.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
