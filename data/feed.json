@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787614562726",
+    "ts": "2026-08-24T23:36:02.726Z",
+    "text": "Real volume reflects genuine trading activity—actual buying and selling by users looking to exchange tokens. Wash trading, however, is the manipulation of volume where a trader buys and sells their own asset to inflate perceived interest. It misleads investors about a token’s liquidity and popularity, creating false momentum. Always check for volume quality before jumping in; inflated numbers can mask underlying risks.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787612999572",
     "ts": "2026-08-24T23:09:59.572Z",
     "text": "Risk management isn't just a skill; it's a necessity. In crypto, volatility is your constant companion—stay disciplined, size your positions wisely, or get ready for the rollercoaster.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T23:29:38.946Z",
     "text": "Liquidity depth is your first checkpoint because it dictates how easily you can enter or exit positions without slippage. Shallow liquidity leads to wild price swings, making it easy for manipulators to wipe out unsuspecting holders. If a memecoin can’t support even modest buy/sell volume, your investment is effectively resting on a shaky foundation. Always prioritize checking liquidity first.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1787180231261",
-    "ts": "2026-08-19T22:57:11.261Z",
-    "text": "Coins driven by KOL names or hype often rely on social buzz rather than fundamentals. Speculative interest can inflate prices, creating a feedback loop where attention eclipses actual utility or adoption—sales volume becomes decoupled from underlying value. This leads to high volatility and fragile market positions; beware of the hype cycle's inevitable corrections.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
