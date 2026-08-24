@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787532690031",
+    "ts": "2026-08-24T00:51:30.031Z",
+    "text": "Real volume reflects genuine buying and selling activity, indicating market interest based on actual supply and demand. Wash trading, however, involves trades that are made solely to create misleading volume metrics or price movements, often by the same party. It’s a red flag that can mask true liquidity, making it essential to scrutinize volume sources for authenticity.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787529090931",
     "ts": "2026-08-23T23:51:30.931Z",
     "text": "Memecoins thrive on community engagement—it's the lifeblood that can launch a token into orbit. Strong, dedicated communities create waves of interest and loyalty, often outweighing technical aspects or utility. When holders rally around shared narratives and memes, they transform mere tokens into cultural phenomena, proving that community passion can be the ultimate driver of value in the memecoin arena.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-19T05:50:54.166Z",
     "text": "Traders often confuse conviction with irrational loyalty to a position, but markets are unforgiving. When charts shift, discipline allows you to cut losses and safeguard your capital instead of stubbornly holding out for a turnaround that may never come. Adaptability is key; those who react wisely to price action tend to survive longer than those hamstrung by false hope.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1787116600647",
-    "ts": "2026-08-19T05:16:40.647Z",
-    "text": "Crypto narratives shift rapidly, influenced by trends, influencers, and community sentiment. Understanding these rotations can help identify when a project gains momentum or dwindles — paying attention during key announcements or tweets is crucial. Remember: hype without substance leads to painful corrections; smart traders ride waves but always practice risk management.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
