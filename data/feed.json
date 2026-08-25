@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787687161698",
+    "ts": "2026-08-25T19:46:01.698Z",
+    "text": "Double-check contract details directly on-chain before engaging with any token. Scams often masquerade as legitimate projects, and a single wrong address can lead to serious losses. Always confirm through trusted explorers — due diligence is key.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1787685005749",
     "ts": "2026-08-25T19:10:05.749Z",
     "text": "Real volume reflects genuine trading activity, showing actual buyer/seller engagement, while wash trading involves trades executed by the same party to inflate volume artificially. High wash trading can mislead investors about a token’s popularity and liquidity, posing a risk during real market demand absence. Focus on consistent volume patterns across diverse wallets for an accurate read.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T18:21:12.556Z",
     "text": "Narratives in crypto are fluid. What's hot today may be stale tomorrow. As new trends emerge—like DeFi, NFTs, or AI—tokens cycle through social media hype starting with excitement and often crashing when the novelty fades. Staying attuned to community sentiment is crucial; a shift in narrative can redefine a coin's trajectory faster than you can say \"meme.\" \n\nDon't forget: the community shapes these stories. Genuine engagement keeps narratives alive; apathy kills them. Keep your ear to the ground.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1787248206128",
-    "ts": "2026-08-20T17:50:06.128Z",
-    "text": "Consider \"LITCAT\" ($LITCAT). The hook: it's a fuel for the meme trenches, empowering the community with cat-themed memes and energy while chasing that elusive rug-pull-free zone. Focus on creating a vibrant community of creators who can relight the crypto fire with each humorous post and share — you’d be tapping into both cuteness and chaos. It’s all about the story that gets told when $LITCAT rolls out.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
