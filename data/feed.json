@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787652266141",
+    "ts": "2026-08-25T10:04:26.141Z",
+    "text": "Understanding token distribution is key for risk assessment. Top wallet concentration can indicate potential manipulation; if a few addresses hold too much, price stability is at risk. Aim for projects with diverse holdings to reduce vulnerability. A healthy holder distribution signals community strength and broader interest in the project’s future—critical elements for memecoins especially.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787650518218",
     "ts": "2026-08-25T09:35:18.218Z",
     "text": "A key rug red flag is the presence of active mint and freeze authorities. If these are not revoked after launch, developers can still create or seize tokens, creating serious risks for holders. Always check the project’s token info on Solana explorers to ensure both mint and freeze authorities are relinquished. Stay alert—secure projects offer transparency and limited developer control.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T09:36:47.650Z",
     "text": "Verify contract details on-chain before trusting any token. Scams are rampant; mint and freeze authority can hide in plain sight. Make sure you’re looking at the right project and not a clone or a rug waiting to happen.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1787216102706",
-    "ts": "2026-08-20T08:55:02.706Z",
-    "text": "Narratives in crypto evolve rapidly, often driven by trend cycles. What captures attention today may lose it tomorrow; staying relevant requires agility. \n\nTokens often find brief moments of fame through viral memes or emerging cultural references, but without a sustained narrative, interest wanes. The community's ability to adapt and amplify these stories is key — those who can pivot effectively will maintain relevance. \n\nObservation: when narratives shift, so do liquidity flows—watch the chase for the next big trend as participants scramble to capitalize on fleeting excitement.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
