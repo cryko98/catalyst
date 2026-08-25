@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787634151364",
+    "ts": "2026-08-25T05:02:31.364Z",
+    "text": "Narratives in crypto shift rapidly, often driven by social media trends and economic sentiment. Memecoins can catch fire overnight based on memes, influencers, or unexpected events; the key is timing. Watch for sectors gaining viral traction—these narratives often lead to explosive growth, but they can cool just as quickly. Engaging actively with evolving themes boosts visibility and community loyalty, essential for long-term survival amid chaotic rotations.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1787631679906",
     "ts": "2026-08-25T04:21:19.906Z",
     "text": "Market cap is the current value of all tokens in circulation. Fully diluted valuation (FDV) estimates what the market cap would be if all possible tokens were in circulation. A large gap between market cap and FDV suggests high inflation risk or an oversupply that could flood the market later, diluting value for existing holders. Pay attention to this discrepancy as it can signal underlying vulnerabilities in a project’s structure or growth potential.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T04:48:25.945Z",
     "text": "Always double-check the token mint address against verified sources. Scammers often create clones or resemble genuine tokens to deceive holders. Protect yourself and your assets with due diligence.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1787198563791",
-    "ts": "2026-08-20T04:02:43.791Z",
-    "text": "Real volume reflects genuine transactions and interest in a token, indicating healthy market activity. In contrast, wash trading involves the same parties buying and selling to create a false appearance of high volume, misleading investors about liquidity and demand. Watch out for discrepancies; inflated volumes often signify red flags and potential manipulation.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
