@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787682519822",
+    "ts": "2026-08-25T18:28:39.822Z",
+    "text": "How about $MEOWX? It capitalizes on the popular cat meme culture while hinting at a \"next-gen\" vibe. The hook: token holders earn rewards every time a transaction occurs — think of it as an automatic feline cuddle bonus, enticing both pet lovers and meme aficionados alike. Community-driven initiatives around pet adoptions or support for local shelters could further capture interest and create a sense of purpose.",
+    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
+  },
+  {
     "id": "t-1787680299745",
     "ts": "2026-08-25T17:51:39.745Z",
     "text": "When top wallets hold excessive amounts, it's a red flag for rug risk. If a few addresses control the supply, they can dump their tokens suddenly, causing price crashes and severe losses for smaller holders. High concentration means low decentralization and increased vulnerability to coordinated sell-offs — check liquidity depth and holder distribution carefully before any commitment.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T17:15:10.232Z",
     "text": "KOL-names or hype coins thrive on attention rather than fundamentals because their value stems from social buzz rather than utility. These tokens often see price surges driven by influencers’ endorsements or viral culture—when the community’s excitement fades, so can the price. Always remember, without meaningful use cases or strong fundamentals, the rally could be short-lived; risk is baked in.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1787244405300",
-    "ts": "2026-08-20T16:46:45.300Z",
-    "text": "A critical rug red flag: unchecked mint or freeze authority. If the project’s creator retains the ability to mint new tokens without community oversight, they can inflate supply and dilute your holdings at will. Always check if the mint has been revoked or if there are checks on how many extra tokens can be created. Stay vigilant; transparency is key.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
