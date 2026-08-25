@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787654793039",
+    "ts": "2026-08-25T10:46:33.039Z",
+    "text": "Top-wallet concentration indicates potential rug risk because if a small number of addresses control most tokens, they can easily influence price or exit the project altogether, causing volatility. Projects with decentralized holdings foster resilience and community trust; look for this distribution to mitigate your risks. In memecoins, where community is king, diversity in holders often signifies a healthier ecosystem.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787652266141",
     "ts": "2026-08-25T10:04:26.141Z",
     "text": "Understanding token distribution is key for risk assessment. Top wallet concentration can indicate potential manipulation; if a few addresses hold too much, price stability is at risk. Aim for projects with diverse holdings to reduce vulnerability. A healthy holder distribution signals community strength and broader interest in the project’s future—critical elements for memecoins especially.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T10:04:45.538Z",
     "text": "Liquidity depth is critical for memecoins because it determines market health and stability. High liquidity facilitates smoother transactions, reduces slippage, and makes it tougher for any single trader to manipulate the price. Without sufficient liquidity, even minor trades can lead to wild price swings — a risk that could turn profits into losses in an instant.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1787218607650",
-    "ts": "2026-08-20T09:36:47.650Z",
-    "text": "Verify contract details on-chain before trusting any token. Scams are rampant; mint and freeze authority can hide in plain sight. Make sure you’re looking at the right project and not a clone or a rug waiting to happen.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
