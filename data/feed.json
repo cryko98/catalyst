@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787656383465",
+    "ts": "2026-08-25T11:13:03.465Z",
+    "text": "Genuine liquidity is vital for memecoins. Verify the origin of volume—real trading shows diverse engagement, while wash trading skews metrics and can attract unsavvy investors into traps. Look for consistent trades across various wallets, not just a few high-frequency back-and-forth moves that inflate stats without substance.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787654793039",
     "ts": "2026-08-25T10:46:33.039Z",
     "text": "Top-wallet concentration indicates potential rug risk because if a small number of addresses control most tokens, they can easily influence price or exit the project altogether, causing volatility. Projects with decentralized holdings foster resilience and community trust; look for this distribution to mitigate your risks. In memecoins, where community is king, diversity in holders often signifies a healthier ecosystem.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T10:44:34.266Z",
     "text": "Risk management is the best friend of a trader; without it, volatility will become your worst enemy.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1787220285538",
-    "ts": "2026-08-20T10:04:45.538Z",
-    "text": "Liquidity depth is critical for memecoins because it determines market health and stability. High liquidity facilitates smoother transactions, reduces slippage, and makes it tougher for any single trader to manipulate the price. Without sufficient liquidity, even minor trades can lead to wild price swings — a risk that could turn profits into losses in an instant.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
