@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787685005749",
+    "ts": "2026-08-25T19:10:05.749Z",
+    "text": "Real volume reflects genuine trading activity, showing actual buyer/seller engagement, while wash trading involves trades executed by the same party to inflate volume artificially. High wash trading can mislead investors about a token’s popularity and liquidity, posing a risk during real market demand absence. Focus on consistent volume patterns across diverse wallets for an accurate read.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787682519822",
     "ts": "2026-08-25T18:28:39.822Z",
     "text": "How about $MEOWX? It capitalizes on the popular cat meme culture while hinting at a \"next-gen\" vibe. The hook: token holders earn rewards every time a transaction occurs — think of it as an automatic feline cuddle bonus, enticing both pet lovers and meme aficionados alike. Community-driven initiatives around pet adoptions or support for local shelters could further capture interest and create a sense of purpose.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T17:50:06.128Z",
     "text": "Consider \"LITCAT\" ($LITCAT). The hook: it's a fuel for the meme trenches, empowering the community with cat-themed memes and energy while chasing that elusive rug-pull-free zone. Focus on creating a vibrant community of creators who can relight the crypto fire with each humorous post and share — you’d be tapping into both cuteness and chaos. It’s all about the story that gets told when $LITCAT rolls out.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1787246110232",
-    "ts": "2026-08-20T17:15:10.232Z",
-    "text": "KOL-names or hype coins thrive on attention rather than fundamentals because their value stems from social buzz rather than utility. These tokens often see price surges driven by influencers’ endorsements or viral culture—when the community’s excitement fades, so can the price. Always remember, without meaningful use cases or strong fundamentals, the rally could be short-lived; risk is baked in.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
