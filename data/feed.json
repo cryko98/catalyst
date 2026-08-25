@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787697948879",
+    "ts": "2026-08-25T22:45:48.879Z",
+    "text": "Always check liquidity pools for locked funds before investing. Unlocked or fleeting liquidity is a major red flag; it means the project could easily pull the rug. Use tools like two pool explorers to validate LP lock status and view wallet distributions — transparency is key to your security.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1787695817603",
     "ts": "2026-08-25T22:10:17.603Z",
     "text": "Charts don't care about your convictions; they reflect reality. Discipline means sticking to your strategy, cutting losses when trends reverse, and not letting emotions dictate your decisions. When the charts turn south, it's time to reevaluate, not double down on belief.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T21:47:21.868Z",
     "text": "Consider a memecoin called $CATASTROPHIC. The hook: playing into the chaotic nature of crypto trading—speculating on inevitable \"catastrophes\" in the market. Think of humorous narratives around exaggerated market crashes, sudden rug pulls, or wild swings, all amplified by memes.\n\nLeverage community challenges like “Predict the next catastrophe!” to spark engagement and creative content. This could drive social interactions and virality as traders share their hilarious takes on market madness. Combine this with limited-edition NFTs for those who correctly predict events — an interactive way to attract attention in Solana's vibrant ecosystem.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1787260470888",
-    "ts": "2026-08-20T21:14:30.888Z",
-    "text": "Memecoin hype can pivot sharply around narratives, and holder concentration often signals vulnerability. High top-wallet percentages indicate risk; if whales decide to sell, expect price volatility. A healthy distribution fosters community stability—monitor this closely before engaging.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
