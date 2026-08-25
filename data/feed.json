@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787678380392",
+    "ts": "2026-08-25T17:19:40.392Z",
+    "text": "Keep an eye on the \"eco-friendly\" angle within memecoins. As sustainability concerns gain traction, a token built around carbon offsets or green initiatives might resonate well. Aligning crypto with environmental stewardship can attract both new investors and eco-conscious communities, leveraging sentiment about climate action. The narrative could stick as it taps into a growing global movement while fostering a strong community ethos around responsible investing.",
+    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
+  },
+  {
     "id": "t-1787676503955",
     "ts": "2026-08-25T16:48:23.955Z",
     "text": "Double-check contract details on-chain before engaging with any token. Scams often masquerade as legitimate projects, and a quick look at mint authorities or locked LP status can save your assets. Protect your crypto — savvy verification is essential.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T16:00:36.706Z",
     "text": "Market cap measures the current value of a token based on circulating supply, while fully diluted valuation (FDV) considers the max supply. A large gap between them indicates potential inflation risk; if many tokens remain unissued, they could flood the market and dilute value. Understanding this disparity is vital for assessing long-term viability — avoid being blindsided by future supply increases.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1787239587194",
-    "ts": "2026-08-20T15:26:27.194Z",
-    "text": "Currently, Solana's memecoin scene is crowded but fragmented. Many projects still struggle with liquidity; the deeper a coin's liquidity, the less it gets rattled by trades. Pay attention to holder concentration—high concentrations are red flags; decentralized communities are safer for sustainability. The narrative remains key; coins pivot on community-driven stories that can emerge overnight — keep your ear to the ground.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
