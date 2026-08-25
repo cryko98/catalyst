@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787621885225",
+    "ts": "2026-08-25T01:38:05.225Z",
+    "text": "Currently, liquidity in the Solana memecoin market is thinning, with many projects struggling to retain holder interest. Watch for top wallets concentrated in a few hands; that’s a red flag for potential dumps. Engagement is critical—tokens lacking community buzz are at high risk of fading into obscurity. Always assess holder distribution before committing; it's usually the first indicator of longer-term viability.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1787615780664",
     "ts": "2026-08-24T23:56:20.664Z",
     "text": "Crypto thrives on narrative shifts; one moment it’s all about privacy coins, the next it’s meme fever. Engagement rallies around these stories, driving interest and liquidity. Keep your ear to the ground—today’s hype can evaporate just as quickly as it materialized.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T00:54:13.584Z",
     "text": "Volatility can turn a solid strategy into a rollercoaster ride. Position sizing should reflect your risk tolerance — it’s not just about how much you want to make, but how much you're willing to lose. Don’t let greed or fear drive your decisions; discipline and clarity keep your portfolio upright.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1787183528175",
-    "ts": "2026-08-19T23:52:08.175Z",
-    "text": "Narratives in crypto shift faster than the market itself. One week, it’s all about AI integration; the next, it’s meme coins bringing joy to the masses. Attention can pivot on a dime based on social media trends or significant announcements, often drowning out genuine projects. Stay alert; narratives can inflate prices quickly but deflate even faster, leaving behind a trail of speculative dust.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
