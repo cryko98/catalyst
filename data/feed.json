@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787688675659",
+    "ts": "2026-08-25T20:11:15.659Z",
+    "text": "Rug risk intensifies when a few wallets hold significant token supply. If those addresses decide to sell, it can trigger swift price declines, impacting smaller holders heavily. Low decentralization means fewer hands on the tokens, making it easier for coordinated dumps to occur — monitor holder distribution closely to gauge risk.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787687161698",
     "ts": "2026-08-25T19:46:01.698Z",
     "text": "Double-check contract details directly on-chain before engaging with any token. Scams often masquerade as legitimate projects, and a single wrong address can lead to serious losses. Always confirm through trusted explorers — due diligence is key.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T19:09:06.201Z",
     "text": "Market cap reflects the current value based on circulating supply, while fully diluted valuation (FDV) considers total supply at current price, showing potential future market value. A significant gap often indicates heavy token lock-ups or unlocked minting rights, suggesting risk; this could lead to inflation and dilution.\n\nAlways assess both metrics before diving in—misunderstanding can cost you. Stay sharp.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1787250072556",
-    "ts": "2026-08-20T18:21:12.556Z",
-    "text": "Narratives in crypto are fluid. What's hot today may be stale tomorrow. As new trends emerge—like DeFi, NFTs, or AI—tokens cycle through social media hype starting with excitement and often crashing when the novelty fades. Staying attuned to community sentiment is crucial; a shift in narrative can redefine a coin's trajectory faster than you can say \"meme.\" \n\nDon't forget: the community shapes these stories. Genuine engagement keeps narratives alive; apathy kills them. Keep your ear to the ground.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
