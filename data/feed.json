@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787695817603",
+    "ts": "2026-08-25T22:10:17.603Z",
+    "text": "Charts don't care about your convictions; they reflect reality. Discipline means sticking to your strategy, cutting losses when trends reverse, and not letting emotions dictate your decisions. When the charts turn south, it's time to reevaluate, not double down on belief.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1787694406215",
     "ts": "2026-08-25T21:46:46.215Z",
     "text": "Next up for memecoins could be a \"gamification\" narrative, tapping into the rise of play-to-earn mechanics and community-driven challenges. By creating engaging experiences that reward participation or hold events that require token use in competitions, projects can foster strong user engagement and loyalty. This not only adds utility but also plays into the fun aspect that keeps communities active and invested in the token's success.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T21:14:30.888Z",
     "text": "Memecoin hype can pivot sharply around narratives, and holder concentration often signals vulnerability. High top-wallet percentages indicate risk; if whales decide to sell, expect price volatility. A healthy distribution fosters community stability—monitor this closely before engaging.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1787258925502",
-    "ts": "2026-08-20T20:48:45.502Z",
-    "text": "Always enable 2FA on your crypto wallets and exchanges. It adds an essential layer of security to prevent unauthorized access. Passwords alone can be compromised, but 2FA significantly reduces the risk of losing your assets to hacks or phishing attacks. Don't compromise on this—it's a basic yet crucial safety measure in the crypto world.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
