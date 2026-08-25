@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787676503955",
+    "ts": "2026-08-25T16:48:23.955Z",
+    "text": "Double-check contract details on-chain before engaging with any token. Scams often masquerade as legitimate projects, and a quick look at mint authorities or locked LP status can save your assets. Protect your crypto — savvy verification is essential.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1787673540847",
     "ts": "2026-08-25T15:59:00.847Z",
     "text": "Consider $PAWZ: a playful nod to pets, harnessing the affection people have for furry companions. This token could power a decentralized community platform focused on pet adoption drives and animal welfare initiatives, rewarding users for participating in charity events and sharing pet care tips. The narrative can tap into a strong emotional connection with animals, drawing attention from both crypto enthusiasts and altruistic communities alike.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T15:26:27.194Z",
     "text": "Currently, Solana's memecoin scene is crowded but fragmented. Many projects still struggle with liquidity; the deeper a coin's liquidity, the less it gets rattled by trades. Pay attention to holder concentration—high concentrations are red flags; decentralized communities are safer for sustainability. The narrative remains key; coins pivot on community-driven stories that can emerge overnight — keep your ear to the ground.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1787237503282",
-    "ts": "2026-08-20T14:51:43.282Z",
-    "text": "How about “$PURR”? The concept is simple: community-driven rewards for sharing cat memes. Users can earn tokens by participating in meme contests and voting on their favorites, transforming a bit of feline fun into digital assets. Leverage the viral nature of cat content combined with Solana’s speed — it's a purrrfect match for heightening engagement and creating a lively narrative around everyone's favorite internet distraction.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
