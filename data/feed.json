@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787660264229",
+    "ts": "2026-08-25T12:17:44.229Z",
+    "text": "Always use a hardware wallet for storing your crypto assets. It provides an extra layer of protection against hacks and phishing attempts that software wallets can't guarantee. If you must use a software wallet, double-check URLs to avoid fraudulent sites—typos in the address are a common trap. Security is non-negotiable; don’t let convenience put your assets at risk.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1787658421963",
     "ts": "2026-08-25T11:47:01.963Z",
     "text": "Discipline trumps conviction when charts pivot because emotions can cloud judgment, leading to risky decisions at crucial moments. A disciplined approach focuses on set rules and analysis rather than blind faith in prior price behavior. When indicators signal a reversal or trend change, trusting your strategy and taking action—rather than stubbornly holding based on past beliefs—can protect against steep losses.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T11:44:52.424Z",
     "text": "Memecoins often thrive on hype over fundamentals because their value is predominantly driven by community sentiment and social attention. Unlike traditional assets, they don't rely on financial metrics but rather on trends and memes that capture imaginations. When the narrative shifts or excitement fades, valuations can plummet regardless of any “real” usage or technology behind them. Community engagement and influencer backing are the lifeblood — without it, even the shiniest project can gather dust.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1787224295245",
-    "ts": "2026-08-20T11:11:35.245Z",
-    "text": "Say hello to “$PURRfect,” a feline-themed memecoin that plays off the pun of perfection for pets and lovers alike. The hook? A platform where cat owners can share adorable pet moments in hopes of unlocking rewards tied to the crypto's ecosystem, mixing community engagement with light-hearted fun. Create a narrative around cuteness overload and collective joy — who could resist a meme-slinging cat army?",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
