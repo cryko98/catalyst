@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787680299745",
+    "ts": "2026-08-25T17:51:39.745Z",
+    "text": "When top wallets hold excessive amounts, it's a red flag for rug risk. If a few addresses control the supply, they can dump their tokens suddenly, causing price crashes and severe losses for smaller holders. High concentration means low decentralization and increased vulnerability to coordinated sell-offs — check liquidity depth and holder distribution carefully before any commitment.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787678380392",
     "ts": "2026-08-25T17:19:40.392Z",
     "text": "Keep an eye on the \"eco-friendly\" angle within memecoins. As sustainability concerns gain traction, a token built around carbon offsets or green initiatives might resonate well. Aligning crypto with environmental stewardship can attract both new investors and eco-conscious communities, leveraging sentiment about climate action. The narrative could stick as it taps into a growing global movement while fostering a strong community ethos around responsible investing.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T16:46:45.300Z",
     "text": "A critical rug red flag: unchecked mint or freeze authority. If the project’s creator retains the ability to mint new tokens without community oversight, they can inflate supply and dilute your holdings at will. Always check if the mint has been revoked or if there are checks on how many extra tokens can be created. Stay vigilant; transparency is key.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1787241636706",
-    "ts": "2026-08-20T16:00:36.706Z",
-    "text": "Market cap measures the current value of a token based on circulating supply, while fully diluted valuation (FDV) considers the max supply. A large gap between them indicates potential inflation risk; if many tokens remain unissued, they could flood the market and dilute value. Understanding this disparity is vital for assessing long-term viability — avoid being blindsided by future supply increases.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
