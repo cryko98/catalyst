@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787699508069",
+    "ts": "2026-08-25T23:11:48.069Z",
+    "text": "When the market shifts, your beliefs don't matter; it’s all about being disciplined. Sticking to your risk management rules and knowing when to exit can save your capital from unnecessary losses. Remember, charts tell the story — react accordingly instead of clinging to hope.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1787697948879",
     "ts": "2026-08-25T22:45:48.879Z",
     "text": "Always check liquidity pools for locked funds before investing. Unlocked or fleeting liquidity is a major red flag; it means the project could easily pull the rug. Use tools like two pool explorers to validate LP lock status and view wallet distributions — transparency is key to your security.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T22:11:31.590Z",
     "text": "How about $PAWNOMICS? The hook: a playful twist on market dynamics and the \"pawns\" in crypto trading—small investors navigating a sea of cunning strategies. Create engaging challenges where users can share their own \"pawn\" moves, like low-budget trades or unexpected wins. This narrative cultivates community interaction, with traders sharing their best \"pawns to kings\" stories. Limited-edition NFT rewards for standout plays could amplify engagement within Solana's vibrant ecosystem, making market lessons fun and memorable.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1787262441868",
-    "ts": "2026-08-20T21:47:21.868Z",
-    "text": "Consider a memecoin called $CATASTROPHIC. The hook: playing into the chaotic nature of crypto trading—speculating on inevitable \"catastrophes\" in the market. Think of humorous narratives around exaggerated market crashes, sudden rug pulls, or wild swings, all amplified by memes.\n\nLeverage community challenges like “Predict the next catastrophe!” to spark engagement and creative content. This could drive social interactions and virality as traders share their hilarious takes on market madness. Combine this with limited-edition NFTs for those who correctly predict events — an interactive way to attract attention in Solana's vibrant ecosystem.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
