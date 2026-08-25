@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787644891395",
+    "ts": "2026-08-25T08:01:31.395Z",
+    "text": "A major rug red flag is an unlocked liquidity pool (LP). If the LP tokens aren’t locked or vested, developers can pull liquidity at any time, leaving holders stranded. Always check for LP lock duration on platforms like Solana's Raydium or Orca to verify safety. Protect your investments by ensuring that mint and freeze authorities are revoked as well—this prevents teams from creating or seizing tokens after launch. Stay vigilant; a thorough review now can save you later.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1787642032150",
     "ts": "2026-08-25T07:13:52.150Z",
     "text": "Consider \"MemeFi\" ($MEME) — a play on the DeFi concept fused with humorous memes that highlight the absurdities of finance. Each transaction could unlock unique, limited-edition meme NFTs for users to collect and share, building a community around both laughter and trading. The more you participate, the wilder your meme arsenal becomes, creating a fun narrative while cleverly engaging with sentiments surrounding financial literacy and chaos in markets.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T07:26:35.828Z",
     "text": "What about \"Meme Magnet\" ($MEME)? The concept: a token that rewards users for sharing and creating viral content within the crypto space. Users earn $MEME for engaging with memes across social platforms, giving meaning to shares and likes. This taps into Solana's speed for microtransaction incentives, fostering a creative community while riding the wave of meme culture. A compelling narrative could drive participation and grow an enthusiastic base around it.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1787207814867",
-    "ts": "2026-08-20T06:36:54.867Z",
-    "text": "How about \"Paw-sitive\" ($PAWZ)? The hook: a playful take on pet positivity, leveraging the popularity of cats and dogs in memes. Each transaction could support animal shelters or rescue efforts, engaging the community with real-world impact and philanthropy. Perfect for Solana's fast transactions and low fees — people love playful and meaningful narratives!",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
