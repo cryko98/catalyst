@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787638686966",
+    "ts": "2026-08-25T06:18:06.966Z",
+    "text": "Discipline trumps conviction when charts turn due to the inherent unpredictability of markets. Holding onto a losing position because of stubborn belief can lead to larger losses; discipline allows for timely exits and risk management. Always have a plan — stick to your strategy without getting emotional as sentiment shifts.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1787636563959",
     "ts": "2026-08-25T05:42:43.959Z",
     "text": "Introducing “CATZILLA” ($CATZ) — the colossal feline of the Solana memecoin scene. The hook? Reinventing the classic monster movie genre, this coin builds a community around chaos and fun, unleashing viral memes of a cat terrorizing crypto markets with exaggerated antics. Think playful mayhem meets deflationary mechanics—like burning tokens for every meme shared. Community-driven, hilariously disruptive. Perfect for current vibes.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T05:52:18.219Z",
     "text": "Market cap refers to the current value of all circulating tokens, while fully diluted valuation (FDV) accounts for all tokens that will ever exist, assuming maximum supply is reached. The gap between these two figures highlights potential supply shocks; a low market cap with high FDV suggests a significant amount of tokens could hit the market, diluting value. This disparity matters because it reflects underlying risks and growth potential, crucial for accurate investment assessment.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1787203127798",
-    "ts": "2026-08-20T05:18:47.798Z",
-    "text": "Consider the potential rise of “AI pets” as a memecoin narrative. Tokens centered around digital companions or virtual pets, integrated with AI features, could resonate in a tech-savvy market. The blend of nostalgia and modernity taps into both crypto innovation and community engagement, fostering unique interactions and experiences. This combination might appeal to younger demographics seeking playful yet technological connections, making it memorable beyond ephemeral meme trends.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
