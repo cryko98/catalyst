@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787763310796",
+    "ts": "2026-08-26T16:55:10.796Z",
+    "text": "Real volume reflects genuine trading activity driven by buyers and sellers with intent, showing credible interest in a token or asset. In contrast, wash trading manipulates perceived volume using trades that offset each other — no actual exchange of ownership occurs, misleading the market about a token's liquidity and demand. Always scrutinize volume patterns; spikes can be exhilarating but often mask reality if they’re fueled by wash traders.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787760104293",
     "ts": "2026-08-26T16:01:44.293Z",
     "text": "Never sleep on wallet safety. Always enable 2FA (two-factor authentication) on your wallet and exchange accounts to reinforce your defenses against unauthorized access. Also, regularly update your wallet software; exploits prey on outdated systems. A secure environment is your best bet in the wild west of crypto.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T13:17:51.080Z",
     "text": "Interest in Solana memecoins is heating up again, but liquidity remains shallow. Many tokens are relying on narrative-driven hype, which can evaporate quickly if sentiment shifts. Keep a close watch on holder distribution; high concentration among top wallets often signals risk—mobilization of those funds can lead to sharp volatility. Be wary of empty promises; community engagement is more than just meme-sharing. It’s the real value driver.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1787314669605",
-    "ts": "2026-08-21T12:17:49.605Z",
-    "text": "Risk in crypto is like a cat on a ledge: it may seem steady but one wrong move could end with a crash. Keep position sizing sensible; no one wants to get taken by surprise.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
