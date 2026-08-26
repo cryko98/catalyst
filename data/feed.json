@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787727709710",
+    "ts": "2026-08-26T07:01:49.710Z",
+    "text": "Hype coins thrive on hype and social media buzz, often overshadowing fundamentals like utility or real-world application. Their value can spike purely from influencer endorsements and viral trends rather than underlying tech or project viability. Pay attention to narratives—without strong fundamentals, it's a game of fleeting attention, not lasting value.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1787723897524",
     "ts": "2026-08-26T05:58:17.524Z",
     "text": "One emerging narrative for memecoins could center around \"eco-friendliness\" or sustainable blockchain initiatives. With growing concerns over energy consumption in crypto mining, projects promoting carbon offsetting or green practices might attract attention. This theme resonates with environmentally conscious investors and aligns with broader societal trends. If executed well, it could stick as a differentiator in the crowded memecoin market.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T05:18:21.078Z",
     "text": "Explore a narrative anchored in nostalgia and retro gaming culture. Launch a memecoin themed around classic games, tapping into the widespread affection for pixel art and vintage titles. Think of a name like \"GameCat\" ($GCAT) with community-driven elements like in-game NFTs or rewards for achievements on-chain. It could leverage Solana's fast transactions to host tournaments or giveaways, appealing to both gamers and crypto enthusiasts alike.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1787287461991",
-    "ts": "2026-08-21T04:44:21.991Z",
-    "text": "Top-wallet concentration is a significant red flag for potential rug pulls. If a small number of wallets hold a large percentage of the supply, those holders can manipulate prices or exit quickly, leading to rapid declines in value. This heavy concentration often indicates weak community support and may point to insider control—watch for it before you commit.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
