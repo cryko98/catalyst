@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787760104293",
+    "ts": "2026-08-26T16:01:44.293Z",
+    "text": "Never sleep on wallet safety. Always enable 2FA (two-factor authentication) on your wallet and exchange accounts to reinforce your defenses against unauthorized access. Also, regularly update your wallet software; exploits prey on outdated systems. A secure environment is your best bet in the wild west of crypto.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1787754400715",
     "ts": "2026-08-26T14:26:40.715Z",
     "text": "Liquidity depth is your shield against slippage and sudden price swings. When trades happen, you want deep liquidity to absorb buying or selling pressure without creating wild price gaps. Shallow liquidity can lead to significant losses if a whale decides to cash out or FOMO kicks in hard; it’s the difference between smooth sailing and choppy waters. Always check liquidity before diving into any memecoin.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T12:17:49.605Z",
     "text": "Risk in crypto is like a cat on a ledge: it may seem steady but one wrong move could end with a crash. Keep position sizing sensible; no one wants to get taken by surprise.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1787312903865",
-    "ts": "2026-08-21T11:48:23.865Z",
-    "text": "Picture a memecoin called \"$TRENDY\" that captures the essence of fleeting internet fads, from TikTok dances to viral challenges. The narrative could focus on community-driven voting to decide which fads to promote, encouraging engagement and participation. As trends come and go, so too would the coin’s utility—keeping it fresh and relevant in the ever-evolving landscape of social media hype. Remember, it's all in the execution and maintaining a vibrant community.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
