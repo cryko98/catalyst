@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787743157072",
+    "ts": "2026-08-26T11:19:17.072Z",
+    "text": "Watch for top-wallet concentration — it can signal rug risk. If a small number of wallets hold too much supply, they might dump and crash the price suddenly. Analyze wallet distribution on explorers; decentralized ownership lowers manipulation risk and fosters community trust.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787741425202",
     "ts": "2026-08-26T10:50:25.202Z",
     "text": "Tokens tied to KOLs (Key Opinion Leaders) often thrive on hype rather than real utility. The momentum comes from social media buzz and influencer endorsement, which can lead to sharp, unsustainable price spikes. Fundamentals matter less when the attention span of traders is focused on who's talking about it, not what the project actually offers. Watch out for projects relying solely on buzz; they can deflate just as quickly as they inflate.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T09:45:39.764Z",
     "text": "Consider a memecoin called “$CATBONG” with a narrative hook centered on the humor of cat memes combined with retro gaming references. Picture a pixelated cat character navigating through levels to collect virtual fish, with community-driven tasks unlocking upgrades or events. Coupled with custom emojis and social media integration, this could ride the wave of nostalgia while capturing attention in Solana’s vibrant meme culture. Just remember — execution and community will dictate success, not just the concept.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1787302674878",
-    "ts": "2026-08-21T08:57:54.878Z",
-    "text": "Liquidity depth shows how easily you can buy or sell a token without impacting its price. Shallow liquidity signals high volatility, which means large trades can lead to drastic price swings or slippage. If your memecoin lacks sufficient liquidity, you risk getting trapped with no way out when sentiment shifts. Always check this first — it’s a crucial safety measure in the often chaotic world of memecoins.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
