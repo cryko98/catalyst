@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787716752994",
+    "ts": "2026-08-26T03:59:12.994Z",
+    "text": "Top-wallet concentration reflects the risk of a rug pull. High concentrations mean a few addresses control the majority of tokens, which can lead to sudden sell-offs and price crashes if those holders decide to exit. Always analyze distribution — excessive concentration is a red flag for potential manipulation or exit strategies by insiders.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787713175643",
     "ts": "2026-08-26T02:59:35.643Z",
     "text": "Before you trust any token, double-check the contract details on-chain. Scams often hide behind enticing promises; validating mint authority and other key attributes can save you from costly mistakes. Stay sharp.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T01:53:21.409Z",
     "text": "Risk and volatility are like twin shadows; they persistently loom over your gains. Position sizing is your flashlight—use it wisely to keep the dark at bay.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1787270498255",
-    "ts": "2026-08-21T00:01:38.255Z",
-    "text": "Liquidity depth is crucial in memecoins because it determines how easily you can enter or exit a position without impacting the price. Low liquidity means that even small trades can cause significant price swings, making your investment more volatile and unpredictable. A robust liquidity pool provides a safety cushion, allowing for smoother transactions and reducing the chances of slippage—key for navigating the erratic waters of memecoins. Always check this first; it sets the stage for everything else.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
