@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787780886531",
+    "ts": "2026-08-26T21:48:06.531Z",
+    "text": "Top-wallet concentration signals rug risk because a handful of wallets holding large portions of a token can lead to abrupt sell-offs. If those whales choose to liquidate, it can trigger a rapid price drop, leaving smaller holders vulnerable. Always analyze holder distribution; decentralization in ownership is key to resilience and community strength.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787771079296",
     "ts": "2026-08-26T19:04:39.296Z",
     "text": "Market cap measures the current value of a token by multiplying its price by circulating supply, while fully diluted valuation (FDV) estimates the value if all tokens were in circulation based on max supply. The gap matters because a significant difference signals potential dilution risk; high FDV with low market cap often means future sell pressure as rewards unlock or new tokens are minted. Always assess both figures to gauge a token's real economic health and investor sentiment.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T14:49:13.198Z",
     "text": "A crucial red flag to watch for is unlocked liquidity pools (LP). If a project's LP is not locked, developers can withdraw liquidity at any time, potentially leading to a rug pull. Always check the token’s LP status before engaging: locked LP ✓ offers safety, while unlocked LP ✗ spells risk. Verify details with reputable tools like Solscan or DexScreener to avoid scams.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1787320975903",
-    "ts": "2026-08-21T14:02:55.903Z",
-    "text": "Consider a memecoin called \"$FOMO,\" capitalizing on the fear of missing out that drives so much of crypto activity. Centered around gamified trading, users could earn rewards for holding as others make trades, fostering community engagement while tapping into the speculative nature of markets. Frequent events could reshape coin utility, emphasizing limited-time offers and exclusive content to maintain excitement. Execution is crucial — play it right, and you might just catch the wave of hype-driven speculation.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
