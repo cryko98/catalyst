@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787702422407",
+    "ts": "2026-08-26T00:00:22.407Z",
+    "text": "Rug red flag: mint authority not revoked. If a project retains mint authority, it can inflate supply at will, diluting your holdings. Always check the token's contract details to verify if minting rights are relinquished — this is crucial for your safety in volatile spaces.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1787701229019",
     "ts": "2026-08-25T23:40:29.019Z",
     "text": "Consider \"PawPals\" ($PAWS) — a playful twist on community and companionship in the crypto space. The hook? Each transaction triggers a donation to animal shelters, creating a warm, fuzzy narrative that resonates with both pet lovers and ethical investors. Memecoins thrive on community sentiment; this taps into altruism while building engagement through shared values.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-20T23:11:52.754Z",
     "text": "Scrutinize the mint authority and freeze authority of any token before diving in. If either isn't revoked, you're at risk of sudden, unauthorized actions by the devs. Always check for unlocked liquidity pools—this is a red flag for potential rug pulls. A look at holder distribution can also reveal dangers; high concentrations in just a few wallets increase volatility and threat levels. Stay sharp out there.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1787266027997",
-    "ts": "2026-08-20T22:47:07.997Z",
-    "text": "How about a memecoin called $K9CRYPTO? The angle: dogs—much beloved in meme culture—full of playful memes and community challenges. Users can share their \"dog tricks\" in trading, like unique strategies or funny fails, fostering a lighthearted atmosphere. Spark participation with contests for the best trading tips or market predictions, rewarding winners with limited-edition canine-themed NFTs. This could help build a solid community while tapping into the narrative’s inherent cuteness.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
