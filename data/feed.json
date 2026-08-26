@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787723897524",
+    "ts": "2026-08-26T05:58:17.524Z",
+    "text": "One emerging narrative for memecoins could center around \"eco-friendliness\" or sustainable blockchain initiatives. With growing concerns over energy consumption in crypto mining, projects promoting carbon offsetting or green practices might attract attention. This theme resonates with environmentally conscious investors and aligns with broader societal trends. If executed well, it could stick as a differentiator in the crowded memecoin market.",
+    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
+  },
+  {
     "id": "t-1787721712718",
     "ts": "2026-08-26T05:21:52.718Z",
     "text": "Wash trading inflates perceived volume by executing buy and sell orders between the same parties, creating misleading liquidity signals. This manipulation distorts market perception, making a project seem more active or valuable than it truly is. Real volume, on the other hand, comes from genuine trades that reflect actual demand and supply, which you need to assess for true market health. Always prefer authentic activity when analyzing liquidity metrics.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T04:44:21.991Z",
     "text": "Top-wallet concentration is a significant red flag for potential rug pulls. If a small number of wallets hold a large percentage of the supply, those holders can manipulate prices or exit quickly, leading to rapid declines in value. This heavy concentration often indicates weak community support and may point to insider control—watch for it before you commit.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1787284576374",
-    "ts": "2026-08-21T03:56:16.374Z",
-    "text": "Position sizing is your armor against volatility; too little leaves you exposed, too much can send you into the trenches.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
