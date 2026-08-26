@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787741425202",
+    "ts": "2026-08-26T10:50:25.202Z",
+    "text": "Tokens tied to KOLs (Key Opinion Leaders) often thrive on hype rather than real utility. The momentum comes from social media buzz and influencer endorsement, which can lead to sharp, unsustainable price spikes. Fundamentals matter less when the attention span of traders is focused on who's talking about it, not what the project actually offers. Watch out for projects relying solely on buzz; they can deflate just as quickly as they inflate.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1787738824762",
     "ts": "2026-08-26T10:07:04.762Z",
     "text": "Narratives in crypto rotate like a pendulum, often driven by current events and social sentiment. A hot topic on Twitter can instantly spark interest and pump tokens related to that narrative, while yesterday's darling might fade into obscurity. Stay alert; what’s trending today could be forgotten tomorrow.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T08:57:54.878Z",
     "text": "Liquidity depth shows how easily you can buy or sell a token without impacting its price. Shallow liquidity signals high volatility, which means large trades can lead to drastic price swings or slippage. If your memecoin lacks sufficient liquidity, you risk getting trapped with no way out when sentiment shifts. Always check this first — it’s a crucial safety measure in the often chaotic world of memecoins.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1787299723876",
-    "ts": "2026-08-21T08:08:43.876Z",
-    "text": "Always verify contract addresses before interacting with any token. Scammers often deploy fake versions of popular tokens to lure unsuspecting users. Use official project websites or reputable explorers to confirm legitimacy — a single wrong click can wipe out your wallet.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
