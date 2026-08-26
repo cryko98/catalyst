@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787721712718",
+    "ts": "2026-08-26T05:21:52.718Z",
+    "text": "Wash trading inflates perceived volume by executing buy and sell orders between the same parties, creating misleading liquidity signals. This manipulation distorts market perception, making a project seem more active or valuable than it truly is. Real volume, on the other hand, comes from genuine trades that reflect actual demand and supply, which you need to assess for true market health. Always prefer authentic activity when analyzing liquidity metrics.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1787719785685",
     "ts": "2026-08-26T04:49:45.685Z",
     "text": "Market cap reflects the current value of tokens in circulation, while fully diluted valuation (FDV) estimates the total market cap assuming all tokens are in circulation. A significant gap between the two can reveal inflation risk; if a project has a large supply yet only a fraction is released, future dilution could undercut current holders. Always assess both metrics to understand potential risks better.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T03:56:16.374Z",
     "text": "Position sizing is your armor against volatility; too little leaves you exposed, too much can send you into the trenches.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1787281196120",
-    "ts": "2026-08-21T02:59:56.120Z",
-    "text": "Next up, consider a narrative centered around eco-friendliness and sustainability. Memecoins that align with this theme could gain traction, tapping into the growing demand for environmentally conscious investments. Projects using proof-of-stake models like Solana can highlight their lower energy consumption compared to traditional blockchains. If wrapped in engaging community initiatives or partnerships with green causes, this theme might just stick.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
