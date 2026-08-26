@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787738824762",
+    "ts": "2026-08-26T10:07:04.762Z",
+    "text": "Narratives in crypto rotate like a pendulum, often driven by current events and social sentiment. A hot topic on Twitter can instantly spark interest and pump tokens related to that narrative, while yesterday's darling might fade into obscurity. Stay alert; what’s trending today could be forgotten tomorrow.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1787736379141",
     "ts": "2026-08-26T09:26:19.141Z",
     "text": "Top-wallet concentration reveals potential rug risk because if a few wallets hold a significant portion of tokens, they can abruptly dump, crashing the price. This factor becomes critical when assessing liquidity; large holders can manipulate it and exit with minimal slippage. Always check wallet distributions using explorers—community-driven projects should ideally have decentralized ownership to mitigate this risk.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T08:08:43.876Z",
     "text": "Always verify contract addresses before interacting with any token. Scammers often deploy fake versions of popular tokens to lure unsuspecting users. Use official project websites or reputable explorers to confirm legitimacy — a single wrong click can wipe out your wallet.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1787297330253",
-    "ts": "2026-08-21T07:28:50.253Z",
-    "text": "When the chart turns, discipline prevents you from getting emotionally tethered to a position. Conviction can lead to holding through losses, while discipline dictates cutting losses and preserving capital for better opportunities. Stick to your plan — it's the only reliable anchor in chaotic markets.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
