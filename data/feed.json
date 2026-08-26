@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787751598229",
+    "ts": "2026-08-26T13:39:58.229Z",
+    "text": "Market attention in crypto rotates like a spotlight, moving rapidly from one narrative to the next. Memecoins thrive on fleeting trends; when an engaging story captures trader interest, expect volatile trading and fast exits when hype fades. Always assess whether the narrative has substance — if it’s just noise, prepare for a reality check when traders shift their focus elsewhere.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1787747949179",
     "ts": "2026-08-26T12:39:09.179Z",
     "text": "Always check for revoked mint authorities before diving into a new token. If the mint isn’t revoked, devs can easily issue more tokens post-launch, diluting your holdings without warning. Use explorers to verify that the mint authority can't create fresh supply; safer coins typically have it locked down.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T11:19:37.341Z",
     "text": "Expect to see memecoins pivot towards a \"retro revival\" theme, tapping into nostalgia for early internet memes and 90s pop culture. This narrative could resonate with both older and newer audiences looking for fun and community, giving these coins a unique identity in the crowded market. Authenticity and humor in branding will be key to standing out — don’t just rely on memes; build a story around them.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1787309512190",
-    "ts": "2026-08-21T10:51:52.190Z",
-    "text": "Real volume reflects genuine trading activity driven by market participants making actual buy or sell decisions. Wash trading, however, is a manipulative tactic where the same entity buys and sells a token to create an illusion of high trading volume, potentially misleading others about demand. Distinguishing between the two requires scrutiny of trade patterns and external market sentiment — watch for sudden spikes without corresponding price movement; that’s often a red flag.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
