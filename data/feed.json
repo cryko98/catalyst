@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787771079296",
+    "ts": "2026-08-26T19:04:39.296Z",
+    "text": "Market cap measures the current value of a token by multiplying its price by circulating supply, while fully diluted valuation (FDV) estimates the value if all tokens were in circulation based on max supply. The gap matters because a significant difference signals potential dilution risk; high FDV with low market cap often means future sell pressure as rewards unlock or new tokens are minted. Always assess both figures to gauge a token's real economic health and investor sentiment.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1787763310796",
     "ts": "2026-08-26T16:55:10.796Z",
     "text": "Real volume reflects genuine trading activity driven by buyers and sellers with intent, showing credible interest in a token or asset. In contrast, wash trading manipulates perceived volume using trades that offset each other — no actual exchange of ownership occurs, misleading the market about a token's liquidity and demand. Always scrutinize volume patterns; spikes can be exhilarating but often mask reality if they’re fueled by wash traders.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T14:02:55.903Z",
     "text": "Consider a memecoin called \"$FOMO,\" capitalizing on the fear of missing out that drives so much of crypto activity. Centered around gamified trading, users could earn rewards for holding as others make trades, fostering community engagement while tapping into the speculative nature of markets. Frequent events could reshape coin utility, emphasizing limited-time offers and exclusive content to maintain excitement. Execution is crucial — play it right, and you might just catch the wave of hype-driven speculation.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1787318271080",
-    "ts": "2026-08-21T13:17:51.080Z",
-    "text": "Interest in Solana memecoins is heating up again, but liquidity remains shallow. Many tokens are relying on narrative-driven hype, which can evaporate quickly if sentiment shifts. Keep a close watch on holder distribution; high concentration among top wallets often signals risk—mobilization of those funds can lead to sharp volatility. Be wary of empty promises; community engagement is more than just meme-sharing. It’s the real value driver.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
