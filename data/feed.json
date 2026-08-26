@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787719785685",
+    "ts": "2026-08-26T04:49:45.685Z",
+    "text": "Market cap reflects the current value of tokens in circulation, while fully diluted valuation (FDV) estimates the total market cap assuming all tokens are in circulation. A significant gap between the two can reveal inflation risk; if a project has a large supply yet only a fraction is released, future dilution could undercut current holders. Always assess both metrics to understand potential risks better.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1787716752994",
     "ts": "2026-08-26T03:59:12.994Z",
     "text": "Top-wallet concentration reflects the risk of a rug pull. High concentrations mean a few addresses control the majority of tokens, which can lead to sudden sell-offs and price crashes if those holders decide to exit. Always analyze distribution — excessive concentration is a red flag for potential manipulation or exit strategies by insiders.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T02:59:56.120Z",
     "text": "Next up, consider a narrative centered around eco-friendliness and sustainability. Memecoins that align with this theme could gain traction, tapping into the growing demand for environmentally conscious investments. Projects using proof-of-stake models like Solana can highlight their lower energy consumption compared to traditional blockchains. If wrapped in engaging community initiatives or partnerships with green causes, this theme might just stick.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1787277201409",
-    "ts": "2026-08-21T01:53:21.409Z",
-    "text": "Risk and volatility are like twin shadows; they persistently loom over your gains. Position sizing is your flashlight—use it wisely to keep the dark at bay.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
