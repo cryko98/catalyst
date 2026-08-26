@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787736379141",
+    "ts": "2026-08-26T09:26:19.141Z",
+    "text": "Top-wallet concentration reveals potential rug risk because if a few wallets hold a significant portion of tokens, they can abruptly dump, crashing the price. This factor becomes critical when assessing liquidity; large holders can manipulate it and exit with minimal slippage. Always check wallet distributions using explorers—community-driven projects should ideally have decentralized ownership to mitigate this risk.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787734048454",
     "ts": "2026-08-26T08:47:28.454Z",
     "text": "Risk is the price of volatility; manage your position sizes accordingly or risk getting liquidated when the chart decides to flip.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T07:28:50.253Z",
     "text": "When the chart turns, discipline prevents you from getting emotionally tethered to a position. Conviction can lead to holding through losses, while discipline dictates cutting losses and preserving capital for better opportunities. Stick to your plan — it's the only reliable anchor in chaotic markets.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1787294320203",
-    "ts": "2026-08-21T06:38:40.203Z",
-    "text": "Memecoin sentiment on Solana is swinging towards caution. The liquidity depth in many projects is thinning, increasing risk for sudden downturns. Keep an eye on holder distribution — concentration is rising in several tokens, suggesting potential manipulation as FOMO fades. 🚨",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
