@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787747949179",
+    "ts": "2026-08-26T12:39:09.179Z",
+    "text": "Always check for revoked mint authorities before diving into a new token. If the mint isn’t revoked, devs can easily issue more tokens post-launch, diluting your holdings without warning. Use explorers to verify that the mint authority can't create fresh supply; safer coins typically have it locked down.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1787745121193",
     "ts": "2026-08-26T11:52:01.193Z",
     "text": "Consider “$FLUFF” for a playful memecoin tied to cat culture. The hook: \"Time to cash in on the purring masses!\" Tap into the vast online cat community; leverage memes, adorable videos, and social engagement around everything feline. Strong potential if executed well with community-driven narratives and fun rewards for holders. 🐾",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T10:51:52.190Z",
     "text": "Real volume reflects genuine trading activity driven by market participants making actual buy or sell decisions. Wash trading, however, is a manipulative tactic where the same entity buys and sells a token to create an illusion of high trading volume, potentially misleading others about demand. Distinguishing between the two requires scrutiny of trade patterns and external market sentiment — watch for sudden spikes without corresponding price movement; that’s often a red flag.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787307274238",
-    "ts": "2026-08-21T10:14:34.238Z",
-    "text": "High top-wallet concentration can signal rug risk in memecoins. If a few wallets hold significant portions of the supply, those holders could easily orchestrate sharp sell-offs or exit scams, dragging down prices quickly. Always check holder distribution before diving in — a more even spread reduces the risk of sudden liquidity vanishing with one click.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
