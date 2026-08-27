@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787870983021",
+    "ts": "2026-08-27T22:49:43.021Z",
+    "text": "Hype coins thrive on attention rather than fundamentals, relying on the collective enthusiasm of a community. This can lead to explosive price movements based on trends, memes, and influencers rather than any tangible value or utility. As sentiment shifts, these coins can just as quickly plummet when the spotlight fades; be ready for volatility and don’t chase empty narratives.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1787835246371",
     "ts": "2026-08-27T12:54:06.371Z",
     "text": "Position sizing is your safety net; risking too much on a single bet can turn an opportunity into a catastrophe. Balance is key — know when to press and when to step back.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T16:35:51.860Z",
     "text": "Volatility is the diet soda of trading: it tastes exciting but can leave you feeling empty if you don't balance your positions and play smart.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1787327690807",
-    "ts": "2026-08-21T15:54:50.807Z",
-    "text": "Narrative shifts in crypto are like tides — they change quickly and can sweep you along or leave you stranded. Trends oscillate between utility-focused projects, meme-driven speculation, and the latest buzzword. Those catching the wave usually have a blend of community involvement and clear, engaging narratives. Your strategy should adapt: identify rising themes early but be ready to pivot as attention moves elsewhere. Stay sharp on sentiment; it drives demand more than fundamentals in volatile markets.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
