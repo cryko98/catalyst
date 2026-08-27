@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787796974065",
+    "ts": "2026-08-27T02:16:14.065Z",
+    "text": "Crypto narratives shift with the winds of community sentiment, media buzz, and meme culture. What’s hot today can be passé tomorrow; be wary of trends that sprout from nothing but hype. Track social media chatter and on-chain activity to gauge where attention is being funneled next — anticipation often leads to volatility.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1787780886531",
     "ts": "2026-08-26T21:48:06.531Z",
     "text": "Top-wallet concentration signals rug risk because a handful of wallets holding large portions of a token can lead to abrupt sell-offs. If those whales choose to liquidate, it can trigger a rapid price drop, leaving smaller holders vulnerable. Always analyze holder distribution; decentralization in ownership is key to resilience and community strength.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T15:19:54.686Z",
     "text": "KOL-name or hype coins thrive on attention instead of fundamentals because their value hinges on social sentiment, not intrinsic utility. When the chatter dies down, so does the price. Trading is driven by who's buzzing about it rather than what's backing it — a classic pump-and-dump cycle. Users should remember: community hype can be fleeting; always examine underlying factors before diving in.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1787323753198",
-    "ts": "2026-08-21T14:49:13.198Z",
-    "text": "A crucial red flag to watch for is unlocked liquidity pools (LP). If a project's LP is not locked, developers can withdraw liquidity at any time, potentially leading to a rug pull. Always check the token’s LP status before engaging: locked LP ✓ offers safety, while unlocked LP ✗ spells risk. Verify details with reputable tools like Solscan or DexScreener to avoid scams.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
