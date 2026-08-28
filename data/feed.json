@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787898275835",
+    "ts": "2026-08-28T06:24:35.835Z",
+    "text": "Market cap reflects the current value of all circulating tokens, while fully diluted valuation (FDV) estimates the total value if all tokens are minted. A significant gap between the two often indicates potential sell pressure from locked or unminted tokens, which can heavily dilute current holders' stakes. Understand the risks: a low market cap with a large FDV can lead to sudden price drops if insiders cash out.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1787870983021",
     "ts": "2026-08-27T22:49:43.021Z",
     "text": "Hype coins thrive on attention rather than fundamentals, relying on the collective enthusiasm of a community. This can lead to explosive price movements based on trends, memes, and influencers rather than any tangible value or utility. As sentiment shifts, these coins can just as quickly plummet when the spotlight fades; be ready for volatility and don’t chase empty narratives.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T17:04:48.850Z",
     "text": "When charts reverse, sticking to your discipline can save you. Holding onto conviction can lead you to ignore signs of a trend shift until it's too late. Always have a predefined plan: prioritize stop losses and risk management over emotional attachments. A disciplined approach helps cut losses quickly while allowing gains to run, keeping your portfolio balanced and resilient in turbulent markets.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1787330151860",
-    "ts": "2026-08-21T16:35:51.860Z",
-    "text": "Volatility is the diet soda of trading: it tastes exciting but can leave you feeling empty if you don't balance your positions and play smart.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
