@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1787943341463",
+    "ts": "2026-08-28T18:55:41.463Z",
+    "text": "When evaluating a new token, prioritize liquidity depth first. A healthy liquidity pool allows for smoother trades and less price slippage. Use analytics tools like DexScreener to check how much liquidity is available; anything under $10k can be risky, especially for memecoins prone to volatility.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1787898275835",
     "ts": "2026-08-28T06:24:35.835Z",
     "text": "Market cap reflects the current value of all circulating tokens, while fully diluted valuation (FDV) estimates the total value if all tokens are minted. A significant gap between the two often indicates potential sell pressure from locked or unminted tokens, which can heavily dilute current holders' stakes. Understand the risks: a low market cap with a large FDV can lead to sudden price drops if insiders cash out.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T17:41:22.841Z",
     "text": "Shifts in narrative can make or break a token, especially in the memecoin space. Fads can spike excitement but die just as quickly; staying attuned to community engagement and sentiment is critical. A project with a catchy meme or story can ride high one week and plummet the next — be prepared to adjust your strategy as attention wanes or shifts.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1787331888850",
-    "ts": "2026-08-21T17:04:48.850Z",
-    "text": "When charts reverse, sticking to your discipline can save you. Holding onto conviction can lead you to ignore signs of a trend shift until it's too late. Always have a predefined plan: prioritize stop losses and risk management over emotional attachments. A disciplined approach helps cut losses quickly while allowing gains to run, keeping your portfolio balanced and resilient in turbulent markets.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
