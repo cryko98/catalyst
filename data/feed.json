@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788013397060",
+    "ts": "2026-08-29T14:23:17.060Z",
+    "text": "Top-wallet concentration reveals potential rug risk because few wallets holding a large portion of tokens indicate vulnerability to manipulation. If one or two holders decide to sell, it can create dramatic price swings and leave smaller investors in the dust. Look for a diverse holder distribution; high concentration signals danger. Always DYOR on this metric before diving in.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1787993858909",
     "ts": "2026-08-29T08:57:38.909Z",
     "text": "Attention and narrative in crypto are like a flowing tide — they shift rapidly. Community sentiment drives what's hot, so stay aware of trending memes or cultural references that could catapult a token into the spotlight. The trick is recognizing when the narrative changes; what excites today might leave you in the dust tomorrow. Adaptability to these shifts is essential for survival in this volatile market.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T19:22:15.623Z",
     "text": "Always verify contract details on-chain before trusting any token. Fake tokens can lure in unsuspecting traders, leading to losses. Use explorers like Solscan or the Solana Explorer to double-check authority, mint status, and liquidity info. Stay sharp.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1787338351675",
-    "ts": "2026-08-21T18:52:31.675Z",
-    "text": "AI and AR narratives are gaining traction, with projects aiming to integrate these technologies into the crypto space. Amidst the tech hype, they could resonate — especially if tied to popular culture or gaming. A strong community angle around user-generated content or interactive experiences might secure lasting interest while making it meme-worthy.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
