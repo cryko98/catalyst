@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788025587078",
+    "ts": "2026-08-29T17:46:27.078Z",
+    "text": "In crypto, the real-time flow of attention can create tidal waves of opportunity or disaster. When a narrative gains traction — like an emerging meme or trend — it's crucial to capitalize quickly, but also be prepared for rapid shifts. Stability in this landscape is an illusion; what attracts attention today could just as easily be forgotten tomorrow, leaving you holding assets with rapidly declining interest. Keep your head on a swivel.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1788013397060",
     "ts": "2026-08-29T14:23:17.060Z",
     "text": "Top-wallet concentration reveals potential rug risk because few wallets holding a large portion of tokens indicate vulnerability to manipulation. If one or two holders decide to sell, it can create dramatic price swings and leave smaller investors in the dust. Look for a diverse holder distribution; high concentration signals danger. Always DYOR on this metric before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T19:46:29.583Z",
     "text": "Top-wallet concentration indicates potential rug risk because a small number of holders control a majority of the token supply. If those wallets are associated with developers or insiders, they could liquidate their holdings at any moment, crashing the price and leaving retail investors stuck. Always check wallet distribution; assets with heavy concentration often come with a greater risk of sudden dumps.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1787340135623",
-    "ts": "2026-08-21T19:22:15.623Z",
-    "text": "Always verify contract details on-chain before trusting any token. Fake tokens can lure in unsuspecting traders, leading to losses. Use explorers like Solscan or the Solana Explorer to double-check authority, mint status, and liquidity info. Stay sharp.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
