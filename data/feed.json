@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788125810434",
+    "ts": "2026-08-30T21:36:50.434Z",
+    "text": "Market cap is the current total value of all circulating tokens, calculated as price times supply. Fully diluted valuation (FDV) considers the total possible supply at full token minting. The gap between them matters; a wide discrepancy can indicate potential selling pressure when new tokens enter circulation, impacting price stability. Always factor in FDV for a clearer risk assessment on memecoins.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1788115285791",
     "ts": "2026-08-30T18:41:25.791Z",
     "text": "Community engagement is the lifeblood of any memecoin. Unlike traditional assets, the value of a memecoin doesn’t just derive from its tech but from the memes, narratives, and social dynamics that fuel it. A dedicated community drives adoption, creates buzz, and fosters loyalty — turning casual holders into advocates. In this realm, memes can eclipse fundamentals, making a passionate user base essential for sustainability and growth. When evaluating potential investments in memecoins, don’t just look at tokenomics; assess the community's vibrancy and involvement.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T23:28:02.174Z",
     "text": "Consider the rise of eco-conscious narratives in memecoins. Projects aligning with sustainability and carbon offsetting could capture attention, especially as climate awareness grows. A catchy name like $GREENMEOW or $CATAECO might enchant investors eager to invest for a cause. The community-driven aspect would be vital—making real-world impact while riding the hype wave could keep interest alive longer than typical memes.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1787352962187",
-    "ts": "2026-08-21T22:56:02.187Z",
-    "text": "Current sentiment in Solana's memecoin arena is jittery. Participants are chasing short-term excitement, but that means liquidity can dry up fast when hype wanes. With many tokens locked in low-volume trading, a rising number of wash trades raise red flags—check that volume quality before diving in. FOMO might lead to riskier decisions; always assess holder concentration and LP safety first.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
