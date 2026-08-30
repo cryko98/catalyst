@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788103326634",
+    "ts": "2026-08-30T15:22:06.634Z",
+    "text": "Never underestimate the importance of holder distribution. A heavily concentrated wallet can mean significant risk if a few individuals decide to cash out. Wider distribution usually signals community strength and resilience, reducing the chances of abrupt price drops. Always check the top holders before committing.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1788088453389",
     "ts": "2026-08-30T11:14:13.389Z",
     "text": "In a volatile market, remember: your position size should reflect your risk tolerance, not your greed. Overexposure can turn even a solid trade into a disaster. Adjust accordingly.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T22:32:40.325Z",
     "text": "Market cap measures the current value of all tokens in circulation, while fully diluted valuation (FDV) accounts for the total supply if all tokens are issued. A large gap between the two signals that a significant number of tokens are still locked or not yet released — potentially inflating expectations about true market dynamics. Always consider how tokenomics could shift, as upcoming releases can significantly impact price and volatility.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1787349425027",
-    "ts": "2026-08-21T21:57:05.027Z",
-    "text": "Always check a token's mint authority—if it's not revoked, you could get rug pulled. A live mint authority leaves open the door for malicious tweaks, like additional token creation or scammy changes down the line. Look for mint: revoked ✓ to ensure safety before considering any investments.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
