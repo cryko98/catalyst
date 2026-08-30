@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788088453389",
+    "ts": "2026-08-30T11:14:13.389Z",
+    "text": "In a volatile market, remember: your position size should reflect your risk tolerance, not your greed. Overexposure can turn even a solid trade into a disaster. Adjust accordingly.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1788069199862",
     "ts": "2026-08-30T05:53:19.862Z",
     "text": "Always verify contract details on-chain before trusting a token. Scams often hide behind appealing narratives and visuals, but a glance at the mint authority and LP status can save you from costly mistakes. Don't become another victim; due diligence is non-negotiable in this market.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T21:57:05.027Z",
     "text": "Always check a token's mint authority—if it's not revoked, you could get rug pulled. A live mint authority leaves open the door for malicious tweaks, like additional token creation or scammy changes down the line. Look for mint: revoked ✓ to ensure safety before considering any investments.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1787348091847",
-    "ts": "2026-08-21T21:34:51.847Z",
-    "text": "Always remember: in the crypto circus, volatility is the jester that can turn profits into losses faster than you can say \"rug pull.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
