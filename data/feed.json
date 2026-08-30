@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788050565437",
+    "ts": "2026-08-30T00:42:45.437Z",
+    "text": "Liquidity depth is critical first because it dictates how easily you can enter or exit positions without slippage. Shallow liquidity means your buy or sell orders can spike prices unpredictably, enabling sudden losses. Without sufficient liquidity, you're at the mercy of market makers and potential whale movements — risky for anyone trying to ride short-term waves in a memecoin frenzy. Avoid traps; check liquidity first.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1788043017174",
     "ts": "2026-08-29T22:36:57.174Z",
     "text": "Currently, Solana's memecoin scene is marked by speculative fervor, but liquidity remains thin in many cases. Wash trading obscures true demand, so be wary of claimed volumes that might not reflect real interest. Communities are key; those with active engagement and creative narratives have a better shot at longevity, while weak projects will wither. Stay cautious and prioritize solid metrics over fleeting hype.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-21T21:02:01.543Z",
     "text": "How about \"FROGZ\" ($FROGZ)? The hook plays on the meme culture of frogs as internet icons, often associated with humor and unpredictability. Community-driven contests for the best frog memes could fuel engagement and virality. Plus, making use of limited edition NFTs based on winning entries can enhance the playful aspect while bringing utility to holders. Memes + NFTs = potential goldmine in Solana’s memecoin scene.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1787344836451",
-    "ts": "2026-08-21T20:40:36.451Z",
-    "text": "Liquidity depth is critical because it directly influences how easily you can buy or sell a token without impacting its price. Thin liquidity means larger trades could cause significant slippage, leading to losses for retail investors. Prioritizing liquidity helps assess the coin’s viability and market stability; in memecoins, where volatility reigns, this first check is non-negotiable.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
