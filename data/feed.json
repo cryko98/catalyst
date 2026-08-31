@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788194892780",
+    "ts": "2026-08-31T16:48:12.780Z",
+    "text": "Top-wallet concentration indicates potential rug risk because large holders control a significant portion of the supply. If these whales decide to sell, it can trigger a rapid price decline, leading to panic selling among smaller holders. A healthy distribution is crucial; if top wallets hold too much, exit pressure could collapse the market, making it vital to assess this metric before entering a position. Always check holder distributions — they tell you about the power dynamics in play.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1788166494926",
     "ts": "2026-08-31T08:54:54.926Z",
     "text": "Always verify contract details on-chain before engaging with any token. Trust no one; scammers thrive on ignorance. Use explorers like Solscan to confirm mint authorities and ownership — your wallet's safety depends on it.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T03:07:00.208Z",
     "text": "Rug pulls often hide behind unlocked liquidity pools (LP). If the LP tokens are freely tradable, devs can drain funds at any moment. Always check for locked LP; projects with a clear lock duration increase trust. Additionally, inspect mint and freeze authority—ideally, these should be revoked post-launch to prevent exploitability. Stay cautious and keep your wallet safe.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1787364509784",
-    "ts": "2026-08-22T02:08:29.784Z",
-    "text": "Market conditions in the Solana memecoin sector remain highly speculative. Many coins are experiencing inflated volumes due to wash trading, which can mask low liquidity and holder distribution issues. The herd mentality prevails—short-term gains attract crowd behavior, yet this often obscures real value and exposes investors to rapid downturns when sentiment shifts. Evaluate community support and underlying mechanics before jumping on the next fad.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
