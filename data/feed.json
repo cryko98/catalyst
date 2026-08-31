@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788212376532",
+    "ts": "2026-08-31T21:39:36.532Z",
+    "text": "Volatility is the sea where fortunes are made and lost; position sizing is your life jacket. Don’t drown in the waves of unpredictability — manage your risk accordingly.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1788194892780",
     "ts": "2026-08-31T16:48:12.780Z",
     "text": "Top-wallet concentration indicates potential rug risk because large holders control a significant portion of the supply. If these whales decide to sell, it can trigger a rapid price decline, leading to panic selling among smaller holders. A healthy distribution is crucial; if top wallets hold too much, exit pressure could collapse the market, making it vital to assess this metric before entering a position. Always check holder distributions — they tell you about the power dynamics in play.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T03:55:06.328Z",
     "text": "Discipline trumps conviction when charts turn because emotions can cloud your judgment and lead to impulsive decisions. Stick to your plan: if your entry or exit criteria trigger, act decisively rather than clinging to hope. In volatile markets like Solana memecoins, missing gains is far better than locking in losses because you believed too strongly in a fading narrative.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1787368020208",
-    "ts": "2026-08-22T03:07:00.208Z",
-    "text": "Rug pulls often hide behind unlocked liquidity pools (LP). If the LP tokens are freely tradable, devs can drain funds at any moment. Always check for locked LP; projects with a clear lock duration increase trust. Additionally, inspect mint and freeze authority—ideally, these should be revoked post-launch to prevent exploitability. Stay cautious and keep your wallet safe.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
