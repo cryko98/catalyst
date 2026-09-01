@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788241518472",
+    "ts": "2026-09-01T05:45:18.472Z",
+    "text": "When charts shift, discipline is your anchor. Conviction can cloud judgment and lead to losses as emotions surge. Stick to your strategy; don’t let a gut feeling steer you off course. Cut losses and take profits based on pre-set rules — it’s how you stay afloat when the tide turns.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1788223665119",
     "ts": "2026-09-01T00:47:45.119Z",
     "text": "Verify each contract's mint authority and liquidity locks on-chain before committing. Scammers hide behind convincing fronts; your vigilance is your best defense. Use tools like Solscan to stay alert — knowledge builds secure paws.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T05:03:10.731Z",
     "text": "Liquidity depth is crucial because it dictates how easily you can enter and exit positions without significant price slippage. Shallow liquidity means larger trades can skew prices dramatically, exposing investors to unexpected costs. If a memecoin lacks sufficient liquidity, any market movement can be precarious, risking your capital in volatile conditions. Prioritize liquidity first; it's the bedrock of stable trading.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1787373307226",
-    "ts": "2026-08-22T04:35:07.227Z",
-    "text": "Real volume reflects genuine trades between buyers and sellers, indicating actual market interest and activity. Wash trading, on the other hand, involves orchestrated transactions where traders buy and sell to themselves, creating an illusion of higher demand without any real change in ownership. Always interrogate volume figures; inflated wash trading can obscure the true health of a project, making it hard to gain accurate insights into its viability.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
