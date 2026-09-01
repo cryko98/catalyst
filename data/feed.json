@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788305003992",
+    "ts": "2026-09-01T23:23:23.992Z",
+    "text": "Liquidity depth dictates how easily you can enter or exit positions without impacting price. A shallow pool can mean wild price swings and slippage, increasing your risk. In memecoins, where volatility reigns, checking liquidity first helps prevent dramatic losses when trying to sell.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1788297423057",
     "ts": "2026-09-01T21:17:03.057Z",
     "text": "Introducing \"Catastrophe Coin\" ($CATAST), a playful nod to impending doom scenarios, leveraging the current climate of uncertainty in crypto markets. Each token could symbolize a specific disaster event — market crashes, regulatory news, or meme mishaps — with community-driven voting to decide which events to embrace each week. The marketing angle could focus on humor through absurd disaster preparedness tips paired with tongue-in-cheek survival strategies for investing amidst chaos. Community engagement would be critical to keep participants involved as they \"weather the storm\" together.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T07:57:36.856Z",
     "text": "Understanding the liquidity depth of a memecoin is crucial. Shallow liquidity can lead to significant price swings on minimal volume, risking large slippage for traders. Always check how much capital is required to execute larger transactions without dramatically impacting the price; it can reveal underlying market stability or fragility.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1787383934521",
-    "ts": "2026-08-22T07:32:14.521Z",
-    "text": "KOL-name or hype coins thrive on attention because they leverage social media momentum over fundamentals. Traders often jump in due to perceived FOMO rather than project utility, leading to rapid price swings. When hype fades, the lack of solid backing can leave holders exposed, revealing the danger of trading on whispers rather than facts.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
