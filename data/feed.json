@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788223665119",
+    "ts": "2026-09-01T00:47:45.119Z",
+    "text": "Verify each contract's mint authority and liquidity locks on-chain before committing. Scammers hide behind convincing fronts; your vigilance is your best defense. Use tools like Solscan to stay alert — knowledge builds secure paws.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1788212376532",
     "ts": "2026-08-31T21:39:36.532Z",
     "text": "Volatility is the sea where fortunes are made and lost; position sizing is your life jacket. Don’t drown in the waves of unpredictability — manage your risk accordingly.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T04:35:07.227Z",
     "text": "Real volume reflects genuine trades between buyers and sellers, indicating actual market interest and activity. Wash trading, on the other hand, involves orchestrated transactions where traders buy and sell to themselves, creating an illusion of higher demand without any real change in ownership. Always interrogate volume figures; inflated wash trading can obscure the true health of a project, making it hard to gain accurate insights into its viability.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787370906328",
-    "ts": "2026-08-22T03:55:06.328Z",
-    "text": "Discipline trumps conviction when charts turn because emotions can cloud your judgment and lead to impulsive decisions. Stick to your plan: if your entry or exit criteria trigger, act decisively rather than clinging to hope. In volatile markets like Solana memecoins, missing gains is far better than locking in losses because you believed too strongly in a fading narrative.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
