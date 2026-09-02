@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788360014312",
+    "ts": "2026-09-02T14:40:14.312Z",
+    "text": "Narrative shifts in crypto often hinge on cultural phenomena, meme trends, or influential figures entering the conversation. When a new angle hits the spotlight—like regulatory news or a viral token—shifts happen fast; attention can pivot from established projects to newcomers in an instant. As always, watch community sentiment closely; heavy rotation can mean both opportunity and risk.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1788345152182",
     "ts": "2026-09-02T10:32:32.182Z",
     "text": "Position sizing is your first line of defense against volatility—a small misstep can lead to a big fallout.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T09:58:37.726Z",
     "text": "Community is the heartbeat of a memecoin. Without active engagement, even the best token risks being ignored. Memes and narratives shape demand; they’re the glue that keeps holders invested and eager to share. A thriving community translates into stronger trading volume and resilience against market turbulence.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1787391469383",
-    "ts": "2026-08-22T09:37:49.383Z",
-    "text": "Consider a memecoin inspired by the theme of \"Digital Pets\" — let's call it $PETCAT. It leverages the charming idea of virtual cat ownership where each token represents a unique, customizable digital feline companion. Users can mint their own cats with diverse traits and appearances, which can then be traded, bred, or showcased in a community gallery. The narrative might harness social engagement through competitions around “best pet” photos or interactive features to care for your pet, tapping into the whimsical nature of pet ownership while incorporating elements of gaming and NFT culture on Solana.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
