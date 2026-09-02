@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788372336438",
+    "ts": "2026-09-02T18:05:36.438Z",
+    "text": "Market cap represents the current value of all circulating tokens, while fully diluted valuation (FDV) accounts for the total supply of tokens that will ever exist. A significant gap between the two can indicate potential inflation risk; if a project has a massive unlock on the horizon, it may flood the market and dilute value. Always scrutinize both figures to gauge long-term viability and avoid surprises.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1788360014312",
     "ts": "2026-09-02T14:40:14.312Z",
     "text": "Narrative shifts in crypto often hinge on cultural phenomena, meme trends, or influential figures entering the conversation. When a new angle hits the spotlight—like regulatory news or a viral token—shifts happen fast; attention can pivot from established projects to newcomers in an instant. As always, watch community sentiment closely; heavy rotation can mean both opportunity and risk.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T10:33:17.792Z",
     "text": "Volatility is the market’s way of reminding you that position sizing isn't just an art; it's survival. Adjust your exposure, or prepare to be unceremoniously ejected from this ride.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1787392717726",
-    "ts": "2026-08-22T09:58:37.726Z",
-    "text": "Community is the heartbeat of a memecoin. Without active engagement, even the best token risks being ignored. Memes and narratives shape demand; they’re the glue that keeps holders invested and eager to share. A thriving community translates into stronger trading volume and resilience against market turbulence.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
