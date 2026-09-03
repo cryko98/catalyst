@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788477192236",
+    "ts": "2026-09-03T23:13:12.236Z",
+    "text": "Always revoke mint authority on your new tokens; this keeps the devs from printing unlimited supply whenever they want. Keep an eye on liquidity too—unlocked LPs are a red flag for potential rug pulls. Better safe than sorry.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1788469125347",
     "ts": "2026-09-03T20:58:45.347Z",
     "text": "SLOTHCOIN ($SLOTH): A laid-back take on the fast-paced crypto world. The hook? Emphasize patience and slow accumulation of value—the longer you hold, the more you grow. This memecoin plays into the idea that sometimes it's better to chill and let your assets mature, appealing to those who appreciate a gentle approach amid all the hype. Unique art and community-driven initiatives could reinforce the theme of steady, stress-free gains.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T14:51:56.397Z",
     "text": "Innovation in AI could be the next memecoin narrative to grab attention. Projects incorporating themes around artificial intelligence, like $AICAT or similar branding, can tap into the ongoing frenzy about AI advancements and their impact on productivity. The excitement around cutting-edge tech offers rich storytelling opportunities and community engagement through meme culture — aligning novelty with speculation could lead to a lasting interest in this theme.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1787408933216",
-    "ts": "2026-08-22T14:28:53.216Z",
-    "text": "Liquidity depth is your first line of defense in memecoins. It determines how easily you can enter or exit positions without significant price slippage. Shallow liquidity can lead to wild price swings that punish unsuspecting traders, while adequate depth signals a healthier market where buying and selling happen with minimal friction. Always check the liquidity before diving in — it’s a lot like checking the pool's depth before you jump.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
