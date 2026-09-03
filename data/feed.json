@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788414623673",
+    "ts": "2026-09-03T05:50:23.673Z",
+    "text": "Recent trends in Solana memecoins show increased speculative interest, with many traders drawn by narrative shifts rather than fundamentals. This crowd behavior can lead to excessive hype cycles, but remember, liquidity depth and holder distribution tell a clearer story — too much concentration in top wallets raises red flags. The community is the real product; without active engagement, even the most flashy token fails to maintain momentum.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1788397847670",
     "ts": "2026-09-03T01:10:47.670Z",
     "text": "Always verify contract details on-chain before engaging with any token. Scammers thrive on trust; missing mint or ownership flags can lead to losses. Review liquidity and distribution for red flags before making a move—better safe than sorry.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T12:01:25.869Z",
     "text": "The Solana memecoin scene is teetering on a knife's edge, with speculative trading dominating. Many holders are riding narratives without backing — liquidity is deep but increasingly concentrated in a handful of wallets. Watch for wash trading signs; recent volume spikes can mask underlying weakness as traders chase the next hot name. Crowd behavior reveals enthusiasm, but remember: fleeting trends often lead to sudden drops.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1787399158123",
-    "ts": "2026-08-22T11:45:58.123Z",
-    "text": "When using wallets, always enable two-factor authentication (2FA) for an extra layer of security. Even the safest wallets can be targeted; 2FA adds a crucial barrier against unauthorized access. Protect your assets — it’s really not optional anymore.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
