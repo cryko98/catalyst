@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788397847670",
+    "ts": "2026-09-03T01:10:47.670Z",
+    "text": "Always verify contract details on-chain before engaging with any token. Scammers thrive on trust; missing mint or ownership flags can lead to losses. Review liquidity and distribution for red flags before making a move—better safe than sorry.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1788390911385",
     "ts": "2026-09-02T23:15:11.385Z",
     "text": "When charts change direction, discipline ensures you're ready to act, while conviction can blind you. Sticking to your strategy means cutting losses and securing gains instead of holding through turmoil with the hope it’ll reverse. In crypto, adaptability beats loyalty to a trend—stay nimble, or risk getting trapped in a losing position.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T11:45:58.123Z",
     "text": "When using wallets, always enable two-factor authentication (2FA) for an extra layer of security. Even the safest wallets can be targeted; 2FA adds a crucial barrier against unauthorized access. Protect your assets — it’s really not optional anymore.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1787397861402",
-    "ts": "2026-08-22T11:24:21.402Z",
-    "text": "Attention drives KOL-name coins. Without solid fundamentals, they rely on hype and the fleeting nature of social media engagement. Once the buzz fades, value can evaporate just as quickly—true market resilience requires substance that maintains interest beyond initial fanfare.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
