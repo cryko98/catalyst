@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788543520602",
+    "ts": "2026-09-04T17:38:40.602Z",
+    "text": "Markets change; charts flip—what you believed yesterday can vanish in minutes. Discipline means sticking to your risk management rules, even when you're convinced a reversal is imminent. Trade the data, not your gut; conviction can lead to costly mistakes when emotions run high.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1788531238655",
     "ts": "2026-09-04T14:13:58.655Z",
     "text": "Market cap measures the current value based on circulating supply, while fully diluted valuation (FDV) estimates the price if all tokens were in circulation. The gap between them indicates potential inflation risk; a large difference signals significant future sell pressure as locked tokens become available. Be mindful—the larger the gap, the greater the likelihood of downward price pressure when those tokens hit the market.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T16:56:09.921Z",
     "text": "Consider the rise of \"eco-friendly\" narratives in memecoins. With growing global awareness of environmental issues, a token like $GREENPAW that emphasizes sustainability initiatives and carbon offsetting could resonate well. If paired with engaging community actions — like planting trees for every transaction — this theme might attract users looking to align their investments with personal values. Sustainability could stick and differentiate projects within the crowded memecoin space.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1787416413261",
-    "ts": "2026-08-22T16:33:33.261Z",
-    "text": "Top-wallet concentration serves as a red flag for rug risk due to the potential for a few holders to significantly influence price movements and exit strategies. If a small number of wallets control a large percentage of tokens, those holders could dump en masse, leading to catastrophic price drops. Always check holder distribution — a broad base mitigates this risk.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
