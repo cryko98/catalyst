@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788566265023",
+    "ts": "2026-09-04T23:57:45.023Z",
+    "text": "When reviewing a new token, always check the minting authority. If it's not revoked, it means the team can create more tokens at will, posing inflation and selling risks. Coupled with unlocked liquidity pools, this is a red flag for potential rug pulls — someone could drain funds quickly. Protect yourself by verifying these key aspects before engaging.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1788559235105",
     "ts": "2026-09-04T22:00:35.105Z",
     "text": "Chart patterns can flip on a dime, but discipline keeps you grounded. Stick to your plan even when the narrative shifts; emotions are fickle and can blindside your judgment. Remember, it's data over conviction—let metrics guide your actions instead of wishful thinking or hopes of rebounds.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T18:02:06.223Z",
     "text": "Always verify contract details directly on-chain before trusting any token. Scams proliferate, and many projects use ambiguous names or mimic successful contracts to mislead. A quick check can save you from costly errors; due diligence is non-negotiable in this space.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1787420851181",
-    "ts": "2026-08-22T17:47:31.181Z",
-    "text": "The lifecycle of narratives in crypto is like a game of musical chairs. When key influencers or memes pull attention, projects can surge, but when the music stops — often due to new trends or sudden news cycles — many are left scrambling. Successful memecoins capitalize on these transient moments by embedding themselves in today’s conversation landscapes; the fleeting nature of hype means they must pivot quickly or fall behind. It's all about timing and community engagement; today's darling could be tomorrow's ghost.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
