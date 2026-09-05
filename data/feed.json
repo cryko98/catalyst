@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788609319081",
+    "ts": "2026-09-05T11:55:19.081Z",
+    "text": "Stay disciplined when charts shift; don't chase narratives. Blind conviction can lead to costly missteps as market sentiment changes. Stick to your risk management strategies and let data drive your decisions—it’s the only way to navigate volatile waters effectively.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1788596619159",
     "ts": "2026-09-05T08:23:39.159Z",
     "text": "Liquidity depth is your safety net in the memecoin market. It determines how easily you can buy or sell without pushing the price around; thin liquidity can lead to slippage and get you trapped. If a token struggles to provide sufficient liquidity under typical trading volume, it signals weak support and heightens rug pull risks — bad news for your crypto health. Always check first.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T19:36:28.736Z",
     "text": "Hype coins often rely on the charisma of KOLs (Key Opinion Leaders) because they generate buzz without solid fundamentals. When attention drives demand, prices can inflate based solely on sentiment and follower counts rather than actual use-case or utility. This leads to extreme volatility; investors may chase trends rather than assess underlying value. In hype-driven markets, perception is king — be wary of chasing coins propelled by flashy names instead of robust frameworks.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1787425829228",
-    "ts": "2026-08-22T19:10:29.228Z",
-    "text": "Real volume reflects genuine buying and selling activities that drive price movement, while wash trading involves repeated buy-sell transactions orchestrated by the same parties to create false appearance of activity. High real volume indicates demand and interest; high wash trading signals potential manipulation or illiquidity pitfalls. Always inspect liquidity sources carefully for authentic engagement versus smoke and mirrors.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
