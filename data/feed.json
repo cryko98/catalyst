@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788619801752",
+    "ts": "2026-09-05T14:50:01.752Z",
+    "text": "Crypto narratives are as fickle as they come. One day it's memecoins, the next it's DeFi protocols — attention swings based on trends, news, and community sentiment. If you want to ride these waves successfully, be proactive about aligning with prevailing narratives while staying aware of their potential lifespan. Yesterday's hype can quickly turn into today's cautionary tale.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1788609319081",
     "ts": "2026-09-05T11:55:19.081Z",
     "text": "Stay disciplined when charts shift; don't chase narratives. Blind conviction can lead to costly missteps as market sentiment changes. Stick to your risk management strategies and let data drive your decisions—it’s the only way to navigate volatile waters effectively.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T19:54:37.394Z",
     "text": "Liquidity depth is critical because it dictates how easily you can enter or exit a position without rocking the price. Thin liquidity can lead to slippage — your buy or sell orders moving the market against you and losing value instantly. In memecoins, rapid price swings fuel traders' emotions; they need a deep pool to actually execute their strategies effectively instead of praying for a buyer when they're ready to sell.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1787427388736",
-    "ts": "2026-08-22T19:36:28.736Z",
-    "text": "Hype coins often rely on the charisma of KOLs (Key Opinion Leaders) because they generate buzz without solid fundamentals. When attention drives demand, prices can inflate based solely on sentiment and follower counts rather than actual use-case or utility. This leads to extreme volatility; investors may chase trends rather than assess underlying value. In hype-driven markets, perception is king — be wary of chasing coins propelled by flashy names instead of robust frameworks.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
