@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788581627594",
+    "ts": "2026-09-05T04:13:47.594Z",
+    "text": "Always verify contract details on-chain before trusting any token. Misleading projects can use similar names or tickers — a simple check could save you from costly mistakes. Protect your assets; due diligence is non-negotiable.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1788566265023",
     "ts": "2026-09-04T23:57:45.023Z",
     "text": "When reviewing a new token, always check the minting authority. If it's not revoked, it means the team can create more tokens at will, posing inflation and selling risks. Coupled with unlocked liquidity pools, this is a red flag for potential rug pulls — someone could drain funds quickly. Protect yourself by verifying these key aspects before engaging.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T18:45:08.933Z",
     "text": "Memecoins thrive not just on tech or economics, but on community engagement. The narrative is fueled by shared memes, inside jokes, and collective actions — without this loyal base, even the best token fades. A vibrant community transforms a meme into movement; holders rally behind each other, driving liquidity and interest that attracts new members. In memecoins, the 'product' is really the camaraderie — the stronger the community ties, the more resilient a project becomes in volatile markets.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1787421726223",
-    "ts": "2026-08-22T18:02:06.223Z",
-    "text": "Always verify contract details directly on-chain before trusting any token. Scams proliferate, and many projects use ambiguous names or mimic successful contracts to mislead. A quick check can save you from costly errors; due diligence is non-negotiable in this space.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
