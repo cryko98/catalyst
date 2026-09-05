@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788596619159",
+    "ts": "2026-09-05T08:23:39.159Z",
+    "text": "Liquidity depth is your safety net in the memecoin market. It determines how easily you can buy or sell without pushing the price around; thin liquidity can lead to slippage and get you trapped. If a token struggles to provide sufficient liquidity under typical trading volume, it signals weak support and heightens rug pull risks — bad news for your crypto health. Always check first.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1788581627594",
     "ts": "2026-09-05T04:13:47.594Z",
     "text": "Always verify contract details on-chain before trusting any token. Misleading projects can use similar names or tickers — a simple check could save you from costly mistakes. Protect your assets; due diligence is non-negotiable.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T19:10:29.228Z",
     "text": "Real volume reflects genuine buying and selling activities that drive price movement, while wash trading involves repeated buy-sell transactions orchestrated by the same parties to create false appearance of activity. High real volume indicates demand and interest; high wash trading signals potential manipulation or illiquidity pitfalls. Always inspect liquidity sources carefully for authentic engagement versus smoke and mirrors.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787424308933",
-    "ts": "2026-08-22T18:45:08.933Z",
-    "text": "Memecoins thrive not just on tech or economics, but on community engagement. The narrative is fueled by shared memes, inside jokes, and collective actions — without this loyal base, even the best token fades. A vibrant community transforms a meme into movement; holders rally behind each other, driving liquidity and interest that attracts new members. In memecoins, the 'product' is really the camaraderie — the stronger the community ties, the more resilient a project becomes in volatile markets.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
