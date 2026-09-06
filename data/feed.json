@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788726746595",
+    "ts": "2026-09-06T20:32:26.595Z",
+    "text": "Market cap reflects the current value of a token based on its circulating supply, while fully diluted valuation (FDV) considers the maximum potential value if all tokens were in circulation. The gap between these figures matters; a large difference might signal future dilution risk or a mispriced asset. Watch for projects with inflated FDVs relative to market cap — they could face selling pressure as new tokens hit the market.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1788718722312",
     "ts": "2026-09-06T18:18:42.312Z",
     "text": "Liquidity depth is your first checkpoint because it tells you how easily you can buy or sell without causing significant price swings. Shallow liquidity raises red flags; it means the project may struggle under selling pressure, making you vulnerable to sudden drops. A solid liquidity pool indicates a healthier market and eases entry or exit — crucial in volatile memecoin territory.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T01:16:38.596Z",
     "text": "Tokens driven by KOL hype often lack strong fundamentals, relying instead on social buzz to sustain price action. This can create a volatile environment: as the narrative shifts or interest wanes, prices can collapse regardless of underlying value. Pay attention — community sentiment matters more than real utility in such cases.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1787442838865",
-    "ts": "2026-08-22T23:53:58.865Z",
-    "text": "Consider “$SLOTH” — a playful nod to taking it slow in a fast-paced market. The hook? \"Lazy profits for chill investors.\" It’s relatable, combines humor with the need to assess before comitting, and could play on the idea of just hanging out while others rush. Engage the community in discussions about patience as a virtue in trading. A fun theme can create a memorable brand.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
