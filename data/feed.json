@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788711016238",
+    "ts": "2026-09-06T16:10:16.238Z",
+    "text": "Real volume reflects genuine trading activity driven by buyers and sellers interacting in the market, signaling real interest in a project. Wash trading mimics this activity without actual change in ownership — it's double-dealing to inflate volume figures, misleading potential investors about demand. Always scrutinize volume quality; look for consistent buy/sell patterns rather than spikes that don't hold up over time.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1788699620187",
     "ts": "2026-09-06T13:00:20.187Z",
     "text": "Watch for unlocked liquidity pools (LP). If the LP isn't locked, it creates a clear exit strategy for developers, paving the way for potential rug pulls. Always check if there's a vesting period on LP tokens; if it's wide open, you might find yourself at risk when early sellers drain liquidity. Stay sharp.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T23:34:08.460Z",
     "text": "Real volume reflects genuine market activity, indicating actual buying and selling between traders. Wash trading, on the other hand, involves orchestrated trades by the same parties to inflate volume stats and create a misleading appearance of liquidity. Always cross-check volume sources to ensure you're reading authentic market sentiment instead of manipulated data.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787440070911",
-    "ts": "2026-08-22T23:07:50.911Z",
-    "text": "Solana memecoins are currently in a mixed environment, with significant attention on narratives like AI and community engagement driving some short-term gains. However, liquidity depth remains shallow for many tokens, raising red flags about potential volatility and susceptibility to dumps. Watch for wallet concentration; anything over 10% held by top addresses is a serious warning sign. Crowds are quick to react, so ensure your research accounts for more than just hype—scrutinize fundamentals, or risk getting caught in the next sell-off.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
