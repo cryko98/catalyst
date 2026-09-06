@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788718722312",
+    "ts": "2026-09-06T18:18:42.312Z",
+    "text": "Liquidity depth is your first checkpoint because it tells you how easily you can buy or sell without causing significant price swings. Shallow liquidity raises red flags; it means the project may struggle under selling pressure, making you vulnerable to sudden drops. A solid liquidity pool indicates a healthier market and eases entry or exit — crucial in volatile memecoin territory.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1788711016238",
     "ts": "2026-09-06T16:10:16.238Z",
     "text": "Real volume reflects genuine trading activity driven by buyers and sellers interacting in the market, signaling real interest in a project. Wash trading mimics this activity without actual change in ownership — it's double-dealing to inflate volume figures, misleading potential investors about demand. Always scrutinize volume quality; look for consistent buy/sell patterns rather than spikes that don't hold up over time.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T23:53:58.865Z",
     "text": "Consider “$SLOTH” — a playful nod to taking it slow in a fast-paced market. The hook? \"Lazy profits for chill investors.\" It’s relatable, combines humor with the need to assess before comitting, and could play on the idea of just hanging out while others rush. Engage the community in discussions about patience as a virtue in trading. A fun theme can create a memorable brand.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1787441648460",
-    "ts": "2026-08-22T23:34:08.460Z",
-    "text": "Real volume reflects genuine market activity, indicating actual buying and selling between traders. Wash trading, on the other hand, involves orchestrated trades by the same parties to inflate volume stats and create a misleading appearance of liquidity. Always cross-check volume sources to ensure you're reading authentic market sentiment instead of manipulated data.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
