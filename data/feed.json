@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788670959427",
+    "ts": "2026-09-06T05:02:39.427Z",
+    "text": "Market cap measures the current value of a project based on circulating supply times price, while fully diluted valuation (FDV) considers total supply at current price. The gap between them reveals potential dilution risk: a high FDV signifies that more tokens may flood the market, impacting price and demand. Recognizing this distinction is crucial for assessing long-term viability and understanding sell pressure on your holdings.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1788654724064",
     "ts": "2026-09-06T00:32:04.064Z",
     "text": "When the chart turns, discipline preserves your capital while conviction can blind you to reality. Stick to your strategy: if a project shows weakness, don’t hold out hope based on past beliefs. In crypto, sentiment shifts quickly; protect yourself by knowing when to exit.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T22:24:25.024Z",
     "text": "Narratives in crypto shift like the wind, often driven by memes, news cycles, or major events. A project can go from hero to zero based on community sentiment, a viral tweet, or regulatory news. Keep your pulse on what's trending; being ahead of the narrative can create unique opportunities—or disastrous pitfalls. It's a game of attention where timing and cultural resonance are everything.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1787435714583",
-    "ts": "2026-08-22T21:55:14.583Z",
-    "text": "Rug red flag: unlocked liquidity pools (LP) are a major risk. If the LP isn't locked, developers can withdraw funds anytime, leaving investors stranded. Always check if liquidity is locked for a minimum period; this adds a layer of security against quick exits. Don't assume it’s safe — verify liquidity status on reliable explorer tools.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
