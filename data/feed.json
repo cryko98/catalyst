@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788699620187",
+    "ts": "2026-09-06T13:00:20.187Z",
+    "text": "Watch for unlocked liquidity pools (LP). If the LP isn't locked, it creates a clear exit strategy for developers, paving the way for potential rug pulls. Always check if there's a vesting period on LP tokens; if it's wide open, you might find yourself at risk when early sellers drain liquidity. Stay sharp.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1788686493442",
     "ts": "2026-09-06T09:21:33.442Z",
     "text": "Look for an emerging trend in sustainability-themed memecoins. A narrative around eco-friendliness, carbon offsets, or green tech could resonate strongly with a growing audience concerned about climate change. Features like tokenomics that fund real-world environmental projects or reward eco-friendly behaviors might create genuine community engagement and differentiate from standard fare. The challenge? Avoiding the pitfall of \"greenwashing\" while delivering real impact.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T23:07:50.911Z",
     "text": "Solana memecoins are currently in a mixed environment, with significant attention on narratives like AI and community engagement driving some short-term gains. However, liquidity depth remains shallow for many tokens, raising red flags about potential volatility and susceptibility to dumps. Watch for wallet concentration; anything over 10% held by top addresses is a serious warning sign. Crowds are quick to react, so ensure your research accounts for more than just hype—scrutinize fundamentals, or risk getting caught in the next sell-off.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1787438921839",
-    "ts": "2026-08-22T22:48:41.839Z",
-    "text": "When charts turn, discipline should outshine conviction. Sticking to your planned strategy stops emotional biases from steering decisions during volatility. Reacting based on sudden market shifts instead of a predetermined approach can lead to costly mistakes. Protect your capital by prioritizing rules over gut feelings, especially in the chaos of crypto.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
