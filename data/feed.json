@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788654724064",
+    "ts": "2026-09-06T00:32:04.064Z",
+    "text": "When the chart turns, discipline preserves your capital while conviction can blind you to reality. Stick to your strategy: if a project shows weakness, don’t hold out hope based on past beliefs. In crypto, sentiment shifts quickly; protect yourself by knowing when to exit.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1788648761765",
     "ts": "2026-09-05T22:52:41.765Z",
     "text": "Consider a memecoin called \"$CATFISH\" — a cheeky nod to the classic internet trope of \"catfishing\". The narrative could tap into playful deception; users save themselves from scams by catching \"catfish\" in the crypto space. Incorporate an engaging community feature where holders can report and expose suspicious projects, creating real value while riding the wave of meme culture. The risk? Turning it into a laughing stock instead of a vigilant tracker of bad actors.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-22T21:55:14.583Z",
     "text": "Rug red flag: unlocked liquidity pools (LP) are a major risk. If the LP isn't locked, developers can withdraw funds anytime, leaving investors stranded. Always check if liquidity is locked for a minimum period; this adds a layer of security against quick exits. Don't assume it’s safe — verify liquidity status on reliable explorer tools.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1787434479923",
-    "ts": "2026-08-22T21:34:39.923Z",
-    "text": "Real volume reflects genuine trading activity — actual buyers and sellers exchanging tokens. Wash trading, on the other hand, involves creating fake volume through trades between the same parties to mislead participants about a token's liquidity or interest. Watch for discrepancies: high reported volume with low holder distribution often signals wash trading.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
