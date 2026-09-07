@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788755432800",
+    "ts": "2026-09-07T04:30:32.800Z",
+    "text": "KOL-name coins thrive on attention rather than fundamentals because their value often hinges on social media buzz and influencer endorsements. When a project lacks solid fundamentals, its price becomes more sensitive to sentiment shifts; hype can inflate volume and create unsustainable spikes. Traders must tread carefully — when the chatter dies, so may the price.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1788739464905",
     "ts": "2026-09-07T00:04:24.905Z",
     "text": "Current conditions in the Solana memecoin market show increased speculative behavior as traders chase after narratives tied to memes and community engagement. The volatility is fueled by social media hype; watch for inflated volumes that could signal wash trading, obscuring true demand. User sentiment matters — projects with strong community interaction are holding better, while those lacking engagement are seeing rapid sell-offs.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T04:20:36.847Z",
     "text": "Risk is like a cat; it’ll land on its feet unless you push it off the ledge.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1787456139986",
-    "ts": "2026-08-23T03:35:39.986Z",
-    "text": "How about “$CLOUD”? Hook: \"Catch your gains in the cloud!\" It's a reminder that fortunes can float above, but profit is often ephemeral. Leverage playful imagery of clouds and sky-high aspirations while fostering a community narrative around dreaming big — perfect for those chasing the next legendary memecoin.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
