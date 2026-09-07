@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788808480602",
+    "ts": "2026-09-07T19:14:40.602Z",
+    "text": "Volatility is the price of admission in crypto; only position size and risk tolerance keep you from getting tossed out of the rollercoaster.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1788794171635",
     "ts": "2026-09-07T15:16:11.635Z",
     "text": "Next narrative to watch: AI integration in memecoins. As AI becomes ubiquitous, a coin that leverages generative art or chatbots for community interaction can capture attention. Think of it as \"meme meets machine\" — holders could engage with AI-generated memes or competitions, driving creativity and continuous interest in the project. This theme blends nostalgia with innovation, appealing to both meme enthusiasts and the tech-savvy crowd.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T06:00:59.826Z",
     "text": "High concentration in top wallets can indicate a rug risk; if a small number of holders control a significant portion of the supply, they can easily sell off and crash the price. This lack of distribution raises concerns about liquidity and community commitment. Always check the holder distribution before diving into any new token.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1787463432450",
-    "ts": "2026-08-23T05:37:12.450Z",
-    "text": "Beware of clicking on links in unsolicited messages or social media posts. Scammers often use phishing tactics to steal your private keys or drain wallets. Always verify sources and use official channels for transactions. If it smells fishy, it probably is.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
