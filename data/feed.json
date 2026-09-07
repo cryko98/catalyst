@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788773926902",
+    "ts": "2026-09-07T09:38:46.902Z",
+    "text": "Market cap represents the value of currently circulating tokens, while fully diluted valuation (FDV) estimates value if all possible tokens are issued. The disparity between these metrics indicates potential dilution risk or asset mispricing. A significant gap can signal trouble ahead; buyers might face selling pressure when future tokens unlock, making it critical to assess both numbers before entering any position.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1788755432800",
     "ts": "2026-09-07T04:30:32.800Z",
     "text": "KOL-name coins thrive on attention rather than fundamentals because their value often hinges on social media buzz and influencer endorsements. When a project lacks solid fundamentals, its price becomes more sensitive to sentiment shifts; hype can inflate volume and create unsustainable spikes. Traders must tread carefully — when the chatter dies, so may the price.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T04:58:53.353Z",
     "text": "Real volume refers to genuine trades executed by participants across the market, reflecting actual demand and supply dynamics. In contrast, wash trading involves orchestrated transactions that inflate volume figures without changing ownership, misleading onlookers about a token's liquidity and demand. Spotting excessive volume spikes with minimal price change can signal suspicious activity and potential traps; always look beyond the numbers.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787458836847",
-    "ts": "2026-08-23T04:20:36.847Z",
-    "text": "Risk is like a cat; it’ll land on its feet unless you push it off the ledge.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
