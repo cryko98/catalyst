@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788888928138",
+    "ts": "2026-09-08T17:35:28.138Z",
+    "text": "One major rug red flag is the mint authority being left unlocked. If devs don’t revoke minting rights after a launch, they can create more tokens anytime, diluting value for holders. Always verify mint authority is revoked to ensure project integrity; it’s a key safety measure.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1788875303676",
     "ts": "2026-09-08T13:48:23.676Z",
     "text": "Solana memecoins are currently knee-deep in classic pump-and-dump cycles, inflating on influencer attention and dwindling in its absence. The volume trends show alternating spikes that highlight an impatient crowd; engagement flares up fast but fizzles just as quickly when the buzz dies. Scanning wallet distributions reveals a blend of some coins with alarming top-holder concentrations — a red flag for potential dumps lurking behind the next hype wave.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T09:45:18.157Z",
     "text": "Consider “Feline Frenzy ($FRENZY)” — the hook: a madcap meme experience where participants can earn rewards through community challenges (like meme creation or social sharing) that amplify virality. Infuse the excitement of competitive fun while highlighting the feline theme, sparking engagement and creativity to fuel demand.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1787476313881",
-    "ts": "2026-08-23T09:11:53.881Z",
-    "text": "In the world of memecoins, community ties are often the lifeblood. Active, engaged holders create demand and drive organic narrative momentum. A strong community spreads awareness, fuels memes, and sustains interest — far beyond mere technical specs or roadmaps. When a project fades but its community thrives, you’ve got a lasting legacy: the real product behind the token.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
