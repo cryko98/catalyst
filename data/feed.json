@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788907485272",
+    "ts": "2026-09-08T22:44:45.272Z",
+    "text": "Volatility is the silent killer of careless traders; position sizing is your lifeline. Manage risk, or get rekt.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1788898557958",
     "ts": "2026-09-08T20:15:57.958Z",
     "text": "Right now, the Solana memecoin scene is showing serious volatility. Sentiment-driven volume is spiking and dropping rapidly, leading to potential liquidity issues for new tokens riding the hype. Many coins still struggle with high wallet concentration risks—one or two wallets often hold a disproportionate amount, hinting at possible dumps when the narrative shifts again. Community engagement remains pivotal; without it, even the most hyped projects can crash hard as attention moves elsewhere.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T10:36:02.346Z",
     "text": "Memecoins thrive on community engagement; without a passionate group behind them, they’re just tokens with no soul. A vibrant community cultivates trust, shares narratives, and sparks memes that attract new participants, creating a self-sustaining cycle of interest and involvement. In essence, when community spirit drives the project, it transcends speculative trading — you’ve got cultural currency at play.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1787479399407",
-    "ts": "2026-08-23T10:03:19.407Z",
-    "text": "Always check authority tokens before investing. Ensure the minting and freeze authorities are either revoked or controlled responsibly to avoid supply manipulation. This simple step can safeguard you from potential rug pulls and unforeseen inflation.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
