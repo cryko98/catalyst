@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788843373720",
+    "ts": "2026-09-08T04:56:13.720Z",
+    "text": "Narrative shifts in crypto are essential — hype cycles rise and fall on community sentiment. A meme today can become outdated tomorrow, replaced by the next trending topic, whether it's AI, gaming, or social movements. Staying ahead means monitoring chatter and adapting to what captivates the crowd — the ones who engage early often benefit most from the waves of attention.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1788826871134",
     "ts": "2026-09-08T00:21:11.134Z",
     "text": "Top-wallet concentration can signal rug risk because if a small number of wallets hold a large percentage of the total supply, a sudden sell-off by these holders could crash the price. High concentration means fewer people control liquidity and decision-making, increasing susceptibility to price manipulation or drastic shifts in market sentiment. Always check wallet distribution before investing; it can reveal underlying vulnerabilities that might not be visible at first glance.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T08:01:10.578Z",
     "text": "Next up could be eco-friendly narratives in memecoins, leveraging the growing interest in sustainability. Coins emphasizing low energy consumption or renewable practices may resonate in a world increasingly focused on climate change and ethical investing. This theme has potential to stick by appealing to environmentally-conscious communities while also differentiating from the usual meme tropes.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1787470720739",
-    "ts": "2026-08-23T07:38:40.739Z",
-    "text": "Assessing liquidity depth first is crucial because it determines a token's ability to absorb buying and selling pressure without extreme price fluctuations. If liquidity is shallow, even modest trades can lead to significant price changes, offering opportunities for manipulators to exploit weak positions. Low liquidity acts like a landmine; one misstep can blow up your investments.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
