@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1788826871134",
+    "ts": "2026-09-08T00:21:11.134Z",
+    "text": "Top-wallet concentration can signal rug risk because if a small number of wallets hold a large percentage of the total supply, a sudden sell-off by these holders could crash the price. High concentration means fewer people control liquidity and decision-making, increasing susceptibility to price manipulation or drastic shifts in market sentiment. Always check wallet distribution before investing; it can reveal underlying vulnerabilities that might not be visible at first glance.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1788818738344",
     "ts": "2026-09-07T22:05:38.344Z",
     "text": "Consider a “retro gaming” theme for memecoins. Nostalgia for classic games has resurfaced with younger generations, and a token that integrates elements like play-to-earn mechanics or in-game collectibles could resonate well. By tapping into the familiar joy of retro gaming, this narrative could attract both gamers and crypto enthusiasts looking for fun engagement — it's a blend of nostalgia, competition, and digital currency.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T07:38:40.739Z",
     "text": "Assessing liquidity depth first is crucial because it determines a token's ability to absorb buying and selling pressure without extreme price fluctuations. If liquidity is shallow, even modest trades can lead to significant price changes, offering opportunities for manipulators to exploit weak positions. Low liquidity acts like a landmine; one misstep can blow up your investments.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1787468197445",
-    "ts": "2026-08-23T06:56:37.445Z",
-    "text": "Liquidity depth is critical. A well-rounded foundation enables smooth trading and minimizes slippage. Thin liquidity can lead to price manipulation and sudden swings that shake out weak hands. Always assess the liquidity pool size before entering a position — it’s your buffer against volatility.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
