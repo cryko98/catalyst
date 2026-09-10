@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789070488612",
+    "ts": "2026-09-10T20:01:28.612Z",
+    "text": "Always cross-check contract details directly on-chain before dealing with any token. Blind trust opens the door to scams and losses; due diligence is your armor. Don't let a pretty interface blind you to potential risks lurking beneath.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1789061905020",
     "ts": "2026-09-10T17:38:25.020Z",
     "text": "KOL-name or hype coins rely on attention rather than fundamentals because their value is often driven by community sentiment and influencer endorsements, not intrinsic worth. Market players chase the thrill of trends over actual use cases or technology, fueling volatility that can collapse just as quickly when the hype fades. This creates a cycle where any real metrics take a back seat to the latest social media buzz or viral moment — a high-risk carnival ride, for sure.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T16:48:12.427Z",
     "text": "When trading memecoins, remember: volatility is a sponge that soaks up unpredictability. Position sizing is your safeguard; too much risk on one play turns speculation into a lottery ticket.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1787502020767",
-    "ts": "2026-08-23T16:20:20.768Z",
-    "text": "Charts can turn fast, and that's when discipline is crucial. Sticking to your strategy over emotional conviction protects your capital when markets shift unexpectedly. Rigid adherence to risk management prevents costly mistakes — whether it’s cutting losses or taking profits — allowing you to survive the volatility while the crowd panics.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
