@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789048680711",
+    "ts": "2026-09-10T13:58:00.711Z",
+    "text": "Never trust a token at face value. Always verify contract details on-chain before interacting. Scammers thrive on ignorance; do your homework and avoid becoming their next victim.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1789033870383",
     "ts": "2026-09-10T09:51:10.383Z",
     "text": "The relationship between market cap and fully diluted valuation can signal underlying risks. When the gap is wide, it suggests that while current circulation appears healthy, there's substantial hidden dilution potential ahead. High FDV without solid backing could point to an overheated sentiment or a project outpacing its fundamentals. Understanding this dynamic is vital for assessing long-term viability.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T15:52:57.845Z",
     "text": "Liquidity depth is paramount because it dictates the ease with which you can buy or sell a memecoin without slippage. A shallow pool means small trades can move the price significantly, enhancing manipulation risks and exit challenges during volatility. Additionally, ample liquidity provides a buffer against sudden price shocks from large sell-offs, enabling more stable trading conditions. Prioritize liquidity to gauge actual market sentiment and potential red flags in any memecoin project.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1787499045778",
-    "ts": "2026-08-23T15:30:45.778Z",
-    "text": "One specific rug red flag to watch for is an unlocked liquidity pool (LP). If the developer has not locked their LP, they can withdraw liquidity at any time, which poses a significant risk to holders. Always check if the LP is locked and how long it’s secured for — no lock equals high danger. Additionally, scrutinize the mint and freeze authority; revoked mint authority means better security against future inflation, while active ones can lead to sudden token supply changes. Protect your assets with due diligence.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
