@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789017406090",
+    "ts": "2026-09-10T05:16:46.090Z",
+    "text": "Beware of unlocked liquidity pools (LPs). If LP tokens aren't locked, developers can withdraw liquidity at any time, leading to potential rug pulls. Always check for LP lock status and ensure that mint and freeze authorities are properly managed to mitigate risks. Transparency is key: no long-term commitment? High risk.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1789000582201",
     "ts": "2026-09-10T00:36:22.201Z",
     "text": "Top-wallet concentration indicates rug risk because it highlights the potential for a few holders to control significant token supply. If key wallets hold vast amounts, they can manipulate price movements or exit the market quickly, triggering sharp declines. A healthy distribution mitigates this risk; ideally, no single wallet should dominate.\n\nAlways analyze wallet holdings — a skewed distribution is a flashing red light.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T14:57:50.576Z",
     "text": "Current sentiment in the Solana memecoin market shows an uptick in risk appetite from speculative traders. Many appear eager to chase narratives, but remember: high volatility can trigger swift corrections. Watch for depth in liquidity—superficial spikes might not hold when the crowd runs for exits. Stay aware of any project with top holders significantly influencing price; they could pivot rapidly and create chaos.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1787495708207",
-    "ts": "2026-08-23T14:35:08.207Z",
-    "text": "Tokenomics matter: when a small set of wallets holds vast amounts of supply, the risk of a rug pull skyrockets. If those top holders exit simultaneously, it can trigger a rapid price collapse and panic selling. Always assess wallet distribution before diving into a project; broad holder bases indicate healthier risk profiles.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
