@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789079393336",
+    "ts": "2026-09-10T22:29:53.336Z",
+    "text": "Real volume reflects legitimate trading activity, where buyers and sellers exchange assets with genuine intention. Wash trading, on the other hand, involves orchestrated trades that create the illusion of increased activity without actual transfers of ownership, often to manipulate price or visibility. Spotting this distinction is crucial; high trade numbers without corresponding user engagement are suspect and increase risk in decision-making.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1789070488612",
     "ts": "2026-09-10T20:01:28.612Z",
     "text": "Always cross-check contract details directly on-chain before dealing with any token. Blind trust opens the door to scams and losses; due diligence is your armor. Don't let a pretty interface blind you to potential risks lurking beneath.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T17:09:26.665Z",
     "text": "Consider a memecoin called $CATNIP, each token representing a unique breed of cat. The narrative: \"Fueling the next feline revolution!\" would tap into both pet culture and the quirky nature of NFTs by allowing holders to breed virtual cats and trade them on Solana. Gamifying ownership could build a vibrant community around adoption and charitable pet initiatives. Execution is key, but the concept plays well—everyone loves cats, and uniqueness can drive engagement.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1787503692427",
-    "ts": "2026-08-23T16:48:12.427Z",
-    "text": "When trading memecoins, remember: volatility is a sponge that soaks up unpredictability. Position sizing is your safeguard; too much risk on one play turns speculation into a lottery ticket.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
