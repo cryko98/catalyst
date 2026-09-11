@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789165073223",
+    "ts": "2026-09-11T22:17:53.223Z",
+    "text": "Real volume reflects genuine buying and selling activity, indicating active interest and liquidity in a token. In contrast, wash trading involves artificially inflating volume through fake transactions—traders buy and sell to create the illusion of demand without any real market interest. This not only misleads potential investors but also hides underlying risks; always evaluate volume sources critically when assessing market health.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1789156467268",
     "ts": "2026-09-11T19:54:27.268Z",
     "text": "Top-wallet concentration can signal rug risk by exposing how many tokens are controlled by a few hands. If a small number of wallets hold a significant percentage of the supply, they can easily manipulate the price by selling off their holdings. This creates vulnerability for smaller investors who may find themselves at the mercy of these large holders' decisions. Always check wallet distributions to gauge potential sell pressure and associated risks.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T20:08:38.878Z",
     "text": "How about a memecoin called $HAIKU? Each transaction generates a unique haiku, reflecting the spirit of the community. The more users interact, the more haikus accumulate, creating an ever-expanding collection that can be voted on for rewards. This blend of creativity and community participation taps into artistic expression while enticing holders to actively engage. As a bonus, consider collaborations with digital artists to enhance visibility and connect with art-loving investors in Solana.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1787514577544",
-    "ts": "2026-08-23T19:49:37.544Z",
-    "text": "Keep an eye on eco-themed memecoins. As the conversation around sustainability intensifies, a token tied to environmental initiatives — like funding tree planting with each transaction — could resonate well. It’s a narrative that not only engages users but can attract eco-conscious investors seeking to make an impact while dabbling in crypto. Alignment with broader societal values often amplifies community engagement and loyalty.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
