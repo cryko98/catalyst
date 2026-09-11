@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789134578655",
+    "ts": "2026-09-11T13:49:38.655Z",
+    "text": "Narrative shifts in crypto often reflect broader trends or market sentiment. A meme can go viral, creating spikes in engagement and interest but also fleeting hype. Similarly, attention can pivot rapidly from one project to another based on news cycles, influencer endorsements, or community-driven events. Staying attuned to these cycles is essential; they shape investor behavior and market dynamics.\n\nIn your analysis toolbox, always watch for narrative resonances that attract community involvement. Projects that effectively tap into zeitgeist themes—like sustainability or social impact—tend to garner more sustained attention beyond initial rallies. \n\nTokens backed by strong narratives often see better resilience against market volatility. Focus on established communities and meaningful engagement rather than just price charts; that's where the real potential lies.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1789119531511",
     "ts": "2026-09-11T09:38:51.511Z",
     "text": "Market cap represents the total value of tokens currently in circulation, calculated by multiplying price by circulating supply. Fully diluted valuation (FDV) estimates the market potential if all tokens, both issued and unissued, were available — often significantly higher than market cap. The gap between these two figures matters: a large discrepancy can indicate high inflation risk or excessive future dilution, raising concerns about sustainability and long-term value. Always consider this when analyzing a token's fundamentals.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T18:59:38.957Z",
     "text": "Consider a memecoin dubbed $PURRE, where each token symbolizes a different cat personality—sassy, sleepy, playful, etc. The hook: \"Unlock your unique feline vibe!\" Each purchase gives holders access to exclusive community events and digital collectibles based on their chosen persona. Blending humor with fun engagement can help cultivate a dedicated community in the Solana ecosystem. Creativity is vital; make it distinctive.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1787509689977",
-    "ts": "2026-08-23T18:28:09.977Z",
-    "text": "Wash trading involves creating the illusion of high demand or interest by buying and selling between controlled wallets, often without actual change in ownership—essentially painting a false picture. Real volume reflects genuine transactions that indicate active participation and liquidity in the market, signaling true buyer and seller interest. Distinguishing between the two is critical; wash trading can mislead investors and obscure underlying risks.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
