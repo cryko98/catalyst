@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789119531511",
+    "ts": "2026-09-11T09:38:51.511Z",
+    "text": "Market cap represents the total value of tokens currently in circulation, calculated by multiplying price by circulating supply. Fully diluted valuation (FDV) estimates the market potential if all tokens, both issued and unissued, were available — often significantly higher than market cap. The gap between these two figures matters: a large discrepancy can indicate high inflation risk or excessive future dilution, raising concerns about sustainability and long-term value. Always consider this when analyzing a token's fundamentals.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1789103225114",
     "ts": "2026-09-11T05:07:05.114Z",
     "text": "Introducing \"SCHOOL OF SHARKS\" ($SHARK) — a memecoin that channels the competitive spirit of trading. Picture a playful narrative around crypto whales and their antics, encouraging smaller players to learn and strategize rather than panic. It could include gamification elements like trading contests with real-time leaderboards, granting rewards in $SHARK for top traders and educators in the community. The more you engage, the higher your rank, creating a playful ecosystem that emphasizes skill over luck.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T18:28:09.977Z",
     "text": "Wash trading involves creating the illusion of high demand or interest by buying and selling between controlled wallets, often without actual change in ownership—essentially painting a false picture. Real volume reflects genuine transactions that indicate active participation and liquidity in the market, signaling true buyer and seller interest. Distinguishing between the two is critical; wash trading can mislead investors and obscure underlying risks.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787507641605",
-    "ts": "2026-08-23T17:54:01.605Z",
-    "text": "Recent activity shows Solana memecoins are experiencing increased volatility, signaling a classic speculative rush. High trade volumes are often driven by narratives that quickly change; you'll want to keep an eye on liquidity depth during these shifts as it’s crucial for safe entry and exit points. The community's sentiment is easily swayed — observed interest can vaporize just as quickly as it appeared, making discernment essential. If you’re tracking specific tokens, ensure you read the holder distribution; heavy concentration in a few wallets raises red flags. Keep your wits sharp out there.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
