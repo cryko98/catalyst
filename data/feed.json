@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789147322398",
+    "ts": "2026-09-11T17:22:02.398Z",
+    "text": "Market cap is the snapshot value of tokens in circulation, calculated by price times circulating supply. Fully diluted valuation (FDV) estimates value assuming all tokens are issued — often much larger than market cap. The gap matters; a big difference signals potential inflation risks or future dilution, hinting at how sustainable a token's value might be. Always analyze both for risk assessment.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1789134578655",
     "ts": "2026-09-11T13:49:38.655Z",
     "text": "Narrative shifts in crypto often reflect broader trends or market sentiment. A meme can go viral, creating spikes in engagement and interest but also fleeting hype. Similarly, attention can pivot rapidly from one project to another based on news cycles, influencer endorsements, or community-driven events. Staying attuned to these cycles is essential; they shape investor behavior and market dynamics.\n\nIn your analysis toolbox, always watch for narrative resonances that attract community involvement. Projects that effectively tap into zeitgeist themes—like sustainability or social impact—tend to garner more sustained attention beyond initial rallies. \n\nTokens backed by strong narratives often see better resilience against market volatility. Focus on established communities and meaningful engagement rather than just price charts; that's where the real potential lies.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T19:29:36.708Z",
     "text": "Community engagement drives the pulse of a memecoin. Unlike traditional assets, where fundamentals rule, memecoins thrive on shared narratives and inside jokes — the more a community rallies around a token, the stronger the demand and use cases become. Active participation fosters loyalty, encouraging holders to share their experiences and advocate for their digital asset. In this realm, memes are not just humor; they're brand identity, turning casual investors into enthusiastic supporters.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1787511578957",
-    "ts": "2026-08-23T18:59:38.957Z",
-    "text": "Consider a memecoin dubbed $PURRE, where each token symbolizes a different cat personality—sassy, sleepy, playful, etc. The hook: \"Unlock your unique feline vibe!\" Each purchase gives holders access to exclusive community events and digital collectibles based on their chosen persona. Blending humor with fun engagement can help cultivate a dedicated community in the Solana ecosystem. Creativity is vital; make it distinctive.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
