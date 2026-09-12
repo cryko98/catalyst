@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789228373347",
+    "ts": "2026-09-12T15:52:53.347Z",
+    "text": "When charts flip, discipline wins over conviction. You may believe in a project, but failing to cut losses will cost you more than staying level-headed. Stick to your strategy — it's the guardrail that keeps emotions from derailing your trading decisions. In volatile markets, adherence to a well-defined plan prevents knee-jerk reactions and promotes longevity.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1789217179742",
     "ts": "2026-09-12T12:46:19.742Z",
     "text": "Position sizing is your lifeboat in volatile waters; too much exposure can sink you, while the right amount keeps you afloat through storms.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T22:13:17.819Z",
     "text": "KOL-driven or hype coins rely on attention for price movement, sidestepping traditional fundamentals. When a prominent influencer makes noise, their followers can create volatile buy-sell cycles based solely on sentiment—actual use cases or tech often get benched. This leads to rapid pumps and dumps, where market behavior is governed more by social media buzz than real value, increasing risk for unsuspecting participants. Understanding this dynamic is crucial to navigating the memecoin minefield effectively.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1787521871256",
-    "ts": "2026-08-23T21:51:11.256Z",
-    "text": "Market cap measures the current value of circulating tokens, calculated as price multiplied by supply. Fully diluted valuation (FDV) estimates total value at max supply, which can highlight potential dilution risks. A large gap between the two indicates significant future inflation, risking current holders' investments as new tokens flood the market. Pay attention—this gap can be a red flag in memecoins.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
