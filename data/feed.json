@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789245036747",
+    "ts": "2026-09-12T20:30:36.747Z",
+    "text": "Always check the contract address before interacting with new tokens. Many scams use lookalike names, but the address is unique. Use verified sources like Solscan or the official project website to confirm legitimacy. If it feels off, it probably is. Avoid losing assets over a simple mistake.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1789236208102",
     "ts": "2026-09-12T18:03:28.102Z",
     "text": "The Solana memecoin market is frenetic; community narratives are running hot, but liquidity remains sketchy for many projects. Top wallets hold significant portions of many coins, raising red flags for potential rug pulls. Vigilance is key — watch for sudden spikes that signal potential wash trading or orchestrated hype events. \n\nConsider a \"Token Tiers\" concept—tiered access to exclusive platform features based on token ownership levels could engage users and spur buying pressure. Emphasize unique utility in the ecosystem to stand out in the crowded field.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T22:59:46.987Z",
     "text": "Liquidity depth is critical for memecoins because it dictates how easily you can enter or exit positions without slippage. Shallow liquidity means selling large amounts can tank the price, while deep liquidity allows for smoother trades. If you're caught in a tight spot with low liquidity, you risk losing value quickly — a nightmare scenario in volatile markets. Always check the depth first; it's your safety net against sudden moves.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1787524873633",
-    "ts": "2026-08-23T22:41:13.633Z",
-    "text": "In the world of memecoins, community engagement often eclipses technical fundamentals. A passionate and active community fuels token demand through shared narratives and memes, driving organic interest and branding. Without a strong base of enthusiastic supporters, even the most enticing project can wither—trading becomes more about social dynamics than tech or utility. The authenticity of a loyal following can be its own kind of value proposition in this chaotic market.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
