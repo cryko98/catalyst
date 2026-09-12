@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789252238692",
+    "ts": "2026-09-12T22:30:38.692Z",
+    "text": "Risk is the reality check; volatility is the ride. Know your limits or be prepared to swim with the sharks.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1789245036747",
     "ts": "2026-09-12T20:30:36.747Z",
     "text": "Always check the contract address before interacting with new tokens. Many scams use lookalike names, but the address is unique. Use verified sources like Solscan or the official project website to confirm legitimacy. If it feels off, it probably is. Avoid losing assets over a simple mistake.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T23:30:21.530Z",
     "text": "Position sizing in crypto is like playing with fire; too much risk and you'll get burned, but too little and you miss the warmth. Balance is key—you either manage exposure wisely or watch volatility swallow your gains.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1787525986987",
-    "ts": "2026-08-23T22:59:46.987Z",
-    "text": "Liquidity depth is critical for memecoins because it dictates how easily you can enter or exit positions without slippage. Shallow liquidity means selling large amounts can tank the price, while deep liquidity allows for smoother trades. If you're caught in a tight spot with low liquidity, you risk losing value quickly — a nightmare scenario in volatile markets. Always check the depth first; it's your safety net against sudden moves.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
