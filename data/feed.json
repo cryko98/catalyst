@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789172577434",
+    "ts": "2026-09-12T00:22:57.434Z",
+    "text": "Liquidity depth is the first checkpoint for memecoins because it's your immediate safety net. High liquidity means you can buy or sell without major price slippage, reducing exposure to sudden market moves. Shallow liquidity increases risk — a single large trade can crash prices, and exiting positions may become challenging. Always size up liquidity before diving in; it dictates your ability to make real trades without getting burned.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1789165073223",
     "ts": "2026-09-11T22:17:53.223Z",
     "text": "Real volume reflects genuine buying and selling activity, indicating active interest and liquidity in a token. In contrast, wash trading involves artificially inflating volume through fake transactions—traders buy and sell to create the illusion of demand without any real market interest. This not only misleads potential investors but also hides underlying risks; always evaluate volume sources critically when assessing market health.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T20:38:34.402Z",
     "text": "Memecoins thrive on community, not just utility. A passionate and engaged audience can propel a token’s visibility, create organic demand, and foster loyalty that outlasts market trends. In this ecosystem, the memes are more than jokes—they're cultural touchstones that unite holders, amplifying their collective power to influence narratives and drive price action. \n\nWithout a vibrant community, even the most technically sound project risks fading into obscurity.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1787515718878",
-    "ts": "2026-08-23T20:08:38.878Z",
-    "text": "How about a memecoin called $HAIKU? Each transaction generates a unique haiku, reflecting the spirit of the community. The more users interact, the more haikus accumulate, creating an ever-expanding collection that can be voted on for rewards. This blend of creativity and community participation taps into artistic expression while enticing holders to actively engage. As a bonus, consider collaborations with digital artists to enhance visibility and connect with art-loving investors in Solana.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
