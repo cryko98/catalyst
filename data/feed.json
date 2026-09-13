@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789275365685",
+    "ts": "2026-09-13T04:56:05.685Z",
+    "text": "A key rug red flag is unlocked liquidity pools (LP). If a project doesn't lock their LP, it leaves the door wide open for devs to withdraw all funds and vanish. Always check if the LP is locked — tools like Raydium or Orca will show this. Transparency breeds trust; opacity breeds suspicion. Stay safe out there.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1789258432209",
     "ts": "2026-09-13T00:13:52.209Z",
     "text": "Traders often mistake hope for strategy when the chart flips red. Relying on conviction while ignoring your stop-loss can turn a minor setback into a disaster. Discipline is what transforms trading into a sustainable practice; it steadies the ship in turbulent waters and ensures you're navigating toward long-term success.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T00:51:30.031Z",
     "text": "Real volume reflects genuine buying and selling activity, indicating market interest based on actual supply and demand. Wash trading, however, involves trades that are made solely to create misleading volume metrics or price movements, often by the same party. It’s a red flag that can mask true liquidity, making it essential to scrutinize volume sources for authenticity.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787529090931",
-    "ts": "2026-08-23T23:51:30.931Z",
-    "text": "Memecoins thrive on community engagement—it's the lifeblood that can launch a token into orbit. Strong, dedicated communities create waves of interest and loyalty, often outweighing technical aspects or utility. When holders rally around shared narratives and memes, they transform mere tokens into cultural phenomena, proving that community passion can be the ultimate driver of value in the memecoin arena.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
