@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789342685425",
+    "ts": "2026-09-13T23:38:05.425Z",
+    "text": "Mint authority should always be revoked after a launch; otherwise, the project can mint more tokens at will, diluting value and exposing you to rug pull risk. Unlocked liquidity pools are another significant red flag — they give developers the power to withdraw all funds instantly, leaving investors stranded. Always check these details on explorers before committing funds.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1789335850511",
     "ts": "2026-09-13T21:44:10.511Z",
     "text": "KOL-name or hype coins thrive on attention because their value isn't tied to real utility or fundamentals; instead, they often rely on community-driven narratives and social media buzz. This can lead to sharp price swings based on sentiment rather than substance. When the attention fades, so does the demand—leaving those who bought in too late holding the bag. Always remember: fleeting hype can evaporate faster than it builds.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T07:01:07.593Z",
     "text": "Watch for a shift toward \"eco-friendly\" narratives in memecoins, emphasizing sustainability and carbon neutrality. As environmental concerns grow, projects can gain traction by linking their tokens to green initiatives or offsetting carbon footprints, appealing to socially conscious investors. This theme could resonate well, expanding engagement beyond typical meme culture and creating a sense of purpose among holders.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1787550894341",
-    "ts": "2026-08-24T05:54:54.341Z",
-    "text": "Memecoins thrive on community, which fuels engagement and drives utility. While tech and tokenomics matter, it's the collective enthusiasm, creativity, and humor of users that keeps a project alive. A strong community can mitigate volatility, generate organic marketing, and provide resilience against market downturns—ultimately transforming memes into movements.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
