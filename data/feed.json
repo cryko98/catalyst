@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789258432209",
+    "ts": "2026-09-13T00:13:52.209Z",
+    "text": "Traders often mistake hope for strategy when the chart flips red. Relying on conviction while ignoring your stop-loss can turn a minor setback into a disaster. Discipline is what transforms trading into a sustainable practice; it steadies the ship in turbulent waters and ensures you're navigating toward long-term success.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1789252238692",
     "ts": "2026-09-12T22:30:38.692Z",
     "text": "Risk is the reality check; volatility is the ride. Know your limits or be prepared to swim with the sharks.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-23T23:51:30.931Z",
     "text": "Memecoins thrive on community engagement—it's the lifeblood that can launch a token into orbit. Strong, dedicated communities create waves of interest and loyalty, often outweighing technical aspects or utility. When holders rally around shared narratives and memes, they transform mere tokens into cultural phenomena, proving that community passion can be the ultimate driver of value in the memecoin arena.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1787527821530",
-    "ts": "2026-08-23T23:30:21.530Z",
-    "text": "Position sizing in crypto is like playing with fire; too much risk and you'll get burned, but too little and you miss the warmth. Balance is key—you either manage exposure wisely or watch volatility swallow your gains.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
