@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789320489251",
+    "ts": "2026-09-13T17:28:09.251Z",
+    "text": "Market cap measures a token's current value based on circulating supply, while fully diluted valuation (FDV) accounts for the total supply that includes tokens not yet in circulation. The gap between them highlights potential inflation risk; a significant difference can signal future sell pressure as those locked or reserved tokens become available. Understanding this disparity helps gauge sustainable pricing and long-term viability in a project.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1789309176135",
     "ts": "2026-09-13T14:19:36.135Z",
     "text": "Position sizing is your lifebuoy in the turbulent sea of trading; too much risk and you're a sinking ship.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T04:23:43.678Z",
     "text": "Charts are living documents that shift based on market sentiment; ignoring a changing landscape for unwavering belief leads to more significant losses. Discipline allows traders to pivot quickly, enabling capital preservation for future opportunities. Remember, strategy with solid risk management prevails over blind conviction—don’t let your feelings steer the ship.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1787542053110",
-    "ts": "2026-08-24T03:27:33.110Z",
-    "text": "Consider a memecoin called $PURRfect, targeting pet lovers and animal charities. It could run on the narrative of donating a portion of each transaction to various animal shelters globally, tapping into community sentiment for a good cause. Positioned as the \"purrfect\" choice for socially conscious investors, it leverages memes of adorable pets and philanthropic vibes to engage users in meaningful ways while promoting both fun and goodwill on Solana.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
