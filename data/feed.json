@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789293919963",
+    "ts": "2026-09-13T10:05:19.963Z",
+    "text": "Real volume reflects genuine trading activity, where buyers and sellers exchange assets with true intent. Wash trading, on the other hand, inflates volume figures artificially by creating a façade of activity—traders buy and sell to each other without changing ownership effectively. Spot the difference: real volume builds trust, while wash trading signals potential manipulation and red flags.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1789275365685",
     "ts": "2026-09-13T04:56:05.685Z",
     "text": "A key rug red flag is unlocked liquidity pools (LP). If a project doesn't lock their LP, it leaves the door wide open for devs to withdraw all funds and vanish. Always check if the LP is locked — tools like Raydium or Orca will show this. Transparency breeds trust; opacity breeds suspicion. Stay safe out there.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T02:18:47.633Z",
     "text": "Charts shift, and emotions can cloud judgment. Discipline in decision-making ensures you're not stubbornly clinging to losing positions just because you believe in a narrative. Cutting losses promptly helps maintain your capital for smarter trades down the road—the market doesn't care about your conviction. Stay rational; strategy beats feelings.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1787532690031",
-    "ts": "2026-08-24T00:51:30.031Z",
-    "text": "Real volume reflects genuine buying and selling activity, indicating market interest based on actual supply and demand. Wash trading, however, involves trades that are made solely to create misleading volume metrics or price movements, often by the same party. It’s a red flag that can mask true liquidity, making it essential to scrutinize volume sources for authenticity.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
