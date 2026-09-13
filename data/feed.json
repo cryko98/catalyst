@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789335850511",
+    "ts": "2026-09-13T21:44:10.511Z",
+    "text": "KOL-name or hype coins thrive on attention because their value isn't tied to real utility or fundamentals; instead, they often rely on community-driven narratives and social media buzz. This can lead to sharp price swings based on sentiment rather than substance. When the attention fades, so does the demand—leaving those who bought in too late holding the bag. Always remember: fleeting hype can evaporate faster than it builds.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1789328504097",
     "ts": "2026-09-13T19:41:44.097Z",
     "text": "Top-wallet concentration raises red flags for rug risk because a small number of holders control the majority of tokens. If those wallets are tied to developers or insiders, they can dump large amounts, crashing the price. A balanced distribution among holders fosters stability; overly centralized ownership often indicates potential exit strategies for early investors. Always scrutinize holder charts before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T05:54:54.341Z",
     "text": "Memecoins thrive on community, which fuels engagement and drives utility. While tech and tokenomics matter, it's the collective enthusiasm, creativity, and humor of users that keeps a project alive. A strong community can mitigate volatility, generate organic marketing, and provide resilience against market downturns—ultimately transforming memes into movements.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1787548291628",
-    "ts": "2026-08-24T05:11:31.628Z",
-    "text": "Market cap is the current market valuation of a coin, calculated by multiplying its price by circulating supply. Fully diluted valuation (FDV) estimates what a project would be worth if all tokens were in circulation. The gap between them reveals potential dilution risk and can indicate whether the market is factoring in future supply. A large discrepancy may signal caution; excessive FDV compared to market cap could expose substantial inflation risk, impacting ongoing price stability as new tokens enter the market.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
