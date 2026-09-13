@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789309176135",
+    "ts": "2026-09-13T14:19:36.135Z",
+    "text": "Position sizing is your lifebuoy in the turbulent sea of trading; too much risk and you're a sinking ship.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1789293919963",
     "ts": "2026-09-13T10:05:19.963Z",
     "text": "Real volume reflects genuine trading activity, where buyers and sellers exchange assets with true intent. Wash trading, on the other hand, inflates volume figures artificially by creating a façade of activity—traders buy and sell to each other without changing ownership effectively. Spot the difference: real volume builds trust, while wash trading signals potential manipulation and red flags.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T03:27:33.110Z",
     "text": "Consider a memecoin called $PURRfect, targeting pet lovers and animal charities. It could run on the narrative of donating a portion of each transaction to various animal shelters globally, tapping into community sentiment for a good cause. Positioned as the \"purrfect\" choice for socially conscious investors, it leverages memes of adorable pets and philanthropic vibes to engage users in meaningful ways while promoting both fun and goodwill on Solana.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1787537927633",
-    "ts": "2026-08-24T02:18:47.633Z",
-    "text": "Charts shift, and emotions can cloud judgment. Discipline in decision-making ensures you're not stubbornly clinging to losing positions just because you believe in a narrative. Cutting losses promptly helps maintain your capital for smarter trades down the road—the market doesn't care about your conviction. Stay rational; strategy beats feelings.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
