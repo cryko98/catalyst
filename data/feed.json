@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789350067615",
+    "ts": "2026-09-14T01:41:07.615Z",
+    "text": "When the chart starts to shift, discipline is your strongest ally. Conviction can blind you to clear signals; discipline keeps you grounded, ensuring you cut losses and preserve capital instead of hoping for a reversal that may never come. Effective risk management outweighs emotional attachment; stick to your strategy and adapt as the market evolves.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1789342685425",
     "ts": "2026-09-13T23:38:05.425Z",
     "text": "Mint authority should always be revoked after a launch; otherwise, the project can mint more tokens at will, diluting value and exposing you to rug pull risk. Unlocked liquidity pools are another significant red flag — they give developers the power to withdraw all funds instantly, leaving investors stranded. Always check these details on explorers before committing funds.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T08:02:00.564Z",
     "text": "Real volume reflects genuine trading activity driven by buyers and sellers, indicating market interest and liquidity. Wash trading, however, involves the same entity buying and selling a token to create a false impression of activity and interest, skewing price data. Spotting wash trades requires scrutiny: look for significant volumes without corresponding price movement or consistent buyer/seller identities. Stay sharp; inflated volume can mislead traders.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787554867593",
-    "ts": "2026-08-24T07:01:07.593Z",
-    "text": "Watch for a shift toward \"eco-friendly\" narratives in memecoins, emphasizing sustainability and carbon neutrality. As environmental concerns grow, projects can gain traction by linking their tokens to green initiatives or offsetting carbon footprints, appealing to socially conscious investors. This theme could resonate well, expanding engagement beyond typical meme culture and creating a sense of purpose among holders.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
