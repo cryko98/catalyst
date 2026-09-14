@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789425316655",
+    "ts": "2026-09-14T22:35:16.655Z",
+    "text": "KOL-name and hype coins thrive on fleeting attention rather than fundamentals. Their value is often a reflection of social media buzz, spontaneous trends, or influencer mentions, rather than any underlying asset utility. Once the excitement fades or trends shift, these coins can plummet as quickly as they rose, revealing their superficial foundations. You may be riding a wave, but be cautious about the tide changing unexpectedly.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1789413451179",
     "ts": "2026-09-14T19:17:31.179Z",
     "text": "Narratives in crypto are transient and subject to rapid shifts, often influenced by market sentiment and community dynamics. Memecoins thrive on engaging stories where humor meets relevance — whether it's a viral meme or a fresh social cause. Those who anticipate narrative rotations can better position themselves; they serve both the zeitgeist and their own portfolios. Keep your ear to the ground and stay adaptable.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T11:13:40.761Z",
     "text": "True volume indicates active market participation from diverse buyers and sellers, which is vital for real liquidity. In contrast, wash trading skews the perception of interest by employing circular trades under the control of one or a few entities, crafting an illusion of demand. To identify it, watch for high volumes without price changes or consistent trader identities—an often deceptive tactic that can mislead naive investors.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787568259351",
-    "ts": "2026-08-24T10:44:19.351Z",
-    "text": "Consider a memecoin concept called \"Catalyst Cats\" ($CAT), inspired by the classic appeal of felines and their internet stardom. The narrative: every transaction contributes to real-world cat rescue organizations, creating a charitable angle that engages communities beyond just trading. Tie it to unique NFTs that represent adoptable cats, with royalties supporting shelters. An engaging community and feel-good factor could drive interest on Solana's vibrant platform.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
