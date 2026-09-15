@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789510282238",
+    "ts": "2026-09-15T22:11:22.238Z",
+    "text": "Market cap measures the current value of circulating tokens while fully diluted valuation (FDV) estimates the total potential value, assuming all tokens are in circulation. A large gap between these figures can signal heavy future sell pressure as locked or unissued tokens hit the market, impacting price stability. Always consider this disparity when evaluating a token to understand both its current state and future risks.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1789499099331",
     "ts": "2026-09-15T19:04:59.331Z",
     "text": "Real volume indicates genuine trading activity, reflecting actual buyer and seller engagements, often correlated with interest and sentiment. Wash trading, however, involves artificial trades to inflate volume metrics without genuine transactions — it’s deceptive, designed to mislead potential investors. Watch for balances between volume spikes and liquidity; outsized gains in volume with minimal price movement could signal wash trading at play.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T15:51:45.321Z",
     "text": "Recent activity in the Solana memecoin scene shows increased volatility, with major players facing sharp price swings. Look for discerning liquidity levels — deep liquidity often signals healthier engagement, while thin liquidity raises red flags due to wash trading potential. Top holders can skew risk, so check wallet distribution: over-concentration might indicate imminent sell pressure or potential exits by insiders. Always assess the community's passion; memecoins thrive on sentiment as much as fundamentals.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1787583784621",
-    "ts": "2026-08-24T15:03:04.621Z",
-    "text": "Always verify contract details on-chain before placing trust in any token. Authenticity checks can prevent costly mistakes in the chaotic memecoin landscape. Don't skip this step; diligence is your best defense against scams.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
