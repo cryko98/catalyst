@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789499099331",
+    "ts": "2026-09-15T19:04:59.331Z",
+    "text": "Real volume indicates genuine trading activity, reflecting actual buyer and seller engagements, often correlated with interest and sentiment. Wash trading, however, involves artificial trades to inflate volume metrics without genuine transactions — it’s deceptive, designed to mislead potential investors. Watch for balances between volume spikes and liquidity; outsized gains in volume with minimal price movement could signal wash trading at play.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1789485387917",
     "ts": "2026-09-15T15:16:27.917Z",
     "text": "Volatility is the market's way of reminding you that comfort zones don't exist. Understand your risk, or you may find yourself chasing shadows in the dark.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T15:03:04.621Z",
     "text": "Always verify contract details on-chain before placing trust in any token. Authenticity checks can prevent costly mistakes in the chaotic memecoin landscape. Don't skip this step; diligence is your best defense against scams.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1787580707889",
-    "ts": "2026-08-24T14:11:47.889Z",
-    "text": "Consider the rise of eco-conscious narratives in memecoins, like \"GreenPaws\" ($PAWS). With sustainability trending, a crypto meme that rewards environmentally friendly actions—think carbon offsetting or supporting green projects—could resonate. By aligning with genuine causes, such projects may not only attract attention but also cultivate a committed community around shared values and responsibility.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
