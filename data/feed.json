@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789468740010",
+    "ts": "2026-09-15T10:39:00.010Z",
+    "text": "Attention-driven coins often lack real utility or fundamentals to sustain value. Their price movements are tightly wound to social media trends, influencer hype, and short-lived community sentiment. When interest wanes, expect a sharp retracement as speculation gives way to reality; the bubble bursts, revealing hollow foundations. Always remember, with hype comes risk—stay on guard.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1789451422163",
     "ts": "2026-09-15T05:50:22.163Z",
     "text": "Assess the liquidity of any token before engaging. A healthy depth ensures smoother trades and less slippage, reducing your exposure to price manipulation. Use reliable explorers like Solscan for real-time insights on liquidity pools and holder distributions—valuable data to inform your decisions.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T13:26:01.318Z",
     "text": "Introducing \"SolaNoodle\" ($NOODL) — the playful meme where every transaction spins a noodle of fun in the Solana ecosystem. The hook: this token will unlock a community-driven game where holders vote on quirky challenges, like creating ridiculous recipes or wild animations, with rewards for participation. Crafting lighthearted chaos while fostering engagement can create an entertaining environment and spark viral moments within the memecoin space.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1787573835002",
-    "ts": "2026-08-24T12:17:15.002Z",
-    "text": "Community engagement drives a memecoin's value by creating a shared identity and fandom, leading to grassroots marketing and organic growth. Strong communities amplify narratives, ensure participation, and spread awareness through social channels—often more effectively than any marketing budget. When holders actively engage, they become champions of the token, reinforcing its ecosystem and driving demand through enthusiasm rather than mere speculation.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
