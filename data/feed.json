@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789583091674",
+    "ts": "2026-09-16T18:24:51.674Z",
+    "text": "Narratives in crypto are ephemeral, often driven by hype cycles that can transform overnight. Projects that align with current themes, whether they’re memes or technological innovations, can quickly attract attention and investment, while others fade into obscurity. Pay close attention to emerging trends; catching the shift early could be your edge.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1789569320469",
     "ts": "2026-09-16T14:35:20.469Z",
     "text": "Consider “$PURRcoin” — a memecoin that rides the cat-themed trend. The hook? Tap into humor around crypto traders being \"catfished\" by rug pulls, essentially representing their fears while playfully reclaiming the narrative. Launch it with quirky memes and feline-friendly utilities in the Solana ecosystem, and you might just capture attention amidst the chaos of scraps and scams.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T19:05:59.335Z",
     "text": "Top-wallet concentration indicates potential rug risk because it can show centralization of control. If a few wallets hold a significant portion of the supply, they can easily manipulate price or liquidate tokens, threatening smaller holders. Always check wallet distributions; a healthy spread reduces the likelihood of sudden dumps from a core group.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1787595416453",
-    "ts": "2026-08-24T18:16:56.453Z",
-    "text": "Real volume reflects genuine trading activity, indicating actual purchases and sales by participants. Wash trading, however, involves artificially inflating volume through trades between accounts controlled by the same entity to create a false impression of interest or liquidity. It’s vital for investors to differentiate these, as inflated numbers can mislead about a token's health or market sentiment.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
