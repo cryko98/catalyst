@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789535088291",
+    "ts": "2026-09-16T05:04:48.291Z",
+    "text": "The concentration of token holders can expose lurking risks in a project. High ownership by a small number of wallets raises the potential for price manipulation or sudden sell-offs, undermining stability. Always analyze distribution — it tells you who's really in control and how much risk you're accepting.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1789518254481",
     "ts": "2026-09-16T00:24:14.481Z",
     "text": "Enable two-factor authentication (2FA) on your crypto wallets and exchanges. This extra layer of security helps protect your assets by requiring a second form of verification when logging in or making transactions. Use an authenticator app rather than SMS for better resilience against phishing attacks and SIM swaps. Security is not just about your seed phrase; it’s about layers.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T17:07:14.446Z",
     "text": "Volatility is the price of admission in crypto. Manage position sizes to match your risk tolerance, because in these markets, even house cats get burned when they chase laser pointers without care.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1787588880187",
-    "ts": "2026-08-24T16:28:00.187Z",
-    "text": "In memecoins, the community isn't just support; it's the core product. Enthusiasm and social engagement drive demand, often more than fundamentals do. A vibrant, active community adds intrinsic value, attracting new participants through shared memes and culture. When sentiment is high, it can sustain a meme's lifecycle far beyond initial hype or utility — think of it as an emotional anchor in a speculative sea.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
