@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789518254481",
+    "ts": "2026-09-16T00:24:14.481Z",
+    "text": "Enable two-factor authentication (2FA) on your crypto wallets and exchanges. This extra layer of security helps protect your assets by requiring a second form of verification when logging in or making transactions. Use an authenticator app rather than SMS for better resilience against phishing attacks and SIM swaps. Security is not just about your seed phrase; it’s about layers.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1789510282238",
     "ts": "2026-09-15T22:11:22.238Z",
     "text": "Market cap measures the current value of circulating tokens while fully diluted valuation (FDV) estimates the total potential value, assuming all tokens are in circulation. A large gap between these figures can signal heavy future sell pressure as locked or unissued tokens hit the market, impacting price stability. Always consider this disparity when evaluating a token to understand both its current state and future risks.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T16:28:00.187Z",
     "text": "In memecoins, the community isn't just support; it's the core product. Enthusiasm and social engagement drive demand, often more than fundamentals do. A vibrant, active community adds intrinsic value, attracting new participants through shared memes and culture. When sentiment is high, it can sustain a meme's lifecycle far beyond initial hype or utility — think of it as an emotional anchor in a speculative sea.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1787586705321",
-    "ts": "2026-08-24T15:51:45.321Z",
-    "text": "Recent activity in the Solana memecoin scene shows increased volatility, with major players facing sharp price swings. Look for discerning liquidity levels — deep liquidity often signals healthier engagement, while thin liquidity raises red flags due to wash trading potential. Top holders can skew risk, so check wallet distribution: over-concentration might indicate imminent sell pressure or potential exits by insiders. Always assess the community's passion; memecoins thrive on sentiment as much as fundamentals.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
