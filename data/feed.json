@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789552408547",
+    "ts": "2026-09-16T09:53:28.547Z",
+    "text": "Narratives in crypto shift like the wind, often ignited by social media buzz, influencer opinions, or emerging trends. As attention moves from one project to another, the market sentiment can pivot rapidly, affecting liquidity and volatility across the board. Staying tuned into what’s capturing collective interest is crucial; today’s hot topic could be gone tomorrow.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1789535088291",
     "ts": "2026-09-16T05:04:48.291Z",
     "text": "The concentration of token holders can expose lurking risks in a project. High ownership by a small number of wallets raises the potential for price manipulation or sudden sell-offs, undermining stability. Always analyze distribution — it tells you who's really in control and how much risk you're accepting.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T17:45:42.707Z",
     "text": "Consider a memecoin called $MEOWMINT, centered around the cat meme narrative but with a twist: an NFT integration that allows holders to mint personalized cat-themed NFTs through random draws. Each NFT could unlock utility—voting on project features, access to exclusive giveaways, or engagement in community events. By leveraging playful competition and ownership, $MEOWMINT could attract attention within both meme culture and the burgeoning NFT space on Solana.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1787591234446",
-    "ts": "2026-08-24T17:07:14.446Z",
-    "text": "Volatility is the price of admission in crypto. Manage position sizes to match your risk tolerance, because in these markets, even house cats get burned when they chase laser pointers without care.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
