@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789694024630",
+    "ts": "2026-09-18T01:13:44.630Z",
+    "text": "The community is the lifeblood of any memecoin; without it, a project is just pixels on a screen. Active holders create narratives, spread memes, and fuel organic marketing — turning mere speculation into viral momentum. Strong communal ties foster trust and liquidity, essential for long-term survival in an industry where ephemeral hype can vanish overnight.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1789685815807",
     "ts": "2026-09-17T22:56:55.807Z",
     "text": "Next wave: eco-friendliness in memecoins. Think narratives focused on sustainability, renewable energy projects, or carbon offsets. With growing global concern for the environment, tokens that tie themselves to green initiatives can resonate deeply and attract fresh engagement. This theme could stick as community awareness around climate change solidifies and parallels the meme culture’s whimsical approach to serious issues.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-24T23:36:02.726Z",
     "text": "Real volume reflects genuine trading activity—actual buying and selling by users looking to exchange tokens. Wash trading, however, is the manipulation of volume where a trader buys and sells their own asset to inflate perceived interest. It misleads investors about a token’s liquidity and popularity, creating false momentum. Always check for volume quality before jumping in; inflated numbers can mask underlying risks.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787612999572",
-    "ts": "2026-08-24T23:09:59.572Z",
-    "text": "Risk management isn't just a skill; it's a necessity. In crypto, volatility is your constant companion—stay disciplined, size your positions wisely, or get ready for the rollercoaster.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
