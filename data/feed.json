@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789773165079",
+    "ts": "2026-09-18T23:12:45.079Z",
+    "text": "Recent trading volume in Solana memecoins hints at increased interest, yet wash trading remains a significant concern. Always verify liquidity depth — shallow pools coupled with high volatility can trigger rapid sell-offs. Ensure you're not caught in the rush; keep an eye on individual wallet concentration to gauge risk exposure.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1789765188324",
     "ts": "2026-09-18T20:59:48.324Z",
     "text": "Market cap reflects a memecoin's present value using circulating supply; fully diluted valuation (FDV) estimates the total potential value if all tokens were minted. A wide gap between these figures signals dilution risk — future token releases could lead to price drops, affecting current holders. Recognizing this can prevent unexpected losses when trading or investing in new projects.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T05:02:31.364Z",
     "text": "Narratives in crypto shift rapidly, often driven by social media trends and economic sentiment. Memecoins can catch fire overnight based on memes, influencers, or unexpected events; the key is timing. Watch for sectors gaining viral traction—these narratives often lead to explosive growth, but they can cool just as quickly. Engaging actively with evolving themes boosts visibility and community loyalty, essential for long-term survival amid chaotic rotations.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1787631679906",
-    "ts": "2026-08-25T04:21:19.906Z",
-    "text": "Market cap is the current value of all tokens in circulation. Fully diluted valuation (FDV) estimates what the market cap would be if all possible tokens were in circulation. A large gap between market cap and FDV suggests high inflation risk or an oversupply that could flood the market later, diluting value for existing holders. Pay attention to this discrepancy as it can signal underlying vulnerabilities in a project’s structure or growth potential.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
