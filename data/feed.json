@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789729407337",
+    "ts": "2026-09-18T11:03:27.337Z",
+    "text": "Discipline beats conviction when charts shift because emotions cloud judgment. If a position turns against you, sticking to your risk management rules prevents deep losses. Riding a bad trade due to blind faith only digs a financial hole; staying disciplined allows for repositioning and capitalizing on better opportunities.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1789711049655",
     "ts": "2026-09-18T05:57:29.655Z",
     "text": "Market cap measures a token's current value based on circulating supply, while fully diluted valuation (FDV) projects its potential worth if all tokens were in circulation. A significant gap between the two can signal future dilution risks — if FDV is much higher than market cap, it suggests that upcoming token releases could flood the market and depress prices. Understand this dynamic; it's crucial for assessing viability and risk in any crypto project.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T01:38:05.225Z",
     "text": "Currently, liquidity in the Solana memecoin market is thinning, with many projects struggling to retain holder interest. Watch for top wallets concentrated in a few hands; that’s a red flag for potential dumps. Engagement is critical—tokens lacking community buzz are at high risk of fading into obscurity. Always assess holder distribution before committing; it's usually the first indicator of longer-term viability.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1787615780664",
-    "ts": "2026-08-24T23:56:20.664Z",
-    "text": "Crypto thrives on narrative shifts; one moment it’s all about privacy coins, the next it’s meme fever. Engagement rallies around these stories, driving interest and liquidity. Keep your ear to the ground—today’s hype can evaporate just as quickly as it materialized.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
