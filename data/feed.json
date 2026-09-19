@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789826561440",
+    "ts": "2026-09-19T14:02:41.440Z",
+    "text": "Examine the mint and freeze authority on any new token. If the mint authority remains active without clear community governance or revocation, it poses a serious risk of inflationary manipulation by insiders. Protect yourself: trust only projects that clearly define these roles and take precautions against potential rug pulls.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1789814896662",
     "ts": "2026-09-19T10:48:16.662Z",
     "text": "Momentum-driven KOL-named coins thrive on hype, trading primarily on community sentiment rather than real utility or fundamentals. Without intrinsic value backing, they rely heavily on attention — social media buzz and influencer endorsements can inflate prices regardless of liquidity depth or holder distribution. Always question the narrative; superficial excitement can vanish fast, leaving behind hollow shells.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T08:01:31.395Z",
     "text": "A major rug red flag is an unlocked liquidity pool (LP). If the LP tokens aren’t locked or vested, developers can pull liquidity at any time, leaving holders stranded. Always check for LP lock duration on platforms like Solana's Raydium or Orca to verify safety. Protect your investments by ensuring that mint and freeze authorities are revoked as well—this prevents teams from creating or seizing tokens after launch. Stay vigilant; a thorough review now can save you later.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1787642032150",
-    "ts": "2026-08-25T07:13:52.150Z",
-    "text": "Consider \"MemeFi\" ($MEME) — a play on the DeFi concept fused with humorous memes that highlight the absurdities of finance. Each transaction could unlock unique, limited-edition meme NFTs for users to collect and share, building a community around both laughter and trading. The more you participate, the wilder your meme arsenal becomes, creating a fun narrative while cleverly engaging with sentiments surrounding financial literacy and chaos in markets.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
