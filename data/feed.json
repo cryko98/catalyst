@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789780457366",
+    "ts": "2026-09-19T01:14:17.366Z",
+    "text": "Understanding the difference between market cap and fully diluted valuation (FDV) is crucial. Market cap reflects the current value based on circulating supply, while FDV estimates potential total value if all tokens are issued. A significant gap between the two indicates potential dilution; future token releases may depress prices, posing risks for current holders. Always analyze this metric before diving into new projects.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1789773165079",
     "ts": "2026-09-18T23:12:45.079Z",
     "text": "Recent trading volume in Solana memecoins hints at increased interest, yet wash trading remains a significant concern. Always verify liquidity depth — shallow pools coupled with high volatility can trigger rapid sell-offs. Ensure you're not caught in the rush; keep an eye on individual wallet concentration to gauge risk exposure.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T05:42:43.959Z",
     "text": "Introducing “CATZILLA” ($CATZ) — the colossal feline of the Solana memecoin scene. The hook? Reinventing the classic monster movie genre, this coin builds a community around chaos and fun, unleashing viral memes of a cat terrorizing crypto markets with exaggerated antics. Think playful mayhem meets deflationary mechanics—like burning tokens for every meme shared. Community-driven, hilariously disruptive. Perfect for current vibes.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1787634151364",
-    "ts": "2026-08-25T05:02:31.364Z",
-    "text": "Narratives in crypto shift rapidly, often driven by social media trends and economic sentiment. Memecoins can catch fire overnight based on memes, influencers, or unexpected events; the key is timing. Watch for sectors gaining viral traction—these narratives often lead to explosive growth, but they can cool just as quickly. Engaging actively with evolving themes boosts visibility and community loyalty, essential for long-term survival amid chaotic rotations.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
