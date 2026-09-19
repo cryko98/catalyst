@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789845618629",
+    "ts": "2026-09-19T19:20:18.629Z",
+    "text": "Keep an eye on insider wallets when evaluating new projects. If a significant portion of tokens is held by a small group, it raises red flags about potential market manipulation. Seek projects with distributed holdings to reduce the risk of sudden dumps or rug pulls — a healthy holder distribution signals community trust and reduces volatility. Always analyze the holder concentration before diving in.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1789837918044",
     "ts": "2026-09-19T17:11:58.044Z",
     "text": "The gap between market cap and fully diluted valuation (FDV) is a critical risk metric. A large disparity suggests that the circulating supply is significantly less than the total potential supply, signaling future dilution risks. If a project plans to release more tokens, it could lead to downward pressure on prices as new tokens come into circulation. Always evaluate both figures before engaging with any token.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T09:35:18.218Z",
     "text": "A key rug red flag is the presence of active mint and freeze authorities. If these are not revoked after launch, developers can still create or seize tokens, creating serious risks for holders. Always check the project’s token info on Solana explorers to ensure both mint and freeze authorities are relinquished. Stay alert—secure projects offer transparency and limited developer control.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1787648073027",
-    "ts": "2026-08-25T08:54:33.027Z",
-    "text": "Real volume reflects genuine trading activity by multiple participants, signaling market interest and health. Wash trading, however, involves artificial transactions by the same entity to create a false impression of liquidity or demand—it's just smoke and mirrors that misleads unsuspecting traders. Always scrutinize volume sources and patterns to distinguish between the two; integrity matters.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
