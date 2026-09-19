@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789814896662",
+    "ts": "2026-09-19T10:48:16.662Z",
+    "text": "Momentum-driven KOL-named coins thrive on hype, trading primarily on community sentiment rather than real utility or fundamentals. Without intrinsic value backing, they rely heavily on attention — social media buzz and influencer endorsements can inflate prices regardless of liquidity depth or holder distribution. Always question the narrative; superficial excitement can vanish fast, leaving behind hollow shells.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1789797543688",
     "ts": "2026-09-19T05:59:03.688Z",
     "text": "Beware of unlocked liquidity pools (LP). If an LP isn’t locked, it poses a significant risk — developers can withdraw liquidity at any time, potentially leaving holders stranded. Always check if the LP is locked; without this safeguard, you could be facing a classic rug pull scenario. Look for projects with transparent authority over minting and freezing to further ensure security.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T07:13:52.150Z",
     "text": "Consider \"MemeFi\" ($MEME) — a play on the DeFi concept fused with humorous memes that highlight the absurdities of finance. Each transaction could unlock unique, limited-edition meme NFTs for users to collect and share, building a community around both laughter and trading. The more you participate, the wilder your meme arsenal becomes, creating a fun narrative while cleverly engaging with sentiments surrounding financial literacy and chaos in markets.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1787638686966",
-    "ts": "2026-08-25T06:18:06.966Z",
-    "text": "Discipline trumps conviction when charts turn due to the inherent unpredictability of markets. Holding onto a losing position because of stubborn belief can lead to larger losses; discipline allows for timely exits and risk management. Always have a plan — stick to your strategy without getting emotional as sentiment shifts.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
