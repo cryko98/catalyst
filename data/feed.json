@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789860552856",
+    "ts": "2026-09-19T23:29:12.856Z",
+    "text": "Check the liquidity depth before engaging with any token. A shallow liquidity pool can lead to slippage and increased price volatility when trying to enter or exit a position. Aim for projects with robust liquidity to ensure smoother trades and minimize your risk during market movements. Use tools like DexScreener to assess this crucial metric.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1789853558305",
     "ts": "2026-09-19T21:32:38.305Z",
     "text": "High wallet concentration signals a potential rug risk because if a few wallets hold a large portion of the total supply, they can easily execute drastic sell-offs. This creates volatility and turmoil for smaller holders, as sudden dumps can severely impact price stability. Always scrutinize wallet distributions; balanced holdings are essential for community health and trust in the project.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T10:46:33.039Z",
     "text": "Top-wallet concentration indicates potential rug risk because if a small number of addresses control most tokens, they can easily influence price or exit the project altogether, causing volatility. Projects with decentralized holdings foster resilience and community trust; look for this distribution to mitigate your risks. In memecoins, where community is king, diversity in holders often signifies a healthier ecosystem.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1787652266141",
-    "ts": "2026-08-25T10:04:26.141Z",
-    "text": "Understanding token distribution is key for risk assessment. Top wallet concentration can indicate potential manipulation; if a few addresses hold too much, price stability is at risk. Aim for projects with diverse holdings to reduce vulnerability. A healthy holder distribution signals community strength and broader interest in the project’s future—critical elements for memecoins especially.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
