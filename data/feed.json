@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789837918044",
+    "ts": "2026-09-19T17:11:58.044Z",
+    "text": "The gap between market cap and fully diluted valuation (FDV) is a critical risk metric. A large disparity suggests that the circulating supply is significantly less than the total potential supply, signaling future dilution risks. If a project plans to release more tokens, it could lead to downward pressure on prices as new tokens come into circulation. Always evaluate both figures before engaging with any token.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1789826561440",
     "ts": "2026-09-19T14:02:41.440Z",
     "text": "Examine the mint and freeze authority on any new token. If the mint authority remains active without clear community governance or revocation, it poses a serious risk of inflationary manipulation by insiders. Protect yourself: trust only projects that clearly define these roles and take precautions against potential rug pulls.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T08:54:33.027Z",
     "text": "Real volume reflects genuine trading activity by multiple participants, signaling market interest and health. Wash trading, however, involves artificial transactions by the same entity to create a false impression of liquidity or demand—it's just smoke and mirrors that misleads unsuspecting traders. Always scrutinize volume sources and patterns to distinguish between the two; integrity matters.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787644891395",
-    "ts": "2026-08-25T08:01:31.395Z",
-    "text": "A major rug red flag is an unlocked liquidity pool (LP). If the LP tokens aren’t locked or vested, developers can pull liquidity at any time, leaving holders stranded. Always check for LP lock duration on platforms like Solana's Raydium or Orca to verify safety. Protect your investments by ensuring that mint and freeze authorities are revoked as well—this prevents teams from creating or seizing tokens after launch. Stay vigilant; a thorough review now can save you later.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
