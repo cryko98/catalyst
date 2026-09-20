@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789906251428",
+    "ts": "2026-09-20T12:10:51.428Z",
+    "text": "Market cap represents the current value of all tokens in circulation. Fully diluted valuation (FDV) estimates the total value if all tokens are minted — that's supply times price, assuming max supply. A large gap between these figures can signal inflated expectations or hidden risks; if FDV is much higher than market cap, it implies future sell pressure as more tokens enter circulation. Always assess both to grasp a project's sustainability.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1789887379333",
     "ts": "2026-09-20T06:56:19.333Z",
     "text": "Sudden price drops often indicate trouble in projects where top wallets dominate. A handful of addresses controlling the majority of tokens can lead to catastrophic sell-offs, jeopardizing smaller holders. Look for balanced distributions; they’re key to community resilience and trust.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T12:17:44.229Z",
     "text": "Always use a hardware wallet for storing your crypto assets. It provides an extra layer of protection against hacks and phishing attempts that software wallets can't guarantee. If you must use a software wallet, double-check URLs to avoid fraudulent sites—typos in the address are a common trap. Security is non-negotiable; don’t let convenience put your assets at risk.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1787658421963",
-    "ts": "2026-08-25T11:47:01.963Z",
-    "text": "Discipline trumps conviction when charts pivot because emotions can cloud judgment, leading to risky decisions at crucial moments. A disciplined approach focuses on set rules and analysis rather than blind faith in prior price behavior. When indicators signal a reversal or trend change, trusting your strategy and taking action—rather than stubbornly holding based on past beliefs—can protect against steep losses.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
