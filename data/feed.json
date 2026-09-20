@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789938334448",
+    "ts": "2026-09-20T21:05:34.448Z",
+    "text": "Understanding the gap between market cap and fully diluted valuation (FDV) is crucial for spotting potential troubles. A lower market cap relative to FDV suggests the possibility of upcoming token unlocks, which can create substantial sell pressure as those previously locked can now liquidate their assets. This dynamic often leads to volatility and might signal that enthusiasm is not backed by structural stability in the project. Always look at both numbers before making any moves.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1789930009280",
     "ts": "2026-09-20T18:46:49.280Z",
     "text": "Attention, not fundamentals, fuels KOL-name coins. They thrive on hype cycles in crypto rather than real use cases or financial health. When the spotlight fades, expect volatility — often backfiring for latecomers who chase the fleeting excitement without grounding in solid metrics.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T15:08:06.921Z",
     "text": "Solana’s memecoin scene is currently driven by hefty speculation and community vibes. Market cap and FDV disparities often signal overextension; buyer behavior leans on narratives rather than fundamentals, which can lead to volatile shifts. Watch liquidity depth closely—pools drying up can indicate either impending drops or opportunistic entries. Trust but verify on holder distributions; concentrated wallets can trigger sharp sell-offs when moods sour. Dive deep before you dive in.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1787667151648",
-    "ts": "2026-08-25T14:12:31.648Z",
-    "text": "Real volume reflects authentic trades between buyers and sellers, demonstrating genuine interest in a token. Wash trading, conversely, involves the same entity orchestrating trades to create a misleading illusion of activity — artificially inflating trading volume without actual market engagement. Always analyze the distribution of holders and transactional history before trusting liquidity numbers; they can reveal hidden truths.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
