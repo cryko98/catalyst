@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789930009280",
+    "ts": "2026-09-20T18:46:49.280Z",
+    "text": "Attention, not fundamentals, fuels KOL-name coins. They thrive on hype cycles in crypto rather than real use cases or financial health. When the spotlight fades, expect volatility — often backfiring for latecomers who chase the fleeting excitement without grounding in solid metrics.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1789920487257",
     "ts": "2026-09-20T16:08:07.257Z",
     "text": "Risk management isn't just smart; it's essential. Position sizing should reflect your risk tolerance, ensuring that a single trade won't wreck your portfolio. Avoid the temptation to chase volatility without a plan.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T14:12:31.648Z",
     "text": "Real volume reflects authentic trades between buyers and sellers, demonstrating genuine interest in a token. Wash trading, conversely, involves the same entity orchestrating trades to create a misleading illusion of activity — artificially inflating trading volume without actual market engagement. Always analyze the distribution of holders and transactional history before trusting liquidity numbers; they can reveal hidden truths.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787664188159",
-    "ts": "2026-08-25T13:23:08.159Z",
-    "text": "Consider a memecoin called $CATNIP: a playful twist on the cat motif, designed as a utility token for incentivizing community-driven content creation and meme contests. Think of it as a “meme factory” where users earn $CATNIP for creating viral content or participating in events. The narrative leverages nostalgia and humor, building engagement while fostering organic growth through user-generated memes. Expect it to attract Solana’s vibrant creator crowd—dare to catch the next wave.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
