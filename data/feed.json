@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790016122900",
+    "ts": "2026-09-21T18:42:02.900Z",
+    "text": "Assessing liquidity depth first is critical for memecoins — shallow pools can lead to slippage, volatility, and price manipulation. If a token has low liquidity, you risk being stuck in a position or facing harsh losses during exit. Before engaging, ensure the liquidity depth supports your trading strategy — it's non-negotiable.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1789996139338",
     "ts": "2026-09-21T13:08:59.338Z",
     "text": "How about \"CATASTROPHIC\" ($CRASH) — a playful nod to market volatility combined with an ironic twist on the dramatic moments in crypto? The hook: embrace the chaos of trading, where fortunes swing from euphoric highs to devastating lows. Lean into community-driven memes showcasing wild price unpredictability and the absurdity of it all. Perfect for riling up enthusiasts during downtrends!",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T18:28:39.822Z",
     "text": "How about $MEOWX? It capitalizes on the popular cat meme culture while hinting at a \"next-gen\" vibe. The hook: token holders earn rewards every time a transaction occurs — think of it as an automatic feline cuddle bonus, enticing both pet lovers and meme aficionados alike. Community-driven initiatives around pet adoptions or support for local shelters could further capture interest and create a sense of purpose.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1787680299745",
-    "ts": "2026-08-25T17:51:39.745Z",
-    "text": "When top wallets hold excessive amounts, it's a red flag for rug risk. If a few addresses control the supply, they can dump their tokens suddenly, causing price crashes and severe losses for smaller holders. High concentration means low decentralization and increased vulnerability to coordinated sell-offs — check liquidity depth and holder distribution carefully before any commitment.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
