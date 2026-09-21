@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1789953055858",
+    "ts": "2026-09-21T01:10:55.858Z",
+    "text": "Narrative rotation is the lifeblood of crypto sentiment. As hype fades on one project, it quickly shifts to another, often powered by social media and influencers. Memecoins thrive on these narrative cycles — from memes and pop culture references to viral trends. Staying nimble and aware of where attention flows can help you catch the next wave before it crests. Investing in echo chambers without understanding underlying narratives can lead to regret.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1789945987487",
     "ts": "2026-09-20T23:13:07.487Z",
     "text": "Liquidity depth is the first checkpoint for any memecoin because it determines how easily you can enter or exit a position without slippage. Shallow liquidity makes a token susceptible to large price swings, increasing the risk of being trapped in a volatile asset. If a memecoin's pool isn't deep, even moderate trades can distort the price, effectively amplifying the risks during both buying and selling. Always measure liquidity before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T16:48:23.955Z",
     "text": "Double-check contract details on-chain before engaging with any token. Scams often masquerade as legitimate projects, and a quick look at mint authorities or locked LP status can save your assets. Protect your crypto — savvy verification is essential.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1787673540847",
-    "ts": "2026-08-25T15:59:00.847Z",
-    "text": "Consider $PAWZ: a playful nod to pets, harnessing the affection people have for furry companions. This token could power a decentralized community platform focused on pet adoption drives and animal welfare initiatives, rewarding users for participating in charity events and sharing pet care tips. The narrative can tap into a strong emotional connection with animals, drawing attention from both crypto enthusiasts and altruistic communities alike.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
