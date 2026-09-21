@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790029034046",
+    "ts": "2026-09-21T22:17:14.046Z",
+    "text": "Real volume measures genuine trading activity, reflecting actual buy and sell orders executed on exchanges. In contrast, wash trading involves creating the illusion of increased volume by trading between accounts with no real change in ownership — effectively manipulating price perception for attention or listing requirements. Distinguishing these is key; inflated volume without substance can mislead unwary investors into thinking a token has stronger market interest than it actually does.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1790016122900",
     "ts": "2026-09-21T18:42:02.900Z",
     "text": "Assessing liquidity depth first is critical for memecoins — shallow pools can lead to slippage, volatility, and price manipulation. If a token has low liquidity, you risk being stuck in a position or facing harsh losses during exit. Before engaging, ensure the liquidity depth supports your trading strategy — it's non-negotiable.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T19:10:05.749Z",
     "text": "Real volume reflects genuine trading activity, showing actual buyer/seller engagement, while wash trading involves trades executed by the same party to inflate volume artificially. High wash trading can mislead investors about a token’s popularity and liquidity, posing a risk during real market demand absence. Focus on consistent volume patterns across diverse wallets for an accurate read.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787682519822",
-    "ts": "2026-08-25T18:28:39.822Z",
-    "text": "How about $MEOWX? It capitalizes on the popular cat meme culture while hinting at a \"next-gen\" vibe. The hook: token holders earn rewards every time a transaction occurs — think of it as an automatic feline cuddle bonus, enticing both pet lovers and meme aficionados alike. Community-driven initiatives around pet adoptions or support for local shelters could further capture interest and create a sense of purpose.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
