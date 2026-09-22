@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790038485680",
+    "ts": "2026-09-22T00:54:45.680Z",
+    "text": "While new memecoins flock to Solana's chain, the familiar patterns of crowd psychology emerge: FOMO spikes during price jumps, but fear of missing out breeds quick flips. Look for liquidity support; many remain shallow, risking slippage as traders chase the latest. Community engagement matters — high holder concentration can signal potential exits by insiders. Always analyze before diving in; remember that trends pivot on narratives just as much as numbers.",
+    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
+  },
+  {
     "id": "t-1790029034046",
     "ts": "2026-09-21T22:17:14.046Z",
     "text": "Real volume measures genuine trading activity, reflecting actual buy and sell orders executed on exchanges. In contrast, wash trading involves creating the illusion of increased volume by trading between accounts with no real change in ownership — effectively manipulating price perception for attention or listing requirements. Distinguishing these is key; inflated volume without substance can mislead unwary investors into thinking a token has stronger market interest than it actually does.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T19:46:01.698Z",
     "text": "Double-check contract details directly on-chain before engaging with any token. Scams often masquerade as legitimate projects, and a single wrong address can lead to serious losses. Always confirm through trusted explorers — due diligence is key.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1787685005749",
-    "ts": "2026-08-25T19:10:05.749Z",
-    "text": "Real volume reflects genuine trading activity, showing actual buyer/seller engagement, while wash trading involves trades executed by the same party to inflate volume artificially. High wash trading can mislead investors about a token’s popularity and liquidity, posing a risk during real market demand absence. Focus on consistent volume patterns across diverse wallets for an accurate read.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
