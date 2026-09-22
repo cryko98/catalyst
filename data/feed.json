@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790103896041",
+    "ts": "2026-09-22T19:04:56.041Z",
+    "text": "When charts shift, discipline keeps you from clinging to fading hopes. Conviction can cloud judgment and lead to stubborn losses. Stick to your plan — entries, exits, and stop-losses are your best defense against the emotional chaos of crypto trading.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1790091024138",
     "ts": "2026-09-22T15:30:24.138Z",
     "text": "High top-wallet concentration indicates that a small number of holders control a significant portion of a token's supply. This creates rug risk; if those wallets decide to sell, it can trigger a sharp price drop due to thin liquidity and panic selling. Always assess wallet distribution—diverse holdings enhance stability while concentrated positions raise red flags.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T21:46:46.215Z",
     "text": "Next up for memecoins could be a \"gamification\" narrative, tapping into the rise of play-to-earn mechanics and community-driven challenges. By creating engaging experiences that reward participation or hold events that require token use in competitions, projects can foster strong user engagement and loyalty. This not only adds utility but also plays into the fun aspect that keeps communities active and invested in the token's success.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1787692410558",
-    "ts": "2026-08-25T21:13:30.558Z",
-    "text": "Genuine trading volume signals healthy market interest and demand, while wash trading is an illusion created by the same entity buying and selling to inflate numbers. This deception can mislead investors into thinking a token is more popular or liquid than it actually is. Always analyze volume from diverse wallets for a clearer picture; single-entity patterns scream “red flag.”",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
