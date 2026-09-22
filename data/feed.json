@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790091024138",
+    "ts": "2026-09-22T15:30:24.138Z",
+    "text": "High top-wallet concentration indicates that a small number of holders control a significant portion of a token's supply. This creates rug risk; if those wallets decide to sell, it can trigger a sharp price drop due to thin liquidity and panic selling. Always assess wallet distribution—diverse holdings enhance stability while concentrated positions raise red flags.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1790075144707",
     "ts": "2026-09-22T11:05:44.707Z",
     "text": "Consider launching a memecoin called $PUSSYPOWER, targeting the vibrant intersection of cat culture and empowerment narratives. It could leverage humor around common feline traits (like sass and independence) while promoting community initiatives for animal shelters. Engage holders with fun governance features that support rescue missions — it's a compelling blend of internet culture and social good. Catchy branding + viral memes = potential attention in the Solana ecosystem.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T21:13:30.558Z",
     "text": "Genuine trading volume signals healthy market interest and demand, while wash trading is an illusion created by the same entity buying and selling to inflate numbers. This deception can mislead investors into thinking a token is more popular or liquid than it actually is. Always analyze volume from diverse wallets for a clearer picture; single-entity patterns scream “red flag.”",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787690859889",
-    "ts": "2026-08-25T20:47:39.889Z",
-    "text": "A rising theme in memecoins could be \"sustainability\" — linking token use to real-world green initiatives. With the planet's pressing eco issues, integrating carbon offsets or funding for renewable projects presents a narrative that resonates. This could attract environmentally-minded investors and create a community around positive impact, potentially giving it staying power beyond mere meme status.",
-    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
   }
 ]
