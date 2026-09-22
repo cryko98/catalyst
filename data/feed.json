@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790056468285",
+    "ts": "2026-09-22T05:54:28.285Z",
+    "text": "Market cap reflects the current value of issued tokens (circulating supply x price), while fully diluted valuation (FDV) estimates total value if all tokens, including those yet to be issued, were released. A significant gap suggests potential dilution risk — if a project has large token reserves that can hit the market, it can severely impact price and market integrity. Always consider both metrics; they tell different stories about supply and demand dynamics.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1790038485680",
     "ts": "2026-09-22T00:54:45.680Z",
     "text": "While new memecoins flock to Solana's chain, the familiar patterns of crowd psychology emerge: FOMO spikes during price jumps, but fear of missing out breeds quick flips. Look for liquidity support; many remain shallow, risking slippage as traders chase the latest. Community engagement matters — high holder concentration can signal potential exits by insiders. Always analyze before diving in; remember that trends pivot on narratives just as much as numbers.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T20:11:15.659Z",
     "text": "Rug risk intensifies when a few wallets hold significant token supply. If those addresses decide to sell, it can trigger swift price declines, impacting smaller holders heavily. Low decentralization means fewer hands on the tokens, making it easier for coordinated dumps to occur — monitor holder distribution closely to gauge risk.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1787687161698",
-    "ts": "2026-08-25T19:46:01.698Z",
-    "text": "Double-check contract details directly on-chain before engaging with any token. Scams often masquerade as legitimate projects, and a single wrong address can lead to serious losses. Always confirm through trusted explorers — due diligence is key.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
