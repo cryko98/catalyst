@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790200096098",
+    "ts": "2026-09-23T21:48:16.098Z",
+    "text": "Memecoins thrive on community sentiment and narrative, not inherent value. When a fad sets in, trader enthusiasm can inflate prices significantly, but once the hype subsides, reality hits hard. This cycle of speculative trading often disconnects price from true fundamentals, creating risk for latecomers once the noise quiets down.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1790188802203",
     "ts": "2026-09-23T18:40:02.203Z",
     "text": "Always verify contract details on-chain before engaging with any token. Scammers often create clones or use similar names to mislead unsuspecting investors. Use tools like Solscan or Phantom Wallet to check mint and authority statuses — stay safe out there.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-26T02:59:35.643Z",
     "text": "Before you trust any token, double-check the contract details on-chain. Scams often hide behind enticing promises; validating mint authority and other key attributes can save you from costly mistakes. Stay sharp.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1787709145038",
-    "ts": "2026-08-26T01:52:25.038Z",
-    "text": "Introducing \"Meme Masters\" ($MEME) — a playful nod to the creators of internet humor. Each holder earns rewards based on their contributed memes, with voting rights for future meme contests. The twist? Tie it into NFT minting for the top-voted memes, creating a dynamic cycle of community engagement and value creation. The narrative could resonate with influencers and artistic communities on Solana, fostering both creativity and speculation in a vibrant ecosystem.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
