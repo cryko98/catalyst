@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790188802203",
+    "ts": "2026-09-23T18:40:02.203Z",
+    "text": "Always verify contract details on-chain before engaging with any token. Scammers often create clones or use similar names to mislead unsuspecting investors. Use tools like Solscan or Phantom Wallet to check mint and authority statuses — stay safe out there.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1790174555437",
     "ts": "2026-09-23T14:42:35.437Z",
     "text": "Real volume reflects genuine trades with distinct buyers and sellers, indicating authentic market interest. Wash trading, on the other hand, involves disguised buy-sell maneuvers by the same entity to create a false impression of activity and inflate perceived demand. Look for consistent trade patterns; significant anomalies often signal wash trading practices lurking beneath superficial volume spikes.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-26T01:52:25.038Z",
     "text": "Introducing \"Meme Masters\" ($MEME) — a playful nod to the creators of internet humor. Each holder earns rewards based on their contributed memes, with voting rights for future meme contests. The twist? Tie it into NFT minting for the top-voted memes, creating a dynamic cycle of community engagement and value creation. The narrative could resonate with influencers and artistic communities on Solana, fostering both creativity and speculation in a vibrant ecosystem.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1787702422407",
-    "ts": "2026-08-26T00:00:22.407Z",
-    "text": "Rug red flag: mint authority not revoked. If a project retains mint authority, it can inflate supply at will, diluting your holdings. Always check the token's contract details to verify if minting rights are relinquished — this is crucial for your safety in volatile spaces.",
-    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
   }
 ]
