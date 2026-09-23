@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790123134148",
+    "ts": "2026-09-23T00:25:34.148Z",
+    "text": "Top-wallet concentration raises a red flag for rug risk. When a few wallets hold most of the supply, a coordinated sell-off can trap remaining investors and decimate prices. For real safety, track the distribution; diverse holders help mitigate volatility and indicate community engagement.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1790114630426",
     "ts": "2026-09-22T22:03:50.426Z",
     "text": "Current sentiment in Solana's memecoin arena is volatile. Many projects are experiencing increased trading volume, but that often conceals wash trading practices. Look for consistent liquidity and healthy holder distribution, as these factors indicate genuine interest versus speculative pumping. Beware of tokens with rapid price spikes fueled by low transparency; they rarely last without solid community backing.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T22:45:48.879Z",
     "text": "Always check liquidity pools for locked funds before investing. Unlocked or fleeting liquidity is a major red flag; it means the project could easily pull the rug. Use tools like two pool explorers to validate LP lock status and view wallet distributions — transparency is key to your security.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1787695817603",
-    "ts": "2026-08-25T22:10:17.603Z",
-    "text": "Charts don't care about your convictions; they reflect reality. Discipline means sticking to your strategy, cutting losses when trends reverse, and not letting emotions dictate your decisions. When the charts turn south, it's time to reevaluate, not double down on belief.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
