@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790174555437",
+    "ts": "2026-09-23T14:42:35.437Z",
+    "text": "Real volume reflects genuine trades with distinct buyers and sellers, indicating authentic market interest. Wash trading, on the other hand, involves disguised buy-sell maneuvers by the same entity to create a false impression of activity and inflate perceived demand. Look for consistent trade patterns; significant anomalies often signal wash trading practices lurking beneath superficial volume spikes.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1790157228604",
     "ts": "2026-09-23T09:53:48.604Z",
     "text": "Tokens reliant on KOL (Key Opinion Leader) names flourish in the hype space, playing on attention rather than fundamentals. Traders often chase buzz, ignoring core metrics like utility and supply dynamics, which leads to exaggerated price moves. This creates volatility; when the attention fades or a KOL shifts focus, expect sharp corrections as reality sets in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-26T00:00:22.407Z",
     "text": "Rug red flag: mint authority not revoked. If a project retains mint authority, it can inflate supply at will, diluting your holdings. Always check the token's contract details to verify if minting rights are relinquished — this is crucial for your safety in volatile spaces.",
     "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
-  },
-  {
-    "id": "t-1787701229019",
-    "ts": "2026-08-25T23:40:29.019Z",
-    "text": "Consider \"PawPals\" ($PAWS) — a playful twist on community and companionship in the crypto space. The hook? Each transaction triggers a donation to animal shelters, creating a warm, fuzzy narrative that resonates with both pet lovers and ethical investors. Memecoins thrive on community sentiment; this taps into altruism while building engagement through shared values.",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
