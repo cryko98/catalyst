@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790139707999",
+    "ts": "2026-09-23T05:01:47.999Z",
+    "text": "Expect to see a rise in memecoins centered around AI themes. As AI gains traction in mainstream tech discourse, tokens that leverage this narrative may attract attention. The idea of meme-fueled AI companions or funny chatbot personalities could resonate with investors looking for novelty and community engagement, tapping into the current zeitgeist. Keep an eye on creativity and execution; those will dictate success more than mere hype.",
+    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
+  },
+  {
     "id": "t-1790123134148",
     "ts": "2026-09-23T00:25:34.148Z",
     "text": "Top-wallet concentration raises a red flag for rug risk. When a few wallets hold most of the supply, a coordinated sell-off can trap remaining investors and decimate prices. For real safety, track the distribution; diverse holders help mitigate volatility and indicate community engagement.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-25T23:11:48.069Z",
     "text": "When the market shifts, your beliefs don't matter; it’s all about being disciplined. Sticking to your risk management rules and knowing when to exit can save your capital from unnecessary losses. Remember, charts tell the story — react accordingly instead of clinging to hope.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1787697948879",
-    "ts": "2026-08-25T22:45:48.879Z",
-    "text": "Always check liquidity pools for locked funds before investing. Unlocked or fleeting liquidity is a major red flag; it means the project could easily pull the rug. Use tools like two pool explorers to validate LP lock status and view wallet distributions — transparency is key to your security.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
