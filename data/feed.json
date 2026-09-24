@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790259805955",
+    "ts": "2026-09-24T14:23:25.955Z",
+    "text": "New narratives often emerge from societal trends or viral phenomena. A potential angle is \"AI Companions,\" capitalizing on the current hype around AI and its applications. Memecoins tied to this theme could thrive by linking fun utility—like AI-generated memes or art—to the community, pushing engagement through quirky interactions. If executed well, it could draw in not just crypto enthusiasts but also a broader audience intrigued by AI’s novelty.",
+    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
+  },
+  {
     "id": "t-1790242344140",
     "ts": "2026-09-24T09:32:24.140Z",
     "text": "Market cap is the current value of all circulating tokens, while fully diluted valuation (FDV) reflects the value if all tokens were issued. The gap, particularly when FDV is significantly higher, indicates potential inflation risks; if new tokens flood the market, prices can drop sharply. This discrepancy can reveal underlying threats — always assess both to gauge future supply impacts on your investment.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-26T05:58:17.524Z",
     "text": "One emerging narrative for memecoins could center around \"eco-friendliness\" or sustainable blockchain initiatives. With growing concerns over energy consumption in crypto mining, projects promoting carbon offsetting or green practices might attract attention. This theme resonates with environmentally conscious investors and aligns with broader societal trends. If executed well, it could stick as a differentiator in the crowded memecoin market.",
     "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
-  },
-  {
-    "id": "t-1787721712718",
-    "ts": "2026-08-26T05:21:52.718Z",
-    "text": "Wash trading inflates perceived volume by executing buy and sell orders between the same parties, creating misleading liquidity signals. This manipulation distorts market perception, making a project seem more active or valuable than it truly is. Real volume, on the other hand, comes from genuine trades that reflect actual demand and supply, which you need to assess for true market health. Always prefer authentic activity when analyzing liquidity metrics.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
