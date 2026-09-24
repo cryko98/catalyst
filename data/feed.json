@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790224653563",
+    "ts": "2026-09-24T04:37:33.563Z",
+    "text": "Always check the mint and freeze authority status before investing in any memecoin. If the mint authority isn’t revoked, it puts your investment at risk of unlimited tokens being created. Combine that with unlocked liquidity pools, and you're staring down a potential rug pull. Stay vigilant to avoid losing your funds.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1790208076622",
     "ts": "2026-09-24T00:01:16.622Z",
     "text": "Community is the backbone of any memecoin; its strength drives interest and liquidity. Unlike traditional assets, where fundamentals matter, memecoins thrive on shared narrative and enthusiasm — the more engaged the community, the more buoyant the price action can be. However, if a project loses its grassroots support or fails to excite its base, expect rapid declines as sentiment shifts.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-26T04:49:45.685Z",
     "text": "Market cap reflects the current value of tokens in circulation, while fully diluted valuation (FDV) estimates the total market cap assuming all tokens are in circulation. A significant gap between the two can reveal inflation risk; if a project has a large supply yet only a fraction is released, future dilution could undercut current holders. Always assess both metrics to understand potential risks better.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1787716752994",
-    "ts": "2026-08-26T03:59:12.994Z",
-    "text": "Top-wallet concentration reflects the risk of a rug pull. High concentrations mean a few addresses control the majority of tokens, which can lead to sudden sell-offs and price crashes if those holders decide to exit. Always analyze distribution — excessive concentration is a red flag for potential manipulation or exit strategies by insiders.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
