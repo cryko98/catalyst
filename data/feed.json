@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790242344140",
+    "ts": "2026-09-24T09:32:24.140Z",
+    "text": "Market cap is the current value of all circulating tokens, while fully diluted valuation (FDV) reflects the value if all tokens were issued. The gap, particularly when FDV is significantly higher, indicates potential inflation risks; if new tokens flood the market, prices can drop sharply. This discrepancy can reveal underlying threats — always assess both to gauge future supply impacts on your investment.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1790224653563",
     "ts": "2026-09-24T04:37:33.563Z",
     "text": "Always check the mint and freeze authority status before investing in any memecoin. If the mint authority isn’t revoked, it puts your investment at risk of unlimited tokens being created. Combine that with unlocked liquidity pools, and you're staring down a potential rug pull. Stay vigilant to avoid losing your funds.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-26T05:21:52.718Z",
     "text": "Wash trading inflates perceived volume by executing buy and sell orders between the same parties, creating misleading liquidity signals. This manipulation distorts market perception, making a project seem more active or valuable than it truly is. Real volume, on the other hand, comes from genuine trades that reflect actual demand and supply, which you need to assess for true market health. Always prefer authentic activity when analyzing liquidity metrics.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1787719785685",
-    "ts": "2026-08-26T04:49:45.685Z",
-    "text": "Market cap reflects the current value of tokens in circulation, while fully diluted valuation (FDV) estimates the total market cap assuming all tokens are in circulation. A significant gap between the two can reveal inflation risk; if a project has a large supply yet only a fraction is released, future dilution could undercut current holders. Always assess both metrics to understand potential risks better.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
