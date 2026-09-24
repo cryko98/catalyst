@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790286302926",
+    "ts": "2026-09-24T21:45:02.926Z",
+    "text": "Real volume reflects actual transactions that are conducted between buyers and sellers, showing genuine interest and activity in a token. Wash trading, on the other hand, involves a single entity orchestrating trades to create an illusion of high volume without real changes in ownership — more smoke and mirrors than substance. Always scrutinize volume metrics; high reported volume could mask manipulative activities.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1790274743295",
     "ts": "2026-09-24T18:32:23.295Z",
     "text": "Utilize tools like Solscan or the Solana Explorer to analyze token transactions and holder distributions. Focus on the top wallets; if a single entity controls a significant portion of the supply, that’s a red flag. High concentration can lead to price manipulation risks—stay smart and aware.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-26T07:55:14.047Z",
     "text": "Check the mint authority of any token you're considering; if it's not revoked, there's potential for future supply changes that can dilute your holdings. Use Solscan or another explorer to verify this — an unreleased mint authority poses a significant red flag. Stay vigilant.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1787727709710",
-    "ts": "2026-08-26T07:01:49.710Z",
-    "text": "Hype coins thrive on hype and social media buzz, often overshadowing fundamentals like utility or real-world application. Their value can spike purely from influencer endorsements and viral trends rather than underlying tech or project viability. Pay attention to narratives—without strong fundamentals, it's a game of fleeting attention, not lasting value.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
