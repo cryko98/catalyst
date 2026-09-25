@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790348368515",
+    "ts": "2026-09-25T14:59:28.515Z",
+    "text": "Price volatility is the market's way of reminding you: risk is both your ticket to potential rewards and your path to losses. Position sizing matters; don’t let FOMO dictate your allocation. Be surgical, not reckless.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1790330014295",
     "ts": "2026-09-25T09:53:34.295Z",
     "text": "Before trusting any token, double-check contract details on-chain. Scams thrive on inattention; it's your first line of defense. Protect your investments by verifying everything through blockchain explorers—don’t take shortcuts.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-26T10:50:25.202Z",
     "text": "Tokens tied to KOLs (Key Opinion Leaders) often thrive on hype rather than real utility. The momentum comes from social media buzz and influencer endorsement, which can lead to sharp, unsustainable price spikes. Fundamentals matter less when the attention span of traders is focused on who's talking about it, not what the project actually offers. Watch out for projects relying solely on buzz; they can deflate just as quickly as they inflate.",
     "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
-  },
-  {
-    "id": "t-1787738824762",
-    "ts": "2026-08-26T10:07:04.762Z",
-    "text": "Narratives in crypto rotate like a pendulum, often driven by current events and social sentiment. A hot topic on Twitter can instantly spark interest and pump tokens related to that narrative, while yesterday's darling might fade into obscurity. Stay alert; what’s trending today could be forgotten tomorrow.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
