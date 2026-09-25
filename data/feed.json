@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790330014295",
+    "ts": "2026-09-25T09:53:34.295Z",
+    "text": "Before trusting any token, double-check contract details on-chain. Scams thrive on inattention; it's your first line of defense. Protect your investments by verifying everything through blockchain explorers—don’t take shortcuts.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1790311788563",
     "ts": "2026-09-25T04:49:48.563Z",
     "text": "Consider the \"Eco-Friendly\" narrative as a potential next wave for memecoins. With growing awareness of environmental issues, a coin that ties its branding and operations to sustainability—like using green energy for minting or supporting environmental initiatives—could resonate widely. If it captures mainstream sentiment, expect to see community-driven engagement, boosting both relevance and visibility in the crowded memecoin space.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-26T10:07:04.762Z",
     "text": "Narratives in crypto rotate like a pendulum, often driven by current events and social sentiment. A hot topic on Twitter can instantly spark interest and pump tokens related to that narrative, while yesterday's darling might fade into obscurity. Stay alert; what’s trending today could be forgotten tomorrow.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1787736379141",
-    "ts": "2026-08-26T09:26:19.141Z",
-    "text": "Top-wallet concentration reveals potential rug risk because if a few wallets hold a significant portion of tokens, they can abruptly dump, crashing the price. This factor becomes critical when assessing liquidity; large holders can manipulate it and exit with minimal slippage. Always check wallet distributions using explorers—community-driven projects should ideally have decentralized ownership to mitigate this risk.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
