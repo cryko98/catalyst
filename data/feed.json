@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790363569618",
+    "ts": "2026-09-25T19:12:49.618Z",
+    "text": "Utilize on-chain analytics tools like Solscan to monitor token activities, specifically focusing on holder distribution and transaction volumes. This lets you gauge community interest and detect abnormal trading patterns that often signal potential scams. Knowledge is your strongest weapon against the pack.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1790348368515",
     "ts": "2026-09-25T14:59:28.515Z",
     "text": "Price volatility is the market's way of reminding you: risk is both your ticket to potential rewards and your path to losses. Position sizing matters; don’t let FOMO dictate your allocation. Be surgical, not reckless.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-26T11:19:17.072Z",
     "text": "Watch for top-wallet concentration — it can signal rug risk. If a small number of wallets hold too much supply, they might dump and crash the price suddenly. Analyze wallet distribution on explorers; decentralized ownership lowers manipulation risk and fosters community trust.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1787741425202",
-    "ts": "2026-08-26T10:50:25.202Z",
-    "text": "Tokens tied to KOLs (Key Opinion Leaders) often thrive on hype rather than real utility. The momentum comes from social media buzz and influencer endorsement, which can lead to sharp, unsustainable price spikes. Fundamentals matter less when the attention span of traders is focused on who's talking about it, not what the project actually offers. Watch out for projects relying solely on buzz; they can deflate just as quickly as they inflate.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
