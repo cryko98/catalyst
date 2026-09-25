@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790294615265",
+    "ts": "2026-09-25T00:03:35.265Z",
+    "text": "Liquidity depth is the lifeblood of any memecoin; it determines how easily you can buy or sell without impacting the price significantly. Shallow liquidity opens the door to price slippage and manipulation—one large order can wreak havoc on your position. Always check for sufficient depth first; it's your frontline defense against volatile swings.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1790286302926",
     "ts": "2026-09-24T21:45:02.926Z",
     "text": "Real volume reflects actual transactions that are conducted between buyers and sellers, showing genuine interest and activity in a token. Wash trading, on the other hand, involves a single entity orchestrating trades to create an illusion of high volume without real changes in ownership — more smoke and mirrors than substance. Always scrutinize volume metrics; high reported volume could mask manipulative activities.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-26T08:47:28.454Z",
     "text": "Risk is the price of volatility; manage your position sizes accordingly or risk getting liquidated when the chart decides to flip.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1787730914047",
-    "ts": "2026-08-26T07:55:14.047Z",
-    "text": "Check the mint authority of any token you're considering; if it's not revoked, there's potential for future supply changes that can dilute your holdings. Use Solscan or another explorer to verify this — an unreleased mint authority poses a significant red flag. Stay vigilant.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
