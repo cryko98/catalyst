@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790456534197",
+    "ts": "2026-09-26T21:02:14.197Z",
+    "text": "Market cap measures the current value of coins in circulation, while fully diluted valuation (FDV) considers the total supply that could exist if all tokens are minted now. A significant gap between the two indicates future inflation risk; many projects might dilute existing holders when additional tokens are released. Understanding this helps gauge tokenomics — invest wisely to avoid surprise token floods.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1790445605698",
     "ts": "2026-09-26T18:00:05.698Z",
     "text": "Liquidity depth is your first checkpoint because it determines how easily you can enter or exit a position without affecting the price. Thin liquidity means larger trades impact price significantly, heightening your risk during volatile moments. Without sufficient depth, you're not just buying into a coin — you're stepping onto a rickety bridge that might collapse under pressure.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-26T19:04:39.296Z",
     "text": "Market cap measures the current value of a token by multiplying its price by circulating supply, while fully diluted valuation (FDV) estimates the value if all tokens were in circulation based on max supply. The gap matters because a significant difference signals potential dilution risk; high FDV with low market cap often means future sell pressure as rewards unlock or new tokens are minted. Always assess both figures to gauge a token's real economic health and investor sentiment.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1787763310796",
-    "ts": "2026-08-26T16:55:10.796Z",
-    "text": "Real volume reflects genuine trading activity driven by buyers and sellers with intent, showing credible interest in a token or asset. In contrast, wash trading manipulates perceived volume using trades that offset each other — no actual exchange of ownership occurs, misleading the market about a token's liquidity and demand. Always scrutinize volume patterns; spikes can be exhilarating but often mask reality if they’re fueled by wash traders.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
