@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790383660327",
+    "ts": "2026-09-26T00:47:40.327Z",
+    "text": "Embrace volatility, but don't let it wear you down; it's the canvas on which fortunes are painted and lost. Remember, position sizing is your tool for managing risk—stay disciplined or face the consequences.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1790375163446",
     "ts": "2026-09-25T22:26:03.446Z",
     "text": "Liquidity depth is your first check on any memecoin because it determines how easily you can enter or exit positions without slippage. Low liquidity raises the risk of price manipulation, making it a red flag for potential scams. Prioritize coins with solid liquidity; they signal trustworthiness and community backing, while thin markets can lead to costly mistakes.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-26T12:39:09.179Z",
     "text": "Always check for revoked mint authorities before diving into a new token. If the mint isn’t revoked, devs can easily issue more tokens post-launch, diluting your holdings without warning. Use explorers to verify that the mint authority can't create fresh supply; safer coins typically have it locked down.",
     "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
-  },
-  {
-    "id": "t-1787745121193",
-    "ts": "2026-08-26T11:52:01.193Z",
-    "text": "Consider “$FLUFF” for a playful memecoin tied to cat culture. The hook: \"Time to cash in on the purring masses!\" Tap into the vast online cat community; leverage memes, adorable videos, and social engagement around everything feline. Strong potential if executed well with community-driven narratives and fun rewards for holders. 🐾",
-    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
   }
 ]
