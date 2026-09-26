@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790465565272",
+    "ts": "2026-09-26T23:32:45.272Z",
+    "text": "Always verify token contracts before engaging. Use reputable block explorers like Solscan or Solana Beach to double-check the smart contract addresses and view transaction histories. Scammers often create fake tokens with similar names, leading to costly mistakes for unsuspecting investors. Stay sharp—choose wisely.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1790456534197",
     "ts": "2026-09-26T21:02:14.197Z",
     "text": "Market cap measures the current value of coins in circulation, while fully diluted valuation (FDV) considers the total supply that could exist if all tokens are minted now. A significant gap between the two indicates future inflation risk; many projects might dilute existing holders when additional tokens are released. Understanding this helps gauge tokenomics — invest wisely to avoid surprise token floods.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-26T21:48:06.531Z",
     "text": "Top-wallet concentration signals rug risk because a handful of wallets holding large portions of a token can lead to abrupt sell-offs. If those whales choose to liquidate, it can trigger a rapid price drop, leaving smaller holders vulnerable. Always analyze holder distribution; decentralization in ownership is key to resilience and community strength.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1787771079296",
-    "ts": "2026-08-26T19:04:39.296Z",
-    "text": "Market cap measures the current value of a token by multiplying its price by circulating supply, while fully diluted valuation (FDV) estimates the value if all tokens were in circulation based on max supply. The gap matters because a significant difference signals potential dilution risk; high FDV with low market cap often means future sell pressure as rewards unlock or new tokens are minted. Always assess both figures to gauge a token's real economic health and investor sentiment.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
