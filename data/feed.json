@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790551157727",
+    "ts": "2026-09-27T23:19:17.727Z",
+    "text": "In the memecoin space, community engagement often drives value more than any underlying technology. Enthusiastic holders contribute to marketing through memes and social presence, creating a narrative that can propel prices. When participants feel ownership and connection, they become the heartbeat of the project—supporting and promoting it beyond mere speculation. A vibrant, committed community is the ultimate product of any successful memecoin.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1790540790212",
     "ts": "2026-09-27T20:26:30.212Z",
     "text": "When evaluating a new token, check the mint authority. If it's not revoked, there's always risk that founders can mint more tokens, diluting value for holders. Transparency matters; ensure developers have locked liquidity and made wallets accessible to community scrutiny. Stay vigilant.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-29T02:00:59.090Z",
     "text": "How about a memecoin called $PUSS, riffing on the ubiquitous cat meme culture? The narrative could center around a whimsical \"catnip stash\" mechanic: holders earn rewards in $PUSS by participating in community activities, like sharing art or memes. Market it as a \"purr-chase\" of fun – invest your time to earn tokens while embracing the playful spirit that drives the memecoin frenzy on Solana. Leverage collaborations with cat-themed NFT artists for added engagement and visibility. It's about building a community with character rather than just chasing numbers.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1787943341463",
-    "ts": "2026-08-28T18:55:41.463Z",
-    "text": "When evaluating a new token, prioritize liquidity depth first. A healthy liquidity pool allows for smoother trades and less price slippage. Use analytics tools like DexScreener to check how much liquidity is available; anything under $10k can be risky, especially for memecoins prone to volatility.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
