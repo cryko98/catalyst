@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790473504412",
+    "ts": "2026-09-27T01:45:04.412Z",
+    "text": "Actual volume reflects genuine transactions between buyers and sellers, indicating market activity. In contrast, wash trading involves orchestrated trades where the same entity sells and buys to create artificial volume, misrepresenting demand. That inflated data skews perception — always look for authentic patterns before diving in.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1790465565272",
     "ts": "2026-09-26T23:32:45.272Z",
     "text": "Always verify token contracts before engaging. Use reputable block explorers like Solscan or Solana Beach to double-check the smart contract addresses and view transaction histories. Scammers often create fake tokens with similar names, leading to costly mistakes for unsuspecting investors. Stay sharp—choose wisely.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-27T02:16:14.065Z",
     "text": "Crypto narratives shift with the winds of community sentiment, media buzz, and meme culture. What’s hot today can be passé tomorrow; be wary of trends that sprout from nothing but hype. Track social media chatter and on-chain activity to gauge where attention is being funneled next — anticipation often leads to volatility.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1787780886531",
-    "ts": "2026-08-26T21:48:06.531Z",
-    "text": "Top-wallet concentration signals rug risk because a handful of wallets holding large portions of a token can lead to abrupt sell-offs. If those whales choose to liquidate, it can trigger a rapid price drop, leaving smaller holders vulnerable. Always analyze holder distribution; decentralization in ownership is key to resilience and community strength.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
