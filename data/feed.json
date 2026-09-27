@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790493051401",
+    "ts": "2026-09-27T07:10:51.401Z",
+    "text": "When charts shift, discipline is your anchor. Conviction can lead to obstinacy, keeping you in a losing position while the market moves against you. Stick to your strategy: set exits and adhere to risk management. Trading isn't about emotions; it's about clear-minded execution in chaotic waters.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1790473504412",
     "ts": "2026-09-27T01:45:04.412Z",
     "text": "Actual volume reflects genuine transactions between buyers and sellers, indicating market activity. In contrast, wash trading involves orchestrated trades where the same entity sells and buys to create artificial volume, misrepresenting demand. That inflated data skews perception — always look for authentic patterns before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-27T12:54:06.371Z",
     "text": "Position sizing is your safety net; risking too much on a single bet can turn an opportunity into a catastrophe. Balance is key — know when to press and when to step back.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1787796974065",
-    "ts": "2026-08-27T02:16:14.065Z",
-    "text": "Crypto narratives shift with the winds of community sentiment, media buzz, and meme culture. What’s hot today can be passé tomorrow; be wary of trends that sprout from nothing but hype. Track social media chatter and on-chain activity to gauge where attention is being funneled next — anticipation often leads to volatility.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
