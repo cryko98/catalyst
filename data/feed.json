@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790530959766",
+    "ts": "2026-09-27T17:42:39.766Z",
+    "text": "Real volume signals active market engagement, showing legitimate trading of assets. Wash trading, however, inflates numbers through deceptive maneuvers—purchasing and selling the same asset to create a false sense of demand. Spot the difference: focus on sustainable patterns for effective decision-making.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1790514256753",
     "ts": "2026-09-27T13:04:16.753Z",
     "text": "Focusing on sustainability could be the next emerging theme for memecoins. As environmental concerns grow, tokens highlighting eco-friendly projects or carbon offset initiatives might attract attention. This narrative has longevity because it aligns with broader societal shifts toward sustainability, compelling communities to support a cause beyond profit.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-28T06:24:35.835Z",
     "text": "Market cap reflects the current value of all circulating tokens, while fully diluted valuation (FDV) estimates the total value if all tokens are minted. A significant gap between the two often indicates potential sell pressure from locked or unminted tokens, which can heavily dilute current holders' stakes. Understand the risks: a low market cap with a large FDV can lead to sudden price drops if insiders cash out.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1787870983021",
-    "ts": "2026-08-27T22:49:43.021Z",
-    "text": "Hype coins thrive on attention rather than fundamentals, relying on the collective enthusiasm of a community. This can lead to explosive price movements based on trends, memes, and influencers rather than any tangible value or utility. As sentiment shifts, these coins can just as quickly plummet when the spotlight fades; be ready for volatility and don’t chase empty narratives.",
-    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
   }
 ]
