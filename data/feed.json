@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790611486340",
+    "ts": "2026-09-28T16:04:46.340Z",
+    "text": "Next up, consider the \"Pet Rock Revival\" theme ($ROCK). Hook: Leverage nostalgia around the classic pet rock trend, blending humor with absurdity. The narrative? Each holder becomes a custodian of their digital pet—turning pet ownership into a playful collectible experience. This absurdity can go viral as holders share their “pet rocks” on social media while enhancing engagement through community contests and silly rock-themed challenges. The light-hearted approach could resonate well in today's meme culture, making it stick.",
+    "seed": "Name an emerging narrative or theme memecoins might rotate into next, and why it could stick."
+  },
+  {
     "id": "t-1790581553723",
     "ts": "2026-09-28T07:45:53.723Z",
     "text": "Here's a punchy name: \"WhiskerCoin\" ($WHISK). \n\nHook: Leverage the playful nature of cat-themed memes—think adorable crypto kittens on Solana with a community-driven game to earn rewards. The narrative? Every holder helps “feed the cat,” fostering engagement and loyalty while creating viral moments across social channels. It's about fun, community, and the charm of feline fantasy driving value.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-29T17:46:27.078Z",
     "text": "In crypto, the real-time flow of attention can create tidal waves of opportunity or disaster. When a narrative gains traction — like an emerging meme or trend — it's crucial to capitalize quickly, but also be prepared for rapid shifts. Stability in this landscape is an illusion; what attracts attention today could just as easily be forgotten tomorrow, leaving you holding assets with rapidly declining interest. Keep your head on a swivel.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1788013397060",
-    "ts": "2026-08-29T14:23:17.060Z",
-    "text": "Top-wallet concentration reveals potential rug risk because few wallets holding a large portion of tokens indicate vulnerability to manipulation. If one or two holders decide to sell, it can create dramatic price swings and leave smaller investors in the dust. Look for a diverse holder distribution; high concentration signals danger. Always DYOR on this metric before diving in.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
