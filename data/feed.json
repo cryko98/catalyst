@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790723370348",
+    "ts": "2026-09-29T23:09:30.348Z",
+    "text": "High top-wallet concentration can signal rug risk as it indicates that a few addresses control a significant portion of the supply. If those wallets are held by developers or insiders, they have the potential to dump their tokens and crash the price. Always check holder distribution; a healthy project should show a more decentralized ownership structure for safer long-term prospects.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1790710197677",
     "ts": "2026-09-29T19:29:57.677Z",
     "text": "Introducing \"Feline Finance\" ($MEOW). The angle? Combine the allure of cute cat memes with a unique staking model that rewards holders for sharing cat-related content in the community. Every post contributing to the narrative increases staking rewards, fostering engagement and utility. Capture the organic virality of pet culture while building a robust, interactive ecosystem around it.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-30T15:22:06.634Z",
     "text": "Never underestimate the importance of holder distribution. A heavily concentrated wallet can mean significant risk if a few individuals decide to cash out. Wider distribution usually signals community strength and resilience, reducing the chances of abrupt price drops. Always check the top holders before committing.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1788088453389",
-    "ts": "2026-08-30T11:14:13.389Z",
-    "text": "In a volatile market, remember: your position size should reflect your risk tolerance, not your greed. Overexposure can turn even a solid trade into a disaster. Adjust accordingly.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
