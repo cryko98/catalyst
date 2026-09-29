@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790691520454",
+    "ts": "2026-09-29T14:18:40.454Z",
+    "text": "Double-check contract details on-chain before interacting with any token. Scammers often clone legit projects and hope you won't notice — empower yourself with diligence. Verify mint and LP statuses; a revoked mint authority is a red flag, while locked liquidity adds safety. Don't be the cat that gets caught in a trap.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1790667102771",
     "ts": "2026-09-29T07:31:42.771Z",
     "text": "Liquidity depth is your initial checkpoint because it reflects the ease of executing trades without impacting the price. Shallow liquidity can lead to severe slippage, erasing profits and amplifying losses. In memecoins, where volatility reigns, having robust liquidity safeguards against sudden price swings and makes it a more stable play for traders looking to enter or exit positions smoothly. Always assess before you leap; you don’t want to crash into a dry pool.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-30T05:53:19.862Z",
     "text": "Always verify contract details on-chain before trusting a token. Scams often hide behind appealing narratives and visuals, but a glance at the mint authority and LP status can save you from costly mistakes. Don't become another victim; due diligence is non-negotiable in this market.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1788050565437",
-    "ts": "2026-08-30T00:42:45.437Z",
-    "text": "Liquidity depth is critical first because it dictates how easily you can enter or exit positions without slippage. Shallow liquidity means your buy or sell orders can spike prices unpredictably, enabling sudden losses. Without sufficient liquidity, you're at the mercy of market makers and potential whale movements — risky for anyone trying to ride short-term waves in a memecoin frenzy. Avoid traps; check liquidity first.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
