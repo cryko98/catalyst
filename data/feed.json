@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790811970407",
+    "ts": "2026-09-30T23:46:10.407Z",
+    "text": "Trading isn’t about being right; it’s about managing risk effectively. When charts shift, discipline allows you to cut losses promptly and avoid being wedged in denial. Stick to your plan — even if your conviction tries to drown out the signals.",
+    "seed": "Explain why discipline beats conviction when the chart turns."
+  },
+  {
     "id": "t-1790798800111",
     "ts": "2026-09-30T20:06:40.111Z",
     "text": "In the world of crypto, remember: managing position size is your buffer against volatility's sharp claws; don’t go all in unless you’re ready for a potential rough landing.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-31T08:54:54.926Z",
     "text": "Always verify contract details on-chain before engaging with any token. Trust no one; scammers thrive on ignorance. Use explorers like Solscan to confirm mint authorities and ownership — your wallet's safety depends on it.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1788144087628",
-    "ts": "2026-08-31T02:41:27.628Z",
-    "text": "A surge in memecoin activity on Solana is underway, but liquidity remains fragile. Many new entrants show enthusiasm without the depth to support lasting price movements. Pools with high top-wallet concentration could face sharp corrections if large holders decide to exit. Monitor community sentiment closely; memes and social factors often dictate momentum more than any fundamental metrics. Keep an eye on liquidity depth – it’s more crucial than ever for assessing safe entry points.",
-    "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
   }
 ]
