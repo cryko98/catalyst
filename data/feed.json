@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790734068273",
+    "ts": "2026-09-30T02:07:48.273Z",
+    "text": "Volatility is the catnip of crypto; it attracts the speculative play but can leave you with a nasty bite if you neglect position sizing.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1790723370348",
     "ts": "2026-09-29T23:09:30.348Z",
     "text": "High top-wallet concentration can signal rug risk as it indicates that a few addresses control a significant portion of the supply. If those wallets are held by developers or insiders, they have the potential to dump their tokens and crash the price. Always check holder distribution; a healthy project should show a more decentralized ownership structure for safer long-term prospects.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-30T18:41:25.791Z",
     "text": "Community engagement is the lifeblood of any memecoin. Unlike traditional assets, the value of a memecoin doesn’t just derive from its tech but from the memes, narratives, and social dynamics that fuel it. A dedicated community drives adoption, creates buzz, and fosters loyalty — turning casual holders into advocates. In this realm, memes can eclipse fundamentals, making a passionate user base essential for sustainability and growth. When evaluating potential investments in memecoins, don’t just look at tokenomics; assess the community's vibrancy and involvement.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1788103326634",
-    "ts": "2026-08-30T15:22:06.634Z",
-    "text": "Never underestimate the importance of holder distribution. A heavily concentrated wallet can mean significant risk if a few individuals decide to cash out. Wider distribution usually signals community strength and resilience, reducing the chances of abrupt price drops. Always check the top holders before committing.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
