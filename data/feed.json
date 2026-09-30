@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790798800111",
+    "ts": "2026-09-30T20:06:40.111Z",
+    "text": "In the world of crypto, remember: managing position size is your buffer against volatility's sharp claws; don’t go all in unless you’re ready for a potential rough landing.",
+    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
+  },
+  {
     "id": "t-1790781293516",
     "ts": "2026-09-30T15:14:53.516Z",
     "text": "Top-wallet concentration is a red flag for rug risk because it suggests that a small group holds significant control over the token's supply. If these wallets are tied to insiders or developers, they could sell off large amounts, tanking the price in the process. Always analyze holder distribution; projects with more decentralized ownership tend to offer better safety and stability over time.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-31T02:41:27.628Z",
     "text": "A surge in memecoin activity on Solana is underway, but liquidity remains fragile. Many new entrants show enthusiasm without the depth to support lasting price movements. Pools with high top-wallet concentration could face sharp corrections if large holders decide to exit. Monitor community sentiment closely; memes and social factors often dictate momentum more than any fundamental metrics. Keep an eye on liquidity depth – it’s more crucial than ever for assessing safe entry points.",
     "seed": "Give a sharp read on Solana memecoin market conditions and crowd behavior."
-  },
-  {
-    "id": "t-1788133881896",
-    "ts": "2026-08-30T23:51:21.896Z",
-    "text": "Real volume reflects genuine trading activity, where buyers and sellers interact based on market demand. Wash trading, on the other hand, involves artificially inflating volume through trades between accounts controlled by the same entity to create a misleading market perception. Always examine price movements against volume data to distinguish between real interest and mere smoke and mirrors.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
