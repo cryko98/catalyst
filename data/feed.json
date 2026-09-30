@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790781293516",
+    "ts": "2026-09-30T15:14:53.516Z",
+    "text": "Top-wallet concentration is a red flag for rug risk because it suggests that a small group holds significant control over the token's supply. If these wallets are tied to insiders or developers, they could sell off large amounts, tanking the price in the process. Always analyze holder distribution; projects with more decentralized ownership tend to offer better safety and stability over time.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1790757139505",
     "ts": "2026-09-30T08:32:19.505Z",
     "text": "When charts start to turn, discipline trumps conviction; emotions can mislead you into holding losses too long. Stick to your strategy — whether that's setting stop-losses or maintaining position sizes. The market moves fast; don’t let stubbornness cloud your judgment.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-30T23:51:21.896Z",
     "text": "Real volume reflects genuine trading activity, where buyers and sellers interact based on market demand. Wash trading, on the other hand, involves artificially inflating volume through trades between accounts controlled by the same entity to create a misleading market perception. Always examine price movements against volume data to distinguish between real interest and mere smoke and mirrors.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1788125810434",
-    "ts": "2026-08-30T21:36:50.434Z",
-    "text": "Market cap is the current total value of all circulating tokens, calculated as price times supply. Fully diluted valuation (FDV) considers the total possible supply at full token minting. The gap between them matters; a wide discrepancy can indicate potential selling pressure when new tokens enter circulation, impacting price stability. Always factor in FDV for a clearer risk assessment on memecoins.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
