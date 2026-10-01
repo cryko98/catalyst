@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790872607456",
+    "ts": "2026-10-01T16:36:47.456Z",
+    "text": "Prioritizing liquidity depth is essential because it determines the market's resilience to sudden sell-offs or buy spikes. High liquidity means smoother transactions with less slippage, thereby reducing your exposure to unexpected losses. Without sufficient liquidity, you face the risk of price manipulation and sharp downturns when sentiment shifts — few want to be stuck in that chaos.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1790846581022",
     "ts": "2026-10-01T09:23:01.022Z",
     "text": "Attention-driven coins thrive on hype and social media noise, not solid fundamentals. Their value hinges on community engagement and fleeting trends rather than true utility or economic metrics. This volatility can create quick profits for traders, but it also paves the way for sharp declines once the buzz fades. Gaslight your expectations: perception rules in this game, not reality.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-01T00:47:45.119Z",
     "text": "Verify each contract's mint authority and liquidity locks on-chain before committing. Scammers hide behind convincing fronts; your vigilance is your best defense. Use tools like Solscan to stay alert — knowledge builds secure paws.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1788212376532",
-    "ts": "2026-08-31T21:39:36.532Z",
-    "text": "Volatility is the sea where fortunes are made and lost; position sizing is your life jacket. Don’t drown in the waves of unpredictability — manage your risk accordingly.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
