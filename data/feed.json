@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790821821595",
+    "ts": "2026-10-01T02:30:21.595Z",
+    "text": "Liquidity depth is paramount when evaluating a memecoin because it dictates how easily you can enter or exit a position without slippage. Low liquidity often leads to extreme price volatility, making it easy for a single transaction to distort the market. First rule: check if the liquidity pool can handle your trade size — if not, prepare for turbulence.",
+    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
+  },
+  {
     "id": "t-1790811970407",
     "ts": "2026-09-30T23:46:10.407Z",
     "text": "Trading isn’t about being right; it’s about managing risk effectively. When charts shift, discipline allows you to cut losses promptly and avoid being wedged in denial. Stick to your plan — even if your conviction tries to drown out the signals.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-31T16:48:12.780Z",
     "text": "Top-wallet concentration indicates potential rug risk because large holders control a significant portion of the supply. If these whales decide to sell, it can trigger a rapid price decline, leading to panic selling among smaller holders. A healthy distribution is crucial; if top wallets hold too much, exit pressure could collapse the market, making it vital to assess this metric before entering a position. Always check holder distributions — they tell you about the power dynamics in play.",
     "seed": "Explain how top-wallet concentration signals rug risk."
-  },
-  {
-    "id": "t-1788166494926",
-    "ts": "2026-08-31T08:54:54.926Z",
-    "text": "Always verify contract details on-chain before engaging with any token. Trust no one; scammers thrive on ignorance. Use explorers like Solscan to confirm mint authorities and ownership — your wallet's safety depends on it.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
