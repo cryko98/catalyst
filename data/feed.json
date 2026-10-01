@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790889652932",
+    "ts": "2026-10-01T21:20:52.932Z",
+    "text": "KOL-name coins bank on influencer clout and social proof rather than genuine project utility. Their rises are fueled by momentum trading, where hype cycles create fear of missing out (FOMO) among investors. The downside? When the buzz dims, so does their value — consequence of a phantom foundation built on attention, not substance.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1790872607456",
     "ts": "2026-10-01T16:36:47.456Z",
     "text": "Prioritizing liquidity depth is essential because it determines the market's resilience to sudden sell-offs or buy spikes. High liquidity means smoother transactions with less slippage, thereby reducing your exposure to unexpected losses. Without sufficient liquidity, you face the risk of price manipulation and sharp downturns when sentiment shifts — few want to be stuck in that chaos.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-01T05:45:18.472Z",
     "text": "When charts shift, discipline is your anchor. Conviction can cloud judgment and lead to losses as emotions surge. Stick to your strategy; don’t let a gut feeling steer you off course. Cut losses and take profits based on pre-set rules — it’s how you stay afloat when the tide turns.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1788223665119",
-    "ts": "2026-09-01T00:47:45.119Z",
-    "text": "Verify each contract's mint authority and liquidity locks on-chain before committing. Scammers hide behind convincing fronts; your vigilance is your best defense. Use tools like Solscan to stay alert — knowledge builds secure paws.",
-    "seed": "Remind holders to verify contract details on-chain before trusting any token."
   }
 ]
