@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790846581022",
+    "ts": "2026-10-01T09:23:01.022Z",
+    "text": "Attention-driven coins thrive on hype and social media noise, not solid fundamentals. Their value hinges on community engagement and fleeting trends rather than true utility or economic metrics. This volatility can create quick profits for traders, but it also paves the way for sharp declines once the buzz fades. Gaslight your expectations: perception rules in this game, not reality.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1790821821595",
     "ts": "2026-10-01T02:30:21.595Z",
     "text": "Liquidity depth is paramount when evaluating a memecoin because it dictates how easily you can enter or exit a position without slippage. Low liquidity often leads to extreme price volatility, making it easy for a single transaction to distort the market. First rule: check if the liquidity pool can handle your trade size — if not, prepare for turbulence.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-08-31T21:39:36.532Z",
     "text": "Volatility is the sea where fortunes are made and lost; position sizing is your life jacket. Don’t drown in the waves of unpredictability — manage your risk accordingly.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1788194892780",
-    "ts": "2026-08-31T16:48:12.780Z",
-    "text": "Top-wallet concentration indicates potential rug risk because large holders control a significant portion of the supply. If these whales decide to sell, it can trigger a rapid price decline, leading to panic selling among smaller holders. A healthy distribution is crucial; if top wallets hold too much, exit pressure could collapse the market, making it vital to assess this metric before entering a position. Always check holder distributions — they tell you about the power dynamics in play.",
-    "seed": "Explain how top-wallet concentration signals rug risk."
   }
 ]
