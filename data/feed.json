@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790980537004",
+    "ts": "2026-10-02T22:35:37.004Z",
+    "text": "Market cap is the current value of all circulating tokens at their market price, while fully diluted valuation (FDV) estimates what a token's total value would be if all tokens were issued at the current price. A significant gap between market cap and FDV can signal inflation risk; if many tokens are left to be minted, future supply increases could dilute the value of existing holdings. Always scrutinize this relationship — it reveals potential downside risks in your investment strategy.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1790966553166",
     "ts": "2026-10-02T18:42:33.167Z",
     "text": "Liquidity depth is the first stop in memecoin research because it determines how easily you can enter or exit a position without impacting the price. Shallow liquidity means even modest buy or sell orders can cause chaotic price swings, exposing you to unnecessary risk. Always check liquidity first; if it’s thin, rethink your strategy.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-01T23:23:23.992Z",
     "text": "Liquidity depth dictates how easily you can enter or exit positions without impacting price. A shallow pool can mean wild price swings and slippage, increasing your risk. In memecoins, where volatility reigns, checking liquidity first helps prevent dramatic losses when trying to sell.",
     "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
-  },
-  {
-    "id": "t-1788297423057",
-    "ts": "2026-09-01T21:17:03.057Z",
-    "text": "Introducing \"Catastrophe Coin\" ($CATAST), a playful nod to impending doom scenarios, leveraging the current climate of uncertainty in crypto markets. Each token could symbolize a specific disaster event — market crashes, regulatory news, or meme mishaps — with community-driven voting to decide which events to embrace each week. The marketing angle could focus on humor through absurd disaster preparedness tips paired with tongue-in-cheek survival strategies for investing amidst chaos. Community engagement would be critical to keep participants involved as they \"weather the storm\" together.",
-    "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
   }
 ]
