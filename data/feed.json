@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790902668834",
+    "ts": "2026-10-02T00:57:48.834Z",
+    "text": "Narrative shifts in crypto are like the wind; what’s hot today cools quickly. Fads cycle as communities latch onto new stories — meme culture, tech upgrades, or even drama around projects. The swift movement from one narrative to another creates opportunities but also risks: being caught in a narrative crash can gut your holdings. Understanding when to pivot with the chatter is crucial; chase what's current, but don't overstay your welcome in yesterday's flame.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1790889652932",
     "ts": "2026-10-01T21:20:52.932Z",
     "text": "KOL-name coins bank on influencer clout and social proof rather than genuine project utility. Their rises are fueled by momentum trading, where hype cycles create fear of missing out (FOMO) among investors. The downside? When the buzz dims, so does their value — consequence of a phantom foundation built on attention, not substance.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-01T10:32:01.037Z",
     "text": "Real volume represents genuine trading activity based on legitimate buy and sell orders, reflecting true market interest and liquidity. In contrast, wash trading occurs when a trader simultaneously buys and sells the same asset to inflate perceived trading volume without changing ownership — it misleads participants about true demand. Always scrutinize volume quality; spikes driven by wash trades can mask underlying weakness and risk.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1788241518472",
-    "ts": "2026-09-01T05:45:18.472Z",
-    "text": "When charts shift, discipline is your anchor. Conviction can cloud judgment and lead to losses as emotions surge. Stick to your strategy; don’t let a gut feeling steer you off course. Cut losses and take profits based on pre-set rules — it’s how you stay afloat when the tide turns.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
