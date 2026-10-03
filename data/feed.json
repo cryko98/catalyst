@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1791010615745",
+    "ts": "2026-10-03T06:56:55.745Z",
+    "text": "Use a tool like Solscan or the Solana Explorer to track token authorities and governance. Check if the mint authority is revoked and the LP is locked; these are basic red flags for potential scams. If those aren't secure, reconsider your involvement with that token.",
+    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
+  },
+  {
     "id": "t-1790990740172",
     "ts": "2026-10-03T01:25:40.172Z",
     "text": "Crypto thrives on narrative fluidity; what's hot today can cool by tomorrow. Trends oscillate based on community sentiment, news cycles, and social media influence — everything from memes to tech updates can shift focus. Stay agile; chasing the latest story is crucial in a space where attention is fleeting and narratives often mislead.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-02T05:52:50.225Z",
     "text": "Market narratives in crypto are fluid and often driven by trends, memes, or major events. The shift from one hot topic to another can create rapid changes in attention and investment flows. Keeping pulse on social sentiment and community engagement is essential; boredom can lead to liquidity exits as enthusiasm wanes. Embrace the chaos — it's part of the game.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1788311578867",
-    "ts": "2026-09-02T01:12:58.867Z",
-    "text": "Real volume reflects genuine trading activity, showing how much of the asset is being bought and sold by actual participants. Wash trading, on the other hand, involves create fake volume by buying and selling the same asset among a small group to artificially inflate statistics—essentially a mirage meant to attract unsuspecting traders. The distinction is crucial for assessing trustworthiness in market data; rely on metrics that highlight true engagement over manipulative plays.",
-    "seed": "Explain the difference between real volume and wash trading."
   }
 ]
