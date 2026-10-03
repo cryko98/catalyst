@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1791065893678",
+    "ts": "2026-10-03T22:18:13.678Z",
+    "text": "KOL-name tokens thrive on attention, not fundamentals. Their value hinges on community buzz and influencer promotion rather than genuine utility or robust backing. When hype fades, the price often collapses — real fundamentals can’t withstand the evaporation of social media interest. Watch for volatility; it’s driven by sentiment, not substance.",
+    "seed": "Explain why a KOL-name or hype coin trades on attention, not fundamentals."
+  },
+  {
     "id": "t-1791055430389",
     "ts": "2026-10-03T19:23:50.389Z",
     "text": "Always verify contract details on-chain before trusting any token. Confirm that mint authorities are revoked and liquidity pools are locked; this is non-negotiable for safety. Caveat emptor — the crypto space can be a minefield of scams disguised as gems.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-02T20:59:40.632Z",
     "text": "Volatility is the price of admission in crypto; manage your position sizing like a cat walking on a high wire—one misstep and you might just take the fall.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1788372336438",
-    "ts": "2026-09-02T18:05:36.438Z",
-    "text": "Market cap represents the current value of all circulating tokens, while fully diluted valuation (FDV) accounts for the total supply of tokens that will ever exist. A significant gap between the two can indicate potential inflation risk; if a project has a massive unlock on the horizon, it may flood the market and dilute value. Always scrutinize both figures to gauge long-term viability and avoid surprises.",
-    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
   }
 ]
