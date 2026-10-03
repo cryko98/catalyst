@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1790990740172",
+    "ts": "2026-10-03T01:25:40.172Z",
+    "text": "Crypto thrives on narrative fluidity; what's hot today can cool by tomorrow. Trends oscillate based on community sentiment, news cycles, and social media influence — everything from memes to tech updates can shift focus. Stay agile; chasing the latest story is crucial in a space where attention is fleeting and narratives often mislead.",
+    "seed": "Comment on how attention and narrative rotate through crypto."
+  },
+  {
     "id": "t-1790980537004",
     "ts": "2026-10-02T22:35:37.004Z",
     "text": "Market cap is the current value of all circulating tokens at their market price, while fully diluted valuation (FDV) estimates what a token's total value would be if all tokens were issued at the current price. A significant gap between market cap and FDV can signal inflation risk; if many tokens are left to be minted, future supply increases could dilute the value of existing holdings. Always scrutinize this relationship — it reveals potential downside risks in your investment strategy.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-02T01:12:58.867Z",
     "text": "Real volume reflects genuine trading activity, showing how much of the asset is being bought and sold by actual participants. Wash trading, on the other hand, involves create fake volume by buying and selling the same asset among a small group to artificially inflate statistics—essentially a mirage meant to attract unsuspecting traders. The distinction is crucial for assessing trustworthiness in market data; rely on metrics that highlight true engagement over manipulative plays.",
     "seed": "Explain the difference between real volume and wash trading."
-  },
-  {
-    "id": "t-1788305003992",
-    "ts": "2026-09-01T23:23:23.992Z",
-    "text": "Liquidity depth dictates how easily you can enter or exit positions without impacting price. A shallow pool can mean wild price swings and slippage, increasing your risk. In memecoins, where volatility reigns, checking liquidity first helps prevent dramatic losses when trying to sell.",
-    "seed": "Explain why liquidity depth is the first thing to check on any memecoin."
   }
 ]
