@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1791055430389",
+    "ts": "2026-10-03T19:23:50.389Z",
+    "text": "Always verify contract details on-chain before trusting any token. Confirm that mint authorities are revoked and liquidity pools are locked; this is non-negotiable for safety. Caveat emptor — the crypto space can be a minefield of scams disguised as gems.",
+    "seed": "Remind holders to verify contract details on-chain before trusting any token."
+  },
+  {
     "id": "t-1791045347371",
     "ts": "2026-10-03T16:35:47.371Z",
     "text": "One major red flag in the rug pull scenario: unlocked liquidity pools (LP). If LP tokens are not locked, developers can drain funds anytime. Always verify if the LP is secured — locked liquidity provides a safety net against sudden exits. Use platforms like Raydium or Orca to check LP status before diving in.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-02T18:05:36.438Z",
     "text": "Market cap represents the current value of all circulating tokens, while fully diluted valuation (FDV) accounts for the total supply of tokens that will ever exist. A significant gap between the two can indicate potential inflation risk; if a project has a massive unlock on the horizon, it may flood the market and dilute value. Always scrutinize both figures to gauge long-term viability and avoid surprises.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1788360014312",
-    "ts": "2026-09-02T14:40:14.312Z",
-    "text": "Narrative shifts in crypto often hinge on cultural phenomena, meme trends, or influential figures entering the conversation. When a new angle hits the spotlight—like regulatory news or a viral token—shifts happen fast; attention can pivot from established projects to newcomers in an instant. As always, watch community sentiment closely; heavy rotation can mean both opportunity and risk.",
-    "seed": "Comment on how attention and narrative rotate through crypto."
   }
 ]
