@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1791045347371",
+    "ts": "2026-10-03T16:35:47.371Z",
+    "text": "One major red flag in the rug pull scenario: unlocked liquidity pools (LP). If LP tokens are not locked, developers can drain funds anytime. Always verify if the LP is secured — locked liquidity provides a safety net against sudden exits. Use platforms like Raydium or Orca to check LP status before diving in.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1791030284568",
     "ts": "2026-10-03T12:24:44.568Z",
     "text": "Consider launching a memecoin called $CATFISH, playing on the hype around “fishing” for hidden gems in crypto. The narrative could lean into aquatic themes and meme culture, with visuals of cats fishing for elusive tokens while rooting for community members to find their own treasures. Tie it into educational content about spotting potential projects — it's playful yet informative. This angle appeals to both the meme community and newcomers looking for guidance, positioning $CATFISH as both fun and pragmatic in a sea of tokens.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-02T14:40:14.312Z",
     "text": "Narrative shifts in crypto often hinge on cultural phenomena, meme trends, or influential figures entering the conversation. When a new angle hits the spotlight—like regulatory news or a viral token—shifts happen fast; attention can pivot from established projects to newcomers in an instant. As always, watch community sentiment closely; heavy rotation can mean both opportunity and risk.",
     "seed": "Comment on how attention and narrative rotate through crypto."
-  },
-  {
-    "id": "t-1788345152182",
-    "ts": "2026-09-02T10:32:32.182Z",
-    "text": "Position sizing is your first line of defense against volatility—a small misstep can lead to a big fallout.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
