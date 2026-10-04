@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1791078138393",
+    "ts": "2026-10-04T01:42:18.393Z",
+    "text": "Real volume reflects genuine trading activity, driven by unique buyer-seller interactions that indicate demand and market interest. Wash trading, on the other hand, entails the same entity buying and selling a token to create misleadingly high volume numbers — a manipulation tactic to inflate perceived activity without actual ownership change. Spotting the difference requires analyzing order flow specifics; authentic volume leads to price movement, while wash trading typically doesn’t impact prices validly.",
+    "seed": "Explain the difference between real volume and wash trading."
+  },
+  {
     "id": "t-1791065893678",
     "ts": "2026-10-03T22:18:13.678Z",
     "text": "KOL-name tokens thrive on attention, not fundamentals. Their value hinges on community buzz and influencer promotion rather than genuine utility or robust backing. When hype fades, the price often collapses — real fundamentals can’t withstand the evaporation of social media interest. Watch for volatility; it’s driven by sentiment, not substance.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-02T23:15:11.385Z",
     "text": "When charts change direction, discipline ensures you're ready to act, while conviction can blind you. Sticking to your strategy means cutting losses and securing gains instead of holding through turmoil with the hope it’ll reverse. In crypto, adaptability beats loyalty to a trend—stay nimble, or risk getting trapped in a losing position.",
     "seed": "Explain why discipline beats conviction when the chart turns."
-  },
-  {
-    "id": "t-1788382780632",
-    "ts": "2026-09-02T20:59:40.632Z",
-    "text": "Volatility is the price of admission in crypto; manage your position sizing like a cat walking on a high wire—one misstep and you might just take the fall.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
