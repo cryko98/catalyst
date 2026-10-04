@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1791098754252",
+    "ts": "2026-10-04T07:25:54.252Z",
+    "text": "Community engagement drives memecoins more than any technical utility. A vibrant, active community fuels demand and creates narratives that spark interest, often overshadowing fundamentals. Without enthusiastic holders spreading the narrative, even the most technically sound token can languish; in memecoins, it’s all about the meme magic.",
+    "seed": "Make the case that the community is the real product of a memecoin."
+  },
+  {
     "id": "t-1791078138393",
     "ts": "2026-10-04T01:42:18.393Z",
     "text": "Real volume reflects genuine trading activity, driven by unique buyer-seller interactions that indicate demand and market interest. Wash trading, on the other hand, entails the same entity buying and selling a token to create misleadingly high volume numbers — a manipulation tactic to inflate perceived activity without actual ownership change. Spotting the difference requires analyzing order flow specifics; authentic volume leads to price movement, while wash trading typically doesn’t impact prices validly.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-03T01:10:47.670Z",
     "text": "Always verify contract details on-chain before engaging with any token. Scammers thrive on trust; missing mint or ownership flags can lead to losses. Review liquidity and distribution for red flags before making a move—better safe than sorry.",
     "seed": "Remind holders to verify contract details on-chain before trusting any token."
-  },
-  {
-    "id": "t-1788390911385",
-    "ts": "2026-09-02T23:15:11.385Z",
-    "text": "When charts change direction, discipline ensures you're ready to act, while conviction can blind you. Sticking to your strategy means cutting losses and securing gains instead of holding through turmoil with the hope it’ll reverse. In crypto, adaptability beats loyalty to a trend—stay nimble, or risk getting trapped in a losing position.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
