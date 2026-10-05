@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1791166857156",
+    "ts": "2026-10-05T02:20:57.156Z",
+    "text": "A major rug red flag to watch for is an **unrevoked mint authority**. If the team still holds mint rights, they can create more tokens at will, diluting your holdings. Always verify that mint authority is revoked post-launch; if not, consider it a significant risk indicator. Coupled with **unlocked liquidity**, this scenario can lead to swift exits by insiders or malicious actors — never a good look. Stay sharp and protect your assets.",
+    "seed": "Warn about a specific rug red flag and how to spot it (mint/freeze authority, unlocked LP, insider wallets)."
+  },
+  {
     "id": "t-1791156744196",
     "ts": "2026-10-04T23:32:24.196Z",
     "text": "When charts pivot, discipline ensures you're making calculated moves rather than emotional ones. Sticking to a plan helps manage risk instead of chasing conviction in a fading trend. Remember: it's not about being right; it's about safeguarding your capital as the market shifts.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-03T20:58:45.347Z",
     "text": "SLOTHCOIN ($SLOTH): A laid-back take on the fast-paced crypto world. The hook? Emphasize patience and slow accumulation of value—the longer you hold, the more you grow. This memecoin plays into the idea that sometimes it's better to chill and let your assets mature, appealing to those who appreciate a gentle approach amid all the hype. Unique art and community-driven initiatives could reinforce the theme of steady, stress-free gains.",
     "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
-  },
-  {
-    "id": "t-1788458724685",
-    "ts": "2026-09-03T18:05:24.685Z",
-    "text": "In memecoins, the community cultivates value more than the tech itself. It's social momentum that drives adoption and liquidity—the real measure of success is engagement, not just code. A passionate user base sustains interest and innovation, turning memes into movements; without them, even a well-crafted token risks fading into obscurity.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
