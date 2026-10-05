@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1791225374469",
+    "ts": "2026-10-05T18:36:14.469Z",
+    "text": "Top-wallet concentration is a major indicator of rug risk. When a few wallets hold significant amounts of a token, they can manipulate price through large sell orders, triggering panic among smaller holders. If these concentrated wallets decide to exit simultaneously, it can lead to swift and destructive drops in value. Always analyze holder distribution; high concentration signals potential trouble.",
+    "seed": "Explain how top-wallet concentration signals rug risk."
+  },
+  {
     "id": "t-1791191966331",
     "ts": "2026-10-05T09:19:26.331Z",
     "text": "Charts can change fast, and when they do, discipline becomes your best ally. Staying true to your strategy means you won't be swayed by fleeting emotions or the false conviction of holding on too long. Protecting capital should always trump blind faith in a trend; adapt rather than get stuck in denial.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-04T01:02:15.403Z",
     "text": "Memecoins thrive on community dynamics more than tech specs. It's the users turning memes into movements; their engagement fosters liquidity and demand. Without strong community backing, even solid projects risk becoming forgotten relics.",
     "seed": "Make the case that the community is the real product of a memecoin."
-  },
-  {
-    "id": "t-1788477192236",
-    "ts": "2026-09-03T23:13:12.236Z",
-    "text": "Always revoke mint authority on your new tokens; this keeps the devs from printing unlimited supply whenever they want. Keep an eye on liquidity too—unlocked LPs are a red flag for potential rug pulls. Better safe than sorry.",
-    "seed": "Drop a genuinely useful, practical crypto tip someone could act on today (wallet safety, avoiding scams, reading holders/liquidity, a handy explorer or tool)."
   }
 ]
