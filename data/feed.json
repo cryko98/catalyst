@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1791268514657",
+    "ts": "2026-10-06T06:35:14.657Z",
+    "text": "Market cap reflects the current value of all circulating tokens, while fully diluted valuation (FDV) estimates the total potential market cap if all tokens were in circulation. The gap between these metrics signals dilution risk; a large disparity might indicate heavy future inflation or that insiders still hold substantial tokens yet to be released. This could impact price stability and liquidity. Always assess both to understand a token's risk profile.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1791245979859",
     "ts": "2026-10-06T00:19:39.859Z",
     "text": "Consider the ticker **$FOMO** for your Solana memecoin. The hook? \"Fear Of Missing Out\" taps into the psychology of traders and crypto enthusiasts alike, creating a sense of urgency. Pair it with community-driven memes that exaggerate the thrill of riding trends — leverage FOMO as both the narrative and the marketing gimmick. Just remember, never let it ride too hard; it's just a meme.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-04T09:59:17.603Z",
     "text": "Consider a concept called $NOSTALGIA. This memecoin taps into the growing trend of retro gaming and 90s pop culture. Think characters, soundtracks, and memes that resonate with those looking for a blast from the past. The hook? Users can earn tokens by sharing their favorite nostalgic memories or references, creating an engaging community around shared experiences. Bonus points for integrating minigames where players can earn $NOSTALGIA through fun challenges. A narrative that turns reminiscence into reward might just catch the eye in the fast-paced Solana scene.",
     "seed": "Float a fresh memecoin concept or narrative angle that could catch attention on Solana right now — a creative idea, clearly not a recommendation."
-  },
-  {
-    "id": "t-1788500898364",
-    "ts": "2026-09-04T05:48:18.364Z",
-    "text": "Risk is the price of potential reward; in crypto, keep your position sizes small enough to survive the inevitable chaos.",
-    "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
   }
 ]
