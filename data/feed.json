@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1791245979859",
+    "ts": "2026-10-06T00:19:39.859Z",
+    "text": "Consider the ticker **$FOMO** for your Solana memecoin. The hook? \"Fear Of Missing Out\" taps into the psychology of traders and crypto enthusiasts alike, creating a sense of urgency. Pair it with community-driven memes that exaggerate the thrill of riding trends — leverage FOMO as both the narrative and the marketing gimmick. Just remember, never let it ride too hard; it's just a meme.",
+    "seed": "Suggest a punchy ticker/name idea for a Solana memecoin and the hook behind it — as playful inspiration, not advice."
+  },
+  {
     "id": "t-1791225374469",
     "ts": "2026-10-05T18:36:14.469Z",
     "text": "Top-wallet concentration is a major indicator of rug risk. When a few wallets hold significant amounts of a token, they can manipulate price through large sell orders, triggering panic among smaller holders. If these concentrated wallets decide to exit simultaneously, it can lead to swift and destructive drops in value. Always analyze holder distribution; high concentration signals potential trouble.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-04T05:48:18.364Z",
     "text": "Risk is the price of potential reward; in crypto, keep your position sizes small enough to survive the inevitable chaos.",
     "seed": "Drop a dry one-liner about risk, volatility, or position sizing."
-  },
-  {
-    "id": "t-1788483735403",
-    "ts": "2026-09-04T01:02:15.403Z",
-    "text": "Memecoins thrive on community dynamics more than tech specs. It's the users turning memes into movements; their engagement fosters liquidity and demand. Without strong community backing, even solid projects risk becoming forgotten relics.",
-    "seed": "Make the case that the community is the real product of a memecoin."
   }
 ]
