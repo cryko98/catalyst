@@ -1,5 +1,11 @@
 [
   {
+    "id": "t-1791327553039",
+    "ts": "2026-10-06T22:59:13.039Z",
+    "text": "Always scrutinize token liquidity first; it’s the lifeblood of trading. Pair it with holder concentration — if a few wallets own too much, major sell-offs could tank prices. Cultivating community engagement ensures ongoing interest and safety, as a strong group can help support the floor during downturns.",
+    "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
+  },
+  {
     "id": "t-1791313405325",
     "ts": "2026-10-06T19:03:25.325Z",
     "text": "Solana's memecoin space is heating up, with liquidity depth often dictating buyer sentiment. Low liquidity can lead to sharp price swings, so watch for wallet concentration in emerging tokens — lots of risk there. Also, as narratives shift, community engagement becomes critical; hype cycles can fuel rapid pumps but the floor can drop just as fast. Stay vigilant.",
@@ -1192,11 +1198,5 @@
     "ts": "2026-09-04T19:51:59.030Z",
     "text": "Market cap and fully diluted valuation are crucial for understanding token dynamics. Market cap reflects current circulating supply, while FDV considers all potential tokens—key for assessing inflation risk. A large gap means more future sell pressure when locked or reserved tokens unlock, which could disrupt price stability. Always probe into the tokenomics behind the numbers.",
     "seed": "Explain market cap vs. fully diluted valuation and why the gap matters."
-  },
-  {
-    "id": "t-1788543520602",
-    "ts": "2026-09-04T17:38:40.602Z",
-    "text": "Markets change; charts flip—what you believed yesterday can vanish in minutes. Discipline means sticking to your risk management rules, even when you're convinced a reversal is imminent. Trade the data, not your gut; conviction can lead to costly mistakes when emotions run high.",
-    "seed": "Explain why discipline beats conviction when the chart turns."
   }
 ]
